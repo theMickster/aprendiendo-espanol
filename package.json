@@ -1,0 +1,28 @@
+{
+  "name": "aprendiendo-espanol",
+  "version": "1.0.0",
+  "description": "Family-driven Spanish learning repository with lessons, resources, and tools",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theMickster/aprendiendo-espanol.git"
+  },
+  "author": "The Shawsky Family",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theMickster/aprendiendo-espanol/issues"
+  },
+  "homepage": "https://github.com/theMickster/aprendiendo-espanol#readme",
+  "devDependencies": {
+    "husky": "9.0.11",
+    "lint-staged": "15.2.2",
+    "prettier": "3.2.5"
+  },
+  "lint-staged": {
+    "*.{md,json,yml,yaml}": "prettier --cache --write"
+  },
+  "scripts": {
+    "prepare": "husky install",
+    "format": "prettier --write \"**/*.{md,json,yml,yaml}\"",
+    "format:check": "prettier --check \"**/*.{md,json,yml,yaml}\""
+  }
+}
