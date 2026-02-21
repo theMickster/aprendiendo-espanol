@@ -1,9 +1,12 @@
-# 🤝 Preposition Puzzle v7 - CON
+# Preposition Puzzle v7 - CON
+
+**Level:** Beginner (A1)
+**Estimated Time:** 10-12 minutes
+**Topics:** CON, accompaniment, instruments, characteristics, conmigo/contigo
+
+---
 
 ## The Companion: With
-
-**⏱️ Study Time: 10-12 minutes**
-**🎯 Goal: Master CON - simple but essential!**
 
 ---
 
@@ -52,7 +55,7 @@ Main uses:
 
 ---
 
-### 🐾 Animal Examples
+### Animal Examples
 
 1. **El perro camina con su dueño**
 
@@ -75,7 +78,7 @@ Main uses:
 
 ---
 
-### ✏️ Practice: CON for Accompaniment
+### Practice: CON for Accompaniment
 
 1. Voy **\_\_\_** mis amigos
 2. Vivo **\_\_\_** mi familia
@@ -84,7 +87,11 @@ Main uses:
 5. Estudio **\_\_\_** mi hermano
 6. Los pájaros vuelan **\_\_\_** su grupo
 
-**Answers:** All answers are "con"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "con"!
+
+</details>
 
 ---
 
@@ -117,7 +124,7 @@ Main uses:
 
 ---
 
-### 🐕 Animal Examples
+### Animal Examples
 
 1. **El perro cava con sus patas**
 
@@ -136,7 +143,7 @@ Main uses:
 
 ---
 
-### ✏️ Practice: CON for Instruments
+### Practice: CON for Instruments
 
 1. Escribo **\_\_\_** lápiz
 2. Como **\_\_\_** cuchara
@@ -144,7 +151,11 @@ Main uses:
 4. Pago **\_\_\_** dinero
 5. El pájaro come **\_\_\_** su pico
 
-**Answers:** All answers are "con"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "con"!
+
+</details>
 
 ---
 
@@ -177,7 +188,7 @@ Main uses:
 
 ---
 
-### 🐘 Animal Characteristics
+### Animal Characteristics
 
 1. **Un elefante con trompa larga**
 
@@ -200,7 +211,7 @@ Main uses:
 
 ---
 
-### ✏️ Practice: CON for Characteristics
+### Practice: CON for Characteristics
 
 1. Una casa **\_\_\_** piscina
 2. Un gato **\_\_\_** bigotes largos
@@ -208,7 +219,11 @@ Main uses:
 4. Un perro **\_\_\_** orejas grandes
 5. Una habitación **\_\_\_** ventanas
 
-**Answers:** All answers are "con"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "con"!
+
+</details>
 
 ---
 
@@ -255,7 +270,7 @@ Main uses:
 
 ---
 
-### ✏️ Practice: CONMIGO or CONTIGO?
+### Practice: CONMIGO or CONTIGO?
 
 1. ¿Vienes **\_\_\_**? (with me)
 2. Voy **\_\_\_** al parque (with you)
@@ -263,7 +278,11 @@ Main uses:
 4. ¿Puedo hablar **\_\_\_**? (with you)
 5. Mi perro viene **\_\_\_** siempre (with me)
 
-**Answers:** 1. conmigo 2. contigo 3. conmigo 4. contigo 5. conmigo
+<details><summary>Click to reveal answers</summary>
+
+1. conmigo 2. contigo 3. conmigo 4. contigo 5. conmigo
+
+</details>
 
 ---
 
@@ -283,7 +302,7 @@ Main uses:
 
 ---
 
-### 🐶 Examples
+### Examples
 
 1. **Camina con cuidado - hay un perro**
 
@@ -300,7 +319,7 @@ Main uses:
 
 ## 6️⃣ Real-Life Scenarios
 
-### 🏠 Daily Life
+### Daily Life
 
 "Por la mañana, desayuno café **con** leche y pan **con** mantequilla. Voy al trabajo **con** mi amigo. Hablamos **con** el jefe. Trabajo **con** mucho cuidado. **Con** el tiempo, aprendo más. Vuelvo a casa **con** ganas de descansar."
 
@@ -308,7 +327,7 @@ _Translation: In the morning, I have coffee with milk and bread with butter. I g
 
 ---
 
-### 🐾 At the Park
+### At the Park
 
 "Voy al parque **con** mi perro. Él corre **con** alegría. Juega **con** otros perros. Es un perro **con** mucha energía. Me gusta estar **con** él. **Con** frecuencia, venimos aquí. Es un lugar **con** muchos árboles."
 
@@ -338,19 +357,4 @@ _Translation: In the morning, I have coffee with milk and bread with butter. I g
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered CON when you can:
-
-- [ ] Use CON for accompaniment (con mi amigo)
-- [ ] Use CON for instruments (con un lápiz)
-- [ ] Use CON for characteristics (casa con jardín)
-- [ ] Use CONMIGO and CONTIGO correctly
-- [ ] Avoid "con mí" or "con ti" errors
-- [ ] Use common CON phrases naturally
-
----
-
-**🎉 Next up: v8 - SIN (Without)! 🚀**
-
-_Remember: CON = together with!_ 🤝
+**Next Lesson:** [20-preposition-sin.md](20-preposition-sin.md) | **Previous Lesson:** [18-preposition-de.md](18-preposition-de.md)

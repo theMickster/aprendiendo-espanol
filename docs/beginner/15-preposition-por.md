@@ -1,9 +1,12 @@
-# 🔧 Preposition Puzzle v3 - POR
+# Preposition Puzzle v3 - POR
+
+**Level:** Beginner (A1)
+**Estimated Time:** 15-20 minutes
+**Topics:** POR, reason, movement, exchange, duration, method, rate
+
+---
 
 ## The Multi-Tool: For/By/Through/Because of/Per
-
-**⏱️ Study Time: 15-20 minutes**
-**🎯 Goal: Master POR - the most versatile preposition in Spanish!**
 
 ---
 
@@ -60,26 +63,7 @@ In English, POR can mean:
 
 ---
 
-### 🐘 Animal Examples
-
-1. **Los osos hibernan por el invierno**
-
-   - (Bears hibernate because of winter)
-
-2. **El león caza por hambre**
-
-   - (The lion hunts because of hunger)
-
-3. **Los delfines saltan por alegría**
-
-   - (Dolphins jump because of joy)
-
-4. **Por instinto, los gatos son cazadores**
-   - (By instinct, cats are hunters)
-
----
-
-### ✏️ Practice: POR for Reason
+### Practice: POR for Reason
 
 1. Estudio **\_\_\_** aprender (because of learning)
 2. Gracias **\_\_\_** todo (for everything)
@@ -87,7 +71,11 @@ In English, POR can mean:
 4. Lo hago **\_\_\_** mi familia (for my family's sake)
 5. **\_\_\_** el mal tiempo, nos quedamos en casa (because of)
 
-**Answers:** 1. por 2. por 3. Por 4. por 5. Por
+<details><summary>Click to reveal answers</summary>
+
+1. por 2. por 3. Por 4. por 5. Por
+
+</details>
 
 ---
 
@@ -120,30 +108,7 @@ In English, POR can mean:
 
 ---
 
-### 🦁 Animal Examples
-
-1. **La serpiente se desliza por la hierba**
-
-   - (The snake slithers through the grass)
-
-2. **Los peces nadan por el río**
-
-   - (The fish swim through the river)
-
-3. **El pájaro vuela por el cielo**
-
-   - (The bird flies through the sky)
-
-4. **El ratón corre por debajo de la puerta**
-
-   - (The mouse runs under the door)
-
-5. **Las hormigas caminan por el suelo**
-   - (The ants walk along the floor)
-
----
-
-### ✏️ Practice: POR for Movement
+### Practice: POR for Movement
 
 1. Camino **\_\_\_** el parque cada día
 2. El gato pasa **\_\_\_** la ventana
@@ -151,7 +116,11 @@ In English, POR can mean:
 4. Los niños corren **\_\_\_** el jardín
 5. El río fluye **\_\_\_** la ciudad
 
-**Answers:** All answers are "por"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "por"!
+
+</details>
 
 ---
 
@@ -184,22 +153,7 @@ In English, POR can mean:
 
 ---
 
-### 🐶 Examples
-
-1. **Pago veinte euros por la comida del perro**
-
-   - (I pay twenty euros for dog food)
-
-2. **Cambio este juguete por otro**
-
-   - (I exchange this toy for another)
-
-3. **El granjero vende huevos por dos euros**
-   - (The farmer sells eggs for two euros)
-
----
-
-### ✏️ Practice: POR for Exchange
+### Practice: POR for Exchange
 
 1. Pago cinco euros **\_\_\_** las naranjas
 2. Gracias **\_\_\_** la comida
@@ -207,7 +161,11 @@ In English, POR can mean:
 4. Trabajo **\_\_\_** mi familia (in exchange - to support them)
 5. ¿Cuánto pagas **\_\_\_** el pan?
 
-**Answers:** All answers are "por"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "por"!
+
+</details>
 
 ---
 
@@ -251,7 +209,7 @@ In English, POR can mean:
 
 ---
 
-### ✏️ Practice: POR for Duration
+### Practice: POR for Duration
 
 1. Estudio **\_\_\_** dos horas cada día
 2. Vivo en España **\_\_\_** tres años
@@ -259,7 +217,11 @@ In English, POR can mean:
 4. Los gatos duermen **\_\_\_** el día
 5. Viajamos **\_\_\_** una semana
 
-**Answers:** All answers are "por"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "por"!
+
+</details>
 
 ---
 
@@ -303,18 +265,6 @@ In English, POR can mean:
 
 ---
 
-### ✏️ Practice: POR for Method
-
-1. Te llamo **\_\_\_** teléfono
-2. Envío la carta **\_\_\_** correo
-3. Viajo **\_\_\_** tren
-4. Hablo contigo **\_\_\_** email
-5. Compro cosas **\_\_\_** internet
-
-**Answers:** All answers are "por"!
-
----
-
 ## 6️⃣ POR for "Per" (Rate)
 
 ### What's the rate? → POR
@@ -344,18 +294,6 @@ In English, POR can mean:
 
 ---
 
-### ✏️ Practice: POR for Rate
-
-1. Corro cinco kilómetros **\_\_\_** hora
-2. Voy al gimnasio tres veces **\_\_\_** semana
-3. Las naranjas cuestan dos euros **\_\_\_** kilo
-4. Los elefantes comen cien kilos **\_\_\_** día
-5. Como frutas dos veces **\_\_\_** día
-
-**Answers:** All answers are "por"!
-
----
-
 ## 7️⃣ Common POR Phrases
 
 ### Must-Know Expressions
@@ -375,28 +313,9 @@ In English, POR can mean:
 
 ---
 
-### 🐾 Examples
-
-1. **Por favor, no molestes al perro**
-
-   - (Please, don't bother the dog)
-
-2. **Por ejemplo, los gatos son independientes**
-
-   - (For example, cats are independent)
-
-3. **Por fin veo un delfín**
-
-   - (Finally I see a dolphin)
-
-4. **Por suerte, el veterinario está cerca**
-   - (Luckily, the vet is nearby)
-
----
-
 ## 8️⃣ Real-Life Scenarios
 
-### 🐕 At the Pet Store
+### At the Pet Store
 
 "Voy a la tienda de mascotas **por** comida **para** mi perro. Pago quince euros **por** el paquete. Camino **por** el parque **para** llegar allí. Voy **a pie** porque está cerca. **Por suerte**, tienen la marca que necesito. Lo hago todo **por** mi perro - lo amo mucho."
 
@@ -404,7 +323,7 @@ _Translation: I go to the pet store for dog food. I pay fifteen euros for the pa
 
 ---
 
-### 🏫 School Day
+### School Day
 
 "**Por** la mañana, voy a la escuela. Paso **por** el parque. Llego **a** tiempo. Estudio **por** tres horas. Lo hago **por** mi educación. **Por** ejemplo, estudio matemáticas. **Por** fin, termino las clases **a** las tres."
 
@@ -437,20 +356,4 @@ _Translation: I go to the pet store for dog food. I pay fifteen euros for the pa
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered POR when you can:
-
-- [ ] Use POR for reasons (por ti, por eso)
-- [ ] Use POR for movement through (por el parque)
-- [ ] Use POR for exchange/price (por 5 euros)
-- [ ] Use POR for duration (por dos años)
-- [ ] Use POR for method (por email)
-- [ ] Use POR for rate (por hora)
-- [ ] Use common POR phrases naturally
-
----
-
-**🎉 Next up: v4 - PARA (The Purpose Preposition)! 🚀**
-
-_Remember: POR = the WHY, HOW, or THROUGH of something!_
+**Next Lesson:** [16-preposition-para.md](16-preposition-para.md) | **Previous Lesson:** [14-preposition-a.md](14-preposition-a.md)

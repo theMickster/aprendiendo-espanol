@@ -1,9 +1,12 @@
-# 🥊 Preposition Puzzle v5 - POR vs PARA
+# Preposition Puzzle v5 - POR vs PARA
+
+**Level:** Beginner (A1)
+**Estimated Time:** 15-20 minutes
+**Topics:** POR vs PARA, choosing between for/because of/in order to
+
+---
 
 ## The Ultimate Showdown: Choosing Between POR and PARA
-
-**⏱️ Study Time: 15-20 minutes**
-**🎯 Goal: Finally understand when to use POR vs PARA!**
 
 ---
 
@@ -67,7 +70,7 @@ But they mean VERY different things:
 
 ## 3️⃣ Decision Flowchart
 
-### 🤔 Ask Yourself These Questions:
+### Ask Yourself These Questions:
 
 **Question 1: Can you replace it with "in order to"?**
 
@@ -184,7 +187,7 @@ But they mean VERY different things:
 
 ## 5️⃣ Practice Exercises
 
-### ✏️ Exercise 1: Choose POR or PARA
+### Exercise 1: Choose POR or PARA
 
 1. Estudio **\_\_\_** aprender (in order to)
 2. Pago 10 euros **\_\_\_** el libro (in exchange for)
@@ -195,11 +198,15 @@ But they mean VERY different things:
 7. Es **\_\_\_** mañana (by tomorrow - deadline)
 8. Lo hago **\_\_\_** mi madre (because of her - reason)
 
-**Answers:** 1. para 2. por 3. para 4. por 5. para 6. Por 7. para 8. por
+<details><summary>Click to reveal answers</summary>
+
+1. para 2. por 3. para 4. por 5. para 6. Por 7. para 8. por
+
+</details>
 
 ---
 
-### ✏️ Exercise 2: Translate and Choose
+### Exercise 2: Translate and Choose
 
 1. I work for a company = Trabajo **\_\_\_** una empresa
 2. I work because of money = Trabajo **\_\_\_** dinero
@@ -210,11 +217,15 @@ But they mean VERY different things:
 7. It's due by Friday = Es **\_\_\_** el viernes
 8. I travel by train = Viajo **\_\_\_** tren
 
-**Answers:** 1. para 2. por 3. para 4. por 5. para 6. por 7. para 8. por
+<details><summary>Click to reveal answers</summary>
+
+1. para 2. por 3. para 4. por 5. para 6. por 7. para 8. por
+
+</details>
 
 ---
 
-### ✏️ Exercise 3: Fix the Errors
+### Exercise 3: Fix the Errors
 
 1. Estudio por aprobar el examen ❌
 2. Gracias para tu ayuda ❌
@@ -222,7 +233,7 @@ But they mean VERY different things:
 4. Camino para el parque cada día ❌
 5. Es por mañana ❌
 
-**Corrections:**
+<details><summary>Click to reveal answers</summary>
 
 1. Estudio **para** aprobar (purpose)
 2. Gracias **por** tu ayuda (thanks = por)
@@ -230,11 +241,13 @@ But they mean VERY different things:
 4. Camino **por** el parque (through)
 5. Es **para** mañana (deadline)
 
+</details>
+
 ---
 
 ## 6️⃣ Animal Scenarios - POR vs PARA
 
-### 🐕 Story 1: The Dog's Day
+### Story 1: The Dog's Day
 
 "Mi perro corre **por** el jardín **para** encontrar su pelota. Busca **por** todas partes. **Por** fin, la encuentra. Es su pelota favorita - pagué diez euros **por** ella. Juega **por** una hora. **Para** él, jugar es la vida. Lo hace **por** diversión, no **para** ganar. **Para** las cinco, está cansado. Descansa **por** la tarde."
 
@@ -242,7 +255,7 @@ _Translation: My dog runs through the garden to find his ball. He searches all o
 
 ---
 
-### 🐱 Story 2: The Cat's Journey
+### Story 2: The Cat's Journey
 
 "El gato camina **por** la casa **para** encontrar comida. **Por** la mañana, siempre tiene hambre. Mira **por** la ventana. **Para** él, los pájaros son muy interesantes. Los observa **por** horas. No los caza **para** comer - los observa **por** curiosidad. **Para** la tarde, ya está dormido."
 
@@ -252,7 +265,7 @@ _Translation: The cat walks through the house to find food. In the morning, he's
 
 ## 7️⃣ Quick Decision Memory Tricks
 
-### 🧠 Memory Devices
+### Memory Devices
 
 **PARA = Purpose, Aim, Recipient, Arrival (deadline)**
 
@@ -270,7 +283,7 @@ _Translation: The cat walks through the house to find food. In the morning, he's
 
 ---
 
-### 🎯 The "Motivation vs Recipient" Test
+### The "Motivation vs Recipient" Test
 
 **Ask: WHO benefits from the action?**
 
@@ -286,13 +299,13 @@ _Translation: The cat walks through the house to find food. In the morning, he's
 
 ## 8️⃣ Real-Life Scenarios
 
-### 🎁 Birthday Gift
+### Birthday Gift
 
 "Voy a la tienda **para** comprar un regalo. Camino **por** la calle principal. Es **para** mi amigo - su cumpleaños es mañana. Busco **por** toda la tienda. **Por** fin, encuentro algo perfecto. Pago veinte euros **por** el libro. Lo compro **por** él (because I care) y es **para** él (he'll receive it). Necesito tenerlo listo **para** mañana."
 
 ---
 
-### 🏫 Studying
+### Studying
 
 "Estudio español **para** comunicarme mejor. Practico **por** la noche **por** dos horas. Lo hago **por** mi futuro pero también **para** disfrutar. Aprendo **por** internet. **Para** mí, el español es bonito. **Por** eso, estudio mucho. Tengo un examen **para** el viernes."
 
@@ -324,7 +337,7 @@ _Translation: The cat walks through the house to find food. In the morning, he's
 
 ---
 
-### ❌ Common Mistakes
+### Common Mistakes
 
 | ❌ Wrong              | ✅ Correct           | Why                 |
 | --------------------- | -------------------- | ------------------- |
@@ -336,23 +349,4 @@ _Translation: The cat walks through the house to find food. In the morning, he's
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered POR vs PARA when you can:
-
-- [ ] Use POR for reasons/causes
-- [ ] Use PARA for purposes/goals
-- [ ] Use POR for movement through
-- [ ] Use PARA for destinations
-- [ ] Use POR for exchanges
-- [ ] Use PARA for recipients
-- [ ] Use POR for duration
-- [ ] Use PARA for deadlines
-- [ ] Make the right choice 90% of the time
-- [ ] Self-correct when you make mistakes
-
----
-
-**🎉 Congratulations! You've conquered the hardest preposition pair! 🏆**
-
-_When in doubt, ask: "Looking back (reason) or looking forward (goal)?"_
+**Next Lesson:** [18-preposition-de.md](18-preposition-de.md) | **Previous Lesson:** [16-preposition-para.md](16-preposition-para.md)

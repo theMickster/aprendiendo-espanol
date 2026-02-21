@@ -1,9 +1,12 @@
-# ⚔️ Preposition Puzzle v12 - CONTRA
+# Preposition Puzzle v12 - CONTRA
+
+**Level:** Beginner (A1)
+**Estimated Time:** 8-10 minutes
+**Topics:** CONTRA, opposition, physical contact, competition
+
+---
 
 ## The Opposition: Against
-
-**⏱️ Study Time: 8-10 minutes**
-**🎯 Goal: Master CONTRA - for opposition and contact!**
 
 ---
 
@@ -52,7 +55,7 @@ Main uses:
 
 ---
 
-### 🦁 Animal Examples - Natural Opposition
+### Animal Examples - Natural Opposition
 
 1. **El león lucha contra otros leones**
 
@@ -71,7 +74,7 @@ Main uses:
 
 ---
 
-### ✏️ Practice: CONTRA for Opposition
+### Practice: CONTRA for Opposition
 
 1. Estoy **\_\_\_** esa idea
 2. Lucho **\_\_\_** la injusticia
@@ -79,7 +82,11 @@ Main uses:
 4. El perro protege **\_\_\_** intrusos
 5. Voto **\_\_\_** esa propuesta
 
-**Answers:** All answers are "contra"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "contra"!
+
+</details>
 
 ---
 
@@ -108,7 +115,7 @@ Main uses:
 
 ---
 
-### 🐱 Animal Examples
+### Animal Examples
 
 1. **El gato se frota contra mi pierna**
 
@@ -127,7 +134,7 @@ Main uses:
 
 ---
 
-### ✏️ Practice: CONTRA for Contact
+### Practice: CONTRA for Contact
 
 1. La mesa está **\_\_\_** la pared
 2. Me apoyo **\_\_\_** el árbol
@@ -135,7 +142,11 @@ Main uses:
 4. La silla está **\_\_\_** la ventana
 5. El perro descansa **\_\_\_** la puerta
 
-**Answers:** All answers are "contra"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "contra"!
+
+</details>
 
 ---
 
@@ -164,7 +175,7 @@ Main uses:
 
 ---
 
-### 🏃 Sports Examples
+### Sports Examples
 
 1. **El partido es contra el mejor equipo**
 
@@ -179,7 +190,7 @@ Main uses:
 
 ---
 
-### ✏️ Practice: CONTRA for Competition
+### Practice: CONTRA for Competition
 
 1. Barcelona juega **\_\_\_** Madrid
 2. Compito **\_\_\_** mi hermano
@@ -187,7 +198,11 @@ Main uses:
 4. Corro **\_\_\_** el viento
 5. Nadamos **\_\_\_** la corriente
 
-**Answers:** All answers are "contra"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "contra"!
+
+</details>
 
 ---
 
@@ -204,7 +219,7 @@ Main uses:
 
 ---
 
-### 🐕 Examples
+### Examples
 
 1. **El perro nada contra la corriente**
 
@@ -221,7 +236,7 @@ Main uses:
 
 ## 5️⃣ Real-Life Scenarios
 
-### 🏥 Health
+### Health
 
 "Tomo vitaminas **contra** los resfriados. Es importante protegerse **contra** enfermedades. Lucho **contra** el cansancio cada día. Hago ejercicio como defensa **contra** el estrés. Los doctores trabajan **contra** las enfermedades."
 
@@ -229,7 +244,7 @@ _Translation: I take vitamins against colds. It's important to protect yourself 
 
 ---
 
-### ⚽ Sports
+### Sports
 
 "Mañana jugamos **contra** el mejor equipo. Es una competición **contra** rivales fuertes. Compito **contra** mí mismo también. Lucho **contra** mis límites. **Contra** viento y marea, voy a ganar."
 
@@ -258,18 +273,4 @@ _Translation: I take vitamins against colds. It's important to protect yourself 
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered CONTRA when you can:
-
-- [ ] Use CONTRA for opposition (contra esa idea)
-- [ ] Use CONTRA for physical contact (contra la pared)
-- [ ] Use CONTRA in sports (contra el equipo)
-- [ ] Use CONTRA for protection (contra el frío)
-- [ ] Use common phrases (en contra de)
-
----
-
-**🎉 Next up: v13 - HACIA (Toward)! 🚀**
-
-_Remember: CONTRA = pushing or standing against!_ ⚔️
+**Next Lesson:** [25-preposition-hacia.md](25-preposition-hacia.md) | **Previous Lesson:** [23-preposition-entre.md](23-preposition-entre.md)

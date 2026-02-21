@@ -1,9 +1,12 @@
-# 🎯 Preposition Puzzle v4 - PARA
+# Preposition Puzzle v4 - PARA
+
+**Level:** Beginner (A1)
+**Estimated Time:** 15-20 minutes
+**Topics:** PARA, purpose, recipient, destination, deadline, opinion
+
+---
 
 ## Purpose & Goals: For/To/In Order To
-
-**⏱️ Study Time: 15-20 minutes**
-**🎯 Goal: Master PARA - the preposition of purpose and destination!**
 
 ---
 
@@ -62,7 +65,7 @@ In English, PARA can mean:
 
 ---
 
-### 🐾 Animal Examples
+### Animal Examples
 
 1. **Los gatos cazan para comer**
 
@@ -81,7 +84,7 @@ In English, PARA can mean:
 
 ---
 
-### ✏️ Practice: PARA + Infinitive
+### Practice: PARA + Infinitive
 
 1. Estudio **\_\_\_** aprender español
 2. Trabajo **\_\_\_** ganar dinero
@@ -89,7 +92,11 @@ In English, PARA can mean:
 4. Voy al gimnasio **\_\_\_** hacer ejercicio
 5. Los pájaros cantan **\_\_\_** atraer pareja
 
-**Answers:** All answers are "para"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "para"!
+
+</details>
 
 ---
 
@@ -122,7 +129,7 @@ In English, PARA can mean:
 
 ---
 
-### 🎁 Gift Examples
+### Gift Examples
 
 1. **Este juguete es para el gato**
 
@@ -141,7 +148,7 @@ In English, PARA can mean:
 
 ---
 
-### ✏️ Practice: PARA for Recipient
+### Practice: PARA for Recipient
 
 1. Este libro es **\_\_\_** mi hermano
 2. La comida es **\_\_\_** los animales
@@ -149,7 +156,11 @@ In English, PARA can mean:
 4. ¿**\_\_\_** quién es esto?
 5. Hago el pastel **\_\_\_** la fiesta
 
-**Answers:** All answers are "para"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "para"!
+
+</details>
 
 ---
 
@@ -184,7 +195,7 @@ In English, PARA can mean:
 
 ---
 
-### 🦆 Migration Examples
+### Migration Examples
 
 1. **Las ballenas nadan para aguas cálidas**
 
@@ -199,7 +210,7 @@ In English, PARA can mean:
 
 ---
 
-### ✏️ Practice: PARA for Destination
+### Practice: PARA for Destination
 
 1. Salgo **\_\_\_** el trabajo ahora
 2. Vamos **\_\_\_** la playa
@@ -207,7 +218,11 @@ In English, PARA can mean:
 4. Los pájaros vuelan **\_\_\_** el sur
 5. Camino **\_\_\_** mi casa
 
-**Answers:** All answers are "para"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "para"!
+
+</details>
 
 ---
 
@@ -240,7 +255,7 @@ In English, PARA can mean:
 
 ---
 
-### 📚 School Deadlines
+### School Deadlines
 
 1. **Los deberes son para mañana**
 
@@ -255,7 +270,7 @@ In English, PARA can mean:
 
 ---
 
-### ✏️ Practice: PARA for Deadlines
+### Practice: PARA for Deadlines
 
 1. Los deberes son **\_\_\_** mañana
 2. Necesito esto **\_\_\_** el lunes
@@ -263,7 +278,11 @@ In English, PARA can mean:
 4. Tengo que terminar **\_\_\_** las cinco
 5. El proyecto es **\_\_\_** el viernes
 
-**Answers:** All answers are "para"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "para"!
+
+</details>
 
 ---
 
@@ -292,7 +311,7 @@ In English, PARA can mean:
 
 ---
 
-### 🐱 Animal Perspectives
+### Animal Perspectives
 
 1. **Para los gatos, dormir es importante**
 
@@ -325,7 +344,7 @@ In English, PARA can mean:
 
 ## 7️⃣ Real-Life Scenarios
 
-### 🎁 Gift Shopping
+### Gift Shopping
 
 "Voy a la tienda **para** comprar un regalo **para** mi amigo. Es su cumpleaños mañana, así que es **para** mañana. Busco algo especial. **Para** mí, los libros son buenos regalos. Pago veinte euros **por** el libro perfecto. **Para** las tres, ya estoy en casa."
 
@@ -333,13 +352,13 @@ _Translation: I go to the store to buy a gift for my friend. It's his birthday t
 
 ---
 
-### 📚 Studying
+### Studying
 
 "Estudio español **para** comunicarme mejor. Es difícil **para** mí pero importante. Practico dos horas **por** día. Mi libro de texto es **para** principiantes. **Para** el examen del viernes, necesito estudiar mucho. Lo hago **para** mi futuro."
 
 ---
 
-### 🐶 At the Vet
+### At the Vet
 
 "Llevo a mi perro al veterinario. La cita es **para** las cuatro. Voy **para** asegurarme de que está sano. **Para** mí, mi perro es familia. El doctor es muy bueno. Pago cincuenta euros **por** la consulta. Hago todo esto **para** cuidar a mi perro."
 
@@ -369,20 +388,4 @@ _Translation: I go to the store to buy a gift for my friend. It's his birthday t
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered PARA when you can:
-
-- [ ] Use PARA for purpose (para aprender)
-- [ ] Use PARA for recipient (para ti)
-- [ ] Use PARA for destination (para Madrid)
-- [ ] Use PARA for deadline (para mañana)
-- [ ] Use PARA for opinion (para mí)
-- [ ] Distinguish PARA from POR
-- [ ] Use common PARA phrases
-
----
-
-**🎉 Next up: v5 - POR vs PARA Showdown! 🥊**
-
-_Remember: PARA = pointing toward a PURPOSE or GOAL!_
+**Next Lesson:** [17-preposition-por-vs-para.md](17-preposition-por-vs-para.md) | **Previous Lesson:** [15-preposition-por.md](15-preposition-por.md)

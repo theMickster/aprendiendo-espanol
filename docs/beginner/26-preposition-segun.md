@@ -1,17 +1,20 @@
-# 💬 Preposition Puzzle v14 - SEGÚN
+# Preposition Puzzle v14 - SEGUN
+
+**Level:** Beginner (A1)
+**Estimated Time:** 8-10 minutes
+**Topics:** SEGUN, according to, depending on, perspective
+
+---
 
 ## The Source Pointer: According to
-
-**⏱️ Study Time: 8-10 minutes**
-**🎯 Goal: Master SEGÚN - citing sources and perspectives!**
 
 ---
 
 ## The Big Picture
 
-### What Does SEGÚN Mean?
+### What Does SEGUN Mean?
 
-**SEGÚN = ACCORDING TO**
+**SEGUN = ACCORDING TO**
 
 Main uses:
 
@@ -19,15 +22,15 @@ Main uses:
 - **DEPENDING ON** (conditional)
 - **AS PER** (following guidelines)
 
-**💡 Think of it this way:** SEGÚN = based on what someone says or on conditions
+**💡 Think of it this way:** SEGUN = based on what someone says or on conditions
 
 ---
 
-## 1️⃣ SEGÚN for Source (ACCORDING TO)
+## 1️⃣ SEGUN for Source (ACCORDING TO)
 
-### Who says so? → SEGÚN
+### Who says so? → SEGUN
 
-**Use SEGÚN to cite a source of information**
+**Use SEGUN to cite a source of information**
 
 ### Examples
 
@@ -52,7 +55,7 @@ Main uses:
 
 ---
 
-### 🐾 Animal Information Examples
+### Animal Information Examples
 
 1. **Según los expertos, los perros entienden palabras**
 
@@ -75,7 +78,7 @@ Main uses:
 
 ---
 
-### ✏️ Practice: SEGÚN for Source
+### Practice: SEGUN for Source
 
 1. **\_\_\_** el doctor, estoy bien
 2. **\_\_\_** mi profesor, el examen es fácil
@@ -83,15 +86,19 @@ Main uses:
 4. **\_\_\_** los expertos, los gatos son independientes
 5. **\_\_\_** mi amigo, ese restaurante es bueno
 
-**Answers:** All answers are "Según"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "Según"!
+
+</details>
 
 ---
 
-## 2️⃣ SEGÚN for Perspective (IN MY VIEW)
+## 2️⃣ SEGUN for Perspective (IN MY VIEW)
 
-### Whose opinion? → SEGÚN
+### Whose opinion? → SEGUN
 
-**Use SEGÚN to express viewpoint**
+**Use SEGUN to express viewpoint**
 
 ### Examples with Pronouns
 
@@ -112,11 +119,11 @@ Main uses:
 
 ---
 
-### 💡 SEGÚN vs PARA for Opinion
+### SEGUN vs PARA for Opinion
 
 **Both can express opinion:**
 
-**SEGÚN** = according to (citing a source/viewpoint)
+**SEGUN** = according to (citing a source/viewpoint)
 
 - **Según** yo, los perros son mejores (According to me - citing my view)
 
@@ -126,12 +133,12 @@ Main uses:
 
 **Subtle difference:**
 
-- SEGÚN = more objective citation
+- SEGUN = more objective citation
 - PARA MÍ = more subjective feeling
 
 ---
 
-### ✏️ Practice: SEGÚN with Pronouns
+### Practice: SEGUN with Pronouns
 
 1. **\_\_\_** yo, es difícil
 2. **\_\_\_** tú, ¿qué es importante?
@@ -139,15 +146,19 @@ Main uses:
 4. **\_\_\_** ella, mañana es mejor
 5. **\_\_\_** mi opinión, el español es hermoso
 
-**Answers:** All answers are "Según"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "Según"!
+
+</details>
 
 ---
 
-## 3️⃣ SEGÚN for Conditions (DEPENDING ON)
+## 3️⃣ SEGUN for Conditions (DEPENDING ON)
 
-### What does it depend on? → SEGÚN
+### What does it depend on? → SEGUN
 
-**Use SEGÚN when something varies based on conditions**
+**Use SEGUN when something varies based on conditions**
 
 ### Examples
 
@@ -168,7 +179,7 @@ Main uses:
 
 ---
 
-### 🐕 Animal Behavior Examples
+### Animal Behavior Examples
 
 1. **Según el clima, los animales migran**
 
@@ -187,7 +198,7 @@ Main uses:
 
 ---
 
-### ✏️ Practice: SEGÚN for Conditions
+### Practice: SEGUN for Conditions
 
 1. **\_\_\_** el tiempo, vamos al parque
 2. **\_\_\_** el día, estudio más o menos
@@ -195,11 +206,15 @@ Main uses:
 4. **\_\_\_** cómo esté, voy a correr
 5. **\_\_\_** la temperatura, los animales migran
 
-**Answers:** All answers are "Según"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "Según"!
+
+</details>
 
 ---
 
-## 4️⃣ Common SEGÚN Phrases
+## 4️⃣ Common SEGUN Phrases
 
 ### Must-Know Expressions
 
@@ -212,7 +227,7 @@ Main uses:
 
 ---
 
-### 🦜 Examples
+### Examples
 
 1. **Según parece, los loros son muy inteligentes**
 
@@ -229,7 +244,7 @@ Main uses:
 
 ## 5️⃣ Real-Life Scenarios
 
-### 📰 Reading the News
+### Reading the News
 
 "**Según** las noticias, hace buen tiempo mañana. **Según** el pronóstico, hay sol todo el día. **Según** yo, es perfecto para la playa. **Según** mi familia, vamos todos juntos. **Según** el plan, salimos **hacia** las diez."
 
@@ -237,7 +252,7 @@ _Translation: According to the news, the weather is nice tomorrow. According to 
 
 ---
 
-### 🐕 Vet Visit
+### Vet Visit
 
 "**Según** el veterinario, mi perro está muy sano. **Según** los análisis, todo está bien. **Según** él, debo darle vitaminas. **Según** el doctor, los perros necesitan ejercicio diario. **Según** yo, ya hace suficiente ejercicio."
 
@@ -245,7 +260,7 @@ _Translation: According to the news, the weather is nice tomorrow. According to 
 
 ## 6️⃣ Quick Reference Card
 
-### SEGÚN Usage Summary
+### SEGUN Usage Summary
 
 | Use                       | Example         | Translation              |
 | ------------------------- | --------------- | ------------------------ |
@@ -265,18 +280,4 @@ _Translation: According to the news, the weather is nice tomorrow. According to 
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered SEGÚN when you can:
-
-- [ ] Use SEGÚN to cite sources (según el doctor)
-- [ ] Use SEGÚN with pronouns (según yo)
-- [ ] Use SEGÚN for conditions (según el tiempo)
-- [ ] Use common phrases (según parece)
-- [ ] Know the difference: SEGÚN vs PARA MÍ
-
----
-
-**🎉 Next up: v15 - Location Compounds! 🚀**
-
-_Remember: SEGÚN = based on what someone/something says!_ 💬
+**Next Lesson:** [27-preposition-locations.md](27-preposition-locations.md) | **Previous Lesson:** [25-preposition-hacia.md](25-preposition-hacia.md)

@@ -1,9 +1,12 @@
-# 📍 Preposition Puzzle v1 - EN
+# Preposition Puzzle v1 - EN
+
+**Level:** Beginner (A1)
+**Estimated Time:** 15-20 minutes
+**Topics:** EN, location, time, transportation
+
+---
 
 ## The Location Master: IN, ON, AT... It's All EN!
-
-**⏱️ Study Time: 15-20 minutes**
-**🎯 Goal: Master EN - the most versatile location word in Spanish!**
 
 ---
 
@@ -74,7 +77,7 @@ In English we use three different words:
 
 ---
 
-### 🏠 Everyday Locations with EN
+### Everyday Locations with EN
 
 1. **en casa** - at home
 2. **en la ciudad** - in the city
@@ -89,7 +92,7 @@ In English we use three different words:
 
 ---
 
-### ✏️ Practice: Complete with EN
+### Practice: Complete with EN
 
 1. Estoy **\_\_\_** la biblioteca
 2. El perro está **\_\_\_** el jardín
@@ -100,7 +103,11 @@ In English we use three different words:
 7. El gato duerme **\_\_\_** el sofá
 8. Estamos **\_\_\_** casa
 
-**Answers:** All answers are "en"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "en"!
+
+</details>
 
 ---
 
@@ -138,7 +145,7 @@ In English we use three different words:
 
 ---
 
-### ⚠️ Important: NOT with days or hours!
+### Important: NOT with days or hours!
 
 **Don't use EN with:**
 
@@ -152,7 +159,7 @@ In English we use three different words:
 
 ---
 
-### ✏️ Practice: Time with EN
+### Practice: Time with EN
 
 1. Mi cumpleaños es **\_\_\_** mayo
 2. Hace frío **\_\_\_** invierno
@@ -161,7 +168,11 @@ In English we use three different words:
 5. **\_\_\_** primavera hay muchas flores
 6. Empecé a estudiar **\_\_\_** 2020
 
-**Answers:** All answers are "en"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "en"!
+
+</details>
 
 ---
 
@@ -200,7 +211,7 @@ In English we use three different words:
 
 ---
 
-### ⚠️ Exception: A PIE / A CABALLO
+### Exception: A PIE / A CABALLO
 
 **NOT EN for these:**
 
@@ -216,7 +227,7 @@ In English we use three different words:
 
 ---
 
-### 🚌 Transportation Examples
+### Transportation Examples
 
 1. **Voy a la escuela en bici**
 
@@ -239,7 +250,7 @@ In English we use three different words:
 
 ---
 
-### ✏️ Practice: Transportation
+### Practice: Transportation
 
 1. Voy al trabajo **\_\_\_** autobús
 2. Viajamos **\_\_\_** avión
@@ -248,7 +259,11 @@ In English we use three different words:
 5. Prefiero ir **\_\_\_** bici
 6. Vamos **\_\_\_** coche
 
-**Answers:** 1. en 2. en 3. a 4. en 5. en 6. en
+<details><summary>Click to reveal answers</summary>
+
+1. en 2. en 3. a 4. en 5. en 6. en
+
+</details>
 
 ---
 
@@ -267,29 +282,6 @@ In English we use three different words:
 | en punto    | sharp/exactly | A las tres en punto     |
 | en voz alta | out loud      | Lee en voz alta         |
 | en voz baja | quietly       | Habla en voz baja       |
-
----
-
-### 🐾 Examples with Animals
-
-1. **En general, los perros son amigables**
-
-   - (In general, dogs are friendly)
-
-2. **¿Los gatos hablan? ¡En serio!**
-
-   - (Do cats talk? Seriously!)
-
-3. **En realidad, los delfines son muy inteligentes**
-
-   - (Actually, dolphins are very intelligent)
-
-4. **En total, hay cinco animales en la granja**
-
-   - (In total, there are five animals on the farm)
-
-5. **En vez de caminar, el conejo salta**
-   - (Instead of walking, the rabbit jumps)
 
 ---
 
@@ -360,23 +352,7 @@ Already there? → Use EN
 
 ---
 
-### 🐕 Animal Examples
-
-**EN (location):**
-
-- El perro está **en** el jardín (The dog is in the garden)
-- Los peces viven **en** el mar (Fish live in the sea)
-- El loro está **en** la jaula (The parrot is in the cage)
-
-**A (direction):**
-
-- El perro va **al** jardín (The dog goes to the garden)
-- Los pájaros vuelan **al** árbol (The birds fly to the tree)
-- El gato salta **a** la mesa (The cat jumps to the table)
-
----
-
-### ✏️ Practice: EN or A?
+### Practice: EN or A?
 
 1. Estoy **\_\_\_** la escuela (I'm at school - static)
 2. Voy **\_\_\_** la escuela (I go to school - movement)
@@ -387,13 +363,17 @@ Already there? → Use EN
 7. Los pájaros están **\_\_\_** el árbol (in the tree)
 8. Los pájaros vuelan **\_\_\_** árbol (to the tree)
 
-**Answers:** 1. en 2. a 3. en 4. a 5. en 6. a 7. en 8. al
+<details><summary>Click to reveal answers</summary>
+
+1. en 2. a 3. en 4. a 5. en 6. a 7. en 8. al
+
+</details>
 
 ---
 
 ## 7️⃣ Real-Life Scenarios
 
-### 🏠 At Home
+### At Home
 
 1. **Estoy en casa con mi familia**
 
@@ -412,7 +392,7 @@ Already there? → Use EN
 
 ---
 
-### 🏫 School Day
+### School Day
 
 1. **Los niños están en la escuela**
 
@@ -431,57 +411,7 @@ Already there? → Use EN
 
 ---
 
-### 🐘 At the Zoo
-
-1. **Hay muchos animales en el zoológico**
-
-   - (There are many animals in the zoo)
-
-2. **Los leones están en su jaula**
-
-   - (The lions are in their cage)
-
-3. **El elefante está en el agua**
-
-   - (The elephant is in the water)
-
-4. **Vamos al zoo en coche**
-
-   - (We go to the zoo by car)
-
-5. **En general, los monos son muy activos**
-   - (In general, monkeys are very active)
-
----
-
-### 🌊 At the Beach
-
-1. **Estamos en la playa**
-
-   - (We're at the beach)
-
-2. **Los niños juegan en la arena**
-
-   - (The children play in the sand)
-
-3. **Los cangrejos caminan en la orilla**
-
-   - (The crabs walk on the shore)
-
-4. **En verano, hay muchas gaviotas**
-   - (In summer, there are many seagulls)
-
----
-
 ## 8️⃣ Special Uses of EN
-
-### EN + activities/conditions
-
-**EN + noun = engaged in activity:**
-
-- Estamos **en clase** (We're in class)
-- Está **en venta** (It's for sale)
-- Está **en construcción** (It's under construction)
 
 ### EN + language
 
@@ -517,7 +447,7 @@ Already there? → Use EN
 
 ---
 
-### ❌ Common Mistakes
+### Common Mistakes
 
 | ❌ Wrong    | ✅ Correct | Why                      |
 | ----------- | ---------- | ------------------------ |
@@ -528,19 +458,4 @@ Already there? → Use EN
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered EN when you can:
-
-- [ ] Use EN for in/on/at locations
-- [ ] Use EN for months, seasons, years
-- [ ] Use EN for transportation (inside vehicles)
-- [ ] Know when NOT to use EN (days, hours)
-- [ ] Know EN vs A difference (static vs movement)
-- [ ] Use common EN phrases naturally
-
----
-
-**🎉 Next up: v2 - The "A" Document! 🚀**
-
-_Practice: Every time you say "in/on/at" in English, think "EN" in Spanish!_
+**Next Lesson:** [14-preposition-a.md](14-preposition-a.md) | **Previous Lesson:** [12-preposition-puzzle.md](12-preposition-puzzle.md)

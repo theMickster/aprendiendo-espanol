@@ -1,9 +1,12 @@
-# ➡️ Preposition Puzzle v13 - HACIA
+# Preposition Puzzle v13 - HACIA
+
+**Level:** Beginner (A1)
+**Estimated Time:** 8-10 minutes
+**Topics:** HACIA, direction, approximate time, cardinal directions
+
+---
 
 ## The Direction Pointer: Toward
-
-**⏱️ Study Time: 8-10 minutes**
-**🎯 Goal: Master HACIA - for approximate direction!**
 
 ---
 
@@ -51,7 +54,7 @@ Main uses:
 
 ---
 
-### 🦅 Animal Direction Examples
+### Animal Direction Examples
 
 1. **Los pájaros vuelan hacia el sur**
 
@@ -74,7 +77,7 @@ Main uses:
 
 ---
 
-### 💡 HACIA vs A vs PARA
+### HACIA vs A vs PARA
 
 **All can mean "toward" but different precision:**
 
@@ -98,7 +101,7 @@ Main uses:
 
 ---
 
-### ✏️ Practice: HACIA for Direction
+### Practice: HACIA for Direction
 
 1. Camino **\_\_\_** el centro
 2. Los pájaros vuelan **\_\_\_** el sur
@@ -106,7 +109,11 @@ Main uses:
 4. El perro corre **\_\_\_** mí
 5. Vamos **\_\_\_** el norte
 
-**Answers:** All answers are "hacia"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "hacia"!
+
+</details>
 
 ---
 
@@ -135,7 +142,7 @@ Main uses:
 
 ---
 
-### 💡 HACIA vs SOBRE for Time
+### HACIA vs SOBRE for Time
 
 **Both mean "around" for time:**
 
@@ -151,14 +158,18 @@ Main uses:
 
 ---
 
-### ✏️ Practice: HACIA for Time
+### Practice: HACIA for Time
 
 1. Llego **\_\_\_** las cuatro (around)
 2. Salimos **\_\_\_** el mediodía (around)
 3. Termino **\_\_\_** las seis (around)
 4. Vienen **\_\_\_** las dos (around)
 
-**Answers:** All answers are "hacia"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "hacia"!
+
+</details>
 
 ---
 
@@ -199,7 +210,7 @@ Main uses:
 
 ---
 
-### 🦆 Migration Examples
+### Migration Examples
 
 1. **Las golondrinas vuelan hacia el sur en otoño**
 
@@ -229,7 +240,7 @@ Main uses:
 
 ---
 
-### 🐦 Examples
+### Examples
 
 1. **El pájaro vuela hacia arriba**
 
@@ -250,7 +261,7 @@ Main uses:
 
 ## 5️⃣ Real-Life Scenarios
 
-### 🌅 Morning Walk
+### Morning Walk
 
 "Por la mañana, camino **hacia** el parque. Miro **hacia** el cielo - el sol sale **hacia** el este. Los pájaros vuelan **hacia** los árboles. Mi perro corre **hacia** otros perros. Caminamos **hacia** adelante. **Hacia** las nueve, volvemos a casa."
 
@@ -258,7 +269,7 @@ _Translation: In the morning, I walk toward the park. I look toward the sky - th
 
 ---
 
-### 🗺️ Giving Directions
+### Giving Directions
 
 "Para ir al zoológico, camina **hacia** el centro. Luego, gira **hacia** la derecha. Continúa **hacia** el norte por cinco minutos. El zoo está **hacia** allí, cerca del río."
 
@@ -286,18 +297,4 @@ _Translation: In the morning, I walk toward the park. I look toward the sky - th
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered HACIA when you can:
-
-- [ ] Use HACIA for general direction (hacia el norte)
-- [ ] Use HACIA for approximate time (hacia las tres)
-- [ ] Know cardinal directions (norte, sur, este, oeste)
-- [ ] Distinguish HACIA from A and PARA
-- [ ] Use directional phrases (hacia arriba, hacia adelante)
-
----
-
-**🎉 Next up: v14 - SEGÚN (According to)! 🚀**
-
-_Remember: HACIA = pointing toward!_ ➡️
+**Next Lesson:** [26-preposition-segun.md](26-preposition-segun.md) | **Previous Lesson:** [24-preposition-contra.md](24-preposition-contra.md)

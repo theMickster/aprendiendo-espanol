@@ -1,9 +1,12 @@
-# ⏰ Preposition Puzzle v9 - DESDE & HASTA
+# Preposition Puzzle v9 - DESDE & HASTA
+
+**Level:** Beginner (A1)
+**Estimated Time:** 12-15 minutes
+**Topics:** DESDE, HASTA, time ranges, place ranges, desde hace
+
+---
 
 ## Time & Distance Partners: Since/From & Until/To
-
-**⏱️ Study Time: 12-15 minutes**
-**🎯 Goal: Master DESDE and HASTA - the perfect pair!**
 
 ---
 
@@ -61,22 +64,7 @@
 
 ---
 
-### 🐕 Animal Examples
-
-1. **Mi perro está conmigo desde 2019**
-
-   - (My dog has been with me since 2019)
-
-2. **El gato duerme desde la mañana**
-
-   - (The cat has been sleeping since morning)
-
-3. **Los lobos aúllan desde la medianoche**
-   - (Wolves have been howling since midnight)
-
----
-
-### ✏️ Practice: DESDE for Time
+### Practice: DESDE for Time
 
 1. Vivo aquí **\_\_\_** 2015
 2. Estudio español **\_\_\_** enero
@@ -84,7 +72,11 @@
 4. Espero **\_\_\_** ayer
 5. Los pájaros cantan **\_\_\_** el amanecer
 
-**Answers:** All answers are "desde"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "desde"!
+
+</details>
 
 ---
 
@@ -117,22 +109,7 @@
 
 ---
 
-### 🐱 Animal Examples
-
-1. **El gato duerme hasta el mediodía**
-
-   - (The cat sleeps until noon)
-
-2. **Los búhos cazan hasta el amanecer**
-
-   - (Owls hunt until dawn)
-
-3. **El perro espera hasta que vuelvo**
-   - (The dog waits until I return)
-
----
-
-### ✏️ Practice: HASTA for Time
+### Practice: HASTA for Time
 
 1. Trabajo **\_\_\_** las seis
 2. La clase es **\_\_\_** las tres
@@ -140,7 +117,11 @@
 4. Esperamos **\_\_\_** mañana
 5. Los pájaros cantan **\_\_\_** el atardecer
 
-**Answers:** All answers are "hasta"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "hasta"!
+
+</details>
 
 ---
 
@@ -175,22 +156,7 @@
 
 ---
 
-### 🦁 Animal Examples
-
-1. **Los leones duermen desde el mediodía hasta la tarde**
-
-   - (Lions sleep from noon until afternoon)
-
-2. **El acuario está abierto desde las diez hasta las siete**
-
-   - (The aquarium is open from 10 to 7)
-
-3. **Las mariposas viven desde la primavera hasta el otoño**
-   - (Butterflies live from spring until autumn)
-
----
-
-### ✏️ Practice: DESDE & HASTA Together
+### Practice: DESDE & HASTA Together
 
 1. Trabajo **\_\_\_** las ocho **\_\_\_** las cuatro
 2. Vivo aquí **\_\_\_** 2018 **\_\_\_** ahora
@@ -198,7 +164,11 @@
 4. Estudio **\_\_\_** enero **\_\_\_** junio
 5. Los pájaros cantan **\_\_\_** el amanecer **\_\_\_** el atardecer
 
-**Answers:** 1. desde, hasta 2. desde, hasta 3. desde, hasta 4. desde, hasta 5. desde, hasta
+<details><summary>Click to reveal answers</summary>
+
+1. desde, hasta 2. desde, hasta 3. desde, hasta 4. desde, hasta 5. desde, hasta
+
+</details>
 
 ---
 
@@ -227,21 +197,6 @@
 
 ---
 
-### 🐦 Examples
-
-1. **Desde el árbol, el pájaro ve todo**
-
-   - (From the tree, the bird sees everything)
-
-2. **El águila vuela desde la montaña**
-
-   - (The eagle flies from the mountain)
-
-3. **Desde el océano, las ballenas migran**
-   - (From the ocean, whales migrate)
-
----
-
 ## 5️⃣ HASTA for Place (TO/AS FAR AS)
 
 ### Ending point location → HASTA
@@ -267,29 +222,18 @@
 
 ---
 
-### 🐾 Examples
-
-1. **El perro corre hasta el árbol**
-
-   - (The dog runs to the tree)
-
-2. **Los pájaros vuelan hasta el sur**
-
-   - (Birds fly to the south)
-
-3. **El río fluye hasta el mar**
-   - (The river flows to the sea)
-
----
-
-### ✏️ Practice: DESDE & HASTA for Place
+### Practice: DESDE & HASTA for Place
 
 1. **\_\_\_** aquí veo el mar (from)
 2. Camino **\_\_\_** la plaza (to/as far as)
 3. Voy **\_\_\_** mi casa **\_\_\_** la escuela (from... to...)
 4. El río va **\_\_\_** las montañas **\_\_\_** el océano (from... to...)
 
-**Answers:** 1. Desde 2. hasta 3. desde, hasta 4. desde, hasta
+<details><summary>Click to reveal answers</summary>
+
+1. Desde 2. hasta 3. desde, hasta 4. desde, hasta
+
+</details>
 
 ---
 
@@ -320,7 +264,7 @@
 
 ---
 
-### 💡 Important!
+### Important!
 
 **Spanish uses PRESENT tense + desde hace**
 **English uses PRESENT PERFECT**
@@ -330,14 +274,18 @@
 
 ---
 
-### ✏️ Practice: DESDE HACE
+### Practice: DESDE HACE
 
 1. Estudio español **\_\_\_** **\_\_\_** tres meses (for three months)
 2. Vivo aquí **\_\_\_** **\_\_\_** un año (for one year)
 3. Tengo mi gato **\_\_\_** **\_\_\_** dos años (for two years)
 4. Trabajo aquí **\_\_\_** **\_\_\_** seis meses (for six months)
 
-**Answers:** All answers are "desde hace"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "desde hace"!
+
+</details>
 
 ---
 
@@ -357,7 +305,7 @@
 
 ---
 
-### 🐶 Examples
+### Examples
 
 1. **Hasta luego - voy a pasear al perro**
 
@@ -396,20 +344,4 @@
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered DESDE & HASTA when you can:
-
-- [ ] Use DESDE for starting time (desde las 3)
-- [ ] Use HASTA for ending time (hasta las 5)
-- [ ] Combine them for ranges (desde... hasta...)
-- [ ] Use DESDE for starting place (desde aquí)
-- [ ] Use HASTA for destination (hasta allí)
-- [ ] Use DESDE HACE for duration (desde hace 2 años)
-- [ ] Use common phrases (hasta luego, desde luego)
-
----
-
-**🎉 Next up: v10 - SOBRE (About/On)! 🚀**
-
-_Remember: DESDE starts it, HASTA ends it!_ ⏰
+**Next Lesson:** [22-preposition-sobre.md](22-preposition-sobre.md) | **Previous Lesson:** [20-preposition-sin.md](20-preposition-sin.md)

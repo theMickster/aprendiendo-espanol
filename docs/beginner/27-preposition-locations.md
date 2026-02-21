@@ -1,9 +1,12 @@
-# 📍 Preposition Puzzle v15 - Location Compounds
+# Preposition Puzzle v15 - Location Compounds
+
+**Level:** Beginner (A1)
+**Estimated Time:** 15 minutes
+**Topics:** compound prepositions, al lado de, encima de, debajo de, delante de, detrás de, cerca de, lejos de
+
+---
 
 ## Describing WHERE: Next to, On top of, Under, Behind...
-
-**⏱️ Study Time: 15 minutes**
-**🎯 Goal: Master compound prepositions to describe exactly where things are!**
 
 ---
 
@@ -13,7 +16,7 @@
 
 **Compound prepositions = two or more words that work together!**
 
-They answer: **¿DÓNDE ESTÁ? (Where is it?)**
+They answer: **¿DONDE ESTA? (Where is it?)**
 
 **Pattern:** Preposition + NOUN + DE
 
@@ -69,29 +72,18 @@ They answer: **¿DÓNDE ESTÁ? (Where is it?)**
 
 ---
 
-### 🐱 Animal Examples
-
-1. **El gato duerme al lado del perro**
-
-   - (The cat sleeps next to the dog)
-
-2. **El pájaro se posa al lado de otro pájaro**
-
-   - (The bird perches next to another bird)
-
-3. **Los conejos viven al lado de su madriguera**
-   - (Rabbits live next to their burrow)
-
----
-
-### ✏️ Practice: AL LADO DE
+### Practice: AL LADO DE
 
 1. Mi casa está **\_\_\_** **\_\_\_** **\_\_\_** parque
 2. El gato está **\_\_\_** **\_\_\_** **\_\_\_** perro
 3. Trabajo **\_\_\_** **\_\_\_** **\_\_\_** la biblioteca
 4. Siéntate **\_\_\_** **\_\_\_** **\_\_\_** mí
 
-**Answers:** All answers are "al lado de" or "al lado del" (when de + el)!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "al lado de" or "al lado del" (when de + el)!
+
+</details>
 
 ---
 
@@ -120,25 +112,6 @@ They answer: **¿DÓNDE ESTÁ? (Where is it?)**
 
 ---
 
-### 🐦 Animal Examples
-
-1. **El pájaro está encima del árbol**
-
-   - (The bird is on top of the tree)
-
-2. **El gato se sienta encima de la caja**
-
-   - (The cat sits on top of the box)
-
-3. **La mariposa se posa encima de la flor**
-
-   - (The butterfly lands on top of the flower)
-
-4. **El loro está encima de la jaula**
-   - (The parrot is on top of the cage)
-
----
-
 ## 4️⃣ DEBAJO DE (Under/Underneath)
 
 ### What's underneath? → DEBAJO DE
@@ -164,26 +137,7 @@ They answer: **¿DÓNDE ESTÁ? (Where is it?)**
 
 ---
 
-### 🐭 Animal Examples
-
-1. **El ratón vive debajo del suelo**
-
-   - (The mouse lives under the floor)
-
-2. **El conejo se esconde debajo de la tierra**
-
-   - (The rabbit hides under the ground)
-
-3. **El perro duerme debajo de la mesa**
-
-   - (The dog sleeps under the table)
-
-4. **Los peces nadan debajo del agua**
-   - (Fish swim under the water)
-
----
-
-## 5️⃣ DELANTE DE & DETRÁS DE (In front of & Behind)
+## 5️⃣ DELANTE DE & DETRAS DE (In front of & Behind)
 
 ### DELANTE DE (In front of)
 
@@ -204,7 +158,7 @@ They answer: **¿DÓNDE ESTÁ? (Where is it?)**
 
 ---
 
-### DETRÁS DE (Behind)
+### DETRAS DE (Behind)
 
 **Formula:** detrás de + noun
 
@@ -220,25 +174,6 @@ They answer: **¿DÓNDE ESTÁ? (Where is it?)**
 
 3. **Me escondo detrás del árbol**
    - (I hide behind the tree)
-
----
-
-### 🐰 Animal Examples
-
-1. **El conejo está detrás del arbusto**
-
-   - (The rabbit is behind the bush)
-
-2. **El ratón se esconde detrás de la caja**
-
-   - (The mouse hides behind the box)
-
-3. **El zorro se esconde detrás de las rocas**
-
-   - (The fox hides behind the rocks)
-
-4. **Camino delante de mi perro**
-   - (I walk in front of my dog)
 
 ---
 
@@ -282,25 +217,6 @@ They answer: **¿DÓNDE ESTÁ? (Where is it?)**
 
 ---
 
-### 🦁 Animal Examples
-
-1. **Los leones viven lejos de la ciudad**
-
-   - (Lions live far from the city)
-
-2. **El nido está cerca de mi ventana**
-
-   - (The nest is close to my window)
-
-3. **Los pájaros cantan cerca del agua**
-
-   - (Birds sing near the water)
-
-4. **El océano está lejos de las montañas**
-   - (The ocean is far from the mountains)
-
----
-
 ## 7️⃣ DENTRO DE & FUERA DE (Inside & Outside)
 
 ### DENTRO DE (Inside)
@@ -341,22 +257,7 @@ They answer: **¿DÓNDE ESTÁ? (Where is it?)**
 
 ---
 
-### 🐾 Examples
-
-1. **El pájaro está dentro de la jaula**
-
-   - (The bird is inside the cage)
-
-2. **Los peces están dentro del acuario**
-
-   - (The fish are inside the aquarium)
-
-3. **El perro juega fuera de casa**
-   - (The dog plays outside the house)
-
----
-
-## 8️⃣ Practice Game: Where's the Cat? 🐱
+## 8️⃣ Practice Game: Where's the Cat?
 
 ### Describe where the cat is using ALL compounds!
 
@@ -373,7 +274,7 @@ They answer: **¿DÓNDE ESTÁ? (Where is it?)**
 9. Se sienta **\_\_\_** **\_\_\_** **\_\_\_** jardín (near the)
 10. Corre **\_\_\_** **\_\_\_** **\_\_\_** calle (far from the)
 
-**Answers:**
+<details><summary>Click to reveal answers</summary>
 
 1. encima de
 2. debajo de
@@ -386,23 +287,25 @@ They answer: **¿DÓNDE ESTÁ? (Where is it?)**
 9. cerca del
 10. lejos de la
 
+</details>
+
 ---
 
 ## 9️⃣ All Compounds Together
 
-### 🏡 Describing a House
+### Describing a House
 
 "Mi casa está **cerca del** parque y **lejos del** centro. **Delante de** la casa hay un jardín. **Detrás de** la casa hay un patio. **Al lado de** la casa vive mi amigo. **Dentro de** la casa tengo un perro. **Fuera de** la casa hay un árbol grande. Mi gato duerme **encima del** sofá. Los juguetes están **debajo de** la cama."
 
 ---
 
-### 🌳 At the Park
+### At the Park
 
 "Voy al parque. Hay un lago **cerca de** la entrada. Los pájaros cantan **encima de** los árboles. Los niños juegan **debajo de** los árboles, en la sombra. Hay un banco **al lado del** lago. Me siento **delante del** agua. Los patos nadan **dentro del** lago. **Detrás de** los árboles hay un campo de fútbol."
 
 ---
 
-## 🔟 Quick Reference Card
+## Quick Reference Card
 
 ### All Location Compounds
 
@@ -420,7 +323,7 @@ They answer: **¿DÓNDE ESTÁ? (Where is it?)**
 
 ---
 
-### ⚠️ Always Use DE!
+### Always Use DE!
 
 **These are compound prepositions - DE is required!**
 
@@ -432,24 +335,4 @@ They answer: **¿DÓNDE ESTÁ? (Where is it?)**
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered location compounds when you can:
-
-- [ ] Use al lado de (next to)
-- [ ] Use encima de (on top of)
-- [ ] Use debajo de (under)
-- [ ] Use delante de (in front of)
-- [ ] Use detrás de (behind)
-- [ ] Use cerca de (near)
-- [ ] Use lejos de (far from)
-- [ ] Use dentro de (inside)
-- [ ] Use fuera de (outside)
-- [ ] Remember to use DE always!
-- [ ] Use DEL when followed by masculine singular
-
----
-
-**🎉 Next up: v16 - Verb + Preposition Combos! 🚀**
-
-_Remember: Location compounds = precise position description!_ 📍
+**Next Lesson:** [28-preposition-and-verbs.md](28-preposition-and-verbs.md) | **Previous Lesson:** [26-preposition-segun.md](26-preposition-segun.md)

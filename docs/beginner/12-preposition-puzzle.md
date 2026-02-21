@@ -1,15 +1,18 @@
-# 🧩 The Preposition Puzzle - v1
+# The Preposition Puzzle
+
+**Level:** Beginner (A1)
+**Estimated Time:** 15-20 minutes
+**Topics:** EN, POR, PARA, A, overview and comparison
+
+---
 
 ## Master EN, POR, PARA, and A
-
-**⏱️ Study Time: 15-20 minutes**
-**🎯 Goal: Solve the puzzle of Spanish prepositions!**
 
 ---
 
 ## Why These Prepositions Are Tricky
 
-### 🤔 The Problem
+### The Problem
 
 **In English we say:**
 
@@ -31,7 +34,7 @@
 
 ---
 
-### 🎯 The Big Four
+### The Big Four
 
 | Spanish  | Main English   | Also Means  | The Trick                             |
 | -------- | -------------- | ----------- | ------------------------------------- |
@@ -46,7 +49,7 @@
 
 ## 1️⃣ EN - In/On/At
 
-### 🎯 When to Use EN
+### When to Use EN
 
 **EN = Being IN/ON/AT a place or time**
 
@@ -73,34 +76,7 @@
 
 ---
 
-### 🐾 Examples with Animals
-
-1. **El gato está en el árbol**
-
-   - (The cat is in the tree)
-
-2. **Los peces viven en el mar**
-
-   - (Fish live in the sea)
-
-3. **El pájaro está en la rama**
-
-   - (The bird is on the branch)
-
-4. **En primavera, los pájaros hacen nidos**
-
-   - (In spring, birds make nests)
-
-5. **Los animales viajan en jaulas al zoológico**
-
-   - (Animals travel in cages to the zoo)
-
-6. **El perro duerme en su cama**
-   - (The dog sleeps in his bed)
-
----
-
-### ✏️ Practice: Complete with EN
+### Practice: Complete with EN
 
 1. Vivo **\_\_\_** España
 2. El libro está **\_\_\_** la mesa
@@ -109,13 +85,17 @@
 5. Los delfines nadan **\_\_\_** el océano
 6. Estoy **\_\_\_** casa
 
-**Answers:** 1. en 2. en 3. En 4. en 5. en 6. en
+<details><summary>Click to reveal answers</summary>
+
+1. en 2. en 3. En 4. en 5. en 6. en
+
+</details>
 
 ---
 
 ## 2️⃣ A - To/At
 
-### 🎯 When to Use A
+### When to Use A
 
 **A = Going TO somewhere or AT a specific time**
 
@@ -146,34 +126,7 @@
 
 ---
 
-### 🐾 Examples with Animals
-
-1. **Voy a dar de comer a los animales**
-
-   - (I'm going to feed the animals)
-
-2. **El león va a cazar a las seis**
-
-   - (The lion hunts at 6 o'clock)
-
-3. **Veo a mi perro en el jardín**
-
-   - (I see my dog in the garden - personal A!)
-
-4. **Los pájaros van a los árboles**
-
-   - (The birds go to the trees)
-
-5. **A las siete, los animales comen**
-
-   - (At seven, the animals eat)
-
-6. **El gato aprende a cazar**
-   - (The cat learns to hunt)
-
----
-
-### 🔄 EN vs A - Quick Guide
+### EN vs A - Quick Guide
 
 | Use              | EN               | A                  |
 | ---------------- | ---------------- | ------------------ |
@@ -190,7 +143,7 @@
 
 ---
 
-### ✏️ Practice: EN or A?
+### Practice: EN or A?
 
 1. Voy **\_\_\_** la escuela
 2. Estoy **\_\_\_** la biblioteca
@@ -201,13 +154,17 @@
 7. Llego **\_\_\_** las tres
 8. Los peces están **\_\_\_** el acuario
 
-**Answers:** 1. a 2. en 3. A 4. en 5. a 6. en 7. a 8. en
+<details><summary>Click to reveal answers</summary>
+
+1. a 2. en 3. A 4. en 5. a 6. en 7. a 8. en
+
+</details>
 
 ---
 
 ## 3️⃣ POR - For/By/Through/Because of
 
-### 🎯 When to Use POR
+### When to Use POR
 
 **POR has many meanings - think of it as "because of" or "through"**
 
@@ -247,42 +204,7 @@
 
 ---
 
-### 🐾 Examples with Animals
-
-1. **El gato corre por el jardín**
-
-   - (The cat runs through the garden)
-
-2. **Los pájaros vuelan por el cielo**
-
-   - (Birds fly through the sky)
-
-3. **Pagué 20 euros por el pez**
-
-   - (I paid 20 euros for the fish)
-
-4. **El perro ladra por la noche**
-
-   - (The dog barks during the night)
-
-5. **Camino por el bosque con mi perro**
-
-   - (I walk through the forest with my dog)
-
-6. **Gracias por cuidar a mi gato**
-
-   - (Thanks for taking care of my cat)
-
-7. **Los delfines nadan por el océano**
-
-   - (Dolphins swim through the ocean)
-
-8. **Hago esto por amor a los animales**
-   - (I do this for love of animals / because I love animals)
-
----
-
-### 🗣️ Common POR Phrases
+### Common POR Phrases
 
 | Spanish                   | English                        | Use          |
 | ------------------------- | ------------------------------ | ------------ |
@@ -299,7 +221,7 @@
 
 ## 4️⃣ PARA - For/To/In order to
 
-### 🎯 When to Use PARA
+### When to Use PARA
 
 **PARA = purpose, destination, recipient, deadline**
 
@@ -337,42 +259,7 @@
 
 ---
 
-### 🐾 Examples with Animals
-
-1. **Compro comida para mi gato**
-
-   - (I buy food for my cat - he'll eat it)
-
-2. **El perro corre para atrapar la pelota**
-
-   - (The dog runs to catch the ball - purpose)
-
-3. **Este juguete es para el conejo**
-
-   - (This toy is for the rabbit - recipient)
-
-4. **Los pájaros vuelan para encontrar comida**
-
-   - (Birds fly to find food - purpose)
-
-5. **Para un cachorro, es muy obediente**
-
-   - (For a puppy, he's very obedient - comparison)
-
-6. **Necesito terminar esto para las tres**
-
-   - (I need to finish this by 3 - deadline)
-
-7. **Para mí, los gatos son mejores que los perros**
-
-   - (For me, cats are better than dogs - opinion)
-
-8. **Salimos para el refugio de animales**
-   - (We're leaving for the animal shelter - destination)
-
----
-
-### 🗣️ Common PARA Phrases
+### Common PARA Phrases
 
 | Spanish           | English     | Use               |
 | ----------------- | ----------- | ----------------- |
@@ -386,7 +273,7 @@
 
 ## 5️⃣ POR vs PARA - The Ultimate Guide
 
-### 🎯 The Big Decision
+### The Big Decision
 
 This is THE trickiest part of Spanish prepositions. Both mean "for" but they're NOT interchangeable!
 
@@ -432,7 +319,7 @@ This is THE trickiest part of Spanish prepositions. Both mean "for" but they're 
 
 ---
 
-### 🧠 Memory Tricks
+### Memory Tricks
 
 **POR = Reason/Cause/Through**
 Think: "**P**assage, **O**rigin, **R**eason"
@@ -451,42 +338,10 @@ Think: "**P**urpose, **A**im, **R**ecipient, **A**rrival"
 
 ---
 
-### 🐕 Animal Examples - POR vs PARA
+### Decision Flowchart
 
-**Using POR:**
-
-1. **El perro corre por el parque**
-
-   - (The dog runs through the park)
-
-2. **Hago esto por amor a los animales**
-
-   - (I do this because of love for animals)
-
-3. **Pagué 50 euros por el perro**
-
-   - (I paid 50 euros for the dog - exchange)
-
-4. **Por la mañana, los pájaros cantan**
-   - (In the morning, birds sing)
-
-**Using PARA:** 5. **Compro comida para mi gato**
-
-- (I buy food for my cat - he'll eat it)
-
-6. **El perro corre para atrapar el palo**
-
-   - (The dog runs to catch the stick - purpose)
-
-7. **Este collar es para el perro**
-
-   - (This collar is for the dog - recipient)
-
-8. **Para un cachorro, es muy inteligente**
-   - (For a puppy, he's very intelligent - comparison)
+\*\*When you wan
 
 ---
 
-### 🎯 Decision Flowchart
-
-\*\*When you wan
+**Next Lesson:** [13-preposition-en.md](13-preposition-en.md) | **Previous Lesson:** [11-adverbs.md](11-adverbs.md)

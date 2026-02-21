@@ -1,9 +1,12 @@
-# 📚 Preposition Puzzle v10 - SOBRE
+# Preposition Puzzle v10 - SOBRE
+
+**Level:** Beginner (A1)
+**Estimated Time:** 10-12 minutes
+**Topics:** SOBRE, topics, physical position, approximation
+
+---
 
 ## The Topic Master: About/On/Over
-
-**⏱️ Study Time: 10-12 minutes**
-**🎯 Goal: Master SOBRE - for topics, physical position, and approximations!**
 
 ---
 
@@ -57,7 +60,7 @@
 
 ---
 
-### 🐘 Animal Topic Examples
+### Animal Topic Examples
 
 1. **Leo un artículo sobre elefantes**
 
@@ -80,7 +83,7 @@
 
 ---
 
-### 💡 SOBRE vs DE for Topics
+### SOBRE vs DE for Topics
 
 **Both can mean "about" but slight difference:**
 
@@ -99,7 +102,7 @@
 
 ---
 
-### ✏️ Practice: SOBRE for Topics
+### Practice: SOBRE for Topics
 
 1. Hablo **\_\_\_** mi familia
 2. Es un libro **\_\_\_** gatos
@@ -107,7 +110,11 @@
 4. Escribo **\_\_\_** mi vida
 5. Aprendo **\_\_\_** España
 
-**Answers:** All answers are "sobre"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "sobre"!
+
+</details>
 
 ---
 
@@ -140,7 +147,7 @@
 
 ---
 
-### 🐦 Animal Position Examples
+### Animal Position Examples
 
 1. **El pájaro se posa sobre el árbol**
 
@@ -159,7 +166,7 @@
 
 ---
 
-### 💡 SOBRE vs EN for "On"
+### SOBRE vs EN for "On"
 
 **Both can mean "on" but different nuance:**
 
@@ -179,7 +186,7 @@
 
 ---
 
-### ✏️ Practice: SOBRE for Position
+### Practice: SOBRE for Position
 
 1. El vaso está **\_\_\_** la mesa
 2. El gato duerme **\_\_\_** la cama
@@ -187,7 +194,11 @@
 4. El pájaro vuela **\_\_\_** el árbol (over/above)
 5. La foto está **\_\_\_** la pared (on the wall)
 
-**Answers:** All answers are "sobre"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "sobre"!
+
+</details>
 
 ---
 
@@ -227,7 +238,7 @@
 
 ---
 
-### 💡 SOBRE vs ALREDEDOR DE
+### SOBRE vs ALREDEDOR DE
 
 **Both mean "around/about" for approximation:**
 
@@ -243,7 +254,7 @@
 
 ---
 
-### ✏️ Practice: SOBRE for Approximation
+### Practice: SOBRE for Approximation
 
 1. Llego **\_\_\_** las cuatro (around)
 2. Hay **\_\_\_** cincuenta estudiantes (about)
@@ -251,7 +262,11 @@
 4. Vienen **\_\_\_** las dos (around)
 5. Hay **\_\_\_** diez perros en el parque (about)
 
-**Answers:** All answers are "sobre"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "sobre"!
+
+</details>
 
 ---
 
@@ -267,7 +282,7 @@
 
 ---
 
-### 🐕 Examples
+### Examples
 
 1. **Me gustan los animales, sobre todo los perros**
 
@@ -284,7 +299,7 @@
 
 ## 5️⃣ Real-Life Scenarios
 
-### 📖 Reading Time
+### Reading Time
 
 "Leo un libro **sobre** animales marinos. Está **sobre** mi mesita de noche. Aprendo **sobre** delfines y ballenas. **Sobre todo**, me interesan los tiburones. El libro tiene **sobre** trescientas páginas. Leo **sobre** las ocho de la noche. Es fascinante."
 
@@ -292,7 +307,7 @@ _Translation: I read a book about marine animals. It's on my nightstand. I learn
 
 ---
 
-### 🐾 At the Vet
+### At the Vet
 
 "Hablo con el veterinario **sobre** mi gato. El gato está **sobre** la mesa de examen. Pregunto **sobre** su salud. La cita cuesta **sobre** cincuenta euros. Llegamos **sobre** las tres. **Sobre todo**, quiero saber si está sano."
 
@@ -312,19 +327,4 @@ _Translation: I read a book about marine animals. It's on my nightstand. I learn
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered SOBRE when you can:
-
-- [ ] Use SOBRE for topics (sobre animales)
-- [ ] Use SOBRE for physical position (sobre la mesa)
-- [ ] Use SOBRE for approximate time (sobre las tres)
-- [ ] Use SOBRE for approximate quantity (sobre veinte)
-- [ ] Use "sobre todo" for emphasis
-- [ ] Know when SOBRE vs DE for topics
-
----
-
-**🎉 Next up: v11 - ENTRE (Between/Among)! 🚀**
-
-_Remember: SOBRE = on top of (physically or topically)!_ 📚
+**Next Lesson:** [23-preposition-entre.md](23-preposition-entre.md) | **Previous Lesson:** [21-preposition-desde-hasta.md](21-preposition-desde-hasta.md)

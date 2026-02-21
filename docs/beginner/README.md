@@ -1,60 +1,49 @@
-# 🌱 Beginner Lessons (A1-A2)
+# Beginner Lessons (A1-A2)
 
-Welcome to beginner Spanish! This is where your journey starts.
+Welcome to beginner Spanish! Start here and work your way through.
 
-## 🎯 Level Description
-
-**A1 Level (Breakthrough):** Basic phrases, introduce yourself, ask simple questions  
+**A1 Level (Breakthrough):** Basic phrases, introduce yourself, ask simple questions
 **A2 Level (Waystage):** Short conversations, describe experiences, express needs
 
-You're in the right place if:
-
-- You're brand new to Spanish
-- You know a few words but want structure
-- You can say "hola" but not much more
-- You're preparing for basic conversations
-
-## 📚 Suggested Learning Path
-
-Start here and work your way through:
+## Lessons
 
 ### Getting Started
 
-1. **Greetings and Introductions** - Say hello and introduce yourself
-2. **The Alphabet and Pronunciation** - Build your foundation
-3. **Numbers 0-100** - Count and use numbers in context
+1. [Greetings and Introductions](01-greetings-and-introductions.md)
+2. [Numbers](02-numbers.md)
+3. [Building Block Verbs](03-building-block-verbs.md)
 
-### Essential Grammar
+### Describing Things
 
-4. **Subject Pronouns** - Yo, tú, él, ella...
-5. **Present Tense: -AR Verbs** - Your first verb conjugations
-6. **Present Tense: -ER and -IR Verbs** - Expand your verb skills
-7. **Ser vs Estar** - Two ways to say "to be"
+10. [Adjectives](10-adjectives.md)
+    10b. [Ser vs Estar with Adjectives](10b-ser-estar-adjectives.md)
+11. [Adverbs](11-adverbs.md)
 
-### Building Vocabulary
+### The Preposition Puzzle
 
-8. **Colors and Descriptions** - Describe the world around you
-9. **Family Members** - Talk about your familia
-10. **Food and Drinks** - Order at a restaurant
-11. **Days, Months, and Dates** - Talk about time
-12. **Weather** - Discuss el tiempo
+12. [Preposition Overview: EN, A, POR, PARA](12-preposition-puzzle.md)
+13. [EN - In/On/At](13-preposition-en.md)
+14. [A - To/At/Personal A](14-preposition-a.md)
+15. [POR - For/By/Through](15-preposition-por.md)
+16. [PARA - For/To/Purpose](16-preposition-para.md)
+17. [POR vs PARA](17-preposition-por-vs-para.md)
+18. [DE - Of/From](18-preposition-de.md)
+19. [CON - With](19-preposition-con.md)
+20. [SIN - Without](20-preposition-sin.md)
+21. [DESDE & HASTA - Since/Until](21-preposition-desde-hasta.md)
+22. [SOBRE - About/On](22-preposition-sobre.md)
+23. [ENTRE - Between](23-preposition-entre.md)
+24. [CONTRA - Against](24-preposition-contra.md)
+25. [HACIA - Toward](25-preposition-hacia.md)
+26. [SEGUN - According to](26-preposition-segun.md)
+27. [Location Compounds](27-preposition-locations.md)
+28. [Verb + Preposition Combos](28-preposition-and-verbs.md)
+29. [Complete Quick Reference](29-preposition-the-finale.md)
 
-### Practical Skills
+### Verb Patterns
 
-13. **Asking Questions** - Get the information you need
-14. **Directions and Locations** - Find your way around
-15. **Shopping and Numbers** - Buy things in Spanish
-16. **At the Restaurant** - Order food and drinks
-
-## 💡 Study Tips for Beginners
-
-- **Start slow**: Master basics before moving on
-- **Repeat daily**: Review previous lessons regularly
-- **Use flashcards**: Especially for vocabulary
-- **Label your house**: Put Spanish names on objects
-- **Think in Spanish**: Try to form simple thoughts in Spanish
-- **Listen actively**: Music, podcasts, kids' shows
+30. [Reflexive Verbs](30-reflexive-verbs.md)
 
 ---
 
-**¡Empecemos!** | Let's get started!
+**Empecemos!** | Let's get started!

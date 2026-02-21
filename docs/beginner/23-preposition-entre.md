@@ -1,9 +1,12 @@
-# 🔀 Preposition Puzzle v11 - ENTRE
+# Preposition Puzzle v11 - ENTRE
+
+**Level:** Beginner (A1)
+**Estimated Time:** 8-10 minutes
+**Topics:** ENTRE, between, among, time ranges, pronouns
+
+---
 
 ## The Connector: Between/Among
-
-**⏱️ Study Time: 8-10 minutes**
-**🎯 Goal: Master ENTRE - simple but useful!**
 
 ---
 
@@ -47,7 +50,7 @@
 
 ---
 
-### 🐾 Animal Examples
+### Animal Examples
 
 1. **El ratón está entre las piedras**
 
@@ -66,7 +69,7 @@
 
 ---
 
-### ✏️ Practice: ENTRE for Position
+### Practice: ENTRE for Position
 
 1. El gato está **\_\_\_** el sofá y la mesa
 2. La tienda está **\_\_\_** el banco y la farmacia
@@ -74,7 +77,11 @@
 4. El perro duerme **\_\_\_** las almohadas
 5. El pájaro vuela **\_\_\_** los árboles
 
-**Answers:** All answers are "entre"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "entre"!
+
+</details>
 
 ---
 
@@ -103,7 +110,7 @@
 
 ---
 
-### 🦁 Animal Examples
+### Animal Examples
 
 1. **Entre los leones, el macho es el más grande**
 
@@ -122,7 +129,7 @@
 
 ---
 
-### ✏️ Practice: ENTRE for Groups
+### Practice: ENTRE for Groups
 
 1. **\_\_\_** los estudiantes, ella es la mejor
 2. **\_\_\_** todos, decidimos comer pizza
@@ -130,7 +137,11 @@
 4. **\_\_\_** los animales, prefiero los gatos
 5. **\_\_\_** amigos, somos honestos
 
-**Answers:** All answers are "Entre"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "Entre"!
+
+</details>
 
 ---
 
@@ -159,7 +170,7 @@
 
 ---
 
-### 🦉 Examples
+### Examples
 
 1. **Los búhos cazan entre la medianoche y el amanecer**
 
@@ -174,7 +185,7 @@
 
 ---
 
-### ✏️ Practice: ENTRE for Time
+### Practice: ENTRE for Time
 
 1. Trabajo **\_\_\_** las nueve y las cinco
 2. Llego **\_\_\_** las dos y las tres
@@ -182,7 +193,11 @@
 4. Los pájaros cantan **\_\_\_** el amanecer y el mediodía
 5. Como **\_\_\_** las doce y la una
 
-**Answers:** All answers are "entre"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "entre"!
+
+</details>
 
 ---
 
@@ -200,7 +215,7 @@
 
 ---
 
-### 🐕 Examples
+### Examples
 
 1. **Entre semana, paseo al perro**
 
@@ -253,7 +268,7 @@
 
 ## 6️⃣ Real-Life Scenarios
 
-### 🏫 At School
+### At School
 
 "**Entre** las clases, descansamos. La biblioteca está **entre** el gimnasio y la cafetería. **Entre** todos los estudiantes, tengo buenos amigos. Hablamos **sobre** muchos temas. **Entre** las nueve y las tres, estamos en clase. **Entre** semana, estudio mucho."
 
@@ -261,7 +276,7 @@ _Translation: Between classes, we rest. The library is between the gym and the c
 
 ---
 
-### 🐾 At the Pet Park
+### At the Pet Park
 
 "Mi perro juega **entre** otros perros. Hay **sobre** diez perros en total. **Entre** todos, mi perro es el más rápido. Corre **entre** los árboles. Los dueños hablamos **sobre** nuestras mascotas. **Entre** nosotros, todos amamos a nuestros animales."
 
@@ -290,19 +305,4 @@ _Translation: Between classes, we rest. The library is between the gym and the c
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered ENTRE when you can:
-
-- [ ] Use ENTRE for physical position (entre los árboles)
-- [ ] Use ENTRE for groups (entre los estudiantes)
-- [ ] Use ENTRE for time ranges (entre las 3 y las 5)
-- [ ] Use subject pronouns (entre tú y yo)
-- [ ] Use common phrases (entre semana)
-- [ ] Distinguish ENTRE from other prepositions
-
----
-
-**🎉 Next up: v12 - CONTRA (Against)! 🚀**
-
-_Remember: ENTRE = in the middle!_ 🔀
+**Next Lesson:** [24-preposition-contra.md](24-preposition-contra.md) | **Previous Lesson:** [22-preposition-sobre.md](22-preposition-sobre.md)

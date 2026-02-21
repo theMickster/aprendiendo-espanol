@@ -1,9 +1,12 @@
-# 📦 Preposition Puzzle v6 - DE
+# Preposition Puzzle v6 - DE
+
+**Level:** Beginner (A1)
+**Estimated Time:** 15-20 minutes
+**Topics:** DE, possession, origin, material, description, time of day
+
+---
 
 ## The Connector: Of/From/About
-
-**⏱️ Study Time: 15-20 minutes**
-**🎯 Goal: Master DE - one of the most common prepositions in Spanish!**
 
 ---
 
@@ -61,7 +64,7 @@ Main meanings:
 
 ---
 
-### ⚠️ DEL = DE + EL (Contraction!)
+### DEL = DE + EL (Contraction!)
 
 **When DE meets EL, they combine!**
 
@@ -81,26 +84,7 @@ Examples:
 
 ---
 
-### 🐾 Animal Possession Examples
-
-1. **La casa del perro**
-
-   - (The dog's house)
-
-2. **Las plumas del pájaro**
-
-   - (The bird's feathers)
-
-3. **Los dientes del tiburón**
-
-   - (The shark's teeth)
-
-4. **La trompa del elefante**
-   - (The elephant's trunk)
-
----
-
-### ✏️ Practice: Possession with DE
+### Practice: Possession with DE
 
 1. El libro **\_\_\_** profesor (the teacher's book - de + el)
 2. La casa **\_\_\_** mis abuelos (my grandparents' house)
@@ -108,7 +92,11 @@ Examples:
 4. Los libros **\_\_\_** biblioteca (the library's books - de + la)
 5. El nombre **\_\_\_** perro (the dog's name - de + el)
 
-**Answers:** 1. del 2. de 3. del 4. de la 5. del
+<details><summary>Click to reveal answers</summary>
+
+1. del 2. de 3. del 4. de la 5. del
+
+</details>
 
 ---
 
@@ -145,26 +133,7 @@ Examples:
 
 ---
 
-### 🌍 Origin Examples
-
-1. **Los canguros son de Australia**
-
-   - (Kangaroos are from Australia)
-
-2. **Las jirafas son de África**
-
-   - (Giraffes are from Africa)
-
-3. **Los pingüinos son del sur**
-
-   - (Penguins are from the south)
-
-4. **Este loro es de Brasil**
-   - (This parrot is from Brazil)
-
----
-
-### ✏️ Practice: Origin with DE
+### Practice: Origin with DE
 
 1. Soy **\_\_\_** Estados Unidos
 2. Mi amigo es **\_\_\_** México
@@ -172,7 +141,11 @@ Examples:
 4. Vengo **\_\_\_** biblioteca (from the - de + la)
 5. El café es **\_\_\_** Colombia
 
-**Answers:** 1. de 2. de 3. de 4. de la 5. de
+<details><summary>Click to reveal answers</summary>
+
+1. de 2. de 3. de 4. de la 5. de
+
+</details>
 
 ---
 
@@ -207,22 +180,7 @@ Examples:
 
 ---
 
-### 🏠 Material Examples
-
-1. **La casa es de piedra**
-
-   - (The house is made of stone)
-
-2. **El collar del perro es de cuero**
-
-   - (The dog's collar is made of leather)
-
-3. **La caja es de cartón**
-   - (The box is made of cardboard)
-
----
-
-### ✏️ Practice: Material with DE
+### Practice: Material with DE
 
 1. Una mesa **\_\_\_** madera (wooden table)
 2. Un anillo **\_\_\_** plata (silver ring)
@@ -230,7 +188,11 @@ Examples:
 4. Una botella **\_\_\_** vidrio (glass bottle)
 5. El collar es **\_\_\_** oro (gold collar)
 
-**Answers:** All answers are "de"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "de"!
+
+</details>
 
 ---
 
@@ -267,30 +229,7 @@ Examples:
 
 ---
 
-### 🐾 Animal Type Examples
-
-1. **Una tienda de mascotas**
-
-   - (A pet store)
-
-2. **Un libro de animales**
-
-   - (An animal book)
-
-3. **Un documental de leones**
-
-   - (A documentary about lions)
-
-4. **Comida de perro**
-
-   - (Dog food)
-
-5. **Un veterinario de gatos**
-   - (A cat veterinarian)
-
----
-
-### ✏️ Practice: Description with DE
+### Practice: Description with DE
 
 1. Un libro **\_\_\_** ciencia (science book)
 2. Una clase **\_\_\_** español (Spanish class)
@@ -298,7 +237,11 @@ Examples:
 4. Un profesor **\_\_\_** inglés (English teacher)
 5. Comida **\_\_\_** gato (cat food)
 
-**Answers:** All answers are "de"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "de"!
+
+</details>
 
 ---
 
@@ -327,21 +270,6 @@ Examples:
 
 ---
 
-### 🦉 Day/Night Examples
-
-1. **Los búhos cazan de noche**
-
-   - (Owls hunt at night)
-
-2. **Los pájaros cantan de día**
-
-   - (Birds sing during the day)
-
-3. **Me levanto a las siete de la mañana**
-   - (I wake up at 7 in the morning)
-
----
-
 ## 6️⃣ Common DE Phrases
 
 ### Must-Know Expressions
@@ -358,25 +286,6 @@ Examples:
 | de rodillas      | kneeling          | Está de rodillas     |
 | más de           | more than         | Más de diez          |
 | menos de         | less than         | Menos de cinco       |
-
----
-
-### 🐕 Examples
-
-1. **De repente, el perro ladró**
-
-   - (Suddenly, the dog barked)
-
-2. **El gato está de pie**
-
-   - (The cat is standing)
-
-3. **Hay más de cien animales en el zoo**
-
-   - (There are more than 100 animals in the zoo)
-
-4. **De vez en cuando, veo delfines**
-   - (From time to time, I see dolphins)
 
 ---
 
@@ -397,7 +306,7 @@ Examples:
 
 ---
 
-### 🐦 Examples
+### Examples
 
 1. **Hablo de mi perro**
 
@@ -418,13 +327,13 @@ Examples:
 
 ## 8️⃣ Real-Life Scenarios
 
-### 🏠 At Home
+### At Home
 
 "La casa **de** mis padres es grande. Es **de** piedra y madera. Tiene más **de** diez habitaciones. **De** verdad, es muy bonita. Las ventanas son **de** vidrio. Vengo **de** allí cada domingo. A las tres **de** la tarde, comemos juntos. Hablamos **de** muchas cosas. **De** vez en cuando, hablamos **de** nuestras mascotas."
 
 ---
 
-### 🐾 At the Vet
+### At the Vet
 
 "Voy al veterinario con el perro **de** mi familia. Es un doctor **de** animales muy bueno. Venimos **de** casa. La clínica está a diez minutos. Hablamos **de** la salud **del** perro. Acabo **de** comprar comida **de** perro. El doctor dice que está muy bien. **De** verdad, estoy feliz."
 
@@ -460,21 +369,4 @@ Examples:
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered DE when you can:
-
-- [ ] Use DE for possession (el libro de María)
-- [ ] Use DEL contraction (de + el)
-- [ ] Use DE for origin (soy de...)
-- [ ] Use DE for material (de madera)
-- [ ] Use DE for descriptions (clase de...)
-- [ ] Use DE with time (de la mañana)
-- [ ] Use verbs + DE correctly (hablar de)
-- [ ] Use common DE phrases
-
----
-
-**🎉 Next up: v7 - CON (With)! 🚀**
-
-_Remember: DE connects and shows relationships!_
+**Next Lesson:** [19-preposition-con.md](19-preposition-con.md) | **Previous Lesson:** [17-preposition-por-vs-para.md](17-preposition-por-vs-para.md)

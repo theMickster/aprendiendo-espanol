@@ -1,9 +1,12 @@
-# 📚 Preposition Puzzle v17 - Complete Quick Reference
+# Preposition Puzzle v17 - Complete Quick Reference
+
+**Level:** Beginner (A1)
+**Estimated Time:** 10 minutes
+**Topics:** all prepositions, decision trees, quick lookup, graduation test
+
+---
 
 ## Your Master Cheat Sheet: All Prepositions at a Glance!
-
-**⏱️ Study Time: 10 minutes**
-**🎯 Goal: Quick lookup for any preposition question!**
 
 ---
 
@@ -24,11 +27,11 @@
 | **ENTRE**   | between/among           | Entre tú y yo         | v11 |
 | **CONTRA**  | against                 | Contra la pared       | v12 |
 | **HACIA**   | toward                  | Hacia el norte        | v13 |
-| **SEGÚN**   | according to            | Según el doctor       | v14 |
+| **SEGUN**   | according to            | Según el doctor       | v14 |
 
 ---
 
-## 🎯 Decision Trees
+## Decision Trees
 
 ### Tree 1: Which "FOR"?
 
@@ -130,7 +133,7 @@
 
 ---
 
-## 🔄 Contractions - Don't Forget!
+## Contractions - Don't Forget!
 
 ### Two Mandatory Contractions
 
@@ -151,102 +154,43 @@
 
 ---
 
-## 📊 Top 50 Phrases You Need
+## Essential Phrases
 
-### With EN (10 phrases)
-
-1. en casa (at home)
-2. en general (in general)
-3. en serio (seriously)
-4. en total (in total)
-5. en punto (sharp/exactly)
-6. en voz alta (out loud)
-7. en enero/verano/2024 (in Jan/summer/2024)
-8. en autobús/coche/tren (by bus/car/train)
-
-### With A (8 phrases)
-
-1. a las tres (at 3 o'clock)
-2. a pie (on foot)
-3. a tiempo (on time)
-4. a veces (sometimes)
-5. a menudo (often)
-6. al final (at the end)
-7. al principio (at the beginning)
-8. a la derecha/izquierda (to the right/left)
-
-### With POR (10 phrases)
-
-1. por favor (please)
-2. por ejemplo (for example)
-3. por supuesto (of course)
-4. por fin (finally)
-5. por eso (that's why)
-6. por lo menos (at least)
-7. por la mañana/tarde/noche (in morning/afternoon/night)
-8. por cierto (by the way)
-9. por ahora (for now)
-10. por suerte (luckily)
-
-### With PARA (5 phrases)
-
-1. para siempre (forever)
-2. para nada (not at all)
-3. para mí/ti (for me/you)
-4. para entonces (by then)
-5. para colmo (to top it off)
-
-### With DE (8 phrases)
-
-1. de verdad (really)
-2. de nuevo (again)
-3. de vez en cuando (from time to time)
-4. de acuerdo (OK/agreed)
-5. de repente (suddenly)
-6. de memoria (by heart)
-7. de pie (standing)
-8. más/menos de (more/less than)
-
-### With CON (3 phrases)
-
-1. con cuidado (carefully)
-2. con frecuencia (frequently)
-3. con mucho gusto (with pleasure)
-
-### With Other Prepositions (6 phrases)
-
-1. desde luego (of course)
-2. hasta luego (see you later)
-3. sobre todo (especially)
-4. entre semana (during the week)
-5. según parece (apparently)
-6. hacia adelante (forward)
+| Spanish       | English        | Prep  |
+| ------------- | -------------- | ----- |
+| en casa       | at home        | EN    |
+| en serio      | seriously      | EN    |
+| en punto      | sharp/exactly  | EN    |
+| en voz alta   | out loud       | EN    |
+| a las tres    | at 3 o'clock   | A     |
+| a pie         | on foot        | A     |
+| a tiempo      | on time        | A     |
+| a veces       | sometimes      | A     |
+| a menudo      | often          | A     |
+| al final      | at the end     | A     |
+| por favor     | please         | POR   |
+| por ejemplo   | for example    | POR   |
+| por supuesto  | of course      | POR   |
+| por fin       | finally        | POR   |
+| por eso       | that's why     | POR   |
+| por lo menos  | at least       | POR   |
+| por la mañana | in the morning | POR   |
+| por cierto    | by the way     | POR   |
+| para siempre  | forever        | PARA  |
+| para nada     | not at all     | PARA  |
+| para mí/ti    | for me/you     | PARA  |
+| de verdad     | really         | DE    |
+| de nuevo      | again          | DE    |
+| de acuerdo    | OK/agreed      | DE    |
+| de repente    | suddenly       | DE    |
+| con cuidado   | carefully      | CON   |
+| hasta luego   | see you later  | HASTA |
+| sobre todo    | especially     | SOBRE |
+| desde luego   | of course      | DESDE |
 
 ---
 
-## 🎯 Top 30 Verb + Preposition Combos
-
-### Must Memorize These!
-
-**+ DE:**
-
-1. hablar de (talk about)
-2. tratar de (try to)
-3. acabar de (just did)
-4. olvidarse de (forget)
-5. acordarse de (remember)
-
-**+ EN:** 6. pensar en (think about) 7. confiar en (trust in) 8. fijarse en (notice) 9. entrar en (enter)
-
-**+ CON:** 10. soñar con (dream about) 11. contar con (count on) 12. encontrarse con (meet with)
-
-**+ A:** 13. aprender a (learn to) 14. empezar a (begin to) 15. ir a (going to) 16. ayudar a (help to) 17. volver a (do again)
-
-**+ POR:** 18. preocuparse por (worry about) 19. preguntar por (ask about) 20. interesarse por (interested in)
-
----
-
-## ❌ Top 10 Mistakes to Avoid
+## Top 10 Mistakes to Avoid
 
 | Error               | Why Wrong                   | Correct              |
 | ------------------- | --------------------------- | -------------------- |
@@ -263,7 +207,7 @@
 
 ---
 
-## 🔍 Quick Lookup Tables
+## Quick Lookup Tables
 
 ### Location: Where is it?
 
@@ -327,7 +271,7 @@
 
 ---
 
-## 🎯 The Big Three Decisions
+## The Big Three Decisions
 
 ### 1. EN vs A
 
@@ -375,116 +319,7 @@
 
 ---
 
-## 📖 Study Order Recommendation
-
-**Week 1: The Core**
-
-- Day 1: EN (v1)
-- Day 2: A (v2)
-- Day 3: POR (v3)
-- Day 4: PARA (v4)
-- Day 5: POR vs PARA (v5)
-- Day 6-7: Review & practice
-
-**Week 2: Essential Partners**
-
-- Day 1: DE (v6)
-- Day 2: CON (v7)
-- Day 3: SIN (v8)
-- Day 4-7: Practice all
-
-**Week 3: Time & Space**
-
-- Day 1: DESDE & HASTA (v9)
-- Day 2: SOBRE (v10)
-- Day 3: ENTRE (v11)
-- Day 4: CONTRA (v12)
-- Day 5-7: Practice all
-
-**Week 4: Advanced**
-
-- Day 1: HACIA (v13)
-- Day 2: SEGÚN (v14)
-- Day 3: Location Compounds (v15)
-- Day 4: Verb Combos (v16)
-- Day 5-7: Review everything!
-
----
-
-## ✅ Complete Mastery Checklist
-
-### Core Prepositions (v1-v5)
-
-- [ ] Use EN for location, time, transportation
-- [ ] Use A for direction, specific time, personal A
-- [ ] Use POR for reason, exchange, duration, movement through
-- [ ] Use PARA for purpose, recipient, deadline
-- [ ] Choose correctly between POR and PARA
-
-### Essential Partners (v6-v8)
-
-- [ ] Use DE for possession, origin, material
-- [ ] Use CON for accompaniment, instruments
-- [ ] Use SIN for absence
-- [ ] Use CONMIGO/CONTIGO correctly
-
-### Time & Space (v9-v12)
-
-- [ ] Use DESDE for starting point
-- [ ] Use HASTA for ending point
-- [ ] Use SOBRE for topics and position
-- [ ] Use ENTRE for between/among
-- [ ] Use CONTRA for opposition/contact
-
-### Advanced (v13-v16)
-
-- [ ] Use HACIA for general direction
-- [ ] Use SEGÚN to cite sources
-- [ ] Use all 9 location compounds
-- [ ] Know 30+ verb + preposition combos
-
----
-
-## 🚨 Error Alert List
-
-### Watch Out For These!
-
-**Time Errors:**
-
-- ❌ en lunes → ✅ el lunes
-- ❌ en las tres → ✅ a las tres
-
-**Location Errors:**
-
-- ❌ Voy en casa → ✅ Voy a casa
-- ❌ en pie → ✅ a pie
-
-**POR/PARA Errors:**
-
-- ❌ Estudio por aprobar → ✅ Estudio para aprobar
-- ❌ Gracias para ti → ✅ Gracias por ti
-- ❌ Es por mañana → ✅ Es para mañana
-
-**Verb Combo Errors:**
-
-- ❌ Pienso sobre ti → ✅ Pienso en ti
-- ❌ Sueño de ti → ✅ Sueño contigo
-- ❌ Pregunto sobre ti → ✅ Pregunto por ti
-
-**Pronoun Errors:**
-
-- ❌ con mí → ✅ conmigo
-- ❌ con ti → ✅ contigo
-- ❌ entre ti y mí → ✅ entre tú y yo
-
-**Contraction Errors:**
-
-- ❌ a el parque → ✅ al parque
-- ❌ de el profesor → ✅ del profesor
-
----
-
-## 🎯 Quick Tests
+## Quick Tests
 
 ### Test 1: Fill in the Preposition
 
@@ -499,7 +334,7 @@
 9. Trabajo **\_\_\_** aprender (to learn)
 10. Camino **\_\_\_** el parque (through)
 
-**Answers:**
+<details><summary>Click to reveal answers</summary>
 
 1. en
 2. a
@@ -511,6 +346,8 @@
 8. A
 9. para
 10. por
+
+</details>
 
 ---
 
@@ -525,7 +362,7 @@
 7. Este regalo es **\_\_\_** ti (for - recipient)
 8. Viajo **\_\_\_** tres días (for - duration)
 
-**Answers:**
+<details><summary>Click to reveal answers</summary>
 
 1. para
 2. por
@@ -535,6 +372,8 @@
 6. por
 7. para
 8. por
+
+</details>
 
 ---
 
@@ -546,7 +385,7 @@
 4. Los libros están **\_\_\_** **\_\_\_** **\_\_\_** cama (under the)
 5. Estoy **\_\_\_** **\_\_\_** **\_\_\_** espejo (in front of the)
 
-**Answers:**
+<details><summary>Click to reveal answers</summary>
 
 1. encima de la
 2. detrás de la
@@ -554,34 +393,11 @@
 4. debajo de la
 5. delante del
 
----
-
-## 💪 Power Combos - Use Multiple Prepositions
-
-### Example Sentences Using 3+ Prepositions
-
-1. **Voy a casa en autobús para estar con mi familia**
-
-   - (I go to house by bus to be with my family)
-   - Uses: A, EN, PARA, CON
-
-2. **Desde las tres hasta las cinco, estudio en la biblioteca sobre español**
-
-   - (From 3 to 5, I study in the library about Spanish)
-   - Uses: DESDE, HASTA, EN, SOBRE
-
-3. **Camino por el parque al lado del río para hacer ejercicio**
-
-   - (I walk through the park next to the river to exercise)
-   - Uses: POR, AL LADO DE, PARA
-
-4. **Según el veterinario, mi perro está debajo de la mesa por miedo**
-   - (According to the vet, my dog is under the table because of fear)
-   - Uses: SEGÚN, DEBAJO DE, POR
+</details>
 
 ---
 
-## 🎓 Graduation Test
+## Graduation Test
 
 ### Can you get all 15 correct?
 
@@ -601,7 +417,7 @@
 14. Estudio **\_\_\_** aprender (in order to)
 15. Camino **\_\_\_** el parque (through)
 
-**Answers:**
+<details><summary>Click to reveal answers</summary>
 
 1. en
 2. al
@@ -621,27 +437,22 @@
 
 **Score:**
 
-- 15/15 = ¡Perfecto! 🏆
-- 12-14 = ¡Excelente! 🌟
-- 9-11 = ¡Bien! Keep practicing! 💪
-- 6-8 = Review the docs! 📚
-- 0-5 = Start with v1! 🚀
+- 15/15 = Perfecto!
+- 12-14 = Excelente!
+- 9-11 = Bien! Keep practicing!
+- 6-8 = Review the docs!
+- 0-5 = Start with v1!
+
+</details>
 
 ---
 
-## 🎉 ¡Felicidades!
+## Felicidades!
 
-**You now have a complete preposition reference system!**
-
-- 17 focused documents
-- 16 prepositions mastered
-- 50+ essential phrases
-- 30+ verb combinations
-- Decision trees for tough choices
-- Error prevention guide
-
-**Keep this v17 doc handy for quick lookups, and review the individual docs for deep learning!**
-
-**You've got this! 🚀🇪🇸**
+**You now have a complete preposition reference system!** Keep this doc handy for quick lookups, and review the individual docs for deep learning.
 
 _Master prepositions = Master Spanish!_
+
+---
+
+**Next Lesson:** [30-reflexive-verbs.md](30-reflexive-verbs.md) | **Previous Lesson:** [28-preposition-and-verbs.md](28-preposition-and-verbs.md)

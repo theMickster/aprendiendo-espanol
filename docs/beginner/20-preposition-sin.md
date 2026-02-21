@@ -1,9 +1,12 @@
-# 🚫 Preposition Puzzle v8 - SIN
+# Preposition Puzzle v8 - SIN
+
+**Level:** Beginner (A1)
+**Estimated Time:** 8-10 minutes
+**Topics:** SIN, absence, pronouns, infinitive constructions
+
+---
 
 ## The Opposite: Without
-
-**⏱️ Study Time: 8-10 minutes**
-**🎯 Goal: Master SIN - the opposite of CON!**
 
 ---
 
@@ -48,7 +51,7 @@ If CON means "with," then SIN means "without"!
 
 ---
 
-### 🍽️ Food Examples
+### Food Examples
 
 1. **Té sin azúcar**
 
@@ -67,7 +70,7 @@ If CON means "with," then SIN means "without"!
 
 ---
 
-### 🐾 Animal Examples
+### Animal Examples
 
 1. **Un perro sin cola**
 
@@ -86,7 +89,7 @@ If CON means "with," then SIN means "without"!
 
 ---
 
-### ✏️ Practice: SIN for Absence
+### Practice: SIN for Absence
 
 1. Café **\_\_\_** leche
 2. Pan **\_\_\_** mantequilla
@@ -94,7 +97,11 @@ If CON means "with," then SIN means "without"!
 4. Agua **\_\_\_** gas
 5. Un perro **\_\_\_** dueño (owner)
 
-**Answers:** All answers are "sin"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "sin"!
+
+</details>
 
 ---
 
@@ -134,7 +141,7 @@ If CON means "with," then SIN means "without"!
 
 ---
 
-### 🐕 Examples
+### Examples
 
 1. **Mi perro no sale sin mí**
 
@@ -149,14 +156,18 @@ If CON means "with," then SIN means "without"!
 
 ---
 
-### ✏️ Practice: SIN + Pronouns
+### Practice: SIN + Pronouns
 
 1. No voy **\_\_\_** ti (without you)
 2. **\_\_\_** mí, no funciona (without me)
 3. El perro no come **\_\_\_** su comida favorita (without)
 4. **\_\_\_** ellos, no podemos jugar (without them)
 
-**Answers:** 1. sin 2. Sin 3. sin 4. Sin
+<details><summary>Click to reveal answers</summary>
+
+1. sin 2. Sin 3. sin 4. Sin
+
+</details>
 
 ---
 
@@ -189,7 +200,7 @@ If CON means "with," then SIN means "without"!
 
 ---
 
-### 🐾 Animal Examples
+### Animal Examples
 
 1. **El gato entra sin hacer ruido**
 
@@ -208,7 +219,7 @@ If CON means "with," then SIN means "without"!
 
 ---
 
-### ✏️ Practice: SIN + Infinitive
+### Practice: SIN + Infinitive
 
 1. Salgo **\_\_\_** decir nada (without saying)
 2. Come **\_\_\_** pensar (without thinking)
@@ -216,7 +227,11 @@ If CON means "with," then SIN means "without"!
 4. Trabajo **\_\_\_** descansar (without resting)
 5. Habla **\_\_\_** parar (without stopping)
 
-**Answers:** All answers are "sin"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "sin"!
+
+</details>
 
 ---
 
@@ -235,7 +250,7 @@ If CON means "with," then SIN means "without"!
 
 ---
 
-### 🐦 Examples
+### Examples
 
 1. **Sin duda, los perros son leales**
 
@@ -267,7 +282,7 @@ If CON means "with," then SIN means "without"!
 
 ---
 
-### ✏️ Practice: CON or SIN?
+### Practice: CON or SIN?
 
 1. Café **\_\_\_** azúcar (without)
 2. Voy **\_\_\_** mi hermano (with)
@@ -276,13 +291,17 @@ If CON means "with," then SIN means "without"!
 5. Una casa **\_\_\_** jardín (without)
 6. Como **\_\_\_** tenedor (with)
 
-**Answers:** 1. sin 2. con 3. sin 4. con 5. sin 6. con
+<details><summary>Click to reveal answers</summary>
+
+1. sin 2. con 3. sin 4. con 5. sin 6. con
+
+</details>
 
 ---
 
 ## 6️⃣ Real-Life Scenarios
 
-### 🍽️ Ordering Food
+### Ordering Food
 
 "Quiero un café **sin** azúcar y **con** leche. También pan **sin** gluten, por favor. Mi amigo quiere té **sin** leche pero **con** miel. Él no puede comer **sin** miel - le encanta. Comemos **sin** prisa. **Sin** duda, este lugar es excelente."
 
@@ -290,7 +309,7 @@ _Translation: I want a coffee without sugar and with milk. Also gluten-free brea
 
 ---
 
-### 🐕 At the Park
+### At the Park
 
 "Voy al parque **con** mi perro. Nunca voy **sin** él. Él no puede estar **sin** mí. Jugamos **sin** parar. Otros perros juegan **con** nosotros. **Sin** embargo, mi perro es el más rápido. Volvemos a casa **sin** problemas."
 
@@ -318,19 +337,4 @@ _Translation: I want a coffee without sugar and with milk. Also gluten-free brea
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered SIN when you can:
-
-- [ ] Use SIN for absence (sin azúcar)
-- [ ] Use SIN + pronouns correctly (sin mí, sin ti)
-- [ ] Use SIN + infinitive (sin pensar)
-- [ ] Know the difference: CON vs SIN
-- [ ] Use common SIN phrases
-- [ ] Order food without ingredients you don't want!
-
----
-
-**🎉 Next up: v9 - DESDE & HASTA (Since & Until)! 🚀**
-
-_Remember: SIN is simple - it's just "without"!_ 🚫
+**Next Lesson:** [21-preposition-desde-hasta.md](21-preposition-desde-hasta.md) | **Previous Lesson:** [19-preposition-con.md](19-preposition-con.md)

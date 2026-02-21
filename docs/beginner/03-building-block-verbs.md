@@ -1,15 +1,23 @@
-# 🧱 Building Block Verbs - Present Tense
+# Building Block Verbs - Present Tense
 
-## Master the 6 Verbs That Unlock Spanish Conversation!
+**Level:** Beginner (A1)
+**Estimated Time:** 15-20 minutes
+**Topics:** SER, ESTAR, IR, TENER, HACER, HABER - present tense conjugation, usage, SER vs ESTAR
 
-**⏱️ Study Time: 15-20 minutes**
-**🎯 Goal: These 6 verbs appear in 80% of conversations - learn them in PRESENT tense!**
+## Overview
 
----
+These six verbs appear in roughly 80% of everyday Spanish conversations. Mastering their present tense forms gives you the foundation to describe who you are, where you are, where you're going, what you have, what you do, and what exists around you. This lesson covers conjugation, usage rules, and the critical SER vs ESTAR distinction.
 
-## Why These 6 Verbs?
+## Learning Objectives
 
-### The Power Six 💪
+- Conjugate the six core verbs (SER, ESTAR, IR, TENER, HACER, HABER) in present tense
+- Distinguish when to use SER vs ESTAR
+- Use IR + A + infinitive for future plans and TENER QUE for obligations
+- Talk about weather with HACER and express existence with HAY
+
+## Lesson Content
+
+### Why These 6 Verbs?
 
 | Verb      | English      | Why It's Essential              |
 | --------- | ------------ | ------------------------------- |
@@ -25,9 +33,7 @@
 
 ---
 
-## 1️⃣ SER - To Be (Identity & Characteristics)
-
-### 🎭 Present Tense Conjugation
+### SER - To Be (Identity & Characteristics)
 
 | Person              | Spanish | English                     |
 | ------------------- | ------- | --------------------------- |
@@ -38,95 +44,26 @@
 | Vosotros/as         | sois    | you all are                 |
 | Ellos/Ellas/Ustedes | son     | they/you all are            |
 
----
-
-### 🎯 When to Use SER
-
 **Use SER for things that DON'T change easily:**
 
-**1. Identity & Nationality:**
+1. **Identity & Nationality:** Soy Ana / Soy español / Soy de Madrid
+2. **Profession:** Soy profesor / Es médica
+3. **Characteristics & Personality:** Soy simpático / Eres inteligente / La ciudad es hermosa
+4. **Time & Dates:** Son las tres / Es lunes
+5. **Possession:** Es mi libro
 
-- Soy Ana (I am Ana)
-- Soy español (I am Spanish)
-- Soy de Madrid (I am from Madrid)
+**Valencia life with SER:**
 
-**2. Profession:**
+- Soy estudiante de español (I am a Spanish student)
+- Valencia es una ciudad bonita (Valencia is a pretty city)
+- Somos cinco personas en la familia (We are five people in the family)
+- Son las ocho de la mañana (It's 8 in the morning)
 
-- Soy profesor (I am a teacher)
-- Es médica (She is a doctor)
-
-**3. Characteristics & Personality:**
-
-- Soy simpático (I am nice)
-- Eres inteligente (You are intelligent)
-- La ciudad es hermosa (The city is beautiful)
-
-**4. Time & Dates:**
-
-- Son las tres (It's 3 o'clock)
-- Es lunes (It's Monday)
-
-**5. Possession:**
-
-- Es mi libro (It's my book)
+**Your Turn:** Introduce yourself using SER. Say your name, where you're from, and one characteristic. Example: "Soy Mick. Soy de Estados Unidos. Soy simpático."
 
 ---
 
-### 🗣️ Essential SER Phrases
-
-| Spanish         | English          |
-| --------------- | ---------------- |
-| Soy de...       | I'm from...      |
-| ¿Quién es?      | Who is it?       |
-| Es importante   | It's important   |
-| ¿Qué hora es?   | What time is it? |
-| Eres muy amable | You're very kind |
-
----
-
-### 🏠 Daily Life with SER
-
-1. **Soy estudiante de español**
-
-   - (I am a Spanish student)
-
-2. **Mi familia es pequeña**
-
-   - (My family is small)
-
-3. **Valencia es una ciudad bonita**
-
-   - (Valencia is a pretty city)
-
-4. **Son las ocho de la mañana**
-
-   - (It's 8 in the morning)
-
-5. **Somos cinco personas**
-
-   - (We are five people)
-
-6. **Eres muy trabajador**
-   - (You are very hardworking)
-
----
-
-### ✏️ Practice: Complete with SER
-
-1. Yo **\_\_\_** estudiante
-2. Valencia **\_\_\_** hermosa
-3. ¿Qué hora **\_\_\_**?
-4. Nosotros **\_\_\_** una familia
-5. Tú **\_\_\_** amable
-6. Ellos **\_\_\_** de España
-
-**Answers:** 1. soy 2. es 3. es 4. somos 5. eres 6. son
-
----
-
-## 2️⃣ ESTAR - To Be (Location & State)
-
-### 📍 Present Tense Conjugation
+### ESTAR - To Be (Location & State)
 
 | Person              | Spanish | English            |
 | ------------------- | ------- | ------------------ |
@@ -137,73 +74,27 @@
 | Vosotros/as         | estáis  | you all are        |
 | Ellos/Ellas/Ustedes | están   | they/you all are   |
 
----
-
-### 🎯 When to Use ESTAR
-
 **Use ESTAR for things that CAN change:**
 
-**1. Location:**
+1. **Location:** Estoy en casa / Está en la escuela
+2. **Feelings & Emotions:** Estoy feliz / Estás cansado
+3. **Physical States:** La comida está caliente / Está limpio
+4. **Progressive actions:** Estoy estudiando
 
-- Estoy en casa (I am at home)
-- Está en la escuela (He/She is at school)
+**Valencia life with ESTAR:**
 
-**2. Feelings & Emotions:**
-
-- Estoy feliz (I am happy)
-- Estás cansado (You are tired)
-
-**3. Physical States:**
-
-- La comida está caliente (The food is hot)
-- Está limpio (It's clean)
-
-**4. Progressive actions:**
-
-- Estoy estudiando (I am studying)
+- Estoy en casa (I'm at home)
+- La escuela está cerca (The school is nearby)
+- Estoy cansado hoy (I'm tired today)
+- ¿Cómo estás? - Estoy bien, gracias (How are you? - I'm well, thanks)
+- La comida está deliciosa (The food is delicious)
+- Estamos estudiando español (We are studying Spanish)
 
 ---
 
-### 🗣️ Essential ESTAR Phrases
+### SER vs ESTAR Quick Guide
 
-| Spanish         | English      |
-| --------------- | ------------ |
-| ¿Cómo estás?    | How are you? |
-| Estoy bien      | I'm well     |
-| ¿Dónde está...? | Where is...? |
-| Está listo      | It's ready   |
-| Estoy aquí      | I'm here     |
-
----
-
-### 🏠 Daily Life with ESTAR
-
-1. **Estoy en casa**
-
-   - (I'm at home)
-
-2. **La escuela está cerca**
-
-   - (The school is nearby)
-
-3. **Estoy cansado hoy**
-
-   - (I'm tired today)
-
-4. **¿Cómo estás? - Estoy bien, gracias**
-
-   - (How are you? - I'm well, thanks)
-
-5. **La comida está deliciosa**
-
-   - (The food is delicious)
-
-6. **Estamos estudiando español**
-   - (We are studying Spanish)
-
----
-
-### ⚖️ SER vs ESTAR Quick Guide
+This is the most important distinction for beginners. Both mean "to be," but they are NOT interchangeable.
 
 | Use SER                    | Use ESTAR                       |
 | -------------------------- | ------------------------------- |
@@ -213,37 +104,13 @@
 | Time (Son las tres)        | Right now (Estoy comiendo)      |
 | Permanent traits (Es alto) | Temporary states (Está enfermo) |
 
----
+**Think of it this way:** SER = what something IS. ESTAR = how or where something IS right now.
 
-### ✏️ Practice: Complete with ESTAR
-
-1. Yo **\_\_\_** en Valencia
-2. ¿Cómo **\_\_\_** tú?
-3. La comida **\_\_\_** lista
-4. Nosotros **\_\_\_** contentos
-5. ¿Dónde **\_\_\_** la biblioteca?
-6. Ellos **\_\_\_** estudiando
-
-**Answers:** 1. estoy 2. estás 3. está 4. estamos 5. está 6. están
+**Your Turn:** Describe your current situation using both SER and ESTAR. Example: "Soy estudiante (SER - identity). Estoy en Valencia (ESTAR - location). Estoy contento (ESTAR - feeling)."
 
 ---
 
-### ✏️ Practice: SER or ESTAR?
-
-1. Valencia **\_\_\_** bonita (characteristic)
-2. Yo **\_\_\_** en casa (location)
-3. **\_\_\_** las tres (time)
-4. **\_\_\_** cansado (feeling)
-5. Mi hermano **\_\_\_** alto (physical trait)
-6. La puerta **\_\_\_** abierta (condition)
-
-**Answers:** 1. es 2. estoy 3. Son 4. Estoy 5. es 6. está
-
----
-
-## 3️⃣ IR - To Go
-
-### 🚶 Present Tense Conjugation
+### IR - To Go
 
 | Person              | Spanish | English             |
 | ------------------- | ------- | ------------------- |
@@ -254,81 +121,25 @@
 | Vosotros/as         | vais    | you all go          |
 | Ellos/Ellas/Ustedes | van     | they/you all go     |
 
----
-
-### 🎯 When to Use IR
-
-**1. Going to places:**
+**Going to places:**
 
 - Voy a casa (I go home)
 - Vas al parque (You go to the park)
+- Vamos al supermercado (We go to the supermarket)
 
-**2. IR + A + infinitive (going TO do something - FUTURE!):**
+**IR + A + infinitive (future plans) -- this is extremely useful:**
 
 - Voy a estudiar (I'm going to study)
 - Vamos a comer (We're going to eat)
+- Voy a estudiar esta tarde (I'm going to study this afternoon)
+- Vamos a ver una película (We're going to watch a movie)
+- Va a llover mañana (It's going to rain tomorrow)
+
+**Your Turn:** What are you going to do this weekend? Use "Voy a..." to describe two plans. Example: "Voy a estudiar español. Vamos a ir al mercado central en Valencia."
 
 ---
 
-### 🗣️ Essential IR Phrases
-
-| Spanish            | English                  |
-| ------------------ | ------------------------ |
-| ¿Adónde vas?       | Where are you going?     |
-| Voy a...           | I'm going to...          |
-| Vamos              | Let's go!                |
-| Voy a + infinitive | I'm going to... (future) |
-
----
-
-### 🏠 Daily Life with IR
-
-1. **Voy a la escuela cada día**
-
-   - (I go to school every day)
-
-2. **Vamos al supermercado**
-
-   - (We go to the supermarket)
-
-3. **¿Adónde vas?**
-
-   - (Where are you going?)
-
-4. **Van a la biblioteca**
-   - (They go to the library)
-
-**Future plans (IR + A + infinitive):**
-
-5. **Voy a estudiar esta tarde**
-
-   - (I'm going to study this afternoon)
-
-6. **Vamos a ver una película**
-
-   - (We're going to watch a movie)
-
-7. **Va a llover mañana**
-   - (It's going to rain tomorrow)
-
----
-
-### ✏️ Practice: Complete with IR
-
-1. Yo **\_\_\_** a la escuela
-2. ¿Adónde **\_\_\_** tú?
-3. Nosotros **\_\_\_** al cine
-4. Ella **\_\_\_** a casa
-5. **\_\_\_** a estudiar (I'm going to)
-6. Ellos **\_\_\_** de vacaciones
-
-**Answers:** 1. voy 2. vas 3. vamos 4. va 5. Voy 6. van
-
----
-
-## 4️⃣ TENER - To Have
-
-### 🤲 Present Tense Conjugation
+### TENER - To Have
 
 | Person              | Spanish | English              |
 | ------------------- | ------- | -------------------- |
@@ -339,110 +150,37 @@
 | Vosotros/as         | tenéis  | you all have         |
 | Ellos/Ellas/Ustedes | tienen  | they/you all have    |
 
----
+**Possession:** Tengo un libro (I have a book)
 
-### 🎯 When to Use TENER
+**Age (Spanish uses HAVE, not BE):** Tengo 25 años (I am 25 years old)
 
-**1. Possession:**
+**TENER QUE + infinitive (HAVE TO):** Tengo que estudiar (I have to study)
 
-- Tengo un libro (I have a book)
+**TENER expressions -- these are used constantly:**
 
-**2. Age (using HAVE!):**
+| Spanish      | English        |
+| ------------ | -------------- |
+| Tengo hambre | I'm hungry     |
+| Tengo sed    | I'm thirsty    |
+| Tengo calor  | I'm hot        |
+| Tengo frío   | I'm cold       |
+| Tengo sueño  | I'm sleepy     |
+| Tengo razón  | I'm right      |
+| Tengo prisa  | I'm in a hurry |
 
-- Tengo 25 años (I am 25 years old)
+**Valencia life with TENER:**
 
-**3. TENER + QUE + infinitive (HAVE TO):**
+- Tengo un hermano (I have a brother)
+- ¿Tienes un bolígrafo? (Do you have a pen?)
+- Mi hermana tiene quince años (My sister is 15 years old)
+- Tengo que hacer los deberes (I have to do homework)
+- Tengo hambre - vamos a comer (I'm hungry - let's eat)
 
-- Tengo que estudiar (I have to study)
-
-**4. TENER expressions:**
-
-- Tengo hambre (I'm hungry)
-- Tengo sed (I'm thirsty)
-- Tengo calor (I'm hot)
-- Tengo frío (I'm cold)
-- Tengo sueño (I'm sleepy)
-- Tengo razón (I'm right)
-- Tengo suerte (I'm lucky)
-- Tengo prisa (I'm in a hurry)
-
----
-
-### 🗣️ Essential TENER Phrases
-
-| Spanish               | English            |
-| --------------------- | ------------------ |
-| Tengo... años         | I am... years old  |
-| ¿Cuántos años tienes? | How old are you?   |
-| Tengo que...          | I have to...       |
-| ¿Tienes...?           | Do you have...?    |
-| Tengo hambre/sed      | I'm hungry/thirsty |
+**Your Turn:** Describe yourself right now using TENER. How old are you? What do you have to do today? How do you feel? Example: "Tengo cuarenta años. Tengo que estudiar español. Tengo hambre."
 
 ---
 
-### 🏠 Daily Life with TENER
-
-**Possession:**
-
-1. **Tengo un hermano**
-
-   - (I have a brother)
-
-2. **¿Tienes un bolígrafo?**
-   - (Do you have a pen?)
-
-**Age:** 3. **Tengo veinte años**
-
-- (I am 20 years old)
-
-4. **Mi hermana tiene quince años**
-   - (My sister is 15 years old)
-
-**Obligations:** 5. **Tengo que hacer los deberes**
-
-- (I have to do homework)
-
-6. **Tenemos que ir ahora**
-   - (We have to go now)
-
-**Expressions:** 7. **Tengo hambre - vamos a comer**
-
-- (I'm hungry - let's eat)
-
-8. **Tengo frío - está la ventana abierta**
-   - (I'm cold - the window is open)
-
----
-
-### ✏️ Practice: Complete with TENER
-
-1. Yo **\_\_\_** un perro
-2. ¿Cuántos años **\_\_\_** tú?
-3. Mi hermano **\_\_\_** diez años
-4. Nosotros **\_\_\_** que estudiar
-5. **\_\_\_** hambre (I'm hungry)
-6. Ellos **\_\_\_** una casa grande
-
-**Answers:** 1. tengo 2. tienes 3. tiene 4. tenemos 5. Tengo 6. tienen
-
----
-
-### ✏️ Practice: TENER Expressions
-
-1. I'm hungry = **\_\_\_**
-2. I'm thirsty = **\_\_\_**
-3. I'm hot = **\_\_\_**
-4. I'm cold = **\_\_\_**
-5. I'm sleepy = **\_\_\_**
-6. I'm lucky = **\_\_\_**
-
-**Answers:** 1. Tengo hambre 2. Tengo sed 3. Tengo calor 4. Tengo frío 5. Tengo sueño 6. Tengo suerte
-
----
-
-## 5️⃣ HACER - To Do/Make
-
-### 🏃 Present Tense Conjugation
+### HACER - To Do/Make
 
 | Person              | Spanish | English             |
 | ------------------- | ------- | ------------------- |
@@ -455,21 +193,11 @@
 
 **⚠️ Note the irregular YO form: HAGO**
 
----
+**Activities:** Hago ejercicio (I exercise) / Hago yoga (I do yoga)
 
-### 🎯 When to Use HACER
+**Making things:** Hago la comida (I make the food) / Hago la cama (I make the bed)
 
-**1. Activities:**
-
-- Hago ejercicio (I exercise)
-- Hago yoga (I do yoga)
-
-**2. Making things:**
-
-- Hago la comida (I make the food)
-- Hago la cama (I make the bed)
-
-**3. Weather (always HACE):**
+**Weather (always HACE):**
 
 - Hace calor (It's hot)
 - Hace frío (It's cold)
@@ -477,156 +205,54 @@
 - Hace viento (It's windy)
 - Hace buen tiempo (Nice weather)
 
-**4. Questions:**
+**Questions:** ¿Qué haces? (What are you doing?)
 
-- ¿Qué haces? (What are you doing?)
+**Valencia life with HACER:**
 
----
+- Hago ejercicio cada día (I exercise every day)
+- ¿Qué haces los fines de semana? (What do you do on weekends?)
+- Hace calor en verano en Valencia (It's hot in summer in Valencia)
+- Hoy hace sol - perfecto para salir (Today it's sunny - perfect to go out)
 
-### 🗣️ Essential HACER Phrases
-
-| Spanish         | English             |
-| --------------- | ------------------- |
-| ¿Qué haces?     | What are you doing? |
-| Hago ejercicio  | I exercise          |
-| Hace calor/frío | It's hot/cold       |
-| Hace sol        | It's sunny          |
-| Hacer la compra | To do shopping      |
+**Your Turn:** Describe the weather in Valencia right now and one thing you do every day. Example: "Hace sol en Valencia. Hago ejercicio cada mañana."
 
 ---
 
-### 🏠 Daily Life with HACER
+### HABER - There is/There are
 
-**Activities:**
+**HABER uses HAY in present tense for "there is" and "there are" (same word for both!)**
 
-1. **Hago ejercicio cada día**
-
-   - (I exercise every day)
-
-2. **Hacemos los deberes por la tarde**
-
-   - (We do homework in the afternoon)
-
-3. **¿Qué haces los fines de semana?**
-   - (What do you do on weekends?)
-
-**Making things:** 4. **Hago la comida para mi familia**
-
-- (I make food for my family)
-
-5. **Haces un buen trabajo**
-   - (You do a good job)
-
-**Weather:** 6. **Hace calor en verano**
-
-- (It's hot in summer)
-
-7. **Hoy hace sol - perfecto para salir**
-
-   - (Today it's sunny - perfect to go out)
-
-8. **Hace frío en invierno**
-   - (It's cold in winter)
-
----
-
-### ✏️ Practice: Complete with HACER
-
-1. Yo **\_\_\_** ejercicio
-2. ¿Qué **\_\_\_** tú?
-3. **\_\_\_** calor hoy (it's hot)
-4. Nosotros **\_\_\_** la comida
-5. ¿**\_\_\_** sol? (Is it sunny?)
-6. Ellos **\_\_\_** los deberes
-
-**Answers:** 1. hago 2. haces 3. Hace 4. hacemos 5. Hace 6. hacen
-
----
-
-## 6️⃣ HABER - There is/There are
-
-### 🌟 Special Verb!
-
-**HABER uses HAY in present tense for "there is" and "there are"**
-
-**HAY = there is / there are (same for both!)**
-
----
-
-### 🎯 When to Use HAY
-
-**1. What EXISTS:**
+**What EXISTS:**
 
 - Hay un parque (There's a park)
 - Hay libros (There are books)
 
-**2. Asking what EXISTS:**
+**Asking what EXISTS:**
 
 - ¿Hay un baño? (Is there a bathroom?)
+- ¿Hay un supermercado por aquí? (Is there a supermarket around here?)
 
-**3. HAY QUE + infinitive (must/have to - general):**
+**HAY QUE + infinitive (must/have to - general):**
 
 - Hay que estudiar (One must study)
+- Hay que estudiar para el examen (One must study for the exam)
+
+**Valencia life with HAY:**
+
+- Hay una biblioteca cerca (There's a library nearby)
+- Hay muchos estudiantes en la clase (There are many students in class)
+- No hay problema (There's no problem / No problem)
+- ¿Qué hay para comer? (What is there to eat?)
+
+**Your Turn:** Describe what exists in your neighborhood. Example: "Hay un parque cerca. Hay muchos restaurantes. Hay que visitar el mercado central."
 
 ---
 
-### 🗣️ Essential HAY Phrases
+### Combining the Power Verbs
 
-| Spanish              | English            |
-| -------------------- | ------------------ |
-| Hay...               | There is/are...    |
-| ¿Hay...?             | Is/Are there...?   |
-| No hay               | There isn't/aren't |
-| Hay que + infinitive | One must/has to    |
-| ¿Qué hay?            | What's up?         |
+The real magic happens when you combine these verbs in natural conversation.
 
----
-
-### 🏠 Daily Life with HAY
-
-1. **Hay una biblioteca cerca**
-
-   - (There's a library nearby)
-
-2. **Hay muchos estudiantes en la clase**
-
-   - (There are many students in class)
-
-3. **¿Hay un supermercado por aquí?**
-
-   - (Is there a supermarket around here?)
-
-4. **No hay problema**
-
-   - (There's no problem / No problem)
-
-5. **Hay que estudiar para el examen**
-
-   - (One must study for the exam)
-
-6. **¿Qué hay para comer?**
-   - (What is there to eat?)
-
----
-
-### ✏️ Practice: Complete with HAY
-
-1. **\_\_\_** un parque cerca
-2. **\_\_\_** muchos libros
-3. ¿**\_\_\_** un baño?
-4. No **\_\_\_** tiempo
-5. **\_\_\_** que estudiar
-6. **\_\_\_** tres personas aquí
-
-**Answers:** All answers are "Hay" or "hay"!
-
----
-
-## 💪 Combining the Power Verbs
-
-### Real Conversations Using Multiple Verbs
-
-**Morning:**
+**Morning in Valencia:**
 "Soy estudiante. Estoy en casa. Tengo que ir a clase. Voy a la universidad. Hago ejercicio antes. Hay mucho que hacer hoy."
 
 **At School:**
@@ -635,60 +261,101 @@
 **Weekend Plans:**
 "Somos amigos. Vamos al cine. Hay una película nueva. Tengo ganas de verla. Estoy emocionado. Después vamos a hacer algo divertido."
 
----
+**Your Turn:** Write a short paragraph about your day using all 6 verbs. Try to include SER, ESTAR, IR, TENER, HACER, and HAY.
 
-### ✏️ Practice: Complete the Story
+## Common Mistakes
+
+1. **SER vs ESTAR confusion**
+
+   - Wrong: Estoy profesor (using ESTAR for profession)
+   - Right: Soy profesor
+   - Why: Professions are identity/permanent characteristics = SER
+
+2. **Age with SER instead of TENER**
+
+   - Wrong: Soy 25 años
+   - Right: Tengo 25 años
+   - Why: Spanish expresses age as "having" years, not "being" years
+
+3. **Forgetting A with IR**
+
+   - Wrong: Voy casa / Voy estudiar
+   - Right: Voy a casa / Voy a estudiar
+   - Why: IR requires the preposition "a" before destinations and infinitives
+
+4. **HAY vs ESTÁ for existence vs location**
+
+   - Wrong: Está un parque cerca (for announcing existence)
+   - Right: Hay un parque cerca
+   - Why: Use HAY for "there is/are" (existence). Use ESTÁ for "it is located" (known thing's location)
+
+5. **HACER for weather with wrong form**
+   - Wrong: Hago calor (I do hot)
+   - Right: Hace calor (It makes hot = It's hot)
+   - Why: Weather always uses the third person "hace," never conjugated to match a subject
+
+## Practice Exercises
+
+### Exercise 1: Complete with the Correct Verb Form
+
+1. Yo **\_\_\_** estudiante (SER)
+2. Yo **\_\_\_** en Valencia (ESTAR)
+3. ¿Qué hora **\_\_\_**? (SER)
+4. Nosotros **\_\_\_** contentos (ESTAR)
+5. Yo **\_\_\_** a la escuela (IR)
+6. Nosotros **\_\_\_** al cine (IR)
+7. Yo **\_\_\_** un perro (TENER)
+8. Mi hermano **\_\_\_** diez años (TENER)
+9. Yo **\_\_\_** ejercicio (HACER)
+10. **\_\_\_** calor hoy (HACER - weather)
+11. **\_\_\_** un parque cerca (HABER)
+12. **\_\_\_** muchos libros (HABER)
+
+### Exercise 2: SER or ESTAR?
+
+1. Valencia **\_\_\_** bonita (characteristic)
+2. Yo **\_\_\_** en casa (location)
+3. **\_\_\_** las tres (time)
+4. **\_\_\_** cansado (feeling)
+5. Mi hermano **\_\_\_** alto (physical trait)
+6. La puerta **\_\_\_** abierta (condition)
+
+### Exercise 3: Complete the Story
 
 "Hola. Yo **\_\_\_** (am) estudiante y **\_\_\_** (am - location) en Valencia. **\_\_\_** (I have) veinte años. Cada día **\_\_\_** (I go) a la universidad. **\_\_\_** (I do) ejercicio por la mañana. Hoy **\_\_\_** (it's) sol. **\_\_\_** (There are) muchas cosas que hacer. **\_\_\_** (I'm going to) estudiar esta tarde porque **\_\_\_** (I have to) preparar un examen."
 
-**Answers:**
-soy, estoy, Tengo, voy, Hago, hace, Hay, Voy a, tengo
+### Exercise 4: TENER Expressions
+
+Translate to Spanish:
+
+1. I'm hungry = **\_\_\_**
+2. I'm thirsty = **\_\_\_**
+3. I'm hot = **\_\_\_**
+4. I'm cold = **\_\_\_**
+5. I'm sleepy = **\_\_\_**
+6. I'm in a hurry = **\_\_\_**
+
+## Answer Key
+
+<details><summary>Click to reveal answers</summary>
+
+**Exercise 1:**
+
+1. soy 2. estoy 3. es 4. estamos 5. voy 6. vamos 7. tengo 8. tiene 9. hago 10. Hace 11. Hay 12. Hay
+
+**Exercise 2:**
+
+1. es 2. estoy 3. Son 4. Estoy 5. es 6. está
+
+**Exercise 3:**
+soy, estoy, Tengo, voy, Hago, hace, Hay, Voy a, tengo que
+
+**Exercise 4:**
+
+1. Tengo hambre 2. Tengo sed 3. Tengo calor 4. Tengo frío 5. Tengo sueño 6. Tengo prisa
+
+</details>
 
 ---
 
-## 🎯 Quick Reference Card
-
-### All 6 Verbs - YO Form
-
-| Verb  | Yo Form | Example        |
-| ----- | ------- | -------------- |
-| SER   | soy     | Soy estudiante |
-| ESTAR | estoy   | Estoy aquí     |
-| IR    | voy     | Voy a casa     |
-| TENER | tengo   | Tengo 20 años  |
-| HACER | hago    | Hago ejercicio |
-| HABER | hay     | Hay un libro   |
-
----
-
-### Most Common Phrases
-
-**SER:** Soy de... / Es importante / ¿Qué hora es?
-**ESTAR:** Estoy bien / ¿Dónde está? / Está listo
-**IR:** Voy a... / Vamos / Voy a + infinitive
-**TENER:** Tengo... años / Tengo que... / Tengo hambre
-**HACER:** Hago ejercicio / Hace calor / ¿Qué haces?
-**HABER:** Hay... / ¿Hay...? / Hay que...
-
----
-
-## ✅ Mastery Checklist
-
-You've mastered present tense when you can:
-
-- [ ] Conjugate all 6 verbs without thinking
-- [ ] Know when to use SER vs ESTAR
-- [ ] Use IR + A + infinitive for future plans
-- [ ] Express age with TENER
-- [ ] Use TENER QUE for obligations
-- [ ] Talk about weather with HACER
-- [ ] Say what exists with HAY
-- [ ] Combine verbs in conversation
-
----
-
-**🎉 ¡Felicidades! You now have the building blocks of Spanish conversation!**
-
-**Next Step:** Practice Document 2 - Past Tense! 🚀
-
-_Practice 10 minutes daily and these verbs will become automatic!_
+**Next Lesson:** [10-adjectives.md](10-adjectives.md) | **Previous Lesson:** [02-numbers.md](02-numbers.md)

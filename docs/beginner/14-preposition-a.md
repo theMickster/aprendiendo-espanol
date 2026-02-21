@@ -1,9 +1,12 @@
-# 🎯 Preposition Puzzle v2 - A
+# Preposition Puzzle v2 - A
+
+**Level:** Beginner (A1)
+**Estimated Time:** 15-20 minutes
+**Topics:** A, direction, time, personal A
+
+---
 
 ## Direction, Time & The Mysterious "Personal A"
-
-**⏱️ Study Time: 15-20 minutes**
-**🎯 Goal: Master A - for movement, time, and people!**
 
 ---
 
@@ -61,7 +64,7 @@
 
 ---
 
-### 🔄 A vs EN - Movement vs Location
+### A vs EN - Movement vs Location
 
 | A (Movement TO)       | EN (Location AT/IN)     |
 | --------------------- | ----------------------- |
@@ -79,7 +82,7 @@
 
 ---
 
-### ⚠️ AL = A + EL (Contraction!)
+### AL = A + EL (Contraction!)
 
 **When A meets EL, they combine!**
 
@@ -99,30 +102,7 @@ Examples:
 
 ---
 
-### 🐕 Animal Examples - Movement
-
-1. **El perro corre al jardín**
-
-   - (The dog runs to the garden)
-
-2. **Los pájaros vuelan a sus nidos**
-
-   - (The birds fly to their nests)
-
-3. **El gato salta a la mesa**
-
-   - (The cat jumps to the table)
-
-4. **Las mariposas van a las flores**
-
-   - (The butterflies go to the flowers)
-
-5. **El pez nada al fondo**
-   - (The fish swims to the bottom)
-
----
-
-### ✏️ Practice: Complete with A or AL
+### Practice: Complete with A or AL
 
 1. Voy **\_\_\_** casa
 2. Vamos **\_\_\_** parque (a + el)
@@ -131,7 +111,11 @@ Examples:
 5. El gato va **\_\_\_** jardín (a + el)
 6. Voy **\_\_\_** biblioteca (a + la)
 
-**Answers:** 1. a 2. al 3. a la 4. a 5. al 6. a la
+<details><summary>Click to reveal answers</summary>
+
+1. a 2. al 3. a la 4. a 5. al 6. a la
+
+</details>
 
 ---
 
@@ -187,7 +171,7 @@ Examples:
 
 ---
 
-### ✏️ Practice: Time with A
+### Practice: Time with A
 
 1. Salgo de casa **\_\_\_** las siete
 2. Comemos **\_\_\_** la una (at 1)
@@ -196,7 +180,11 @@ Examples:
 5. **\_\_\_** veces voy al cine
 6. La tienda cierra **\_\_\_** las nueve
 
-**Answers:** 1. a 2. a 3. al 4. a 5. A 6. a
+<details><summary>Click to reveal answers</summary>
+
+1. a 2. a 3. al 4. a 5. A 6. a
+
+</details>
 
 ---
 
@@ -267,7 +255,7 @@ Examples:
 
 ---
 
-### 🐾 Personal A with Pets
+### Personal A with Pets
 
 **Pets are family - use personal A!**
 
@@ -286,16 +274,9 @@ Examples:
 4. **Llamo a mi perro "Max"**
    - (I call my dog "Max")
 
-**BUT NOT with wild animals:**
-
-- Veo un león (I see a lion - no A!)
-- Veo elefantes (I see elephants - no A!)
-
-**Why?** They're not personalized/specific to you!
-
 ---
 
-### ✏️ Practice: Personal A or No?
+### Practice: Personal A or No?
 
 1. Veo **\_\_\_** mi hermano
 2. Veo **\_\_\_** un gato en la calle (random cat)
@@ -306,7 +287,11 @@ Examples:
 7. Amo **\_\_\_** mi familia
 8. Veo **\_\_\_** muchos pájaros (not specific/pets)
 
-**Answers:** 1. a 2. (nothing) 3. a 4. (nothing) 5. a 6. (nothing) 7. a 8. (nothing)
+<details><summary>Click to reveal answers</summary>
+
+1. a 2. (nothing) 3. a 4. (nothing) 5. a 6. (nothing) 7. a 8. (nothing)
+
+</details>
 
 ---
 
@@ -328,29 +313,6 @@ Examples:
 
 ---
 
-### 🐦 Examples with Animals
-
-1. **Voy al zoo a pie**
-
-   - (I go to the zoo on foot)
-
-2. **A veces los perros ladran a los gatos**
-
-   - (Sometimes dogs bark at cats)
-
-3. **El búho caza a medianoche**
-
-   - (The owl hunts at midnight)
-
-4. **Los pájaros vuelan a la derecha**
-
-   - (The birds fly to the right)
-
-5. **Al final, el león descansa**
-   - (At the end, the lion rests)
-
----
-
 ## 5️⃣ A + Infinitive (Verbs that need A)
 
 ### Common Verb + A + Infinitive Patterns
@@ -368,7 +330,7 @@ Examples:
 
 ---
 
-### 🐕 Examples
+### Examples
 
 1. **El perro aprende a sentarse**
 
@@ -387,20 +349,4 @@ Examples:
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered A when you can:
-
-- [ ] Use A for direction/movement (voy a...)
-- [ ] Use A for specific times (a las tres)
-- [ ] Use AL contraction (a + el)
-- [ ] Use personal A with people/pets
-- [ ] Know when NOT to use personal A
-- [ ] Use A with verbs (aprender a, empezar a)
-- [ ] Distinguish A from EN (movement vs location)
-
----
-
-**🎉 Next up: v3 - POR (The Multi-Tool)! 🚀**
-
-_Practice: Think "A" = arrow pointing TO something!_ →
+**Next Lesson:** [15-preposition-por.md](15-preposition-por.md) | **Previous Lesson:** [13-preposition-en.md](13-preposition-en.md)

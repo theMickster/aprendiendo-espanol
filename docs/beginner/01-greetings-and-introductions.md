@@ -1,14 +1,14 @@
 # Greetings and Introductions
 
-**Level:** Beginner (A1)  
-**Estimated Time:** 20 minutes  
+**Level:** Beginner (A1)
+**Estimated Time:** 20 minutes
 **Topics:** Basic greetings, introductions, farewells
 
-## 📝 Overview
+## Overview
 
 Learn essential Spanish greetings and how to introduce yourself. These phrases are the foundation of every Spanish conversation and will help you make a great first impression!
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this lesson, you will be able to:
 
@@ -17,7 +17,7 @@ By the end of this lesson, you will be able to:
 - Ask someone's name and how they are
 - Say goodbye in various situations
 
-## 📖 Lesson Content
+## Lesson Content
 
 ### Basic Greetings
 
@@ -84,7 +84,7 @@ Use formal greetings with people you don't know well, anyone older, or in profes
 - **Hasta luego** - See you later
 - **Que tenga un buen día** - Have a good day
 
-## 💬 Common Phrases
+## Common Phrases
 
 | Spanish      | English                 | Pronunciation Tip |
 | ------------ | ----------------------- | ----------------- |
@@ -97,7 +97,7 @@ Use formal greetings with people you don't know well, anyone older, or in profes
 | Gracias      | Thank you               | GRAH-see-ahs      |
 | De nada      | You're welcome          | deh NAH-dah       |
 
-## ⚠️ Common Mistakes
+## Common Mistakes
 
 - ❌ **Wrong:** "Buenos días" at night
 
@@ -113,7 +113,7 @@ Use formal greetings with people you don't know well, anyone older, or in profes
   - ✅ **Right:** Only say it when meeting someone for the first time
   - 💡 **Why:** It specifically means "nice to meet you" (first time)
 
-## 💪 Practice Exercises
+## Practice Exercises
 
 ### Exercise 1: Choose the Right Greeting
 
@@ -129,17 +129,17 @@ What would you say in these situations?
 
 Complete the conversations:
 
-1. A: ¡Hola! ¿Cómo te **\_\_\_**?  
+1. A: ¡Hola! ¿Cómo te **\_\_\_**?
    B: Me **\_\_\_** Carlos. ¿Y tú?
 
-2. A: Buenos días, señora López.  
-   B: Buenos días. ¿Cómo **\_\_\_** usted?  
+2. A: Buenos días, señora López.
+   B: Buenos días. ¿Cómo **\_\_\_** usted?
    A: Muy **\_\_\_**, gracias.
 
-3. A: Hola, soy Ana. **\_\_\_** gusto.  
+3. A: Hola, soy Ana. **\_\_\_** gusto.
    B: Encantado. Yo **\_\_\_** Pedro.
 
-## 🔑 Answer Key
+## Answer Key
 
 <details>
 <summary>Click to reveal answers</summary>
@@ -160,7 +160,7 @@ Complete the conversations:
 
 </details>
 
-## 🌟 Cultural Notes
+## Cultural Notes
 
 **Greetings in Spain:**
 
@@ -175,14 +175,7 @@ Complete the conversations:
 - Young people almost always use "tú" with each other
 - In business settings, wait to be invited to use "tú"
 
-## 📚 Additional Resources
-
-- **Related Lessons:**
-  - Next: [The Alphabet and Pronunciation](./alphabet-and-pronunciation.md) _(coming soon)_
-  - Next: [Subject Pronouns](./subject-pronouns.md) _(coming soon)_
-- **Practice More:** Try greeting everyone you meet today in Spanish!
-
-## 🗣️ Speaking Practice
+## Speaking Practice
 
 Try these in front of a mirror:
 
@@ -194,10 +187,4 @@ Try these in front of a mirror:
 
 ---
 
-**Next Lesson:** [The Alphabet and Pronunciation](./alphabet-and-pronunciation.md) _(coming soon)_
-
-_Questions or feedback? [Open an issue](../../../issues)!_
-
----
-
-**¡Felicidades!** You've completed your first lesson! 🎉
+**Next Lesson:** [02-numbers.md](02-numbers.md)

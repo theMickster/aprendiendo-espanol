@@ -1,9 +1,12 @@
-# 🔗 Preposition Puzzle v16 - Verb + Preposition Combos
+# Preposition Puzzle v16 - Verb + Preposition Combos
+
+**Level:** Beginner (A1)
+**Estimated Time:** 15 minutes
+**Topics:** verb + preposition pairs, DE, EN, CON, A, POR combinations
+
+---
 
 ## The Power Pairs: Verbs That Need Prepositions
-
-**⏱️ Study Time: 15 minutes**
-**🎯 Goal: Master verb+preposition combinations - you CAN'T translate these directly!**
 
 ---
 
@@ -23,7 +26,7 @@
 
 ---
 
-## ⚠️ Critical Warning
+## Critical Warning
 
 **Don't translate word-for-word from English!**
 
@@ -50,7 +53,7 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ---
 
-### 🗣️ Examples with HABLAR DE
+### Examples with HABLAR DE
 
 **HABLAR DE = to talk about**
 
@@ -71,22 +74,7 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ---
 
-### 🐕 Animal Examples - HABLAR DE
-
-1. **Hablo de mi perro con mis amigos**
-
-   - (I talk about my dog with my friends)
-
-2. **El libro habla de leones**
-
-   - (The book talks about lions)
-
-3. **Hablamos de nuestras mascotas**
-   - (We talk about our pets)
-
----
-
-### ⏰ Examples with ACABAR DE
+### Examples with ACABAR DE
 
 **ACABAR DE = to have just (recent past)**
 
@@ -107,7 +95,7 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ---
 
-### ✏️ Practice: Verbs + DE
+### Practice: Verbs + DE
 
 1. Hablo **\_\_\_** mi familia (talk about)
 2. Acabo **\_\_\_** comer (just ate)
@@ -116,7 +104,11 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 5. Depende **\_\_\_** el tiempo (depends on)
 6. Me olvido **\_\_\_** las llaves (forget about)
 
-**Answers:** All answers are "de"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "de"!
+
+</details>
 
 ---
 
@@ -136,7 +128,7 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ---
 
-### 💭 Examples with PENSAR EN
+### Examples with PENSAR EN
 
 **PENSAR EN = to think about**
 
@@ -160,22 +152,7 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ---
 
-### 🐾 Animal Examples
-
-1. **Pienso en mi perro cuando estoy fuera**
-
-   - (I think about my dog when I'm out)
-
-2. **Me fijo en los pájaros en el parque**
-
-   - (I notice the birds in the park)
-
-3. **Confío en mi perro completamente**
-   - (I trust my dog completely)
-
----
-
-### ✏️ Practice: Verbs + EN
+### Practice: Verbs + EN
 
 1. Pienso **\_\_\_** ti (think about you)
 2. Confío **\_\_\_** mis amigos (trust in)
@@ -183,7 +160,11 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 4. Entro **\_\_\_** la casa (enter)
 5. Insisto **\_\_\_** estudiar (insist on)
 
-**Answers:** All answers are "en"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "en"!
+
+</details>
 
 ---
 
@@ -201,9 +182,9 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ---
 
-### 😴 Examples with SOÑAR CON
+### Examples with SONAR CON
 
-**SOÑAR CON = to dream about**
+**SONAR CON = to dream about**
 
 ❌ **Wrong:** Sueño de ti (English: dream **of**)
 ✅ **Right:** Sueño **con** ti
@@ -225,22 +206,7 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ---
 
-### 🐾 Animal Examples
-
-1. **Sueño con tener un gato**
-
-   - (I dream about having a cat)
-
-2. **Los niños sueñan con ir al zoo**
-
-   - (Children dream about going to the zoo)
-
-3. **Cuento con mi perro para compañía**
-   - (I count on my dog for company)
-
----
-
-### ✏️ Practice: Verbs + CON
+### Practice: Verbs + CON
 
 1. Sueño **\_\_\_** viajar (dream about)
 2. Cuento **\_\_\_** ti (count on)
@@ -248,7 +214,11 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 4. Se enfada **\_\_\_** el gato (gets angry with)
 5. Sueño **\_\_\_** tener un perro (dream about)
 
-**Answers:** All answers are "con"! (Remember: contigo for "with you")
+<details><summary>Click to reveal answers</summary>
+
+All answers are "con"! (Remember: contigo for "with you")
+
+</details>
 
 ---
 
@@ -269,7 +239,7 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ---
 
-### 📚 Examples with APRENDER A
+### Examples with APRENDER A
 
 **APRENDER A = to learn to**
 
@@ -286,30 +256,7 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ---
 
-### 🐕 Animal Examples
-
-1. **El perro aprende a sentarse**
-
-   - (The dog learns to sit)
-
-2. **Enseño a mi loro a hablar**
-
-   - (I teach my parrot to talk)
-
-3. **El cachorro empieza a caminar**
-
-   - (The puppy begins to walk)
-
-4. **Los pájaros aprenden a volar**
-
-   - (Birds learn to fly)
-
-5. **El gato se atreve a saltar**
-   - (The cat dares to jump)
-
----
-
-### ✏️ Practice: Verbs + A
+### Practice: Verbs + A
 
 1. Aprendo **\_\_\_** nadar (learn to)
 2. Empiezo **\_\_\_** estudiar (begin to)
@@ -317,7 +264,11 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 4. Vuelvo **\_\_\_** intentar (do again)
 5. El perro aprende **\_\_\_** sentarse (learn to)
 
-**Answers:** All answers are "a"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "a"!
+
+</details>
 
 ---
 
@@ -335,7 +286,7 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ---
 
-### 😟 Examples with PREOCUPARSE POR
+### Examples with PREOCUPARSE POR
 
 **PREOCUPARSE POR = to worry about**
 
@@ -352,22 +303,7 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ---
 
-### 🐾 Animal Examples
-
-1. **Me preocupo por mi perro cuando viajo**
-
-   - (I worry about my dog when I travel)
-
-2. **Pregunto por mi gato en el veterinario**
-
-   - (I ask about my cat at the vet)
-
-3. **Me intereso por los animales marinos**
-   - (I'm interested in marine animals)
-
----
-
-### ✏️ Practice: Verbs + POR
+### Practice: Verbs + POR
 
 1. Me preocupo **\_\_\_** mi familia (worry about)
 2. Pregunto **\_\_\_** ti (ask about)
@@ -375,63 +311,49 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 4. Lucho **\_\_\_** mis sueños (fight for)
 5. Me preocupo **\_\_\_** mi gato (worry about)
 
-**Answers:** All answers are "por"!
+<details><summary>Click to reveal answers</summary>
+
+All answers are "por"!
+
+</details>
 
 ---
 
 ## 6️⃣ Quick Reference - Top 30 Combos
 
-### Must Memorize!
-
-**+ DE (10 most common):**
-
-1. hablar de (talk about)
-2. tratar de (try to)
-3. acabar de (just did)
-4. olvidarse de (forget)
-5. acordarse de (remember)
-6. dejar de (stop doing)
-7. depender de (depend on)
-8. enamorarse de (fall in love with)
-9. darse cuenta de (realize)
-10. quejarse de (complain about)
-
-**+ EN (7 most common):**
-
-1. pensar en (think about)
-2. confiar en (trust in)
-3. insistir en (insist on)
-4. consistir en (consist of)
-5. convertirse en (become)
-6. fijarse en (notice)
-7. entrar en (enter)
-
-**+ CON (5 most common):**
-
-1. soñar con (dream about)
-2. contar con (count on)
-3. casarse con (marry)
-4. encontrarse con (meet up with)
-5. enfadarse con (get angry with)
-
-**+ A (8 most common):**
-
-1. aprender a (learn to)
-2. empezar a (begin to)
-3. enseñar a (teach to)
-4. ayudar a (help to)
-5. ir a (be going to)
-6. venir a (come to)
-7. volver a (do again)
-8. atreverse a (dare to)
-
-**+ POR (5 most common):**
-
-1. preocuparse por (worry about)
-2. preguntar por (ask about)
-3. interesarse por (be interested in)
-4. luchar por (fight for)
-5. votar por (vote for)
+| Verb + Preposition | English           |
+| ------------------ | ----------------- |
+| hablar de          | talk about        |
+| tratar de          | try to            |
+| acabar de          | just did          |
+| olvidarse de       | forget            |
+| acordarse de       | remember          |
+| dejar de           | stop doing        |
+| depender de        | depend on         |
+| enamorarse de      | fall in love with |
+| darse cuenta de    | realize           |
+| quejarse de        | complain about    |
+| pensar en          | think about       |
+| confiar en         | trust in          |
+| insistir en        | insist on         |
+| consistir en       | consist of        |
+| convertirse en     | become            |
+| fijarse en         | notice            |
+| entrar en          | enter             |
+| soñar con          | dream about       |
+| contar con         | count on          |
+| casarse con        | marry             |
+| encontrarse con    | meet up with      |
+| enfadarse con      | get angry with    |
+| aprender a         | learn to          |
+| empezar a          | begin to          |
+| enseñar a          | teach to          |
+| ayudar a           | help to           |
+| ir a               | be going to       |
+| volver a           | do again          |
+| preocuparse por    | worry about       |
+| preguntar por      | ask about         |
+| interesarse por    | be interested in  |
 
 ---
 
@@ -450,7 +372,7 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 9. Trato **\_\_\_** mejorar (try to)
 10. Confío **\_\_\_** ti (trust in)
 
-**Answers:**
+<details><summary>Click to reveal answers</summary>
 
 1. en
 2. de
@@ -463,17 +385,19 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 9. de
 10. en
 
+</details>
+
 ---
 
 ## 8️⃣ Real-Life Scenarios
 
-### 🐕 Talking About Your Pet
+### Talking About Your Pet
 
 "Hablo **de** mi perro todo el tiempo. Pienso **en** él cuando estoy en el trabajo. Sueño **con** tener más perros. Trato **de** cuidarlo bien. Me preocupo **por** su salud. Acabo **de** darle de comer. Aprendo **a** entrenarlo mejor. Me doy cuenta **de** que es mi mejor amigo. Cuento **con** él para compañía. No me olvido **de** darle agua."
 
 ---
 
-### 📚 Learning Spanish
+### Learning Spanish
 
 "Empiezo **a** estudiar español. Trato **de** practicar cada día. Me intereso **por** la cultura española. Pienso **en** español cuando hablo. No me olvido **de** repasar. Aprendo **a** conjugar verbos. Acabo **de** terminar mi lección. Me doy cuenta **de** que es difícil pero interesante. Cuento **con** mi profesor para ayuda."
 
@@ -481,7 +405,7 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ## 9️⃣ Common Errors to Avoid
 
-### ❌ Wrong Preposition!
+### Wrong Preposition!
 
 | ❌ Wrong             | ✅ Correct        | Why                             |
 | -------------------- | ----------------- | ------------------------------- |
@@ -493,7 +417,7 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ---
 
-## 🔟 Memory Tips
+## Memory Tips
 
 ### Grouping Strategy
 
@@ -527,38 +451,4 @@ Each Spanish verb has its own preposition partner. You must learn them together 
 
 ---
 
-## ✅ Mastery Checklist
-
-You've mastered verb + preposition combos when you can:
-
-- [ ] Use pensar EN (not sobre!)
-- [ ] Use soñar CON (not de!)
-- [ ] Use hablar DE
-- [ ] Use aprender A
-- [ ] Use preocuparse POR
-- [ ] Use acabar DE for "just did"
-- [ ] Recognize these can't be translated directly
-- [ ] Memorize top 30 combinations
-- [ ] Use them naturally in conversation
-
----
-
-## 💡 Study Strategy
-
-**Learn 5 per day:**
-
-- Day 1: 5 verbs + DE
-- Day 2: 5 more verbs + DE
-- Day 3: 7 verbs + EN
-- Day 4: 5 verbs + CON
-- Day 5: 8 verbs + A
-- Day 6: 5 verbs + POR
-- Day 7: Review all 30!
-
-**Practice:** Use each in a sentence about animals or your daily life!
-
----
-
-**🎉 Next up: v17 - Complete Quick Reference! 🚀**
-
-_Remember: These are units - memorize the verb WITH its preposition!_ 🔗
+**Next Lesson:** [29-preposition-the-finale.md](29-preposition-the-finale.md) | **Previous Lesson:** [27-preposition-locations.md](27-preposition-locations.md)
