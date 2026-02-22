@@ -72,7 +72,7 @@ The ITV is Spain's mandatory roadworthiness test. Without it, you cannot legally
 
 ### 2026 ITV Crackdown
 
-The DGT has tightened ITV enforcement in 2026: driving without a valid ITV now results in a **€200 fine + 3 points** deducted. If expired more than 12 months: **€500 fine**. Officers may **immobilise your vehicle on the spot**. The informal "grace period" no longer exists.
+The DGT has tightened ITV enforcement in 2026: driving with an expired ITV is a **€200 fine** (€100 with pronto pago). Driving with a negative ITV (severe defects) is a **€500 fine** and possible **3-point deduction**, plus vehicle immobilisation. Officers may **immobilise your vehicle on the spot**. Having a pending appointment no longer excuses an expired ITV.
 
 ### 🚨 DGT Exam Trap — ITV Frequency
 
@@ -82,13 +82,13 @@ The DGT has tightened ITV enforcement in 2026: driving without a valid ITV now r
 
 ## 🧰 MANDATORY VEHICLE EQUIPMENT (2026)
 
-| Item                             | Spanish                               | Notes                                                                                     |
-| -------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------------- |
-| ✅ **V-16 connected beacon**     | Baliza V-16 conectada                 | **Mandatory from 1 Jan 2026.** Replaces emergency triangles. Store in glove compartment.  |
-| ✅ **Reflective vest**           | Chaleco reflectante                   | At least 1 — must be inside the cabin (not the boot!) so you can put it on before exiting |
-| ✅ **Spare wheel OR repair kit** | Rueda de repuesto o kit antipinchazos | Most modern cars come with a repair kit instead of a full spare                           |
-| ✅ **Insurance documentation**   | Documentación del seguro              | Must be current and available                                                             |
-| ⚠️ **Emergency triangles**       | Triángulos de emergencia              | No longer mandatory in Spain as of 2026, but keep them for driving in other EU countries  |
+| Item                             | Spanish                               | Notes                                                                                                                                                  |
+| -------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ✅ **V-16 connected beacon**     | Baliza V-16 conectada                 | **Mandatory from 1 Jan 2026.** Replaces emergency triangles. Store in glove compartment.                                                               |
+| ✅ **Reflective vest**           | Chaleco reflectante                   | At least 1 — must be inside the cabin (not the boot!) so you can put it on before exiting                                                              |
+| ✅ **Spare wheel OR repair kit** | Rueda de repuesto o kit antipinchazos | Most modern cars come with a repair kit instead of a full spare                                                                                        |
+| ✅ **Insurance documentation**   | Documentación del seguro              | Must be current and available                                                                                                                          |
+| ⚠️ **Emergency triangles**       | Triángulos de emergencia              | No longer mandatory as of 2026. Can still be used alongside V-16 (not sanctioned), but V-16 alone is sufficient. Keep triangles for other EU countries |
 
 ### 🚨 DGT Exam Trap — Reflective Vest Location
 
@@ -203,18 +203,18 @@ A regular -ar verb with multiple meanings — context determines translation.
 
 ## ⚠️ US → Spain Differences
 
-| US                                           | Spain                                                            | Key Difference                          |
-| -------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------- |
-| State inspection varies                      | **ITV mandatory** nationwide — strictly enforced                 | No flexibility in Spain                 |
-| Grace period common                          | **No grace period** as of 2026 — expired = fine + immobilisation | Major 2026 change                       |
-| Emergency triangles                          | **V-16 connected beacon** (2026)                                 | Different equipment requirement         |
-| Child seat until varies by state             | Child seat until **1.35m height** (rear seats)                   | Height-based, not age-based             |
-| Seatbelt laws vary by state                  | Seatbelt **ALWAYS mandatory** — all seats                        | No exceptions for rear seats            |
-| No environmental badge system in most states | **Distintivo ambiental** required for ZBEs                       | Check your car before driving in cities |
-| Vehicle insurance: varies by state           | Vehicle insurance: **ALWAYS mandatory**                          | Minimum third-party by law              |
-| State registration + plates                  | Permiso de circulación + Spanish matrícula                       | Similar concept                         |
-| Minimum tyre tread: 2/32" (~1.6mm)           | Minimum tyre tread: **1.6mm**                                    | Same standard!                          |
-| Reflective vest: not required                | Reflective vest: **mandatory in cabin**                          | Keep it under the seat, not in the boot |
+| US                                           | Spain                                                                                      | Key Difference                          |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------- |
+| State inspection varies                      | **ITV mandatory** nationwide — strictly enforced                                           | No flexibility in Spain                 |
+| Grace period common                          | **No grace period** as of 2026 — expired = €200 fine, negative ITV = €500 + immobilisation | Major 2026 change                       |
+| Emergency triangles                          | **V-16 connected beacon** (2026)                                                           | Different equipment requirement         |
+| Child seat until varies by state             | Child seat until **1.35m height** (rear seats)                                             | Height-based, not age-based             |
+| Seatbelt laws vary by state                  | Seatbelt **ALWAYS mandatory** — all seats                                                  | No exceptions for rear seats            |
+| No environmental badge system in most states | **Distintivo ambiental** required for ZBEs                                                 | Check your car before driving in cities |
+| Vehicle insurance: varies by state           | Vehicle insurance: **ALWAYS mandatory**                                                    | Minimum third-party by law              |
+| State registration + plates                  | Permiso de circulación + Spanish matrícula                                                 | Similar concept                         |
+| Minimum tyre tread: 2/32" (~1.6mm)           | Minimum tyre tread: **1.6mm**                                                              | Same standard!                          |
+| Reflective vest: not required                | Reflective vest: **mandatory in cabin**                                                    | Keep it under the seat, not in the boot |
 
 ---
 
@@ -222,7 +222,7 @@ A regular -ar verb with multiple meanings — context determines translation.
 
 1. **Always carry:** driving licence, vehicle registration, insurance, ITV sticker, ID.
 2. **ITV schedule:** First at 4 years. Then every 2 years (4–10). Then yearly (10+).
-3. **2026 ITV crackdown:** No grace period. Expired = €200 fine + 3 points. 12+ months expired = €500. Vehicle may be immobilised.
+3. **2026 ITV crackdown:** Expired ITV = €200 fine. Negative ITV (severe defects) = €500 + possible 3 points + immobilisation. Having a pending appointment is no longer an excuse.
 4. **Mandatory equipment (2026):** V-16 connected beacon (glove compartment), reflective vest (cabin — NOT boot), spare/repair kit.
 5. **Reflective vest goes IN THE CABIN** — not the boot. Put it on BEFORE exiting.
 6. **Minimum tyre tread: 1.6mm.** Check pressure monthly.

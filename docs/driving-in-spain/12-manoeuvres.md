@@ -45,7 +45,9 @@ Manoeuvres are the **actions** you perform while driving — overtaking, lane ch
 
 ### ⚠️ 2026 RULE CHANGE — Overtaking Cyclists & Stopped Vehicles
 
-As of **2026**, when overtaking a cyclist or a vehicle stopped on the hard shoulder:
+**Status (Feb 2026):** This rule is part of the Reglamento General de Circulación reform draft. It is expected to become law during 2026 but has not yet been formally enacted. Check DGT for the latest status.
+
+When overtaking a cyclist or a vehicle stopped on the hard shoulder:
 
 | Requirement             | Detail                                                                                     |
 | ----------------------- | ------------------------------------------------------------------------------------------ |
@@ -59,16 +61,16 @@ As of **2026**, when overtaking a cyclist or a vehicle stopped on the hard shoul
 
 ### When Is Overtaking PROHIBITED?
 
-| Situation                                                  | Why It's Prohibited                                                      |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 🚫 **No-overtaking sign (R-200)** active                   | Sign says no!                                                            |
-| 🚫 **Solid white line** on your side                       | You cannot cross it (EXCEPT for cyclists/stopped vehicles per 2026 rule) |
-| 🚫 **Insufficient visibility** — bends, hills, tunnels     | You can't see oncoming traffic                                           |
-| 🚫 **At or near a pedestrian crossing**                    | Pedestrians may step out                                                 |
-| 🚫 **At level crossings** (pasos a nivel)                  | Too dangerous                                                            |
-| 🚫 **At intersections** (unless you're on a priority road) | Vehicles may enter                                                       |
-| 🚫 **In bad weather** when visibility is very poor         | Too risky                                                                |
-| 🚫 **On motorways in snow/ice** (2026 rule)                | Must stay in right lane for emergency access                             |
+| Situation                                                  | Why It's Prohibited                                                                                         |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 🚫 **No-overtaking sign (R-200)** active                   | Sign says no!                                                                                               |
+| 🚫 **Solid white line** on your side                       | You cannot cross it (EXCEPT for cyclists/stopped vehicles per 2026 rule)                                    |
+| 🚫 **Insufficient visibility** — bends, hills, tunnels     | You can't see oncoming traffic                                                                              |
+| 🚫 **At or near a pedestrian crossing**                    | Pedestrians may step out                                                                                    |
+| 🚫 **At level crossings** (pasos a nivel)                  | Too dangerous                                                                                               |
+| 🚫 **At intersections** (unless you're on a priority road) | Vehicles may enter                                                                                          |
+| 🚫 **In bad weather** when visibility is very poor         | Too risky                                                                                                   |
+| 🚫 **On motorways in snow/ice** (2026 rule)                | Prohibited — must stay in right lane for emergency access (lane discipline rule, part of Reglamento reform) |
 
 ### When Can You Overtake on the RIGHT?
 

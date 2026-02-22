@@ -145,19 +145,19 @@ You won't need to say much, but these phrases help:
 
 ## 📋 THE EXAM DAY — What Actually Happens
 
-| Step | What Happens                                                                                      |
-| ---- | ------------------------------------------------------------------------------------------------- |
-| 1    | Arrive at the autoescuela at your scheduled time                                                  |
-| 2    | Wait with 4–5 other candidates — the examiner takes you in groups                                 |
-| 3    | When it's your turn, get in the driver's seat. Instructor = passenger. Examiner = back seat       |
-| 4    | Other candidates may sit in the back too — ignore them, focus on driving                          |
-| 5    | Adjust mirrors, seatbelt, seat position                                                           |
-| 6    | The examiner gives instructions. Drive for ~25 minutes                                            |
-| 7    | Routes are in the local area — your instructor should have practised these exact streets with you |
-| 8    | You'll do urban driving, possibly some interurban, maybe motorway entry/exit                      |
-| 9    | At least one parking manoeuvre (parallel, bay, or hill start)                                     |
-| 10   | Examiner says "Hemos terminado" or "Volvemos a la autoescuela"                                    |
-| 11   | Results available from 17:00 same day or next working day via sede.dgt.gob.es                     |
+| Step | What Happens                                                                                                  |
+| ---- | ------------------------------------------------------------------------------------------------------------- |
+| 1    | Arrive at the autoescuela at your scheduled time                                                              |
+| 2    | Wait with 4–5 other candidates — the examiner takes you as a group                                            |
+| 3    | When it's your turn, get in the driver's seat. Instructor = passenger. Examiner = back seat                   |
+| 4    | Other candidates from your group sit in the back as observers while you drive — ignore them, focus on driving |
+| 5    | Adjust mirrors, seatbelt, seat position                                                                       |
+| 6    | The examiner gives instructions. Drive for ~25 minutes                                                        |
+| 7    | Routes are in the local area — your instructor should have practised these exact streets with you             |
+| 8    | You'll do urban driving, possibly some interurban, maybe motorway entry/exit                                  |
+| 9    | At least one parking manoeuvre (parallel, bay, or hill start)                                                 |
+| 10   | Examiner says "Hemos terminado" or "Volvemos a la autoescuela"                                                |
+| 11   | Results available from 17:00 same day or next working day via sede.dgt.gob.es                                 |
 
 **Exam duration:** ~25 minutes of driving
 

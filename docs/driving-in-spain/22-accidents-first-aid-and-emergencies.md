@@ -35,14 +35,14 @@ This is the CORE of the DGT's emergency response teaching. Every question about 
 
 **Protect yourself, the casualties, and other road users FIRST.**
 
-| Step | Action (2026)                             | Detail                                                          |
-| ---- | ----------------------------------------- | --------------------------------------------------------------- |
-| 1    | **Turn on hazard lights**                 | Immediately upon stopping                                       |
-| 2    | **Activate V-16 beacon**                  | Place on roof from inside the vehicle — sends GPS to DGT 3.0    |
-| 3    | **Put on reflective vest**                | BEFORE leaving the vehicle (vest is in the cabin, not the boot) |
-| 4    | **Exit vehicle safely**                   | Only if safe to do so — exit on the side away from traffic      |
-| 5    | **Assess the scene**                      | Check for fire, fuel leaks, unstable vehicles, live wires       |
-| 6    | **Turn off ignition** of crashed vehicles | If safe to approach — reduces fire risk                         |
+| Step | Action (2026)                             | Detail                                                                                                                           |
+| ---- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | **Turn on hazard lights**                 | Immediately upon stopping                                                                                                        |
+| 2    | **Activate V-16 beacon**                  | Activate it, then place on your vehicle's roof — no need to walk into traffic like with triangles. Sends GPS location to DGT 3.0 |
+| 3    | **Put on reflective vest**                | BEFORE leaving the vehicle (vest is in the cabin, not the boot)                                                                  |
+| 4    | **Exit vehicle safely**                   | Only if safe to do so — exit on the side away from traffic                                                                       |
+| 5    | **Assess the scene**                      | Check for fire, fuel leaks, unstable vehicles, live wires                                                                        |
+| 6    | **Turn off ignition** of crashed vehicles | If safe to approach — reduces fire risk                                                                                          |
 
 **💡 2026 key change:** The V-16 beacon replaces walking 50–100m to place triangles. You stay with/near the vehicle — much safer.
 

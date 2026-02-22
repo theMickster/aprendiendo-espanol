@@ -96,7 +96,7 @@ In traffic jams on motorways, drivers must create a clear path for emergency veh
 | **2 lanes** | Left lane moves LEFT, right lane moves RIGHT — corridor in the middle                      |
 | **3 lanes** | Left lane moves LEFT, centre and right lanes move RIGHT — corridor between left and centre |
 
-This rule is being formalised in 2026.
+**Status (Feb 2026):** This rule is part of the Reglamento General de Circulación reform. The DGT has confirmed it will not take effect in early 2026 — the exact implementation date is still pending. Already common practice in much of Europe.
 
 ---
 
@@ -144,15 +144,15 @@ As of 2026, all Spanish cities with 50,000+ residents must have a ZBE. Valencia'
 
 ### VMP (Electric Scooters / Patinetes)
 
-| Rule (2026)       | Detail                                                  |
-| ----------------- | ------------------------------------------------------- |
-| **Insurance**     | Mandatory for scooters >25 kg or >14 km/h               |
-| **Maximum speed** | 25 km/h                                                 |
-| **Helmet**        | Mandatory in some municipalities (not yet national law) |
-| **Pavements**     | PROHIBITED — must use road or cycle lane                |
-| **Minimum age**   | 16 years                                                |
-| **Lights**        | Must be on during riding                                |
-| **New signs**     | R-116 (no entry for VMP) and R-416 (VMP path)           |
+| Rule (2026)       | Detail                                                                                                                                       |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Insurance**     | Mandatory (Ley 5/2025). VMP >25 kg **and** >14 km/h = motor vehicle, immediate obligation. Lighter VMP = required once DGT registry launches |
+| **Maximum speed** | 25 km/h                                                                                                                                      |
+| **Helmet**        | Mandatory in some municipalities (not yet national law)                                                                                      |
+| **Pavements**     | PROHIBITED — must use road or cycle lane                                                                                                     |
+| **Minimum age**   | 16 years                                                                                                                                     |
+| **Lights**        | Must be on during riding                                                                                                                     |
+| **New signs**     | R-116 (no entry for VMP) and R-416 (VMP path)                                                                                                |
 
 ### Pedestrians
 
@@ -221,5 +221,5 @@ As of 2026, all Spanish cities with 50,000+ residents must have a ZBE. Valencia'
 6. **Emergency corridor (2026):** Left lane left, right lane right.
 7. **ZBE: check your car's badge.** No badge or wrong badge = up to €200 fine.
 8. **Cyclists: 1.5m distance, reduce 20 km/h.** May cross solid line to achieve this.
-9. **VMP (scooters): 25 km/h max, insurance mandatory 2026, no pavements.**
+9. **VMP (scooters): 25 km/h max, insurance mandatory (Ley 5/2025), no pavements.**
 10. **Key verbs:** _detenerse_ (to stop), _evacuar_ (to evacuate), _respetar_ (to respect).

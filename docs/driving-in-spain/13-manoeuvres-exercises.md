@@ -1,0 +1,263 @@
+# 13 — Manoeuvres Exercises / Ejercicios de Maniobras
+
+## ⭐ Difficulty: ⭐⭐⭐ (Core Exam Knowledge)
+
+---
+
+## A. Vocabulary Matching — Empareja el vocabulario
+
+| #   | Español              |     | English                        |
+| --- | -------------------- | --- | ------------------------------ |
+| 1   | el adelantamiento    |     | a) the blind spot              |
+| 2   | girar                |     | b) to signal / to indicate     |
+| 3   | el cambio de sentido |     | c) the overtaking              |
+| 4   | marcha atrás         |     | d) the lane change             |
+| 5   | señalizar            |     | e) the U-turn                  |
+| 6   | el ángulo muerto     |     | f) the indicator / turn signal |
+| 7   | el cambio de carril  |     | g) reversing / reverse         |
+| 8   | el intermitente      |     | h) to turn                     |
+| 9   | la distancia lateral |     | i) to pass (a stopped vehicle) |
+| 10  | rebasar              |     | j) the lateral distance        |
+
+---
+
+## B. True or False — Verdadero o Falso
+
+1. In Spain, you may overtake on the right on any multi-lane road. \_\_\_\_
+
+2. You may cross a solid white line to maintain 1.5m distance from a cyclist. \_\_\_\_
+
+3. The maximum reversing distance is 15 metres. \_\_\_\_
+
+4. The "no left turn" sign (R-303) also prohibits U-turns. \_\_\_\_
+
+5. You can exceed the speed limit by 20 km/h to complete an overtake. \_\_\_\_
+
+6. You must check your blind spot before changing lanes. \_\_\_\_
+
+7. Reversing on a motorway is permitted if you missed your exit. \_\_\_\_
+
+8. When turning into a new street, pedestrians crossing that street always have priority. \_\_\_\_
+
+---
+
+## C. DGT-Format Questions — Preguntas tipo DGT
+
+### Question 1 / Pregunta 1
+
+**ES:** _¿Por qué lado se adelanta en España?_
+**EN:** On which side do you overtake in Spain?
+
+- A) Por la derecha / On the right
+- B) Por la izquierda / On the left
+- C) Por cualquier lado / On either side
+
+### Question 2 / Pregunta 2
+
+**ES:** _Al adelantar a un ciclista en una carretera con límite de 90 km/h, ¿a qué velocidad máxima debe circular?_
+**EN:** When overtaking a cyclist on a road with a 90 km/h limit, what is the maximum speed you should travel?
+
+- A) 90 km/h
+- B) 70 km/h
+- C) 50 km/h
+
+### Question 3 / Pregunta 3
+
+**ES:** _¿Cuál es la distancia lateral mínima al adelantar a un ciclista?_
+**EN:** What is the minimum lateral distance when overtaking a cyclist?
+
+- A) 1 metro
+- B) 1,5 metros
+- C) 2 metros
+
+### Question 4 / Pregunta 4
+
+**ES:** _¿Cuándo está permitido adelantar por la derecha?_
+**EN:** When is overtaking on the right permitted?
+
+- A) Siempre que haya dos carriles / Whenever there are two lanes
+- B) Cuando el vehículo delantero señaliza un giro a la izquierda / When the vehicle ahead signals a left turn
+- C) En cualquier momento si es seguro / At any time if it's safe
+
+### Question 5 / Pregunta 5
+
+**ES:** _¿Cuál es la distancia máxima que se puede recorrer marcha atrás?_
+**EN:** What is the maximum distance you can reverse?
+
+- A) 10 metros
+- B) 15 metros
+- C) 20 metros
+
+### Question 6 / Pregunta 6
+
+**ES:** _La señal R-303 (prohibido girar a la izquierda) también prohíbe..._
+**EN:** The R-303 sign (no left turn) also prohibits...
+
+- A) Girar a la derecha / Turning right
+- B) El cambio de sentido / U-turns
+- C) Adelantar / Overtaking
+
+### Question 7 / Pregunta 7
+
+**ES:** _¿Se puede superar el límite de velocidad para adelantar en carreteras convencionales?_
+**EN:** Can you exceed the speed limit to overtake on conventional roads?
+
+- A) Sí, hasta 20 km/h más / Yes, up to 20 km/h over
+- B) No, nunca se puede superar el límite / No, you can never exceed the limit
+- C) Sí, hasta 10 km/h más / Yes, up to 10 km/h over
+
+### Question 8 / Pregunta 8
+
+**ES:** _Ha pasado su salida en la autopista. ¿Qué debe hacer?_
+**EN:** You've missed your exit on the motorway. What should you do?
+
+- A) Dar marcha atrás con cuidado / Reverse carefully
+- B) Hacer un cambio de sentido / Make a U-turn
+- C) Continuar hasta la próxima salida / Continue to the next exit
+
+---
+
+## D. Order the Steps — Ordena los pasos
+
+Put the 5 steps of a safe overtake in the correct order:
+
+- \_\_\_ Return to your lane and signal right
+- \_\_\_ Check mirrors and blind spot
+- \_\_\_ Pass without exceeding the speed limit
+- \_\_\_ Signal left
+- \_\_\_ Move into the left lane when safe
+
+---
+
+## E. Fill in the Blank — Completa las frases
+
+**Word box:** _izquierda, 1.5, 15, señalizar, ángulo muerto, R-303, adelantar, intermitente, rebasar, velocidad_
+
+1. En España, siempre se adelanta por la \_\_\_\_\_\_\_\_.
+
+2. Al adelantar a un ciclista, hay que mantener al menos \_\_\_\_\_\_\_\_ metros de distancia lateral.
+
+3. La distancia máxima de marcha atrás es \_\_\_\_\_\_\_\_ metros.
+
+4. Antes de cambiar de carril, hay que comprobar el \_\_\_\_\_\_\_\_.
+
+5. Hay que \_\_\_\_\_\_\_\_ con suficiente antelación antes de girar.
+
+6. La señal \_\_\_\_\_\_\_\_ prohíbe girar a la izquierda y también hacer un cambio de sentido.
+
+7. No se puede superar el límite de \_\_\_\_\_\_\_\_ para adelantar.
+
+8. Pon el \_\_\_\_\_\_\_\_ antes de cambiar de carril.
+
+---
+
+## F. Conjugation Drill — Practica los verbos
+
+### ADELANTAR (regular -ar)
+
+|             | Presente         | Pretérito        |
+| ----------- | ---------------- | ---------------- |
+| yo          | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
+| tú          | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
+| él/ella     | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
+| nosotros    | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
+| ellos/ellas | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
+
+### SEÑALIZAR (z → c in preterite yo)
+
+|             | Presente         | Pretérito        |
+| ----------- | ---------------- | ---------------- |
+| yo          | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
+| tú          | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
+| él/ella     | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
+| nosotros    | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
+| ellos/ellas | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
+
+---
+
+## G. Situational Spanish — ¿Qué dices?
+
+1. You want to tell your instructor you didn't overtake because there was a solid line on your side.
+
+2. You need to explain to a friend that you can't do a U-turn because there's an R-303 sign.
+
+3. You want to describe to Pepe that you overtook a cyclist safely — you slowed down and gave 1.5 metres.
+
+---
+
+---
+
+# ✅ Answer Key — Clave de respuestas
+
+## A. Vocabulary Matching
+
+1-c, 2-h, 3-e, 4-g, 5-b, 6-a, 7-d, 8-f, 9-j, 10-i
+
+## B. True or False
+
+1. **False** — Overtaking on the right is only permitted in specific exceptions (vehicle signalling left turn, multi-lane flowing traffic)
+2. **True** — 2026 rule allows crossing solid line to maintain 1.5m from cyclist/stopped vehicle if safe
+3. **True** — Maximum 15 metres (or the minimum necessary for the manoeuvre)
+4. **True** — R-303 prohibits both left turns AND U-turns
+5. **False** — The +20 km/h overtaking margin was removed in 2022. You can NEVER exceed the speed limit to overtake
+6. **True** — Mandatory, and failing to do so is a common reason for failing the practical exam
+7. **False** — Reversing on a motorway is ALWAYS prohibited. Continue to the next exit
+8. **True** — Pedestrians crossing the street you are turning into always have priority
+
+## C. DGT-Format Questions
+
+1. **B)** Por la izquierda / On the left
+2. **B)** 70 km/h (reduce by at least 20 km/h below the road's limit)
+3. **B)** 1,5 metros
+4. **B)** Cuando el vehículo delantero señaliza un giro a la izquierda
+5. **B)** 15 metros
+6. **B)** El cambio de sentido / U-turns
+7. **B)** No, nunca se puede superar el límite
+8. **C)** Continuar hasta la próxima salida
+
+## D. Order the Steps
+
+1. Check mirrors and blind spot
+2. Signal left
+3. Move into the left lane when safe
+4. Pass without exceeding the speed limit
+5. Return to your lane and signal right
+
+## E. Fill in the Blank
+
+1. izquierda
+2. 1.5
+3. 15
+4. ángulo muerto
+5. señalizar
+6. R-303
+7. velocidad
+8. intermitente
+
+## F. Conjugation Drill
+
+### ADELANTAR
+
+|             | Presente    | Pretérito   |
+| ----------- | ----------- | ----------- |
+| yo          | adelanto    | adelanté    |
+| tú          | adelantas   | adelantaste |
+| él/ella     | adelanta    | adelantó    |
+| nosotros    | adelantamos | adelantamos |
+| ellos/ellas | adelantan   | adelantaron |
+
+### SEÑALIZAR
+
+|             | Presente    | Pretérito   |
+| ----------- | ----------- | ----------- |
+| yo          | señalizo    | señalicé    |
+| tú          | señalizas   | señalizaste |
+| él/ella     | señaliza    | señalizó    |
+| nosotros    | señalizamos | señalizamos |
+| ellos/ellas | señalizan   | señalizaron |
+
+## G. Situational Spanish (suggested answers)
+
+1. _No adelanté porque la línea continua estaba de mi lado._ (or: _No pude adelantar — tenía la línea continua._)
+2. _No se puede hacer un cambio de sentido aquí porque hay una señal R-303. La señal de prohibido girar a la izquierda también prohíbe el cambio de sentido._
+3. _Adelanté a un ciclista en la carretera. Reduje la velocidad a 70 kilómetros por hora y le di un metro y medio de distancia lateral._

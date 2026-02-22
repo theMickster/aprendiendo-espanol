@@ -74,12 +74,12 @@ They warn you about a danger ahead. They do NOT prohibit or oblige — they simp
 
 ### Level Crossings — Pasos a Nivel
 
-| Code        | Symbol       | Spanish Name                | English                         | What's Ahead                                                          |
-| ----------- | ------------ | --------------------------- | ------------------------------- | --------------------------------------------------------------------- |
-| **P-5**     | 🚂           | Paso a nivel con barreras   | Level crossing with barriers    | Railway crossing — barriers will close                                |
-| **P-6**     | 🚂 (no bars) | Paso a nivel sin barreras   | Level crossing WITHOUT barriers | You must look and listen! No barriers will protect you                |
-| **P-7**     | 🚃 (modern)  | Paso a nivel de tranvía     | Tramway crossing                | **2026 update:** pictogram now shows modern tram, not old steam train |
-| **P-8/P-9** | ═══          | Aproximación a paso a nivel | Approach to level crossing      | Distance markers: 3 bars (300m), 2 bars (200m), 1 bar (100m)          |
+| Code        | Symbol       | Spanish Name                | English                         | What's Ahead                                                                           |
+| ----------- | ------------ | --------------------------- | ------------------------------- | -------------------------------------------------------------------------------------- |
+| **P-5**     | 🚂           | Paso a nivel con barreras   | Level crossing with barriers    | Railway crossing — barriers will close                                                 |
+| **P-6**     | 🚂 (no bars) | Paso a nivel sin barreras   | Level crossing WITHOUT barriers | You must look and listen! No barriers will protect you                                 |
+| **P-7**     | 🚃           | Cruce de tranvía            | Tramway crossing                | **2026 update:** DGT modernised railway/tramway pictograms in the new signal catalogue |
+| **P-8/P-9** | ═══          | Aproximación a paso a nivel | Approach to level crossing      | Distance markers: 3 bars (300m), 2 bars (200m), 1 bar (100m)                           |
 
 ### 🚨 DGT Exam Traps — Warning Signs
 

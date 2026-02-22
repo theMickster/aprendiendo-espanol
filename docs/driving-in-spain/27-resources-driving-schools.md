@@ -75,7 +75,7 @@ All schools below are within walking or short bus distance of the CC Aqua / Peny
 
 | Detail               | Info                                                                                                                                                     |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Address**          | Carrer del Pintor Maella, 37, 46023 Valencia (El Corte Inglés building, near Aqua)                                                                       |
+| **Address**          | Carrer del Pintor Maella, 37, 46023 Valencia (near Aqua). Note: main office is at Av. Blasco Ibáñez 25 — check website for all branch locations          |
 | **Phone**            | Check https://autoescuelas-jorda.com for current number                                                                                                  |
 | **Website**          | https://autoescuelas-jorda.com                                                                                                                           |
 | **Distance to Aqua** | ~8 minute walk                                                                                                                                           |
@@ -84,11 +84,12 @@ All schools below are within walking or short bus distance of the CC Aqua / Peny
 
 ### 📍 Autoescuela Delgado
 
-| Detail               | Info                                                                 |
-| -------------------- | -------------------------------------------------------------------- |
-| **Address**          | Calle de la Dama de Elche, 46023 Valencia                            |
-| **Distance to Aqua** | ~10 minute walk                                                      |
-| **Notes**            | Nearby option in the Camins al Grau district. Smaller, local school. |
+| Detail               | Info                                                                                     |
+| -------------------- | ---------------------------------------------------------------------------------------- |
+| **Address**          | Calle de la Dama de Elche, 1, 46023 Valencia                                             |
+| **Phone**            | 963 30 53 26                                                                             |
+| **Distance to Aqua** | ~10 minute walk                                                                          |
+| **Notes**            | Nearby option in the Camins al Grau district. Smaller, local school established in 1983. |
 
 ### 📍 AVAE Arcén — Large Network
 
@@ -144,13 +145,13 @@ Use this checklist to track your progress:
 
 | Item                                      | Approximate Cost |
 | ----------------------------------------- | ---------------- |
-| Autoescuela enrolment + theory course     | €200–400         |
-| Psicotécnico (medical)                    | €30–80           |
+| Autoescuela enrolment + theory course     | €200–300         |
+| Psicotécnico (medical)                    | €35–50           |
 | DGT exam fee (covers 2 attempts per type) | €94.05           |
-| Practical lessons (per lesson, ~45 min)   | €25–40 each      |
-| Average total practical lessons (~20)     | €500–800         |
+| Practical lessons (per lesson, ~45 min)   | €27–40 each      |
+| Average total practical lessons (~20)     | €540–800         |
 | V-16 connected beacon                     | €30–80           |
-| **Total estimated cost**                  | **€850–1,400**   |
+| **Total estimated cost**                  | **€900–1,400**   |
 
 **Note:** Costs vary significantly between schools. The biggest variable is how many practical lessons you need. Experienced drivers (like you, Mick!) typically need fewer.
 

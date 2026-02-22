@@ -25,10 +25,10 @@ This topic walks you through the **entire process** of getting your Spanish driv
 
 ## 📚 What's in This Folder
 
-| File                   | Contents                                                                                                                                            |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **01-01-lesson.md**    | Full bilingual lesson: requirements, psicotécnico details, autoescuela system, DGT exam format, UK→Spain differences, key vocabulary & conjugations |
-| **01-02-exercises.md** | Vocabulary matching, fill-in-the-blank, DGT-format practice questions, conjugation drills                                                           |
+| File                               | Contents                                                                                                                                            |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **02-requisitos-para-conducir.md** | Full bilingual lesson: requirements, psicotécnico details, autoescuela system, DGT exam format, UK→Spain differences, key vocabulary & conjugations |
+| **03-basic-exercises.md**          | Vocabulary matching, fill-in-the-blank, DGT-format practice questions, conjugation drills                                                           |
 
 ---
 
@@ -43,6 +43,6 @@ This topic walks you through the **entire process** of getting your Spanish driv
 
 ## 💡 Why This Matters for You, Mick
 
-As a US licence holder living in Valencia, there's **no exchange agreement** between the US and Spain. That means you need to pass both the theory and practical exams from scratch. The good news: the theory exam is available in English in Valencia. The practical exam is in Spanish, but the examiner uses standard, predictable commands — and we'll drill those in Topic 15.
+As a US licence holder living in Valencia, there's **no exchange agreement** between the US and Spain. That means you need to pass both the theory and practical exams from scratch. The good news: the theory exam is available in English in Valencia. The practical exam is in Spanish, but the examiner uses standard, predictable commands — and we'll drill those in Topic 26.
 
 Your psicotécnico certificate is valid for **3 months** from issue. Once you've sat for any exam (even if you fail), the validity extends to **2 years**. So: do the psicotécnico first, then get studying.
