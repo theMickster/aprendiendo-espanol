@@ -78,17 +78,9 @@ These are words and expressions you will hear constantly in Valencia and across 
 **A few more useful expressions:**
 
 - **Mola mogollón** — It's super cool (mogollón = a ton / a lot, very colloquial)
-- \*\*Ir de
-
-cañas\*\* — To go out for beers (a caña is a small draft beer, very Spanish tradition)
-
-- \*\*Hacer
-
-botellón\*\* — To drink outdoors in a group (common among young people, you will see it in parks)
-
-- \*\*Pasarlo
-
-bien / genial\*\* — To have a good / great time
+- **Ir de cañas** — To go out for beers (a caña is a small draft beer, very Spanish tradition)
+- **Hacer botellón** — To drink outdoors in a group (common among young people, you will see it in parks)
+- **Pasarlo bien / genial** — To have a good / great time
 
 ### Texting and Messaging
 

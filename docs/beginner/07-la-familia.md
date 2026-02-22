@@ -69,7 +69,7 @@ Also note: **la mujer** means both "woman" and "wife" depending on context. **Mi
 
 ### Describing Your Family
 
-Combine family vocabulary and possessives with verbs from lesson 03 to describe your family naturally.
+Combine family vocabulary with verbs from lesson 03 to describe your family naturally.
 
 **With SER (identity, characteristics):**
 
@@ -144,13 +144,13 @@ Spanish family culture has some distinctive features worth knowing:
 
 ## Common Mistakes
 
-| Wrong                 | Right                    | Why                                                          |
-| --------------------- | ------------------------ | ------------------------------------------------------------ |
-| _Yo soy doce años_    | **Yo tengo doce años**   | Age uses TENER (to have), not SER (to be)                    |
-| _el padre y la padre_ | **el padre y la madre**  | Father and mother are different words, not just gender swaps |
-| _las hermanos_        | **los hermanos**         | Mixed group or masculine plural uses los, not las            |
-| _la hija y el hija_   | **la hija y el hijo**    | Son and daughter are different words (hijo/hija)             |
-| _Es mi padre grande_  | **Es el padre de todos** | Word order matters in descriptions                           |
+| Wrong                 | Right                   | Why                                                          |
+| --------------------- | ----------------------- | ------------------------------------------------------------ |
+| _Yo soy doce años_    | **Yo tengo doce años**  | Age uses TENER (to have), not SER (to be)                    |
+| _el padre y la padre_ | **el padre y la madre** | Father and mother are different words, not just gender swaps |
+| _las hermanos_        | **los hermanos**        | Mixed group or masculine plural uses los, not las            |
+| _la hija y el hija_   | **la hija y el hijo**   | Son and daughter are different words (hijo/hija)             |
+| _Es mi padre grande_  | **Mi padre es grande**  | Adjective placement -- put the subject first, then the verb  |
 
 ## Practice Exercises
 
@@ -211,13 +211,13 @@ Write a short paragraph (4-6 sentences) introducing the Shawsky family as if you
 
 Sample answer:
 
-"Hola, me llamo Mick. Somos cuatro personas en la familia. La esposa y yo vivimos en Valencia con las dos hijas. Las hijas van a la escuela aquí. Estamos muy contentos en Valencia."
+"Hola, me llamo Mick. Somos cuatro personas en mi familia. Mi esposa y yo vivimos en Valencia con nuestras dos hijas. Mis hijas van a la escuela aquí. Estamos muy contentos en Valencia."
 
-Your version will be different -- the key is using family vocabulary correctly and mixing in SER, ESTAR, and TENER.
+Your version will be different -- the key is using family vocabulary correctly and mixing in SER, ESTAR, and TENER. (Don't worry about the possessives like mi/mis/nuestras -- you'll learn those formally in Lesson 13.)
 
 ### "Your Turn" Answers
 
-- Family members: "En la familia hay cuatro personas: la esposa, las dos hijas y yo."
+- Family members: "En mi familia hay cuatro personas: mi esposa, mis dos hijas y yo." (Possessives are covered in Lesson 13.)
 - Describing family: Answers will vary. Check that SER describes identity/traits, ESTAR describes feelings/location, and TENER describes age/possession.
 - Park: Answers will vary. Check that family vocabulary is used correctly.
 
