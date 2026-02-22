@@ -27,7 +27,7 @@
 | **ENTRE**   | between/among           | Entre tú y yo         | v11 |
 | **CONTRA**  | against                 | Contra la pared       | v12 |
 | **HACIA**   | toward                  | Hacia el norte        | v13 |
-| **SEGUN**   | according to            | Según el doctor       | v14 |
+| **SEGÚN**   | according to            | Según el doctor       | v14 |
 
 ---
 

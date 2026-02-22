@@ -358,4 +358,4 @@ soy, estoy, Tengo, voy, Hago, hace, Hay, Voy a, tengo que
 
 ---
 
-**Next Lesson:** [10-adjectives.md](10-adjectives.md) | **Previous Lesson:** [02-numbers.md](02-numbers.md)
+**Next Lesson:** [04-articles-and-gender.md](04-articles-and-gender.md) | **Previous Lesson:** [02-numbers.md](02-numbers.md)

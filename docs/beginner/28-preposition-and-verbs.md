@@ -182,9 +182,9 @@ All answers are "en"!
 
 ---
 
-### Examples with SONAR CON
+### Examples with SOÑAR CON
 
-**SONAR CON = to dream about**
+**SOÑAR CON = to dream about**
 
 ❌ **Wrong:** Sueño de ti (English: dream **of**)
 ✅ **Right:** Sueño **con** ti

@@ -13,6 +13,18 @@ Welcome to beginner Spanish! Start here and work your way through.
 2. [Numbers](02-numbers.md)
 3. [Building Block Verbs](03-building-block-verbs.md)
 
+### Grammar Foundation
+
+4. [Articles & Noun Gender](04-articles-and-gender.md)
+5. [Regular Verb Patterns](05-regular-verb-patterns.md)
+6. [Question Words](06-question-words.md)
+
+### Vocabulary & Scenarios
+
+7. [La Familia](07-la-familia.md)
+8. [La Comida y la Bebida](08-la-comida-y-bebida.md)
+9. [Lugares y Naturaleza](09-lugares-y-naturaleza.md)
+
 ### Describing Things
 
 10. [Adjectives](10-adjectives.md)
@@ -35,7 +47,7 @@ Welcome to beginner Spanish! Start here and work your way through.
 23. [ENTRE - Between](23-preposition-entre.md)
 24. [CONTRA - Against](24-preposition-contra.md)
 25. [HACIA - Toward](25-preposition-hacia.md)
-26. [SEGUN - According to](26-preposition-segun.md)
+26. [SEGÚN - According to](26-preposition-segun.md)
 27. [Location Compounds](27-preposition-locations.md)
 28. [Verb + Preposition Combos](28-preposition-and-verbs.md)
 29. [Complete Quick Reference](29-preposition-the-finale.md)

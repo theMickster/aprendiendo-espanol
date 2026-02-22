@@ -287,4 +287,4 @@ Fill in the correct form of the verb in parentheses:
 
 ---
 
-**Next Lesson:** | **Previous Lesson:** [29-preposition-the-finale.md](29-preposition-the-finale.md)
+**Previous Lesson:** [29-preposition-the-finale.md](29-preposition-the-finale.md)

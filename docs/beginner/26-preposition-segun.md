@@ -1,8 +1,8 @@
-# Preposition Puzzle v14 - SEGUN
+# Preposition Puzzle v14 - SEGÚN
 
 **Level:** Beginner (A1)
 **Estimated Time:** 8-10 minutes
-**Topics:** SEGUN, according to, depending on, perspective
+**Topics:** SEGÚN, according to, depending on, perspective
 
 ---
 
@@ -12,9 +12,9 @@
 
 ## The Big Picture
 
-### What Does SEGUN Mean?
+### What Does SEGÚN Mean?
 
-**SEGUN = ACCORDING TO**
+**SEGÚN = ACCORDING TO**
 
 Main uses:
 
@@ -22,15 +22,15 @@ Main uses:
 - **DEPENDING ON** (conditional)
 - **AS PER** (following guidelines)
 
-**💡 Think of it this way:** SEGUN = based on what someone says or on conditions
+**💡 Think of it this way:** SEGÚN = based on what someone says or on conditions
 
 ---
 
-## 1️⃣ SEGUN for Source (ACCORDING TO)
+## 1️⃣ SEGÚN for Source (ACCORDING TO)
 
-### Who says so? → SEGUN
+### Who says so? → SEGÚN
 
-**Use SEGUN to cite a source of information**
+**Use SEGÚN to cite a source of information**
 
 ### Examples
 
@@ -78,7 +78,7 @@ Main uses:
 
 ---
 
-### Practice: SEGUN for Source
+### Practice: SEGÚN for Source
 
 1. **\_\_\_** el doctor, estoy bien
 2. **\_\_\_** mi profesor, el examen es fácil
@@ -94,11 +94,11 @@ All answers are "Según"!
 
 ---
 
-## 2️⃣ SEGUN for Perspective (IN MY VIEW)
+## 2️⃣ SEGÚN for Perspective (IN MY VIEW)
 
-### Whose opinion? → SEGUN
+### Whose opinion? → SEGÚN
 
-**Use SEGUN to express viewpoint**
+**Use SEGÚN to express viewpoint**
 
 ### Examples with Pronouns
 
@@ -119,11 +119,11 @@ All answers are "Según"!
 
 ---
 
-### SEGUN vs PARA for Opinion
+### SEGÚN vs PARA for Opinion
 
 **Both can express opinion:**
 
-**SEGUN** = according to (citing a source/viewpoint)
+**SEGÚN** = according to (citing a source/viewpoint)
 
 - **Según** yo, los perros son mejores (According to me - citing my view)
 
@@ -133,12 +133,12 @@ All answers are "Según"!
 
 **Subtle difference:**
 
-- SEGUN = more objective citation
+- SEGÚN = more objective citation
 - PARA MÍ = more subjective feeling
 
 ---
 
-### Practice: SEGUN with Pronouns
+### Practice: SEGÚN with Pronouns
 
 1. **\_\_\_** yo, es difícil
 2. **\_\_\_** tú, ¿qué es importante?
@@ -154,11 +154,11 @@ All answers are "Según"!
 
 ---
 
-## 3️⃣ SEGUN for Conditions (DEPENDING ON)
+## 3️⃣ SEGÚN for Conditions (DEPENDING ON)
 
-### What does it depend on? → SEGUN
+### What does it depend on? → SEGÚN
 
-**Use SEGUN when something varies based on conditions**
+**Use SEGÚN when something varies based on conditions**
 
 ### Examples
 
@@ -198,7 +198,7 @@ All answers are "Según"!
 
 ---
 
-### Practice: SEGUN for Conditions
+### Practice: SEGÚN for Conditions
 
 1. **\_\_\_** el tiempo, vamos al parque
 2. **\_\_\_** el día, estudio más o menos
@@ -214,7 +214,7 @@ All answers are "Según"!
 
 ---
 
-## 4️⃣ Common SEGUN Phrases
+## 4️⃣ Common SEGÚN Phrases
 
 ### Must-Know Expressions
 
@@ -260,7 +260,7 @@ _Translation: According to the news, the weather is nice tomorrow. According to 
 
 ## 6️⃣ Quick Reference Card
 
-### SEGUN Usage Summary
+### SEGÚN Usage Summary
 
 | Use                       | Example         | Translation              |
 | ------------------------- | --------------- | ------------------------ |

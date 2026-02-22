@@ -289,4 +289,4 @@ Descriptive adjectives (color, size, shape, quality) go AFTER.
 
 ---
 
-**Next Lesson:** [11-adverbs.md](11-adverbs.md) | **Previous Lesson:** [03-building-block-verbs.md](03-building-block-verbs.md)
+**Next Lesson:** [11-adverbs.md](11-adverbs.md) | **Previous Lesson:** [09-lugares-y-naturaleza.md](09-lugares-y-naturaleza.md)

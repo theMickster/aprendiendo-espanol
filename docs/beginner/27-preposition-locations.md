@@ -16,7 +16,7 @@
 
 **Compound prepositions = two or more words that work together!**
 
-They answer: **¿DONDE ESTA? (Where is it?)**
+They answer: **¿DÓNDE ESTÁ? (Where is it?)**
 
 **Pattern:** Preposition + NOUN + DE
 
@@ -137,7 +137,7 @@ All answers are "al lado de" or "al lado del" (when de + el)!
 
 ---
 
-## 5️⃣ DELANTE DE & DETRAS DE (In front of & Behind)
+## 5️⃣ DELANTE DE & DETRÁS DE (In front of & Behind)
 
 ### DELANTE DE (In front of)
 
@@ -158,7 +158,7 @@ All answers are "al lado de" or "al lado del" (when de + el)!
 
 ---
 
-### DETRAS DE (Behind)
+### DETRÁS DE (Behind)
 
 **Formula:** detrás de + noun
 
