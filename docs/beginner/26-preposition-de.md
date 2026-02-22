@@ -369,4 +369,4 @@ All answers are "de"!
 
 ---
 
-**Next Lesson:** [19-preposition-con.md](19-preposition-con.md) | **Previous Lesson:** [17-preposition-por-vs-para.md](17-preposition-por-vs-para.md)
+**Next Lesson:** [27-preposition-con.md](27-preposition-con.md) | **Previous Lesson:** [25-preposition-por-vs-para.md](25-preposition-por-vs-para.md)

@@ -280,4 +280,4 @@ _Translation: According to the news, the weather is nice tomorrow. According to 
 
 ---
 
-**Next Lesson:** [27-preposition-locations.md](27-preposition-locations.md) | **Previous Lesson:** [25-preposition-hacia.md](25-preposition-hacia.md)
+**Next Lesson:** [35-preposition-locations.md](35-preposition-locations.md) | **Previous Lesson:** [33-preposition-hacia.md](33-preposition-hacia.md)

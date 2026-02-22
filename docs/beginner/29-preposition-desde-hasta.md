@@ -344,4 +344,4 @@ All answers are "desde hace"!
 
 ---
 
-**Next Lesson:** [22-preposition-sobre.md](22-preposition-sobre.md) | **Previous Lesson:** [20-preposition-sin.md](20-preposition-sin.md)
+**Next Lesson:** [30-preposition-sobre.md](30-preposition-sobre.md) | **Previous Lesson:** [28-preposition-sin.md](28-preposition-sin.md)

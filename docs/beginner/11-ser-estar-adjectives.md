@@ -227,4 +227,4 @@ The training scenario mixes SER and ESTAR naturally:
 
 ---
 
-**Next Lesson:** [11-adverbs.md](11-adverbs.md) | **Previous Lesson:** [10-adjectives.md](10-adjectives.md)
+**Next Lesson:** [12-adverbs.md](12-adverbs.md) | **Previous Lesson:** [10-adjectives.md](10-adjectives.md)

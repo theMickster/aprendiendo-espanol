@@ -357,4 +357,4 @@ _Translation: In the morning, I have coffee with milk and bread with butter. I g
 
 ---
 
-**Next Lesson:** [20-preposition-sin.md](20-preposition-sin.md) | **Previous Lesson:** [18-preposition-de.md](18-preposition-de.md)
+**Next Lesson:** [28-preposition-sin.md](28-preposition-sin.md) | **Previous Lesson:** [26-preposition-de.md](26-preposition-de.md)

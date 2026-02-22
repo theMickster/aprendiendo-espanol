@@ -356,4 +356,4 @@ _Translation: I go to the pet store for dog food. I pay fifteen euros for the pa
 
 ---
 
-**Next Lesson:** [16-preposition-para.md](16-preposition-para.md) | **Previous Lesson:** [14-preposition-a.md](14-preposition-a.md)
+**Next Lesson:** [24-preposition-para.md](24-preposition-para.md) | **Previous Lesson:** [22-preposition-a.md](22-preposition-a.md)

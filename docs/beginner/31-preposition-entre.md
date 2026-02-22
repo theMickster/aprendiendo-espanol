@@ -305,4 +305,4 @@ _Translation: Between classes, we rest. The library is between the gym and the c
 
 ---
 
-**Next Lesson:** [24-preposition-contra.md](24-preposition-contra.md) | **Previous Lesson:** [22-preposition-sobre.md](22-preposition-sobre.md)
+**Next Lesson:** [32-preposition-contra.md](32-preposition-contra.md) | **Previous Lesson:** [30-preposition-sobre.md](30-preposition-sobre.md)

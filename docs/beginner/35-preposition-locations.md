@@ -335,4 +335,4 @@ All answers are "al lado de" or "al lado del" (when de + el)!
 
 ---
 
-**Next Lesson:** [28-preposition-and-verbs.md](28-preposition-and-verbs.md) | **Previous Lesson:** [26-preposition-segun.md](26-preposition-segun.md)
+**Next Lesson:** [36-preposition-and-verbs.md](36-preposition-and-verbs.md) | **Previous Lesson:** [34-preposition-segun.md](34-preposition-segun.md)

@@ -2,20 +2,21 @@
 
 **Level:** Beginner (A1)
 **Estimated Time:** 20-25 minutes
-**Topics:** Family members, describing family, possessive adjectives (mi, tu, su, nuestro, vuestro)
+**Topics:** Family members, describing family, introducing your family
 
 ## Overview
 
-Family is at the heart of Spanish culture, and talking about your family is one of the first things you will do when meeting people. This lesson teaches you the vocabulary for family members, how to use possessive adjectives, and how to describe your family using verbs you already know from lesson 03.
+Family is at the heart of Spanish culture, and talking about your family is one of the first things you will do when meeting people. This lesson teaches you the vocabulary for family members and how to describe your family using verbs you already know from lesson 03.
 
 ## Learning Objectives
 
 By the end of this lesson, you will be able to:
 
 - Name immediate and extended family members in Spanish
-- Use possessive adjectives (mi, tu, su, nuestro, vuestro) correctly
 - Describe your family members using SER, ESTAR, and TENER
 - Introduce your family to new friends and neighbors
+
+> **Note:** You'll learn possessive adjectives (mi, tu, su...) in [Lesson 13](13-possessives-and-demonstratives.md). For now, you'll see them in examples — focus on the family vocabulary.
 
 ## Lesson Content
 
@@ -63,54 +64,6 @@ Also note: **la mujer** means both "woman" and "wife" depending on context. **Mi
 | **el cuñado / la cuñada**   | brother-in-law / sister-in-law |
 
 **Your Turn:** List the members of your family in Spanish. Start with: "En mi familia hay..." (In my family there are...)
-
----
-
-### Possessive Adjectives
-
-Possessive adjectives tell you who something (or someone) belongs to. In Spanish, they agree with the **thing possessed**, not with the person who possesses it.
-
-#### Short Form Possessives (before the noun)
-
-| English                       | Singular Noun         | Plural Noun             |
-| ----------------------------- | --------------------- | ----------------------- |
-| my                            | **mi**                | **mis**                 |
-| your (informal)               | **tu**                | **tus**                 |
-| his / her / your (formal)     | **su**                | **sus**                 |
-| our                           | **nuestro / nuestra** | **nuestros / nuestras** |
-| your (plural, Spain)          | **vuestro / vuestra** | **vuestros / vuestras** |
-| their / your (plural, formal) | **su**                | **sus**                 |
-
-#### The Key Rule
-
-Possessives agree with the thing possessed, NOT with the possessor. This trips up English speakers constantly.
-
-- A father talking about his daughter: **mi hija** (mi is singular because there is one daughter)
-- A mother talking about her daughters: **mis hijas** (mis is plural because there are two daughters)
-- Both parents talking about their house: **nuestra casa** (nuestra is feminine because casa is feminine)
-- Both parents talking about their car: **nuestro coche** (nuestro is masculine because coche is masculine)
-
-Most possessives (mi, tu, su) only change for singular vs plural. Only **nuestro** and **vuestro** change for gender AND number.
-
-| Form         | Example                                                 |
-| ------------ | ------------------------------------------------------- |
-| **nuestro**  | nuestro padre (our father -- masculine singular)        |
-| **nuestra**  | nuestra madre (our mother -- feminine singular)         |
-| **nuestros** | nuestros abuelos (our grandparents -- masculine plural) |
-| **nuestras** | nuestras hijas (our daughters -- feminine plural)       |
-
----
-
-### The "Su" Ambiguity
-
-**Su/sus** can mean his, her, its, your (formal), or their. Context usually makes it clear, but if you need to clarify, you can add **de + person** after the noun:
-
-- **su libro** = his/her/your/their book
-- **el libro de María** = Maria's book (unambiguous)
-- **el libro de ella** = her book (unambiguous)
-- **el libro de ellos** = their book (unambiguous)
-
-In everyday conversation, context handles this almost always. Do not overthink it.
 
 ---
 
@@ -191,29 +144,26 @@ Spanish family culture has some distinctive features worth knowing:
 
 ## Common Mistakes
 
-| Wrong              | Right                  | Why                                                            |
-| ------------------ | ---------------------- | -------------------------------------------------------------- |
-| _mi hijas_         | **mis hijas**          | Plural noun requires plural possessive (mis, not mi)           |
-| _nuestro hijas_    | **nuestras hijas**     | Hijas is feminine plural, so use nuestras                      |
-| _Yo soy doce años_ | **Yo tengo doce años** | Age uses TENER (to have), not SER (to be)                      |
-| _la hermana de mi_ | **mi hermana**         | Use the possessive adjective before the noun                   |
-| _mis familia_      | **mi familia**         | Familia is singular (even though it refers to multiple people) |
-| _su madre de Juan_ | **la madre de Juan**   | If you clarify with "de Juan," drop the su and use la/el       |
+| Wrong                 | Right                    | Why                                                          |
+| --------------------- | ------------------------ | ------------------------------------------------------------ |
+| _Yo soy doce años_    | **Yo tengo doce años**   | Age uses TENER (to have), not SER (to be)                    |
+| _el padre y la padre_ | **el padre y la madre**  | Father and mother are different words, not just gender swaps |
+| _las hermanos_        | **los hermanos**         | Mixed group or masculine plural uses los, not las            |
+| _la hija y el hija_   | **la hija y el hijo**    | Son and daughter are different words (hijo/hija)             |
+| _Es mi padre grande_  | **Es el padre de todos** | Word order matters in descriptions                           |
 
 ## Practice Exercises
 
-### Exercise 1: Fill in the Possessive
+### Exercise 1: Name the Relationship
 
-Complete each sentence with the correct possessive adjective.
+What is the family relationship? Write the Spanish word.
 
-1. Yo tengo un hermano. **\_\_\_** hermano se llama David. (my)
-2. Tú tienes dos hijas. **\_\_\_** hijas van a la escuela. (your)
-3. Nosotros tenemos una casa. **\_\_\_** casa está en Valencia. (our)
-4. María tiene un perro. **\_\_\_** perro es grande. (her)
-5. Vosotros tenéis abuelos en Madrid. **\_\_\_** abuelos son simpáticos. (your plural)
-6. Ellos tienen tres hijos. **\_\_\_** hijos son adolescentes. (their)
-7. Nosotros tenemos dos gatos. **\_\_\_** gatos son pequeños. (our)
-8. Yo tengo muchos primos. **\_\_\_** primos viven en diferentes ciudades. (my)
+1. The mother of your mother is your **\_\_\_**
+2. The brother of your father is your **\_\_\_**
+3. The daughter of your aunt is your **\_\_\_**
+4. The father of your husband/wife is your **\_\_\_**
+5. The sister of your husband/wife is your **\_\_\_**
+6. The children of your brother are your **\_\_\_**
 
 ### Exercise 2: Describe the Family
 
@@ -223,7 +173,7 @@ Look at this family tree and write sentences about it.
 - Their son: Carlos (padre, 45 años) married to Ana (madre, 43 años)
 - Carlos and Ana's children: Sofía (hija, 14 años) and Lucía (hija, 10 años)
 
-Write five sentences using family vocabulary, possessives, and SER/ESTAR/TENER.
+Write five sentences using family vocabulary and SER/ESTAR/TENER.
 
 1. Pedro es **\_\_\_**
 2. Rosa tiene **\_\_\_**
@@ -233,7 +183,7 @@ Write five sentences using family vocabulary, possessives, and SER/ESTAR/TENER.
 
 ### Exercise 3: Introduce Your Family
 
-Write a short paragraph (4-6 sentences) introducing the Shawsky family as if you were Mick. Use at least three different possessive adjectives and two different verbs from lesson 03. Start with: "Hola, me llamo Mick..."
+Write a short paragraph (4-6 sentences) introducing the Shawsky family as if you were Mick. Use family vocabulary and at least two different verbs from lesson 03. Start with: "Hola, me llamo Mick..."
 
 ## Answer Key
 
@@ -242,14 +192,12 @@ Write a short paragraph (4-6 sentences) introducing the Shawsky family as if you
 
 ### Exercise 1
 
-1. **Mi** hermano se llama David.
-2. **Tus** hijas van a la escuela.
-3. **Nuestra** casa está en Valencia. (feminine because casa is feminine)
-4. **Su** perro es grande.
-5. **Vuestros** abuelos son simpáticos. (masculine plural)
-6. **Sus** hijos son adolescentes.
-7. **Nuestros** gatos son pequeños. (masculine plural)
-8. **Mis** primos viven en diferentes ciudades.
+1. **abuela** (grandmother)
+2. **tío** (uncle)
+3. **prima** (female cousin)
+4. **suegro** (father-in-law)
+5. **cuñada** (sister-in-law)
+6. **sobrinos** (nephews/nieces)
 
 ### Exercise 2
 
@@ -263,15 +211,15 @@ Write a short paragraph (4-6 sentences) introducing the Shawsky family as if you
 
 Sample answer:
 
-"Hola, me llamo Mick. Somos cuatro personas en mi familia. Mi esposa y yo vivimos en Valencia con nuestras dos hijas. Mis hijas van a la escuela aquí. Nuestra casa está cerca del centro. Estamos muy contentos en Valencia."
+"Hola, me llamo Mick. Somos cuatro personas en la familia. La esposa y yo vivimos en Valencia con las dos hijas. Las hijas van a la escuela aquí. Estamos muy contentos en Valencia."
 
-Your version will be different -- the key is using possessives correctly and mixing in SER, ESTAR, and TENER.
+Your version will be different -- the key is using family vocabulary correctly and mixing in SER, ESTAR, and TENER.
 
 ### "Your Turn" Answers
 
-- Family members: "En mi familia hay cuatro personas: mi esposa, mis dos hijas y yo."
+- Family members: "En la familia hay cuatro personas: la esposa, las dos hijas y yo."
 - Describing family: Answers will vary. Check that SER describes identity/traits, ESTAR describes feelings/location, and TENER describes age/possession.
-- Park: Answers will vary. Check that possessives match the nouns they describe.
+- Park: Answers will vary. Check that family vocabulary is used correctly.
 
 </details>
 

@@ -344,4 +344,4 @@ Think: "**P**urpose, **A**im, **R**ecipient, **A**rrival"
 
 ---
 
-**Next Lesson:** [13-preposition-en.md](13-preposition-en.md) | **Previous Lesson:** [11-adverbs.md](11-adverbs.md)
+**Next Lesson:** [21-preposition-en.md](21-preposition-en.md) | **Previous Lesson:** [19-la-rutina-diaria.md](19-la-rutina-diaria.md)

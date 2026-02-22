@@ -349,4 +349,4 @@ _Translation: The cat walks through the house to find food. In the morning, he's
 
 ---
 
-**Next Lesson:** [18-preposition-de.md](18-preposition-de.md) | **Previous Lesson:** [16-preposition-para.md](16-preposition-para.md)
+**Next Lesson:** [26-preposition-de.md](26-preposition-de.md) | **Previous Lesson:** [24-preposition-para.md](24-preposition-para.md)

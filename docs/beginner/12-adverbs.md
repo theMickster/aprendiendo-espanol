@@ -389,4 +389,4 @@ Siempre, mucho, temprano, rápidamente, Luego, fuera, casi, nunca, muy, más, tr
 
 ---
 
-**Next Lesson:** [12-preposition-puzzle.md](12-preposition-puzzle.md) | **Previous Lesson:** [10-adjectives.md](10-adjectives.md)
+**Next Lesson:** [13-possessives-and-demonstratives.md](13-possessives-and-demonstratives.md) | **Previous Lesson:** [11-ser-estar-adjectives.md](11-ser-estar-adjectives.md)

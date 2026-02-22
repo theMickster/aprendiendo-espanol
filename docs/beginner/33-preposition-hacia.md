@@ -297,4 +297,4 @@ _Translation: In the morning, I walk toward the park. I look toward the sky - th
 
 ---
 
-**Next Lesson:** [26-preposition-segun.md](26-preposition-segun.md) | **Previous Lesson:** [24-preposition-contra.md](24-preposition-contra.md)
+**Next Lesson:** [34-preposition-segun.md](34-preposition-segun.md) | **Previous Lesson:** [32-preposition-contra.md](32-preposition-contra.md)

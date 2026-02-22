@@ -451,4 +451,4 @@ All answers are "por"!
 
 ---
 
-**Next Lesson:** [29-preposition-the-finale.md](29-preposition-the-finale.md) | **Previous Lesson:** [27-preposition-locations.md](27-preposition-locations.md)
+**Next Lesson:** [37-preposition-the-finale.md](37-preposition-the-finale.md) | **Previous Lesson:** [35-preposition-locations.md](35-preposition-locations.md)

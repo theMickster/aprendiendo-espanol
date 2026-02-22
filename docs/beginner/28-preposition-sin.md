@@ -337,4 +337,4 @@ _Translation: I want a coffee without sugar and with milk. Also gluten-free brea
 
 ---
 
-**Next Lesson:** [21-preposition-desde-hasta.md](21-preposition-desde-hasta.md) | **Previous Lesson:** [19-preposition-con.md](19-preposition-con.md)
+**Next Lesson:** [29-preposition-desde-hasta.md](29-preposition-desde-hasta.md) | **Previous Lesson:** [27-preposition-con.md](27-preposition-con.md)

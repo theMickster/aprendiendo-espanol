@@ -327,4 +327,4 @@ _Translation: I read a book about marine animals. It's on my nightstand. I learn
 
 ---
 
-**Next Lesson:** [23-preposition-entre.md](23-preposition-entre.md) | **Previous Lesson:** [21-preposition-desde-hasta.md](21-preposition-desde-hasta.md)
+**Next Lesson:** [31-preposition-entre.md](31-preposition-entre.md) | **Previous Lesson:** [29-preposition-desde-hasta.md](29-preposition-desde-hasta.md)

@@ -287,4 +287,4 @@ Fill in the correct form of the verb in parentheses:
 
 ---
 
-**Previous Lesson:** [29-preposition-the-finale.md](29-preposition-the-finale.md)
+**Next Lesson:** [16-la-ropa-y-los-colores.md](16-la-ropa-y-los-colores.md) | **Previous Lesson:** [14-el-cuerpo-y-la-salud.md](14-el-cuerpo-y-la-salud.md)

@@ -28,33 +28,39 @@ Welcome to beginner Spanish! Start here and work your way through.
 ### Describing Things
 
 10. [Adjectives](10-adjectives.md)
-    10b. [Ser vs Estar with Adjectives](10b-ser-estar-adjectives.md)
-11. [Adverbs](11-adverbs.md)
+11. [Ser vs Estar with Adjectives](11-ser-estar-adjectives.md)
+12. [Adverbs](12-adverbs.md)
+
+### Everyday Life
+
+13. [Possessives & Demonstratives](13-possessives-and-demonstratives.md)
+14. [El Cuerpo y la Salud](14-el-cuerpo-y-la-salud.md)
+15. [Reflexive Verbs](15-reflexive-verbs.md)
+16. [La Ropa y los Colores](16-la-ropa-y-los-colores.md)
+17. [De Compras](17-de-compras.md)
+18. [Social Spanish](18-social-spanish.md)
+19. [La Rutina Diaria](19-la-rutina-diaria.md)
 
 ### The Preposition Puzzle
 
-12. [Preposition Overview: EN, A, POR, PARA](12-preposition-puzzle.md)
-13. [EN - In/On/At](13-preposition-en.md)
-14. [A - To/At/Personal A](14-preposition-a.md)
-15. [POR - For/By/Through](15-preposition-por.md)
-16. [PARA - For/To/Purpose](16-preposition-para.md)
-17. [POR vs PARA](17-preposition-por-vs-para.md)
-18. [DE - Of/From](18-preposition-de.md)
-19. [CON - With](19-preposition-con.md)
-20. [SIN - Without](20-preposition-sin.md)
-21. [DESDE & HASTA - Since/Until](21-preposition-desde-hasta.md)
-22. [SOBRE - About/On](22-preposition-sobre.md)
-23. [ENTRE - Between](23-preposition-entre.md)
-24. [CONTRA - Against](24-preposition-contra.md)
-25. [HACIA - Toward](25-preposition-hacia.md)
-26. [SEGÚN - According to](26-preposition-segun.md)
-27. [Location Compounds](27-preposition-locations.md)
-28. [Verb + Preposition Combos](28-preposition-and-verbs.md)
-29. [Complete Quick Reference](29-preposition-the-finale.md)
-
-### Verb Patterns
-
-30. [Reflexive Verbs](30-reflexive-verbs.md)
+20. [Preposition Overview: EN, A, POR, PARA](20-preposition-puzzle.md)
+21. [EN - In/On/At](21-preposition-en.md)
+22. [A - To/At/Personal A](22-preposition-a.md)
+23. [POR - For/By/Through](23-preposition-por.md)
+24. [PARA - For/To/Purpose](24-preposition-para.md)
+25. [POR vs PARA](25-preposition-por-vs-para.md)
+26. [DE - Of/From](26-preposition-de.md)
+27. [CON - With](27-preposition-con.md)
+28. [SIN - Without](28-preposition-sin.md)
+29. [DESDE & HASTA - Since/Until](29-preposition-desde-hasta.md)
+30. [SOBRE - About/On](30-preposition-sobre.md)
+31. [ENTRE - Between](31-preposition-entre.md)
+32. [CONTRA - Against](32-preposition-contra.md)
+33. [HACIA - Toward](33-preposition-hacia.md)
+34. [SEGÚN - According to](34-preposition-segun.md)
+35. [Location Compounds](35-preposition-locations.md)
+36. [Verb + Preposition Combos](36-preposition-and-verbs.md)
+37. [Complete Quick Reference](37-preposition-the-finale.md)
 
 ---
 

@@ -273,4 +273,4 @@ _Translation: I take vitamins against colds. It's important to protect yourself 
 
 ---
 
-**Next Lesson:** [25-preposition-hacia.md](25-preposition-hacia.md) | **Previous Lesson:** [23-preposition-entre.md](23-preposition-entre.md)
+**Next Lesson:** [33-preposition-hacia.md](33-preposition-hacia.md) | **Previous Lesson:** [31-preposition-entre.md](31-preposition-entre.md)

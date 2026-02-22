@@ -388,4 +388,4 @@ _Translation: I go to the store to buy a gift for my friend. It's his birthday t
 
 ---
 
-**Next Lesson:** [17-preposition-por-vs-para.md](17-preposition-por-vs-para.md) | **Previous Lesson:** [15-preposition-por.md](15-preposition-por.md)
+**Next Lesson:** [25-preposition-por-vs-para.md](25-preposition-por-vs-para.md) | **Previous Lesson:** [23-preposition-por.md](23-preposition-por.md)

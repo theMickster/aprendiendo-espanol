@@ -455,4 +455,4 @@ _Master prepositions = Master Spanish!_
 
 ---
 
-**Next Lesson:** [30-reflexive-verbs.md](30-reflexive-verbs.md) | **Previous Lesson:** [28-preposition-and-verbs.md](28-preposition-and-verbs.md)
+**Previous Lesson:** [36-preposition-and-verbs.md](36-preposition-and-verbs.md)
