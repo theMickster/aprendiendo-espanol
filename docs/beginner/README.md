@@ -62,6 +62,26 @@ Welcome to beginner Spanish! Start here and work your way through.
 36. [Verb + Preposition Combos](36-preposition-and-verbs.md)
 37. [Complete Quick Reference](37-preposition-the-finale.md)
 
+### El Cuerpo en Acción (The Body in Action)
+
+38. [Más Partes del Cuerpo](38-mas-partes-del-cuerpo.md)
+39. [Los Cinco Sentidos](39-los-cinco-sentidos.md)
+40. [Músculos y Movimiento](40-musculos-y-movimiento.md)
+41. [Respirar y los Pulmones](41-respirar-y-los-pulmones.md)
+
+### El Mundo del Trabajo (The World of Work)
+
+42. [¿A Qué Te Dedicas?](42-a-que-te-dedicas.md)
+43. [Profesiones de Escritorio](43-profesiones-de-escritorio.md)
+44. [Profesiones de Servicio](44-profesiones-de-servicio.md)
+45. [Profesiones con las Manos](45-profesiones-con-las-manos.md)
+
+### La Vida Académica y Profesional (Academic and Professional Life)
+
+46. [El Aula y la Educación](46-el-aula-y-la-educacion.md)
+47. [Comunicación Formal](47-comunicacion-formal.md)
+48. [Falsos Amigos](48-falsos-amigos.md)
+
 ---
 
 **Empecemos!** | Let's get started!

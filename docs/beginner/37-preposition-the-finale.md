@@ -455,4 +455,4 @@ _Master prepositions = Master Spanish!_
 
 ---
 
-**Previous Lesson:** [36-preposition-and-verbs.md](36-preposition-and-verbs.md)
+**Next Lesson:** [38-mas-partes-del-cuerpo.md](38-mas-partes-del-cuerpo.md) | **Previous Lesson:** [36-preposition-and-verbs.md](36-preposition-and-verbs.md)
