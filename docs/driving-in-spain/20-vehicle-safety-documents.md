@@ -76,7 +76,7 @@ The ITV is Spain's mandatory roadworthiness test. Without it, you cannot legally
 
 ### 2026 ITV Crackdown
 
-The DGT has tightened ITV enforcement in 2026: driving with an expired ITV is a **€200 fine** (€100 with pronto pago). Driving with a negative ITV (severe defects) is a **€500 fine** and possible **3-point deduction**, plus vehicle immobilisation. Officers may **immobilise your vehicle on the spot**. Having a pending appointment no longer excuses an expired ITV.
+The DGT has tightened ITV enforcement in 2026: driving with an expired ITV is a **€200 fine** (€100 with pronto pago). Driving with a negative ITV (severe defects) is a **€500 fine** plus **vehicle immobilisation**. Officers may **immobilise your vehicle on the spot**. Having a pending appointment no longer excuses an expired ITV. Note: ITV infractions are **fine-only** under the DGT sanctions table — they do NOT deduct points from your licence.
 
 ### 🚨 DGT Exam Trap — ITV Frequency
 

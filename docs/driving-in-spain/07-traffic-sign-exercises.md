@@ -165,8 +165,8 @@ Choose the correct answer. These mirror the real DGT exam format.
 
 ### Question 9 / Pregunta 9
 
-**ES:** _Usted circula en los Estados Unidos y ve un diamante amarillo. Significa "advertencia de peligro." En España, un diamante amarillo (señal P-1) significa:_
-**EN:** You drive in the US and see a yellow diamond. It means "danger warning." In Spain, a yellow diamond (sign P-1) means:
+**ES:** _Usted circula en los Estados Unidos y ve un diamante amarillo. Significa "advertencia de peligro." En España, un diamante amarillo (señal R-3) significa:_
+**EN:** You drive in the US and see a yellow diamond. It means "danger warning." In Spain, a yellow diamond (sign R-3) means:
 
 - A) Advertencia de peligro / Warning of danger
 - B) Calzada con prioridad / Priority road
@@ -369,7 +369,7 @@ Put these signal types in the correct priority order from **highest (1)** to **l
 5. **Ceda el paso** — R-1
 6. **Circulación prohibida** — R-100
 7. **Sentido obligatorio** — R-400
-8. **Calzada con prioridad** — P-1
+8. **Calzada con prioridad** — R-3
 
 ## D. DGT-Format Questions
 
@@ -439,7 +439,7 @@ Put these signal types in the correct priority order from **highest (1)** to **l
 ## H. US vs Spain — True or False
 
 1. **F** — You can NEVER turn right on red in Spain.
-2. **V** — The yellow diamond (P-1) means priority road in Spain.
+2. **V** — The yellow diamond (R-3) means priority road in Spain.
 3. **V** — Speed limits are round, red-bordered circles.
 4. **F** — Hatched areas (cebreado) cannot be driven over, even in emergencies.
 5. **V** — Temporary orange signs override permanent vertical signs.

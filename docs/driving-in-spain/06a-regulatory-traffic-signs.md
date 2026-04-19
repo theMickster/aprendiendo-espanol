@@ -61,21 +61,21 @@ Priority signs have **unique shapes** so they can be recognised from behind, at 
 
 ### The Essential Priority Signs
 
-| Code    | Shape & Colour                  | Spanish Name                                                  | English                        | What It Means                                                                                        |
-| ------- | ------------------------------- | ------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| **R-1** | 🔺 Inverted triangle, white/red | Ceda el paso                                                  | Give way / Yield               | Slow down, yield to traffic on the road you're joining. You do NOT have to stop if the way is clear. |
-| **R-2** | 🛑 Octagon, red/white           | Detención obligatoria (STOP)                                  | Stop                           | You MUST stop completely at the line (or before the intersection if no line), then yield.            |
-| **P-1** | 🔶 Yellow diamond               | Calzada con prioridad                                         | Priority road                  | You have priority over joining traffic. Stays in force until cancelled by P-2.                       |
-| **P-2** | 🔶 with diagonal lines          | Fin de prioridad                                              | End of priority                | You no longer have priority — default rules apply again.                                             |
-| **P-3** | 🔶 with arrow                   | Prioridad en sentido contrario                                | Priority for oncoming traffic  | The OTHER direction has priority. YOU must wait.                                                     |
-| **P-4** | 🔶 Red arrow + black arrow      | Prioridad respecto al sentido contrario                       | Priority over oncoming traffic | YOU have priority. The other direction must wait.                                                    |
-| **P-6** | 🔵 Circle with arrows           | Intersección con prioridad sobre incorporación por la derecha | Priority over right            | You have priority at the NEXT intersection, overriding the default "right has priority" rule.        |
+| Code    | Shape & Colour                                                           | Spanish Name                            | English                                         | What It Means                                                                                        |
+| ------- | ------------------------------------------------------------------------ | --------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **R-1** | 🔺 Inverted triangle, white/red                                          | Ceda el paso                            | Give way / Yield                                | Slow down, yield to traffic on the road you're joining. You do NOT have to stop if the way is clear. |
+| **R-2** | 🛑 Octagon, red/white                                                    | Detención obligatoria (STOP)            | Stop                                            | You MUST stop completely at the line (or before the intersection if no line), then yield.            |
+| **R-3** | 🔶 Yellow diamond, white border                                          | Calzada con prioridad                   | Priority road                                   | You have priority over joining traffic. Stays in force until cancelled by R-4.                       |
+| **R-4** | 🔶 Yellow diamond with diagonal lines                                    | Fin de prioridad                        | End of priority                                 | You no longer have priority — default rules apply again.                                             |
+| **R-5** | 🔴 Round, white background, red border — red arrow up + white arrow down | Prioridad en sentido contrario          | Priority for oncoming traffic (narrow passage)  | At the narrow passage ahead, the OTHER direction has priority. YOU must wait.                        |
+| **R-6** | 🟦 Rectangular, blue background — white arrow up + red arrow down        | Prioridad respecto al sentido contrario | Priority over oncoming traffic (narrow passage) | At the narrow passage ahead, YOU have priority. Oncoming traffic must wait.                          |
 
 ### 🚨 DGT Exam Traps — Priority Signs
 
 1. **R-1 vs R-2:** At a YIELD (R-1) you only stop IF there's traffic. At a STOP (R-2) you MUST stop even if the road is completely empty.
-2. **P-3 vs P-4:** These look similar! P-3 (red arrow = you) means you WAIT. P-4 (red arrow = them) means YOU go. Remember: **red arrow = whoever must wait**.
-3. **P-6 only works at the NEXT intersection.** After that, default rules return.
+2. **R-5 vs R-6 (narrow-passage priority):** These are the "twins" you see at single-track bridges, roadworks and narrow lanes. **R-5 (round, red-bordered)** = the red arrow is YOURS — YOU wait. **R-6 (blue rectangle)** = the red arrow is theirs — YOU go. Memory trick: _red arrow = whoever must wait._
+3. **R-3 stays active** until cancelled by R-4 (end of priority) or by signs/lights at a specific intersection — don't assume priority is gone just because you passed a junction.
+4. **"Priority over right-merge" at a single junction** is a **warning sign** (P-1 / P-1a / P-1b family, covered in Topic 06b), not a regulatory sign — it's triangular, white with red border, not a blue circle.
 
 ### 🇺🇸→🇪🇸 US vs Spain Difference
 

@@ -47,9 +47,9 @@ Manoeuvres are the **actions** you perform while driving — overtaking, lane ch
 | **4** | **Pass** — overtake without exceeding the speed limit     | Adelantar sin superar el límite de velocidad |
 | **5** | **Return** — signal right, return to your lane when clear | Señalizar derecha, volver al carril propio   |
 
-### ⚠️ 2026 RULE CHANGE — Overtaking Cyclists & Stopped Vehicles
+### ⚠️ Overtaking Cyclists & Stopped Vehicles — Current Law
 
-**Status (Feb 2026):** This rule is part of the Reglamento General de Circulación reform draft. It is expected to become law during 2026 but has not yet been formally enacted. Check DGT for the latest status.
+**Status (April 2026):** This rule is **in force**. The 1.5 m minimum lateral distance when overtaking cyclists has been in the Reglamento General de Circulación (Art. 35) since 2014, and the **20 km/h speed-reduction rule** was consolidated by the Ley 18/2021 reform (in force since March 2022). Expect these on the DGT exam.
 
 When overtaking a cyclist or a vehicle stopped on the hard shoulder:
 

@@ -104,7 +104,7 @@
 **EN:** If you drive without a valid ITV, what can happen?
 
 - A) Solo una advertencia verbal / Only a verbal warning
-- B) Multa de 200€, pérdida de 3 puntos, posible inmovilización del vehículo / €200 fine, 3 points lost, possible vehicle immobilisation
+- B) Multa de 200€ (500€ si la ITV es desfavorable), posible inmovilización del vehículo. ITV NO resta puntos / €200 fine (€500 if ITV is unfavourable), possible vehicle immobilisation. ITV does NOT deduct points
 - C) Nada, si tiene cita para la ITV / Nothing, if you have an ITV appointment
 
 ### Question 8
@@ -229,7 +229,7 @@
 4. **B)** 1,6 mm
 5. **B)** 1,35 metros
 6. **B)** Permiso de conducir, permiso de circulación, ficha técnica y seguro
-7. **B)** Multa de 200€, pérdida de 3 puntos, posible inmovilización del vehículo
+7. **B)** Multa de 200€ (500€ si la ITV es desfavorable) + inmovilización posible. Sin pérdida de puntos — ITV no es infracción con puntos
 8. **B)** Depende de la normativa municipal
 
 ## D. Fill in the Blank

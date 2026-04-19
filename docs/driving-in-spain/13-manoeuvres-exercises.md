@@ -119,6 +119,15 @@
 - B) Hacer un cambio de sentido / Make a U-turn
 - C) Continuar hasta la próxima salida / Continue to the next exit
 
+### Question 9 / Pregunta 9
+
+**ES:** _¿En qué circunstancias puede usted dar marcha atrás en una autopista o autovía?_
+**EN:** Under what circumstances may you reverse on a motorway or dual carriageway?
+
+- A) Siempre que sea necesario, con precaución / Whenever necessary, with care
+- B) Sólo una distancia muy corta y con las luces de emergencia / Only a very short distance and with hazard lights on
+- C) Nunca — la marcha atrás está totalmente prohibida en autopista y autovía / Never — reversing is absolutely prohibited on motorways and dual carriageways
+
 ### Question 10 / Pregunta 10
 
 **ES:** _¿Cuál es la distancia lateral mínima al adelantar a un ciclista en vía interurbana?_
@@ -312,7 +321,7 @@ Put the 5 steps of a safe overtake in the correct order:
 6. **B)** El cambio de sentido / U-turns
 7. **B)** No, nunca se puede superar el límite
 8. **C)** Continuar hasta la próxima salida
-9. **C)** Continuar hasta la próxima salida
+9. **C)** Nunca — la marcha atrás está totalmente prohibida en autopista y autovía
 10. **B)** 1,5 metros
 11. **B)** Mantener la marcha engranada y soltar el acelerador — freno motor
 12. **A)** Con visibilidad suficiente y línea no continua

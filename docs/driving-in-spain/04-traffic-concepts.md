@@ -135,7 +135,15 @@ The person who steers or is in command of a vehicle, or who is in charge of anim
 
 ### Conductor novel — New driver
 
-A driver whose licence is **less than one year old**. New drivers must display the green L-plate and start with **8 points** (rather than the 12 that experienced drivers can accumulate).
+"Conductor novel" has **three overlapping definitions** that the DGT tests separately — don't confuse them:
+
+| Context             | Duration of "novel" status                                          | What applies                                                 |
+| ------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Alcohol limit**   | **First 2 years** after obtaining your first licence                | Max 0.3 g/L blood / 0.15 mg/L breath (vs 0.5 / 0.25 general) |
+| **Green "L" plate** | **First 1 year** after passing                                      | Must be displayed on the car                                 |
+| **Points system**   | You **start with 8 points**; after **3 clean years** it rises to 12 | New drivers risk licence suspension faster                   |
+
+The 2-year alcohol definition is the one most commonly tested. A driver 18 months into their licence is **still novel for alcohol purposes** (0.3 g/L limit applies) even though the L-plate has come off.
 
 ### Conductor profesional — Professional driver
 

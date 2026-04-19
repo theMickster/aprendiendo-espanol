@@ -230,18 +230,18 @@ Fill in the correct number for each fact.
 
 ## B. Number Recall
 
-| #   | Fact                     | Answer            |
-| --- | ------------------------ | ----------------- |
-| 1   | General BAC blood        | **0.5 g/l**       |
-| 2   | Novice BAC blood         | **0.3 g/l**       |
-| 3   | General BAC breath       | **0.25 mg/l**     |
-| 4   | Max continuous driving   | **2 hours**       |
-| 5   | Minimum rest break       | **15–20 minutes** |
-| 6   | Phone fine               | **€200**          |
-| 7   | Phone points lost        | **3 points**      |
-| 8   | Crash risk at 0.5 g/l    | **2x (doubled)**  |
-| 9   | Alcohol elimination rate | **0.10–0.15 g/l** |
-| 10  | Prison for refusing test | **6–12 months**   |
+| #   | Fact                     | Answer                                        |
+| --- | ------------------------ | --------------------------------------------- |
+| 1   | General BAC blood        | **0.5 g/l**                                   |
+| 2   | Novice BAC blood         | **0.3 g/l**                                   |
+| 3   | General BAC breath       | **0.25 mg/l**                                 |
+| 4   | Max continuous driving   | **2 hours**                                   |
+| 5   | Minimum rest break       | **15–20 minutes**                             |
+| 6   | Phone fine               | **€200**                                      |
+| 7   | Phone points lost        | **6 points** (post-2022 reform — Ley 18/2021) |
+| 8   | Crash risk at 0.5 g/l    | **2x (doubled)**                              |
+| 9   | Alcohol elimination rate | **0.10–0.15 g/l**                             |
+| 10  | Prison for refusing test | **6–12 months**                               |
 
 ## C. DGT-Format Questions
 
