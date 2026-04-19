@@ -1,5 +1,9 @@
 # 20 — Vehicle Safety & Documents / Seguridad del Vehículo y Documentación
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Parking Exercises](19-parking-exercises.md) · [Next: Safety Exercises ▶](21-vehicle-safety-exercises.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ## 🎯 What This Topic Covers
@@ -122,14 +126,68 @@ The vest must be **inside the vehicle cabin** (usually under the seat or in a do
 
 ### Child Seat Rules (SRI — Sistemas de Retención Infantil)
 
-| Rule                  | Detail                                                                                                                      |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **Mandatory until**   | Child reaches **1.35 metres** height (roughly age 12)                                                                       |
-| **Recommended until** | **1.50 metres** — the seatbelt doesn't fit properly until this height                                                       |
-| **Where**             | **Rear seats** — children under 1.35m must sit in the back                                                                  |
-| **Exception**         | Front seat allowed ONLY if rear seats are already occupied by other children in car seats, or the vehicle has no rear seats |
-| **Seat standards**    | Must comply with ECE R44/04 or i-Size (R129)                                                                                |
-| **Fine**              | €200 + 4 points for not using proper child restraint                                                                        |
+| Rule                  | Detail                                                                                                                                                                                                     |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mandatory until**   | Child reaches **1.35 metres** height (roughly age 12)                                                                                                                                                      |
+| **Recommended until** | **1.50 metres** — the seatbelt doesn't fit properly until this height                                                                                                                                      |
+| **Where**             | **Rear seats** — children under 1.35m must sit in the back                                                                                                                                                 |
+| **Exception**         | Front seat allowed ONLY if rear seats are already occupied by other children in car seats, or the vehicle has no rear seats                                                                                |
+| **Seat standards**    | **Must comply with i-Size (ECE R129).** Since **September 2024**, sale of R44-only seats is prohibited in the EU. R44 seats already in use remain legal to use, but any seat you _buy_ today must be R129. |
+| **Fine**              | €200 + 4 points for not using proper child restraint                                                                                                                                                       |
+
+### 🚨 The 1.35 m / Rear-Seat Rule — Memorise the Three Exceptions
+
+**Default rule:** children **under 1.35 m** must travel in the **rear seats**, in a suitable SRI.
+
+A child under 1.35 m may travel in the **front seat ONLY if one of these is true**:
+
+1. The vehicle **has no rear seats** (e.g., small two-seater commercial van).
+2. The rear seats are **already fully occupied by other children** using their own SRIs.
+3. The rear seats are **too small** to fit a child seat (rare — typical DGT answer still sends the child to the back).
+
+In all other cases: front seat = no go for under-1.35 m. This is a very common DGT trap — they'll describe a scenario with an empty front seat and a child to tempt you.
+
+---
+
+## 🤖 ADAS, eCall & Autonomous Driving (Nivel 0–5)
+
+The DGT increasingly tests knowledge of driver-assistance systems and how much a car can do on its own. Here's what you need to know for 2026.
+
+### ADAS — Sistemas Avanzados de Asistencia a la Conducción
+
+**ADAS** (_Advanced Driver-Assistance Systems_) help the driver but **never replace them**. They are **aids, not substitutes**. Examples:
+
+| ADAS                                                        | What it does                                           |
+| ----------------------------------------------------------- | ------------------------------------------------------ |
+| **ABS** (Antiblocking / Antibloqueo)                        | Prevents wheel lock-up during braking                  |
+| **ESP / ESC** (Control de estabilidad)                      | Corrects skids by braking individual wheels            |
+| **AEB** (Frenada autónoma de emergencia)                    | Automatic emergency braking if a collision is imminent |
+| **Lane Keep Assist** (Mantenimiento de carril)              | Steers the car back into lane                          |
+| **Adaptive Cruise Control** (Control de crucero adaptativo) | Keeps distance from the car in front                   |
+| **Blind Spot Monitoring** (Detector de ángulo muerto)       | Warns of vehicles in your blind spot                   |
+| **Speed sign recognition** (Reconocimiento de señales)      | Reads speed-limit signs and alerts                     |
+| **Driver drowsiness detection** (Detector de fatiga)        | Suggests a break when it sees signs of fatigue         |
+
+**EU regulation:** since **July 2024**, all new cars sold in the EU must include a suite of ADAS (AEB, ISA intelligent speed assistance, drowsiness detection, reverse-detection, data logger, etc.).
+
+### eCall — Llamada de Emergencia
+
+**eCall** (_llamada automática de emergencia_) is **mandatory in all new cars sold in the EU since 31 March 2018**. In a serious crash (airbag deployment) it automatically calls **112**, sending GPS location, direction of travel, fuel type, and number of seatbelts fastened.
+
+You can also trigger eCall **manually** with the red SOS button — useful when you witness a crash. The call is **free** and works even in a foreign EU country. It does not track you otherwise: the system is dormant until triggered.
+
+### Levels of Autonomy (Nivel 0–5)
+
+| Nivel | Nombre                     | Quién conduce                                                                              | Legal en España 2026                                                                   |
+| ----- | -------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| 0     | Sin automatización         | 100% the human                                                                             | Sí                                                                                     |
+| 1     | Asistencia                 | Human, with one assist active (cruise OR lane-keep, not both)                              | Sí                                                                                     |
+| 2     | Automatización parcial     | Human supervises; car handles steering + speed together (Tesla Autopilot, Ford BlueCruise) | Sí — hands-on required in general; BlueCruise hands-free only in approved "Blue Zones" |
+| 3     | Automatización condicional | Car drives itself in specific conditions; human must retake control when asked             | **NO**, not authorised for general use as of April 2026 — pilots only                  |
+| 4     | Automatización alta        | Car drives itself in a defined area; no human needed there                                 | No, pilot programmes only                                                              |
+| 5     | Automatización plena       | Full autonomy, anywhere, all conditions                                                    | No, does not yet exist commercially                                                    |
+
+**🚨 DGT exam trap:** Any question that says "an autonomous car can legally drive with no driver attention" on Spanish public roads is **FALSE** for any cars currently on sale. The driver is **always responsible**.
 
 ---
 
@@ -230,3 +288,7 @@ A regular -ar verb with multiple meanings — context determines translation.
 8. **Child seats until 1.35m height.** Children must sit in the rear.
 9. **Environmental badge (distintivo ambiental)** needed for ZBEs — check your car!
 10. **Key verbs:** _llevar_ (to carry/wear), _revisar_ (to check), _pasar la ITV_ (to pass the inspection).
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Parking Exercises](19-parking-exercises.md) · [Next: Safety Exercises ▶](21-vehicle-safety-exercises.md)

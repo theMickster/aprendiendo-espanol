@@ -1,4 +1,8 @@
-\# 18 — Stopping, Parking & Loading / Parada, Estacionamiento y Carga
+# 18 — Stopping, Parking & Loading / Parada, Estacionamiento y Carga
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Lighting Exercises](17-lighting-and-visibility-exercises.md) · [Next: Parking Exercises ▶](19-parking-exercises.md)
+
+---
 
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
@@ -199,3 +203,7 @@ Regular -ar verb. Used in legal/sign language. In everyday speech, _aparcar_ is 
 8. **Get a resident parking permit** for Penya-Roja/Camins al Grau — zona verde is much cheaper with one.
 9. **Key verbs:** _aparcar_ (to park, everyday), _estacionar_ (to park, legal/formal), _cargar/descargar_ (to load/unload).
 10. **If in doubt: don't park there.** The fine + tow cost far outweighs the convenience.
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Lighting Exercises](17-lighting-and-visibility-exercises.md) · [Next: Parking Exercises ▶](19-parking-exercises.md)

@@ -1,5 +1,9 @@
 # 25 — Special Situations Exercises / Ejercicios de Situaciones Especiales
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Special Situations](24-special-situations.md) · [Next: Exam Commands ▶](26-practical-exam-commands.md) · ↩ [Back to content: Special Situations](24-special-situations.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ---
@@ -208,3 +212,37 @@
 2. _Mira, vamos a entrar en un túnel. Voy a encender las luces de cruce y me quito las gafas de sol para ver bien dentro._
 3. _Pepe, ¿tienes el distintivo ambiental en tu coche? Si no, te pueden multar en la ZBE del centro de Valencia._
 4. _Me estoy moviendo al lado del carril porque tenemos que crear un corredor de emergencia. Es para que puedan pasar las ambulancias y los bomberos._
+
+---
+
+## Z. Case Scenarios — Casos Prácticos
+
+### Scenario 1
+
+_Patinete eléctrico (VMP) sin seguro ni matrícula en febrero de 2026._
+
+- A) No pasa nada hasta 2027
+- B) Infracción: desde el 2 enero 2026 el seguro es obligatorio; el registro desde el 30 enero 2026
+- C) Solo necesita seguro si supera 25 km/h
+
+### Scenario 2
+
+_Llegas a Madrid con un vehículo sin distintivo ambiental (etiqueta A)._
+
+- A) Puedo circular libremente en Madrid Centro
+- B) Tengo restricciones importantes en la ZBE: no puedo entrar en Madrid Centro ni en Plaza Elíptica en horario regulado
+- C) Pago un canon y puedo entrar sin problemas
+
+### Scenario 3
+
+_Conduces con asistencia nivel 2 (BlueCruise/Autopilot) en una autopista española._
+
+- A) Puedo soltar las manos en cualquier autopista
+- B) Debo mantener la atención y, salvo excepciones como las _Blue Zones_ autorizadas, las manos en el volante
+- C) Es ilegal usar estos sistemas en España
+
+**Answers:** 1-B, 2-B, 3-B
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Special Situations](24-special-situations.md) · [Next: Exam Commands ▶](26-practical-exam-commands.md) · ↩ [Back to content: Special Situations](24-special-situations.md)

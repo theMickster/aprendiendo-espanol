@@ -1,5 +1,9 @@
 # 07 — Traffic Signs Exercises / Ejercicios de Señales de Tráfico
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Info Signs](06c-informational-signs-traffic-lights-police-signals.md) · [Next: Priority Rules ▶](08-priorityrules.md) · ↩ [Back to content: Signs (06a/06b/06c)](06a-regulatory-traffic-signs.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐⭐ (Core Exam Knowledge)
 
 ---
@@ -467,3 +471,37 @@ Put these signal types in the correct priority order from **highest (1)** to **l
 
 **Memory trick: "Please Trust The Visible Marks"**
 **P**olice → **T**emporary → **T**raffic lights → **V**ertical → **M**arkings
+
+---
+
+## Z. Case Scenarios — Casos Prácticos
+
+### Scenario 1
+
+_Te acercas a una intersección con una señal octogonal roja (STOP)._
+
+- A) Disminuyo y cedo si hay alguien
+- B) Paro por completo detrás de la línea, aunque no venga nadie
+- C) Paro solo si viene otro vehículo
+
+### Scenario 2
+
+_Ves un panel informativo **variable** que marca 80 km/h en una autopista cuyo límite fijo es 120._
+
+- A) Sigo a 120 porque es el límite "real"
+- B) Circulo a 80: las señales variables prevalecen sobre las fijas
+- C) Ignoro ambas y adopto una velocidad adecuada
+
+### Scenario 3
+
+_Señal R-116 (círculo rojo con patinete tachado)._
+
+- A) Prohibido a ciclistas
+- B) Prohibido a VMP (patinetes)
+- C) Vía exclusiva para VMP
+
+**Answers:** 1-B, 2-B, 3-B
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Info Signs](06c-informational-signs-traffic-lights-police-signals.md) · [Next: Priority Rules ▶](08-priorityrules.md) · ↩ [Back to content: Signs (06a/06b/06c)](06a-regulatory-traffic-signs.md)

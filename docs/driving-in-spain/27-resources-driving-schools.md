@@ -1,10 +1,14 @@
 # 27 — Resources & Driving Schools / Recursos y Autoescuelas
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Exam Commands](26-practical-exam-commands.md)
+
+---
+
 ## ⭐ Your Complete Reference Page
 
 ## 🎯 What This Page Covers
 
-Every verified, safe URL you need for the DGT theory exam, the practical exam, and getting your Spanish driving licence in Valencia. Plus driving schools near your barrio (Penya-Roja / Camins al Grau / Aqua Mall area). All links have been verified as real, safe, and operational as of February 2026.
+Every verified, safe URL you need for the DGT theory exam, the practical exam, and getting your Spanish driving licence in Valencia. Plus driving schools near your barrio (Penya-Roja / Camins al Grau / Aqua Mall area). All links have been verified as real, safe, and operational as of April 2026.
 
 ---
 
@@ -203,3 +207,7 @@ For staying updated on DGT rule changes and driving in Spain:
 ---
 
 **🎉 ¡Buena suerte, Mick! You've got this — and this wiki has your back every step of the way! 🚗🇪🇸**
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Exam Commands](26-practical-exam-commands.md)

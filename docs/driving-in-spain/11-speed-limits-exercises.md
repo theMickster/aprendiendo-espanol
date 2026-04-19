@@ -1,5 +1,9 @@
 # 11 — Speed Limits Exercises / Ejercicios de Velocidad
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Speed Limits](10-speed-limits.md) · [Next: Manoeuvres ▶](12-manoeuvres.md) · ↩ [Back to content: Speed Limits](10-speed-limits.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ---
@@ -307,3 +311,37 @@ Write the correct speed limit for each situation. All answers are for a standard
 3. _Vamos despacio porque estamos en una zona 30. El límite de velocidad es 30 kilómetros por hora._ (or: _Es una zona 30 — no podemos ir a más de 30._)
 4. _Llueve mucho y tengo que conducir a una velocidad adecuada. El límite es 120 pero con lluvia es peligroso ir tan rápido._
 5. _En España, las calles de un solo carril en la ciudad tienen un límite de 30 km/h. Antes era 50, pero cambió en 2021._
+
+---
+
+## Z. Case Scenarios — Casos Prácticos
+
+### Scenario 1
+
+_Vía urbana de un solo carril por sentido. No hay señal._
+
+- A) 50 km/h por defecto
+- B) 30 km/h por defecto (regla de 2021)
+- C) 20 km/h por defecto
+
+### Scenario 2
+
+_Autovía con paneles variables que indican 100 km/h porque llueve. El límite fijo es 120._
+
+- A) 120 km/h, el variable es orientativo
+- B) 100 km/h, prevalece lo variable
+- C) 80 km/h, aplico mi propio criterio
+
+### Scenario 3
+
+_Coche con remolque en autopista._
+
+- A) 120 km/h
+- B) 80 km/h
+- C) 90 km/h
+
+**Answers:** 1-B, 2-B, 3-B
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Speed Limits](10-speed-limits.md) · [Next: Manoeuvres ▶](12-manoeuvres.md) · ↩ [Back to content: Speed Limits](10-speed-limits.md)

@@ -1,5 +1,9 @@
 # 14 — The Driver: Alcohol, Drugs & Fatigue
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Manoeuvre Exercises](13-manoeuvres-exercises.md) · [Next: Fitness Exercises ▶](15-driver-fitness-exercises.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ## 🎯 What This Topic Covers
@@ -39,7 +43,7 @@ This topic covers the **human factor** — how alcohol, drugs, medication, fatig
 | **Under 18** (moped/bike)      | **0.0 g/l** | **0.0 mg/l**  | Zero tolerance                              |
 
 **⚠️ 2026 UPDATE — Proposed Lower Limit:**
-A new law has been proposed (and passed initial parliamentary stages) to reduce the general limit to **0.2 g/l** (0.10 mg/l breath) for ALL drivers. This would make Spain one of the strictest in Europe, alongside Sweden and Norway. Final approval is pending — check current status before your exam. The DGT's recommendation: **the safest limit is 0.0 g/l — don't drink and drive.**
+A bill to lower the general limit to **0.2 g/l** (0.10 mg/l breath) for ALL drivers passed the _toma en consideración_ stage in Congress in March 2025, but **as of 2026-04-18 it has NOT been enacted**. Current DGT-enforced limits remain **0.5 g/l general / 0.3 g/l novel & professional**. The exam tests the law _currently in force_, so answer 0.5 / 0.3 unless explicitly told otherwise. The DGT's recommendation: **the safest limit is 0.0 g/l — don't drink and drive.**
 
 ### What Does This Mean in Practice?
 
@@ -163,18 +167,63 @@ The DGT exam may ask: "What should you do if you feel drowsy while driving?" The
 
 ### Mobile Phone Rules
 
-| Rule               | Detail                                                   |
-| ------------------ | -------------------------------------------------------- |
-| **Handheld phone** | 🚫 PROHIBITED — even at red lights or in traffic jams    |
-| **Hands-free**     | ✅ Permitted, but not recommended                        |
-| **Fine**           | €200 + 3 points                                          |
-| **Navigation**     | Must be mounted — you cannot hold the phone to check GPS |
+| Rule               | Detail                                                                                                      |
+| ------------------ | ----------------------------------------------------------------------------------------------------------- |
+| **Handheld phone** | 🚫 PROHIBITED — even at red lights or in traffic jams                                                       |
+| **Hands-free**     | ✅ Permitted, but not recommended                                                                           |
+| **Fine**           | **€200 + 6 points** (up from 3 after the 2022 Ley de Tráfico reform — simply _holding_ the phone is enough) |
+| **Navigation**     | Must be mounted — you cannot hold the phone to check GPS                                                    |
 
 ### Other Distractions
 
 - Eating while driving — not illegal but strongly discouraged
 - Headphones — prohibited (both ears). One earbud may be tolerated for calls but is not recommended
 - Smoking — not illegal but dropping a cigarette counts as a distraction
+
+---
+
+## 🪪 PERMISO POR PUNTOS — Spain's Points-Licence System
+
+Spain's licence works on a **points-loss system, not points-earn**. You _start_ with points and _lose_ them for infractions. Hit zero and the licence is withdrawn.
+
+### How many points you have
+
+| Situation                                                                     | Points |
+| ----------------------------------------------------------------------------- | ------ |
+| **Novel driver** (licence <3 years, or any B-licence holder in first 3 years) | **8**  |
+| **Experienced** (after 3 full years with no loss)                             | **12** |
+| **Maximum** (after 3 more years clean, i.e. 6 total without losing a point)   | **15** |
+
+### Top point-losing infractions — memorise these
+
+| Infraction                                                          | Fine      | Points  |
+| ------------------------------------------------------------------- | --------- | ------- |
+| Driving with alcohol **>0.5 g/l** (or **>0.3 g/l novel/pro**), mild | €500      | **4**   |
+| Alcohol >0.6 mg/l breath (serious) / refusing the breath test       | €1.000    | **6**   |
+| **Drugs** — any positive test (or refusal)                          | €1.000    | **6**   |
+| **Phone held in hand while driving** (post-2022 reform)             | €200      | **6**   |
+| **Throwing objects** that may cause fires / accidents (cigarette!)  | €200      | **6**   |
+| **Seatbelt / helmet / child restraint** not used                    | €200      | **4**   |
+| **Radar detector** (detectador de radares)                          | €500      | **3**   |
+| Speeding 21–30 over limit → 2 pts; 31–40 → 4; 41–50 → 6; +50 → 6    | €300–€600 | **2–6** |
+| Overtaking putting others in danger                                 | €200      | **4**   |
+| Running a red light / failing to give priority                      | €200      | **4**   |
+| Driving with licence **withdrawn** (criminal offence)               | Court     | —       |
+
+_Radar detectors_ (active devices that pick up police radar) are illegal and cost 3 points. _Radar warners / GPS warnings_ built into map apps are legal.
+
+### Getting points back
+
+1. **Automatic recovery**: after **2 years** with no infraction, you return to your previous level. After **3 years** you go back to a full tank.
+2. **Recovery course** (_curso de recuperación parcial_): up to **6 points back**, once every **2 years**, 12 hours of classroom work at an authorised centre (~€170–€240).
+3. **Sensitisation course** (_curso de sensibilización_) — **mandatory** if you lose ALL points; 24 hours + a theory-exam-style test; gets you a provisional licence at **8 points again**.
+
+### 🚨 DGT Exam Traps — Permiso por puntos
+
+- A **novel** driver starts at **8 points, not 12**. Very common trap.
+- The **maximum is 15**, not 12, and only after 6 years clean.
+- A **recovery course** gives back up to **6 points**, not all 8 or 12.
+- **Losing the licence twice for zero points** within 3 years of recovering means you must also pass the **theory exam again** (and possibly practical).
 
 ---
 
@@ -247,7 +296,7 @@ A regular -ar verb — key for this topic.
 ## 📌 Summary — What You Need to Remember
 
 1. **General BAC limit: 0.5 g/l blood (0.25 mg/l breath).** Novice/professional: 0.3 g/l (0.15 mg/l).
-2. **Proposed 2026 change:** 0.2 g/l for ALL drivers — check current status.
+2. **Proposed 0.2 g/l reform:** passed Congress _toma en consideración_ March 2025 but NOT yet law as of April 2026 — exam answers still use 0.5 / 0.3.
 3. **DGT's message: the only safe limit is 0.0 g/l.** "Si bebes, no conduzcas."
 4. **Refusing a breathalyser = CRIMINAL OFFENCE** — worse penalties than being slightly over!
 5. **The body eliminates ~0.10–0.15 g/l per hour.** Coffee and cold water do NOT help.
@@ -256,3 +305,7 @@ A regular -ar verb — key for this topic.
 8. **Stop every 2 hours.** If drowsy, the ONLY solution is to STOP and REST.
 9. **Handheld phone: ALWAYS prohibited** — even at red lights.
 10. **Key verbs:** _afectar_ (to affect), _negarse_ (to refuse), _soplar_ (to blow), _descansar_ (to rest).
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Manoeuvre Exercises](13-manoeuvres-exercises.md) · [Next: Fitness Exercises ▶](15-driver-fitness-exercises.md)

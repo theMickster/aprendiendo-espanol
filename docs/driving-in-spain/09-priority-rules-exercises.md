@@ -1,5 +1,9 @@
 # 09 — Priority Rules Exercises / Ejercicios de Prioridad
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Priority Rules](08-priorityrules.md) · [Next: Speed Limits ▶](10-speed-limits.md) · ↩ [Back to content: Priority Rules](08-priorityrules.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐⭐ (Core Exam Knowledge)
 
 ---
@@ -346,3 +350,37 @@ Put these roundabout steps in the correct order (1–6):
 3. _El coche que sube tiene prioridad porque es más difícil arrancar en una cuesta._ (or: _En una pendiente, el que sube pasa primero._)
 4. _En España, nunca se puede girar a la derecha con el semáforo en rojo._
 5. _Tengo que apartarme a la derecha y parar para dejar pasar a la ambulancia._
+
+---
+
+## Z. Case Scenarios — Casos Prácticos
+
+### Scenario 1
+
+_Llegas a una glorieta. Dentro circula un coche por el carril interior, indicando que va a salir por tu derecha._
+
+- A) Tengo prioridad porque estoy entrando
+- B) Cedo el paso al que ya está dentro y espero
+- C) Acelero para cruzar antes
+
+### Scenario 2
+
+_Cruce sin señales; un coche viene por tu derecha._
+
+- A) Tengo preferencia
+- B) Cede el paso al de la derecha
+- C) Depende del tamaño del vehículo
+
+### Scenario 3
+
+_Una ambulancia con sirena y rotativos se acerca por detrás en zona urbana._
+
+- A) Acelero para quitarme de su camino
+- B) Me arrimo a la derecha y me detengo si hace falta, dejándole paso
+- C) Freno bruscamente en seco
+
+**Answers:** 1-B, 2-B, 3-B
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Priority Rules](08-priorityrules.md) · [Next: Speed Limits ▶](10-speed-limits.md) · ↩ [Back to content: Priority Rules](08-priorityrules.md)

@@ -1,5 +1,9 @@
 # 02 — Requisitos para Conducir / Requirements to Drive
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Getting Started](01-getting-started.md) · [Next: Basic Exercises ▶](03-basic-exercises.md)
+
+---
+
 ## ⭐ Difficulty: ⭐ (Foundation)
 
 ---
@@ -113,6 +117,10 @@ An autoescuela (driving school) is required for the practical exam because you m
 
 **If you fail:** You can retake the exam. The waiting time depends on how many errors you made. Your autoescuela will rebook you.
 
+**🆕 2026 — Risk-perception videos:** DGT is progressively phasing **video-based risk-perception items** into the theory exam. The overall format stays the same (30 questions, max 3 errors), but expect a few questions that show a short clip and ask what the driver should do next. The aim is to test judgement, not memorisation. This is being rolled out province-by-province through 2026 — ask Valencia's Jefatura if your sitting is affected.
+
+**📚 New sign catalogue on the exam:** since **1 October 2025** the DGT exams use the updated sign catalogue (RD 465/2025). ~90 signs added, 20+ updated, 16 eliminated. Make sure you study from current materials — the sign chapters (06a/06b/06c) flag which items are new.
+
 ---
 
 ### The Practical Exam — What to Expect
@@ -179,7 +187,7 @@ This is a **stem-changing verb** (o → ue) in the present tense.
 
 In Valencia, the DGT office (Jefatura Provincial de Tráfico) is located in the Quatre Carreres district. Your autoescuela will handle most of the interaction with this office. The practical exam routes in Valencia typically cover a mix of city streets near the exam centre, possibly including sections along Avenida del Puerto, the ring roads, and residential areas. Each province uses 2–3 fixed circuits, so your instructor will practise these specific routes with you.
 
-Valencia also has a **ZBE** (Zona de Bajas Emisiones — low emission zone) which is increasingly relevant to drivers and appears in newer DGT questions. We'll cover this in detail in Topic 11.
+Valencia also has a **ZBE** (Zona de Bajas Emisiones — low emission zone) which is increasingly relevant to drivers and appears in newer DGT questions. We'll cover this in detail in [Topic 24 — Special Situations](24-special-situations.md).
 
 ---
 
@@ -205,3 +213,7 @@ Valencia also has a **ZBE** (Zona de Bajas Emisiones — low emission zone) whic
 4. **Practical exam:** ~25 minutes, in Spanish, in your autoescuela's car.
 5. **New drivers start with 8 points** and must display a green L for one year.
 6. **Key verbs to master:** aprobar, suspender, matricularse, conducir.
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Getting Started](01-getting-started.md) · [Next: Basic Exercises ▶](03-basic-exercises.md)

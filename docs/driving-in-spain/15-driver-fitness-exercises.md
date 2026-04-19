@@ -1,5 +1,9 @@
 # 15 — Driver Fitness Exercises / Ejercicios del Conductor
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Driver Fitness](14-the-driver-alcohol-drugs-fatigue.md) · [Next: Lighting ▶](16-lighting-and-visibility.md) · ↩ [Back to content: Driver Fitness](14-the-driver-alcohol-drugs-fatigue.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ---
@@ -304,3 +308,37 @@ Fill in the correct number for each fact.
 3. _Llevamos dos horas conduciendo. La DGT recomienda parar cada dos horas para descansar._ (or: _Vamos a parar un rato — es más seguro._)
 4. _Perdone, ¿este medicamento afecta a la conducción?_ (or: _¿Puedo conducir si tomo este medicamento?_)
 5. _En España, negarse a soplar en el alcoholímetro es peor que dar un poco positivo. Es un delito con pena de cárcel._
+
+---
+
+## Z. Case Scenarios — Casos Prácticos
+
+### Scenario 1
+
+_Conductor novel (licencia hace 1 año) da positivo por 0,4 g/l de alcohol en sangre._
+
+- A) Está dentro del límite — 0,5 g/l general
+- B) Está fuera del límite — los noveles tienen 0,3 g/l
+- C) Depende de la provincia
+
+### Scenario 2
+
+_Llevas 2 horas conduciendo y notas bostezos, ojos pesados, reacción lenta._
+
+- A) Abro la ventana y pongo la radio alta
+- B) Me tomo un café doble y sigo
+- C) Paro en la próxima área de servicio y descanso 15–20 minutos o duermo una siesta corta
+
+### Scenario 3
+
+_Vas a tomar un medicamento nuevo y en el prospecto ves el pictograma de un coche (triángulo rojo)._
+
+- A) No pasa nada, es informativo
+- B) Consulta al médico o farmacéutico antes de conducir — puede afectar a la capacidad de conducción
+- C) Solo afecta si se combina con alcohol
+
+**Answers:** 1-B, 2-C, 3-B
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Driver Fitness](14-the-driver-alcohol-drugs-fatigue.md) · [Next: Lighting ▶](16-lighting-and-visibility.md) · ↩ [Back to content: Driver Fitness](14-the-driver-alcohol-drugs-fatigue.md)

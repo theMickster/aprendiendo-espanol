@@ -1,5 +1,9 @@
 # 05 — Exercises / Ejercicios
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Traffic Concepts](04-traffic-concepts.md) · [Next: Regulatory Signs ▶](06a-regulatory-traffic-signs.md) · ↩ [Back to content: Traffic Concepts](04-traffic-concepts.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Knowledge)
 
 ---
@@ -310,3 +314,37 @@ Fill in the 7 labels:
 5. **Calzada** (carriageway)
 6. **Arcén** (hard shoulder)
 7. **Acera** (pavement / sidewalk)
+
+---
+
+## Z. Case Scenarios — Casos Prácticos
+
+### Scenario 1
+
+_Circulas por una carretera que atraviesa un pueblo pequeño. La señal indica "travesía"._
+
+- A) Aplico los límites interurbanos
+- B) Aplico los límites urbanos (50 / 30 según carriles)
+- C) Aplico el límite de la autovía
+
+### Scenario 2
+
+_Una autovía tiene dos carriles por sentido, mediana, y accesos con incorporación controlada pero NO es de peaje._
+
+- A) Es una autopista
+- B) Es una autovía
+- C) Es una carretera convencional
+
+### Scenario 3
+
+_Un vehículo Clase B arrastra un remolque ligero (<750 kg MMA)._
+
+- A) Necesita el permiso B+E
+- B) El permiso B basta si la suma MMA ≤ 4.250 kg
+- C) Solo se admite con permiso C
+
+**Answers:** 1-B, 2-B, 3-B
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Traffic Concepts](04-traffic-concepts.md) · [Next: Regulatory Signs ▶](06a-regulatory-traffic-signs.md) · ↩ [Back to content: Traffic Concepts](04-traffic-concepts.md)

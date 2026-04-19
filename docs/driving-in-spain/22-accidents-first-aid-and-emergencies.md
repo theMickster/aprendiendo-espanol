@@ -1,5 +1,9 @@
 # 22 — Accidents, First Aid & Emergencies
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Safety Exercises](21-vehicle-safety-exercises.md) · [Next: Emergency Exercises ▶](23-emergencies-exercises.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ## 🎯 What This Topic Covers
@@ -203,3 +207,7 @@ Note: **g → j** before a/o in the present yo form.
 8. **You are legally obligated to stop and help** — failure to do so is an offence.
 9. **Parte amistoso** for non-injury accidents — fill it out with the other driver.
 10. **Key verbs:** _proteger_ (to protect), _avisar_ (to alert), _socorrer_ (to help), _mover_ (to move).
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Safety Exercises](21-vehicle-safety-exercises.md) · [Next: Emergency Exercises ▶](23-emergencies-exercises.md)

@@ -1,5 +1,9 @@
 # 24 — Special Situations / Situaciones Especiales
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Emergency Exercises](23-emergencies-exercises.md) · [Next: Special Exercises ▶](25-special-situations-exercises.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ## 🎯 What This Topic Covers
@@ -144,15 +148,21 @@ As of 2026, all Spanish cities with 50,000+ residents must have a ZBE. Valencia'
 
 ### VMP (Electric Scooters / Patinetes)
 
-| Rule (2026)       | Detail                                                                                                                                       |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Insurance**     | Mandatory (Ley 5/2025). VMP >25 kg **and** >14 km/h = motor vehicle, immediate obligation. Lighter VMP = required once DGT registry launches |
-| **Maximum speed** | 25 km/h                                                                                                                                      |
-| **Helmet**        | Mandatory in some municipalities (not yet national law)                                                                                      |
-| **Pavements**     | PROHIBITED — must use road or cycle lane                                                                                                     |
-| **Minimum age**   | 16 years                                                                                                                                     |
-| **Lights**        | Must be on during riding                                                                                                                     |
-| **New signs**     | R-116 (no entry for VMP) and R-416 (VMP path)                                                                                                |
+| Rule (2026)                         | Detail                                                                                                                                                             |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Insurance**                       | **Mandatory for ALL VMPs since 2 January 2026** (RC: hasta 6,45 M€ personas, 1,3 M€ bienes)                                                                        |
+| **Registration**                    | **Mandatory since 30 January 2026** in the Registro Nacional de Vehículos — digital certificate plus adhesive matrícula formatted `M XXXX LLL`                     |
+| **Homologation**                    | VMPs sold after 22 Jan 2024 must be on the DGT's certified-models list. Pre-2024 units may still circulate until **22 January 2027**; after that, homologated-only |
+| **Maximum speed**                   | 25 km/h                                                                                                                                                            |
+| **Helmet**                          | **Obligatorio por normativa estatal** (state-level helmet rule now in force); plus extras in some cities                                                           |
+| **Pavements**                       | PROHIBITED — must use road or cycle lane                                                                                                                           |
+| **Interurban / motorway / tunnels** | PROHIBITED on interurban roads, travesías, autopistas/autovías, and urban tunnels                                                                                  |
+| **Minimum age**                     | 16 years                                                                                                                                                           |
+| **Lights**                          | Must be on during riding (front white, rear red); bell obligatorio                                                                                                 |
+| **Alcohol & drugs**                 | Same limits as car drivers (0.5 / 0.25 mg breath; 0.3 novel); drugs zero-tolerance                                                                                 |
+| **Signs**                           | R-116 (no entry for VMP) and R-416 (VMP path). DGT's updated 2025 catalogue adds further VMP-specific signage                                                      |
+
+**🚨 2026 DGT exam trap:** if a question dates before 2026 it may state that VMP insurance / registration is optional — the **current answer is that both are mandatory** (insurance since 2 Jan 2026, registration since 30 Jan 2026).
 
 ### Pedestrians
 
@@ -223,3 +233,7 @@ As of 2026, all Spanish cities with 50,000+ residents must have a ZBE. Valencia'
 8. **Cyclists: 1.5m distance, reduce 20 km/h.** May cross solid line to achieve this.
 9. **VMP (scooters): 25 km/h max, insurance mandatory (Ley 5/2025), no pavements.**
 10. **Key verbs:** _detenerse_ (to stop), _evacuar_ (to evacuate), _respetar_ (to respect).
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Emergency Exercises](23-emergencies-exercises.md) · [Next: Special Exercises ▶](25-special-situations-exercises.md)

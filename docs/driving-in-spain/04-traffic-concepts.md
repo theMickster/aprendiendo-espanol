@@ -1,5 +1,9 @@
 # 04 — Basic Traffic Concepts / Conceptos Básicos de Tráfico
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Basic Exercises](03-basic-exercises.md) · [Next: Traffic Exercises ▶](05-traffic-concepts-exercises.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Knowledge)
 
 ## 🎯 What This Topic Covers
@@ -20,10 +24,10 @@ This is the **foundation topic** for the entire DGT exam. It covers the official
 
 ## 📚 What's in This Folder
 
-| File                   | Contents                                                                                                                                                                                                   |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **02-01-lesson.md**    | Full bilingual lesson: road types & parts with DGT legal definitions, road user categories, vehicle classifications, key vocabulary tables, conjugation spotlight, Valencia examples, UK→Spain differences |
-| **02-02-exercises.md** | Definition matching, DGT-format questions, fill-in-the-blank, translation drills, conjugation practice                                                                                                     |
+| File                                                                 | Contents                                                                                                                                                                                                   |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| (this file)                                                          | Full bilingual lesson: road types & parts with DGT legal definitions, road user categories, vehicle classifications, key vocabulary tables, conjugation spotlight, Valencia examples, UK→Spain differences |
+| [05-traffic-concepts-exercises.md](05-traffic-concepts-exercises.md) | Definition matching, DGT-format questions, fill-in-the-blank, translation drills, conjugation practice                                                                                                     |
 
 ---
 
@@ -278,3 +282,7 @@ Valencia gives you excellent real-world examples of these definitions:
 7. **Parada** = less than 2 min AND driver stays with vehicle. **Estacionamiento** = anything else.
 8. In a learner car, the **instructor** is legally the driver.
 9. Key verbs: _circular_ (to drive/travel), _cruzar_ (to cross), _transitar_ (to travel on foot).
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Basic Exercises](03-basic-exercises.md) · [Next: Traffic Exercises ▶](05-traffic-concepts-exercises.md)

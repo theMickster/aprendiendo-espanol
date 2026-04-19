@@ -1,10 +1,16 @@
 # 06a — Regulatory Traffic Signs / Señales de Reglamentación
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Traffic Exercises](05-traffic-concepts-exercises.md) · [Next: Warning Signs ▶](06b-warning-signs-road-markings.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐⭐ (Core Exam Knowledge)
 
 ## 🎯 What This Section Covers
 
 Regulatory signs tell you what you **MUST** or **MUST NOT** do. They are the rules of the road in visual form. The DGT divides them into three families: **priority signs**, **prohibition signs**, and **obligation signs**. Together, they make up roughly 30–40% of all DGT exam questions — making this the single most important section in the entire wiki.
+
+> **🆕 2025 Sign Catalogue Update (RD 465/2025)** — The Gobierno approved the updated _Catálogo Oficial de Señales de Circulación_ on 10 June 2025. It has been **in force since 1 July 2025** and **tested on DGT theory exams since 1 October 2025**. The update adds ~90 new signs (VMP-specific, 2+1 roads, environmental restriction, aerial-enforcement warning, tunnel emergency, wildlife crossings, coexistence zones), updates 20+, and eliminates 16 (notably the old odd/even parking signs). Physical roll-out is progressive. [DGT infographic ↗](https://revista.dgt.es/es/multimedia/infografia/2025/06JUNIO/0619-N274-Infografia_nuevassenayles_2025.shtml)
 
 ---
 
@@ -279,3 +285,7 @@ You'll encounter these regulatory signs daily in Valencia:
 8. **New for 2026:** VMP (patinete/scooter) signs added to both prohibition and obligation families.
 9. **Speed limit signs are circles in Spain** (not rectangles like the US).
 10. **Key verbs:** _prohibir_ (to prohibit), _obligar_ (to require), _ceder el paso_ (to yield).
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Traffic Exercises](05-traffic-concepts-exercises.md) · [Next: Warning Signs ▶](06b-warning-signs-road-markings.md)

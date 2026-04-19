@@ -1,5 +1,9 @@
 # 08 — Priority Rules / Normas de Prioridad
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Sign Exercises](07-traffic-sign-exercises.md) · [Next: Priority Exercises ▶](09-priority-rules-exercises.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐⭐ (Core Exam Knowledge)
 
 ## 🎯 What This Topic Covers
@@ -284,3 +288,7 @@ A regular -er verb — but essential for priority topics.
 8. **Right on red: NEVER allowed.** No exceptions.
 9. **Cyclists in a group:** Once the first enters an intersection or roundabout, the whole group has priority.
 10. **Key verbs:** _ceder el paso_ (to yield), _incorporarse_ (to merge), _respetar la prioridad_ (to respect priority).
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Sign Exercises](07-traffic-sign-exercises.md) · [Next: Priority Exercises ▶](09-priority-rules-exercises.md)

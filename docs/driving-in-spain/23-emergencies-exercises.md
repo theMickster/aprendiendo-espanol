@@ -1,5 +1,9 @@
 # 23 — Emergencies Exercises / Ejercicios de Emergencias
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Accidents & First Aid](22-accidents-first-aid-and-emergencies.md) · [Next: Special Situations ▶](24-special-situations.md) · ↩ [Back to content: Accidents & First Aid](22-accidents-first-aid-and-emergencies.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ---
@@ -96,6 +100,51 @@ Put the PAS steps in the correct order (1–6):
 - B) Colocarle en posición lateral de seguridad / Place them in the recovery position
 - C) Sentarle en una silla / Sit them in a chair
 
+### Question 11 / Pregunta 11
+
+**ES:** _Desde el 1 de enero de 2026, ¿qué dispositivo es obligatorio para señalizar una avería o accidente?_
+**EN:** From 1 January 2026, which device is obligatory to signal a breakdown or accident?
+
+- A) Los triángulos tradicionales
+- B) La baliza V-16 conectada (con GPS y conexión DGT 3.0)
+- C) El chaleco reflectante
+
+### Question 12 / Pregunta 12
+
+**ES:** \_El sistema eCall llama automáticamente al **_ tras un accidente grave._
+**EN:** eCall automatically calls \_** after a serious accident.
+
+- A) 091
+- B) 112
+- C) 060
+
+### Question 13 / Pregunta 13
+
+**ES:** _¿Cuál NO es un paso del protocolo PAS?_
+**EN:** Which is NOT a step of the PAS protocol?
+
+- A) Proteger la zona del accidente
+- B) Avisar a los servicios de emergencia
+- C) Mover a los heridos al arcén inmediatamente
+
+### Question 14 / Pregunta 14
+
+**ES:** _Si un motorista sufre un accidente y está inconsciente, lo correcto es…_
+**EN:** If a motorcyclist is in an accident and unconscious, the correct action is…
+
+- A) Quitarle el casco rápidamente para que respire mejor
+- B) Dejarle el casco puesto, protegerle y esperar a los servicios sanitarios
+- C) Quitarle el casco solo si es de visera
+
+### Question 15 / Pregunta 15
+
+**ES:** _¿A quién está obligado a auxiliar un conductor que se encuentra con un accidente?_
+**EN:** Whom must a driver who comes upon an accident assist?
+
+- A) Solo si hay policía en el lugar
+- B) Está obligado por ley a ayudar en la medida de sus posibilidades (omisión del deber de socorro)
+- C) No hay obligación legal — es opcional
+
 ---
 
 ## C. Fill in the Blank — Completa las frases
@@ -154,6 +203,91 @@ Put the PAS steps in the correct order (1–6):
 
 ---
 
+## F. Verdadero o Falso
+
+1. Si te encuentras un accidente y sigues tu camino, has cometido omisión del deber de socorro.
+2. Siempre se debe quitar el casco a un motorista inconsciente.
+3. La baliza V-16 se debe colocar **fuera** del coche, en el parachoques.
+4. El eCall solo se activa manualmente, nunca automáticamente.
+5. En un túnel, si tu coche se avería debes apagar el motor y activar las luces de emergencia.
+6. Posición lateral de seguridad solo si la persona está inconsciente **y** respira.
+7. Ante una hemorragia, eleva la zona herida y presiona con un paño limpio.
+8. Si hay fuego en el motor, abre rápido el capó para ver qué pasa.
+
+---
+
+## G. Conjugation Drill — Practica los verbos
+
+Complete the present and preterite for each verb.
+
+### SOCORRER (regular -er)
+
+|             | Presente | Pretérito |
+| ----------- | -------- | --------- |
+| yo          | \_\_\_   | \_\_\_    |
+| tú          | \_\_\_   | \_\_\_    |
+| él/ella     | \_\_\_   | \_\_\_    |
+| nosotros    | \_\_\_   | \_\_\_    |
+| ellos/ellas | \_\_\_   | \_\_\_    |
+
+### AVISAR (regular -ar)
+
+|             | Presente | Pretérito |
+| ----------- | -------- | --------- |
+| yo          | \_\_\_   | \_\_\_    |
+| tú          | \_\_\_   | \_\_\_    |
+| él/ella     | \_\_\_   | \_\_\_    |
+| nosotros    | \_\_\_   | \_\_\_    |
+| ellos/ellas | \_\_\_   | \_\_\_    |
+
+### ATENDER (e → ie stem-changer)
+
+|             | Presente  | Pretérito  |
+| ----------- | --------- | ---------- |
+| yo          | atiendo   | atendí     |
+| tú          | atiendes  | atendiste  |
+| él/ella     | atiende   | atendió    |
+| nosotros    | atendemos | atendimos  |
+| ellos/ellas | atienden  | atendieron |
+
+---
+
+## H. Case Scenarios — Casos Prácticos
+
+### Scenario 1
+
+_Conduces por la V-30 y ves un turismo parado en el arcén con las luces de emergencia. Hay humo en el capó y el conductor parece aturdido en el asiento._
+
+- A) Sigo de largo — no es mi problema
+- B) Me detengo con seguridad, pongo mis cuatro intermitentes, chaleco reflectante, activo mi baliza V-16 en el techo y llamo al 112
+- C) Aparco justo detrás para protegerlo y sigo grabando con el móvil
+
+### Scenario 2
+
+_Acabas de chocar con otro coche a 30 km/h. Ambos vehículos pueden moverse, nadie está herido, los dos conductores tienen seguro._
+
+- A) Esperamos a la policía aunque estén los dos vehículos en mitad del carril
+- B) Despejamos la calzada, rellenamos el parte amistoso y lo enviamos a las aseguradoras en los 7 días siguientes
+- C) Nos vamos sin hacer nada si el otro acepta la responsabilidad de palabra
+
+### Scenario 3
+
+_Encuentras a un motorista tendido tras una caída. Respira, pero no responde y lleva el casco puesto._
+
+- A) Le quito el casco inmediatamente para despejar la vía aérea
+- B) Dejo el casco puesto, protejo la zona, llamo al 112 y solo movilizo si hay riesgo vital (fuego, tráfico)
+- C) Lo siento contra una valla para que respire mejor
+
+### Scenario 4
+
+_Tu vehículo se avería dentro de un túnel._
+
+- A) Abandono el coche rápidamente sin apagar el motor
+- B) Enciendo intermitentes de emergencia, apago el motor, dejo las luces posicion, salgo por la puerta del lado contrario al tráfico y uso el apartadero o la salida de emergencia más próxima
+- C) Empujo el coche hacia atrás hasta salir del túnel
+
+---
+
 ---
 
 # ✅ Answer Key — Clave de respuestas
@@ -207,3 +341,57 @@ Put the PAS steps in the correct order (1–6):
 2. _¡No le mueva! Puede tener una lesión en la espalda. Espere a la ambulancia._
 3. _Vamos a rellenar el parte amistoso. Necesito su nombre, DNI, número de seguro y matrícula._
 4. _PAS son las siglas de Proteger, Avisar y Socorrer. Primero protegemos la zona, luego llamamos al 112, y después ayudamos a los heridos._
+
+## B. DGT-Format Questions (continued)
+
+11. **B)** La baliza V-16 conectada
+12. **B)** 112
+13. **C)** Mover a los heridos es precisamente lo que NO se debe hacer salvo riesgo vital
+14. **B)** Dejarle el casco puesto — quitarlo puede causar lesión medular
+15. **B)** Obligación legal — omisión del deber de socorro es delito
+
+## F. Verdadero o Falso
+
+1. **V** — delito del artículo 195 del Código Penal
+2. **F** — solo si hay peligro vital inmediato (fuego, parada cardiorrespiratoria); por regla general NO
+3. **F** — la baliza V-16 conectada va **encima del vehículo** (techo), no en el suelo. Ya no hace falta salir del coche
+4. **F** — eCall se activa automáticamente si se despliegan los airbags, y también manualmente con el botón SOS
+5. **V**
+6. **V**
+7. **V** — con una venda limpia; no uses torniquete salvo hemorragia masiva no controlable
+8. **F** — abrir el capó aporta oxígeno y puede avivar las llamas; mantenerlo cerrado y usar extintor desde una distancia segura
+
+## G. Conjugation Drill
+
+### SOCORRER
+
+|             | Presente   | Pretérito   |
+| ----------- | ---------- | ----------- |
+| yo          | socorro    | socorrí     |
+| tú          | socorres   | socorriste  |
+| él/ella     | socorre    | socorrió    |
+| nosotros    | socorremos | socorrimos  |
+| ellos/ellas | socorren   | socorrieron |
+
+### AVISAR
+
+|             | Presente | Pretérito |
+| ----------- | -------- | --------- |
+| yo          | aviso    | avisé     |
+| tú          | avisas   | avisaste  |
+| él/ella     | avisa    | avisó     |
+| nosotros    | avisamos | avisamos  |
+| ellos/ellas | avisan   | avisaron  |
+
+### ATENDER — already conjugated in the question table above.
+
+## H. Case Scenarios
+
+1. **B)** Safe-stop → hazards + vest + V-16 + 112. Option C parking _behind_ an incident puts you in the impact zone — always stop _ahead_ or well past
+2. **B)** Clear the lane if safe and fill the parte amistoso; you have up to 7 days to send it to the insurers
+3. **B)** Casco stays on; call 112; only move if there's imminent risk
+4. **B)** Proper tunnel breakdown protocol — apartadero or the nearest emergency exit, engine off, exit away from traffic
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Accidents & First Aid](22-accidents-first-aid-and-emergencies.md) · [Next: Special Situations ▶](24-special-situations.md) · ↩ [Back to content: Accidents & First Aid](22-accidents-first-aid-and-emergencies.md)

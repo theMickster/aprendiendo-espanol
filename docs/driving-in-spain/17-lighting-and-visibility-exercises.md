@@ -1,5 +1,9 @@
 # 17 — Lighting & Visibility Exercises / Ejercicios de Alumbrado
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Lighting](16-lighting-and-visibility.md) · [Next: Stopping & Parking ▶](18-stopping-parking-and-loading.md) · ↩ [Back to content: Lighting](16-lighting-and-visibility.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ---
@@ -280,3 +284,37 @@ For each driving situation, write which lights you should use.
 2. _Pepe, me multaron porque dejé la luz antiniebla trasera encendida después de que se fue la niebla._
 3. _No uso las luces de carretera porque con niebla se reflejan y me deslumbran. Es mejor usar las luces de cruce y las antiniebla._
 4. _Perdona, un coche de frente me deslumbró con las luces de carretera y no supe qué hacer. ¿Debo mirar al borde derecho?_
+
+---
+
+## Z. Case Scenarios — Casos Prácticos
+
+### Scenario 1
+
+_De noche en autopista, sin tráfico contrario ni precedente._
+
+- A) Luces de cruce (cortas)
+- B) Luces de carretera (largas)
+- C) Luces de posición
+
+### Scenario 2
+
+_Te cruzas con un vehículo contrario con las luces largas; te deslumbra._
+
+- A) Le deslumbro yo también para que aprenda
+- B) Miro el borde derecho de la calzada como referencia y reduzco la velocidad
+- C) Cierro los ojos unos segundos
+
+### Scenario 3
+
+_Entras en un túnel de día bien iluminado._
+
+- A) Solo luces de posición
+- B) Luces de cruce obligatorias
+- C) No hace falta ninguna luz
+
+**Answers:** 1-B, 2-B, 3-B
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Lighting](16-lighting-and-visibility.md) · [Next: Stopping & Parking ▶](18-stopping-parking-and-loading.md) · ↩ [Back to content: Lighting](16-lighting-and-visibility.md)

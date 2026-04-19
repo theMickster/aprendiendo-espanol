@@ -1,5 +1,9 @@
 # 19 — Parking Exercises / Ejercicios de Estacionamiento
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Stopping & Parking](18-stopping-parking-and-loading.md) · [Next: Vehicle Safety ▶](20-vehicle-safety-documents.md) · ↩ [Back to content: Stopping & Parking](18-stopping-parking-and-loading.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ---
@@ -151,6 +155,78 @@ For each situation, write P (parada) or E (estacionamiento).
 
 ---
 
+## F. Conjugation Drill — Practica los verbos
+
+Complete the table for each verb.
+
+### APARCAR (regular -ar verb; note `c → qu` before -e)
+
+|             | Presente | Pretérito |
+| ----------- | -------- | --------- |
+| yo          | \_\_\_   | \_\_\_    |
+| tú          | \_\_\_   | \_\_\_    |
+| él/ella     | \_\_\_   | \_\_\_    |
+| nosotros    | \_\_\_   | \_\_\_    |
+| ellos/ellas | \_\_\_   | \_\_\_    |
+
+### ESTACIONAR (regular -ar verb)
+
+|             | Presente | Pretérito |
+| ----------- | -------- | --------- |
+| yo          | \_\_\_   | \_\_\_    |
+| tú          | \_\_\_   | \_\_\_    |
+| él/ella     | \_\_\_   | \_\_\_    |
+| nosotros    | \_\_\_   | \_\_\_    |
+| ellos/ellas | \_\_\_   | \_\_\_    |
+
+### DETENERSE (reflexive, irregular like TENER)
+
+|             | Presente      | Pretérito     |
+| ----------- | ------------- | ------------- |
+| yo          | me detengo    | me detuve     |
+| tú          | te detienes   | te detuviste  |
+| él/ella     | se detiene    | se detuvo     |
+| nosotros    | nos detenemos | nos detuvimos |
+| ellos/ellas | se detienen   | se detuvieron |
+
+---
+
+## G. Case Scenarios — Casos Prácticos
+
+### Scenario 1
+
+_Llegas a casa en Penya-Roja un viernes a las 20:00. Solo hay un hueco, pero es un vado permanente con marca roja._
+
+- A) Aparco "solo diez minutos" — el garaje parece desocupado
+- B) Busco otra plaza aunque tarde más — el vado nunca se debe bloquear
+- C) Aparco, dejo una nota con mi móvil en el parabrisas
+
+### Scenario 2
+
+_Vas a recoger a tu hija del colegio. Encuentras una plaza reservada para personas con movilidad reducida. Tu hija y tú no tenéis la tarjeta._
+
+- A) Aparco — solo bajo a por la niña, un minuto
+- B) Espero o aparco más lejos y vamos caminando
+- C) Llamo al 092 para que me autoricen una excepción
+
+### Scenario 3
+
+_En el centro de Valencia, vas a parar en doble fila dos minutos para dejar a un pasajero bajarse. El conductor no baja del vehículo._
+
+- A) Es una parada — es legal siempre
+- B) Aunque dure menos de 2 minutos y el conductor no baje, la parada en doble fila está prohibida porque obstaculiza la circulación
+- C) Solo es parada si paro el motor
+
+### Scenario 4
+
+_Aparcas cuesta arriba junto al bordillo._
+
+- A) Giro las ruedas **hacia** el bordillo
+- B) Giro las ruedas **alejadas del** bordillo (hacia la calzada)
+- C) Dejo las ruedas rectas — el freno de mano es suficiente
+
+---
+
 ---
 
 # ✅ Answer Key — Clave de respuestas
@@ -206,3 +282,36 @@ For each situation, write P (parada) or E (estacionamiento).
 2. _Pepe, ¡la grúa se llevó mi coche! Aparqué en un vado sin darme cuenta._
 3. _Disculpe, ¿hay zona azul cerca de la Ciudad de las Artes?_ (or: _¿Sabe dónde puedo aparcar por aquí?_)
 4. _No podemos aparcar ahí, cariño. Esa plaza es solo para personas con discapacidad. Necesitan la tarjeta especial._
+
+## F. Conjugation Drill
+
+### APARCAR
+
+|             | Presente  | Pretérito                    |
+| ----------- | --------- | ---------------------------- |
+| yo          | aparco    | **aparqué** (c→qu before -e) |
+| tú          | aparcas   | aparcaste                    |
+| él/ella     | aparca    | aparcó                       |
+| nosotros    | aparcamos | aparcamos                    |
+| ellos/ellas | aparcan   | aparcaron                    |
+
+### ESTACIONAR
+
+|             | Presente     | Pretérito    |
+| ----------- | ------------ | ------------ |
+| yo          | estaciono    | estacioné    |
+| tú          | estacionas   | estacionaste |
+| él/ella     | estaciona    | estacionó    |
+| nosotros    | estacionamos | estacionamos |
+| ellos/ellas | estacionan   | estacionaron |
+
+## G. Case Scenarios
+
+1. **B)** Never park on a vado — even briefly; tow + fine guaranteed
+2. **B)** Park further away; only holders of the _tarjeta de movilidad reducida_ may use those spots (the card belongs to the person, not the vehicle, and can't be "borrowed")
+3. **B)** Double-parking is prohibited regardless of duration; the rule is about obstructing circulation, not about whether it's a parada or an estacionamiento
+4. **B)** Uphill kerb: wheels **away from the kerb** (toward the road). Downhill: wheels **toward the kerb**. Mnemonic: "uphill the wheels run to the road; downhill the wheels run to the kerb."
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Stopping & Parking](18-stopping-parking-and-loading.md) · [Next: Vehicle Safety ▶](20-vehicle-safety-documents.md) · ↩ [Back to content: Stopping & Parking](18-stopping-parking-and-loading.md)

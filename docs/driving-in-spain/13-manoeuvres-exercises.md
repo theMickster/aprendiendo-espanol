@@ -1,5 +1,9 @@
 # 13 — Manoeuvres Exercises / Ejercicios de Maniobras
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Manoeuvres](12-manoeuvres.md) · [Next: Driver Fitness ▶](14-the-driver-alcohol-drugs-fatigue.md) · ↩ [Back to content: Manoeuvres](12-manoeuvres.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐⭐ (Core Exam Knowledge)
 
 ---
@@ -115,6 +119,60 @@
 - B) Hacer un cambio de sentido / Make a U-turn
 - C) Continuar hasta la próxima salida / Continue to the next exit
 
+### Question 10 / Pregunta 10
+
+**ES:** _¿Cuál es la distancia lateral mínima al adelantar a un ciclista en vía interurbana?_
+**EN:** Minimum lateral distance when overtaking a cyclist on an interurban road?
+
+- A) 1 metro
+- B) 1,5 metros
+- C) 2 metros
+
+### Question 11 / Pregunta 11
+
+**ES:** _Para ahorrar combustible al acercarse a un semáforo en rojo, lo correcto es…_
+**EN:** To save fuel when approaching a red light, you should…
+
+- A) Poner punto muerto y dejar rodar
+- B) Mantener la marcha engranada y soltar el acelerador (freno motor)
+- C) Pisar el embrague hasta detenerse
+
+### Question 12 / Pregunta 12
+
+**ES:** _Al adelantar, ¿cuándo puede ocupar el carril izquierdo contrario?_
+**EN:** When overtaking, when may you use the opposite left-hand lane?
+
+- A) Siempre que haya suficiente visibilidad y la línea no sea continua
+- B) Nunca, incluso con buena visibilidad
+- C) Siempre, la prioridad al adelantar es absoluta
+
+### Question 13 / Pregunta 13
+
+**ES:** _¿En cuál de estas situaciones está **prohibido** cambiar de sentido?_
+**EN:** In which of these situations is a U-turn **prohibited**?
+
+- A) En una carretera convencional con visibilidad de 200 m
+- B) En un paso a nivel o sus inmediaciones
+- C) En una vía urbana con dos carriles por sentido
+
+### Question 14 / Pregunta 14
+
+**ES:** _¿Qué gestos debe realizar antes de iniciar un adelantamiento?_
+**EN:** What should you do before starting an overtake?
+
+- A) Mirar por el retrovisor y señalizar con el intermitente izquierdo
+- B) Tocar el claxon para avisar
+- C) Pisar el acelerador inmediatamente sin señalizar
+
+### Question 15 / Pregunta 15
+
+**ES:** _Conducción eficiente: ¿a qué velocidad orientativa conviene cambiar de marcha en un motor de gasolina?_
+**EN:** Eco-driving: roughly at what rpm should you up-shift a petrol engine?
+
+- A) 1.000–1.500 rpm
+- B) 2.000–2.500 rpm
+- C) 3.500–4.000 rpm
+
 ---
 
 ## D. Order the Steps — Ordena los pasos
@@ -185,6 +243,42 @@ Put the 5 steps of a safe overtake in the correct order:
 
 ---
 
+## H. Case Scenarios — Casos Prácticos (risk perception)
+
+### Scenario 1
+
+_Circulas a 90 km/h por una carretera convencional. Delante de ti, un tractor avanza a 40 km/h. La línea es discontinua y la visibilidad es buena, pero a 400 m hay una curva._
+
+- A) Adelanto rápidamente superando el límite si hace falta
+- B) Valoro la distancia hasta la curva; si no puedo completar el adelantamiento antes, espero
+- C) Toco el claxon para que el tractor se aparte
+
+### Scenario 2
+
+_Llevas el intermitente izquierdo puesto porque vas a girar a la izquierda en una bocacalle. Un coche detrás de ti acelera para adelantarte por tu derecha._
+
+- A) Continúo la maniobra; la prioridad es mía
+- B) Abandono el giro momentáneamente, vuelvo al carril y espero a que pase
+- C) Me desvío hacia la derecha para bloquearlo
+
+### Scenario 3
+
+_Te acercas a un paso a nivel sin barreras. La señal te indica precaución y ves un semáforo apagado._
+
+- A) Paso despacio — el semáforo apagado significa vía libre
+- B) Me detengo, miro a ambos lados y cruzo solo si no viene ningún tren
+- C) Acelero para pasar rápido
+
+### Scenario 4
+
+_Vas en autopista y se te pasa la salida. El siguiente enlace está a 4 km._
+
+- A) Da marcha atrás por el arcén con precaución
+- B) Haz un cambio de sentido en el primer hueco de la mediana
+- C) Continúa hasta la siguiente salida y sale allí
+
+---
+
 ---
 
 # ✅ Answer Key — Clave de respuestas
@@ -214,6 +308,13 @@ Put the 5 steps of a safe overtake in the correct order:
 6. **B)** El cambio de sentido / U-turns
 7. **B)** No, nunca se puede superar el límite
 8. **C)** Continuar hasta la próxima salida
+9. **C)** Continuar hasta la próxima salida
+10. **B)** 1,5 metros
+11. **B)** Mantener la marcha engranada y soltar el acelerador — freno motor
+12. **A)** Con visibilidad suficiente y línea no continua
+13. **B)** En paso a nivel o sus inmediaciones (también túneles, cambios de rasante, pasos de peatones)
+14. **A)** Mirar retrovisores y señalizar con el intermitente izquierdo
+15. **B)** 2.000–2.500 rpm (subir de marcha pronto)
 
 ## D. Order the Steps
 
@@ -261,3 +362,14 @@ Put the 5 steps of a safe overtake in the correct order:
 1. _No adelanté porque la línea continua estaba de mi lado._ (or: _No pude adelantar — tenía la línea continua._)
 2. _No se puede hacer un cambio de sentido aquí porque hay una señal R-303. La señal de prohibido girar a la izquierda también prohíbe el cambio de sentido._
 3. _Adelanté a un ciclista en la carretera. Reduje la velocidad a 70 kilómetros por hora y le di un metro y medio de distancia lateral._
+
+## H. Case Scenarios
+
+1. **B)** Abort or delay — you can never exceed the limit to finish an overtake
+2. **B)** Stop the turn and let the dangerous driver pass; safety first
+3. **B)** Full stop and look; apagado traffic lights at a level crossing do not mean "go"
+4. **C)** Continue to the next exit; motorway U-turns and reversing are always prohibited
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Manoeuvres](12-manoeuvres.md) · [Next: Driver Fitness ▶](14-the-driver-alcohol-drugs-fatigue.md) · ↩ [Back to content: Manoeuvres](12-manoeuvres.md)

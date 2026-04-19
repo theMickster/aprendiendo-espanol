@@ -1,5 +1,9 @@
 # 10 — Speed Limits / Límites de Velocidad
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Priority Exercises](09-priority-rules-exercises.md) · [Next: Speed Exercises ▶](11-speed-limits-exercises.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ## 🎯 What This Topic Covers
@@ -203,3 +207,7 @@ An irregular verb: **c → zc** in the yo present (like _conducir_).
 8. **Speeding fines start at €100** and can reach €600 with 6 points lost.
 9. **New drivers start with 8 points** — losing all of them suspends your licence.
 10. **Key verbs:** _reducir_ (to reduce), _conducir_ (to drive), _respetar_ (to respect), _superar_ (to exceed).
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Priority Exercises](09-priority-rules-exercises.md) · [Next: Speed Exercises ▶](11-speed-limits-exercises.md)

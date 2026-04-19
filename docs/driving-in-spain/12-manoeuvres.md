@@ -1,5 +1,9 @@
 # 12 — Manoeuvres / Maniobras
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Speed Exercises](11-speed-limits-exercises.md) · [Next: Manoeuvre Exercises ▶](13-manoeuvres-exercises.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐⭐ (Core Exam Knowledge)
 
 ## 🎯 What This Topic Covers
@@ -175,6 +179,37 @@ Reversing on a motorway or autovía is **ALWAYS prohibited** — even if you mis
 
 ---
 
+## 🌱 CONDUCCIÓN EFICIENTE — Eco-Driving
+
+The DGT tests **conducción eficiente / económica** because it reduces fuel use, emissions, accidents, and wear. These questions are easy points if you know the rules.
+
+### The 10 golden rules of eco-driving
+
+| #   | Spanish                                                                 | English                                                                               |
+| --- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 1   | Arrancar sin pisar el acelerador                                        | Start the engine without pressing the accelerator                                     |
+| 2   | Subir de marcha pronto (a 2.000–2.500 rpm gasolina, 1.500–2.000 diésel) | Change up early                                                                       |
+| 3   | Circular en la marcha más larga posible                                 | Use the highest gear that suits the speed                                             |
+| 4   | Mantener velocidad constante, anticipar el tráfico                      | Maintain constant speed, anticipate traffic                                           |
+| 5   | Soltar el acelerador en vez de frenar (freno motor)                     | Lift off the accelerator rather than brake — engine braking saves fuel                |
+| 6   | Al decelerar, dejar la marcha metida hasta ~30 km/h                     | When slowing down, keep the gear engaged until ~30 km/h (cut-off injector saves fuel) |
+| 7   | Apagar el motor en paradas largas (>1 minuto)                           | Turn the engine off for stops longer than 1 minute                                    |
+| 8   | Evitar carga inútil y barras de techo vacías                            | Avoid unnecessary load and empty roof racks                                           |
+| 9   | Revisar presión de neumáticos                                           | Keep tyres at the correct pressure                                                    |
+| 10  | Planificar la ruta, evitar horas punta                                  | Plan the route, avoid rush hour                                                       |
+
+### Key terms
+
+- **Freno motor (engine braking)** — lifting off the accelerator with a gear engaged; saves fuel because the injector cuts supply. ✅ eco.
+- **Punto muerto (neutral)** — rolling in neutral is **less efficient** than engine braking. The injector _doesn't_ cut in neutral. ❌ not eco.
+- **Velocidad constante** — cruising at steady speed is more efficient than accelerate-brake-accelerate.
+
+### 🚨 DGT exam trap — engine braking vs neutral
+
+The classic question: "To save fuel when approaching a red light, should you (a) shift to neutral, (b) keep the current gear engaged and lift off, (c) press the clutch?" — Answer: **(b), engine braking**. Injection cuts, clutch stays out, foot off the accelerator.
+
+---
+
 ## 🗣️ Conjugation Spotlight
 
 ### ADELANTAR — to overtake
@@ -255,3 +290,7 @@ A regular -ar verb, but arguably the most important verb in this topic.
 8. **Always check blind spot** before lane changes — the practical exam fails for this.
 9. **When turning into a street, yield to ALL pedestrians** crossing that street.
 10. **Key verbs:** _adelantar_ (to overtake), _señalizar_ (to signal), _girar_ (to turn), _rebasar_ (to pass).
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Speed Exercises](11-speed-limits-exercises.md) · [Next: Manoeuvre Exercises ▶](13-manoeuvres-exercises.md)

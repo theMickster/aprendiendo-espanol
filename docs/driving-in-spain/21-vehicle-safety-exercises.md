@@ -1,5 +1,9 @@
 # 21 — Vehicle Safety Exercises / Ejercicios de Seguridad del Vehículo
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Vehicle Safety](20-vehicle-safety-documents.md) · [Next: Accidents & First Aid ▶](22-accidents-first-aid-and-emergencies.md) · ↩ [Back to content: Vehicle Safety](20-vehicle-safety-documents.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ---
@@ -279,3 +283,37 @@
 3. _Pepe, ya compré la baliza V-16. La tengo en la guantera, como dice la DGT._ (or: _Ya tengo la luz V-16 nueva. La guardo en la guantera._)
 4. _Tienes que ir en la silla especial porque la ley dice que los niños la necesitan hasta medir 1,35 metros. Es por tu seguridad._ (or: _Es obligatorio hasta que midas 1,35 metros._)
 5. _¿Venden balizas V-16 homologadas por la DGT?_ (or: _¿Tienen la luz V-16 aprobada por la DGT?_)
+
+---
+
+## Z. Case Scenarios — Casos Prácticos
+
+### Scenario 1
+
+_Llevas a un niño de 1,20 m en el asiento del copiloto con el cinturón del adulto._
+
+- A) Está bien si el niño tiene más de 10 años
+- B) Incumple la normativa: ≤ 1,35 m debe ir detrás en un SRI adecuado
+- C) Es legal siempre que el cinturón esté abrochado
+
+### Scenario 2
+
+_Tu coche tiene 5 años. ¿Cada cuánto pasas la ITV?_
+
+- A) Cada año
+- B) Cada 2 años
+- C) Cada 4 años
+
+### Scenario 3
+
+_Vas a comprar una silla infantil nueva. El modelo que te ofrecen es R44/04 únicamente._
+
+- A) Perfecto, es la norma más habitual
+- B) Desde septiembre 2024 **está prohibida la venta** de sillas R44 nuevas — exige R129 (i-Size)
+- C) Cualquiera vale, son equivalentes
+
+**Answers:** 1-B, 2-B, 3-B
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Vehicle Safety](20-vehicle-safety-documents.md) · [Next: Accidents & First Aid ▶](22-accidents-first-aid-and-emergencies.md) · ↩ [Back to content: Vehicle Safety](20-vehicle-safety-documents.md)

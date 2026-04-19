@@ -1,5 +1,9 @@
 # 26 — Practical Exam Commands / Instrucciones del Examen Práctico
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Special Exercises](25-special-situations-exercises.md) · [Next: Resources ▶](27-resources-driving-schools.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐⭐⭐ (CRITICAL — The Practical Exam Is in Spanish!)
 
 ## 🎯 What This Topic Covers
@@ -202,3 +206,7 @@ You won't need to say much, but these phrases help:
 8. **R-101 (no entry) is the #1 trap** — watch for the red bar sign at EVERY intersection.
 9. **Practice the exact exam routes** with your instructor — they know them.
 10. **Stay calm.** The examiner wants to see **safe, normal driving** — not perfection. Drive like you would with your family in the car.
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Special Exercises](25-special-situations-exercises.md) · [Next: Resources ▶](27-resources-driving-schools.md)

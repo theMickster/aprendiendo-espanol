@@ -1,10 +1,16 @@
 # 06c — Informational Signs, Traffic Lights & Police Signals
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Warning Signs](06b-warning-signs-road-markings.md) · [Next: Sign Exercises ▶](07-traffic-sign-exercises.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ## 🎯 What This Section Covers
 
 This section covers three remaining signal categories: **informational signs** (blue or white rectangles that guide and inform), **traffic lights** (semáforos), and **police/officer signals** (the highest authority on the road). Together with sections 06a and 06b, this completes the full DGT traffic signs curriculum.
+
+> **🆕 2025 Sign Catalogue Update (RD 465/2025)** — In force since 1 July 2025, on DGT theory exams since 1 October 2025. Informational-sign changes include new tunnel emergency pictograms, environmental-restriction signs for ZBE / low-emission zones, new coexistence-zone variants (S-28 family), and updated VMP path / no-entry signs. [DGT infographic ↗](https://revista.dgt.es/es/multimedia/infografia/2025/06JUNIO/0619-N274-Infografia_nuevassenayles_2025.shtml)
 
 ---
 
@@ -256,3 +262,7 @@ An irregular verb: **c → zc** in the yo form of the present tense.
 8. **Police officer overrides EVERYTHING** — even traffic lights and signs.
 9. **V-16 beacon replaces emergency triangles as of January 2026.** Goes on roof, amber light, sends GPS.
 10. **Right turn on red: NEVER allowed in Spain.** Never, never, never.
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Warning Signs](06b-warning-signs-road-markings.md) · [Next: Sign Exercises ▶](07-traffic-sign-exercises.md)

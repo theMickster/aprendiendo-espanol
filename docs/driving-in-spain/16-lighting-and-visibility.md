@@ -1,5 +1,9 @@
 # 16 — Lighting & Visibility / Alumbrado y Visibilidad
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Fitness Exercises](15-driver-fitness-exercises.md) · [Next: Lighting Exercises ▶](17-lighting-and-visibility-exercises.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐ (Core Exam Knowledge)
 
 ## 🎯 What This Topic Covers
@@ -187,3 +191,7 @@ A stem-changing verb: **e → ie** in the present.
 8. **If dazzled: look RIGHT, slow down, flash once** — never retaliate with full beam.
 9. **V-16 beacon (2026) + hazard lights** for breakdowns — don't leave the vehicle.
 10. **Key verbs:** _encender_ (to turn on), _apagar_ (to turn off), _deslumbrar_ (to dazzle).
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Fitness Exercises](15-driver-fitness-exercises.md) · [Next: Lighting Exercises ▶](17-lighting-and-visibility-exercises.md)

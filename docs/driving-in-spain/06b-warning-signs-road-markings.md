@@ -1,10 +1,16 @@
 # 06b — Warning Signs & Road Markings / Señales de Peligro y Marcas Viales
 
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Regulatory Signs](06a-regulatory-traffic-signs.md) · [Next: Info Signs ▶](06c-informational-signs-traffic-lights-police-signals.md)
+
+---
+
 ## ⭐ Difficulty: ⭐⭐⭐ (Core Exam Knowledge)
 
 ## 🎯 What This Section Covers
 
 Warning signs alert you to **dangers ahead**. Road markings are the **painted lines and symbols on the road surface** that guide, separate, and regulate traffic. Together, they're the second most heavily tested category on the DGT exam.
+
+> **🆕 2025 Sign Catalogue Update (RD 465/2025)** — In force since 1 July 2025, on DGT theory exams since 1 October 2025. Among the warning changes: new wildlife-crossing pictograms, updated 2+1 road warnings, and a new aerial-enforcement warning ("radar aéreo"). [DGT infographic ↗](https://revista.dgt.es/es/multimedia/infografia/2025/06JUNIO/0619-N274-Infografia_nuevassenayles_2025.shtml)
 
 ---
 
@@ -241,3 +247,7 @@ A stem-changing verb: **e → ie** in the present, **e → i** in the preterite 
 8. **Hatched areas (cebreado) = NEVER drive on them.**
 9. **Stop line = solid across road. Yield line = dashed across road.**
 10. **Key verbs:** _advertir_ (to warn), _cruzar_ (to cross), _reducir_ (to reduce).
+
+---
+
+**🏠 [Index](01-getting-started.md)** · ◀ [Prev: Regulatory Signs](06a-regulatory-traffic-signs.md) · [Next: Info Signs ▶](06c-informational-signs-traffic-lights-police-signals.md)
