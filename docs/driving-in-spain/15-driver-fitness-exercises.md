@@ -315,29 +315,32 @@ Fill in the correct number for each fact.
 
 ### Scenario 1
 
-_Conductor novel (licencia hace 1 año) da positivo por 0,4 g/l de alcohol en sangre._
+**ES:** _Conductor novel (licencia hace 1 año) da positivo por 0,4 g/l de alcohol en sangre._
+**EN:** _A novel driver (licence one year old) tests positive at 0.4 g/L blood alcohol._
 
-- A) Está dentro del límite — 0,5 g/l general
-- B) Está fuera del límite — los noveles tienen 0,3 g/l
-- C) Depende de la provincia
+- A) Está dentro del límite — 0,5 g/l general / Within the limit — 0.5 g/L general
+- B) Está fuera del límite — los noveles tienen 0,3 g/l / Over the limit — novel drivers have a 0.3 g/L cap
+- C) Depende de la provincia / Depends on the province
 
 ### Scenario 2
 
-_Llevas 2 horas conduciendo y notas bostezos, ojos pesados, reacción lenta._
+**ES:** _Llevas 2 horas conduciendo y notas bostezos, ojos pesados, reacción lenta._
+**EN:** _You've been driving for 2 hours and notice yawning, heavy eyelids, slow reactions._
 
-- A) Abro la ventana y pongo la radio alta
-- B) Me tomo un café doble y sigo
-- C) Paro en la próxima área de servicio y descanso 15–20 minutos o duermo una siesta corta
+- A) Abro la ventana y pongo la radio alta / Open the window and turn the radio up
+- B) Me tomo un café doble y sigo / Down a double coffee and carry on
+- C) Paro en la próxima área de servicio y descanso 15–20 minutos o duermo una siesta corta / Stop at the next service area and rest for 15–20 minutes or take a short nap
 
 ### Scenario 3
 
-_Vas a tomar un medicamento nuevo y en el prospecto ves el pictograma de un coche (triángulo rojo)._
+**ES:** _Vas a tomar un medicamento nuevo y en el prospecto ves el pictograma de un coche (triángulo rojo)._
+**EN:** _You're about to take a new medication and see the red-triangle car pictogram on the leaflet._
 
-- A) No pasa nada, es informativo
-- B) Consulta al médico o farmacéutico antes de conducir — puede afectar a la capacidad de conducción
-- C) Solo afecta si se combina con alcohol
+- A) No pasa nada, es informativo / No problem — it's just informational
+- B) Consulta al médico o farmacéutico antes de conducir — puede afectar a la capacidad de conducción / Consult your doctor or pharmacist before driving — it may affect driving ability
+- C) Solo afecta si se combina con alcohol / Only an issue if combined with alcohol
 
-**Answers:** 1-B, 2-C, 3-B
+**Answers / Respuestas:** 1-B, 2-C, 3-B
 
 ---
 

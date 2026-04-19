@@ -62,7 +62,7 @@ The DGT makes sharp legal distinctions between **detención** (involuntary stop)
 | 🚫 Blocking driveways (vados)                    | Blocks access — signed with "vado permanente" |
 | 🚫 On the carriageway when parking spaces exist  | Use proper spaces                             |
 | 🚫 Double parking (doble fila)                   | Blocks traffic and other parked vehicles      |
-| 🚫 On pavements/sidewalks (aceras)               | Pedestrian space                              |
+| 🚫 On pavements (sidewalks) — _aceras_           | Pedestrian space                              |
 | 🚫 Where R-308 sign is displayed                 | No parking sign active                        |
 
 ## 🚫 WHERE IS STOPPING (PARADA) ALSO PROHIBITED?

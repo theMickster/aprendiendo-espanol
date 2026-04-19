@@ -318,29 +318,32 @@ Write the correct speed limit for each situation. All answers are for a standard
 
 ### Scenario 1
 
-_Vía urbana de un solo carril por sentido. No hay señal._
+**ES:** _Vía urbana de un solo carril por sentido. No hay señal._
+**EN:** _Urban road with a single lane in each direction. No sign posted._
 
-- A) 50 km/h por defecto
-- B) 30 km/h por defecto (regla de 2021)
-- C) 20 km/h por defecto
+- A) 50 km/h por defecto / 50 km/h by default
+- B) 30 km/h por defecto (regla de 2021) / 30 km/h by default (2021 rule)
+- C) 20 km/h por defecto / 20 km/h by default
 
 ### Scenario 2
 
-_Autovía con paneles variables que indican 100 km/h porque llueve. El límite fijo es 120._
+**ES:** _Autovía con paneles variables que indican 100 km/h porque llueve. El límite fijo es 120._
+**EN:** _A dual carriageway with variable-message signs showing 100 km/h because it's raining. The fixed limit is 120._
 
-- A) 120 km/h, el variable es orientativo
-- B) 100 km/h, prevalece lo variable
-- C) 80 km/h, aplico mi propio criterio
+- A) 120 km/h, el variable es orientativo / 120 km/h — the variable sign is only advisory
+- B) 100 km/h, prevalece lo variable / 100 km/h — the variable sign takes precedence
+- C) 80 km/h, aplico mi propio criterio / 80 km/h — I use my own judgement
 
 ### Scenario 3
 
-_Coche con remolque en autopista._
+**ES:** _Coche con remolque en autopista._
+**EN:** _Car with trailer on a motorway._
 
 - A) 120 km/h
 - B) 80 km/h
 - C) 90 km/h
 
-**Answers:** 1-B, 2-B, 3-B
+**Answers / Respuestas:** 1-B, 2-B, 3-B
 
 ---
 

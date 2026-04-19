@@ -8,7 +8,7 @@
 
 ## 🎯 What This Topic Covers
 
-Speed limits in Spain are set by road type, vehicle type, and conditions. This is one of the most **number-heavy** DGT topics — you need to memorize specific figures. The good news: the system is logical once you see the pattern. Urban limits changed significantly in 2021, and new targeted reductions on motorway sections are being introduced in 2026.
+Speed limits in Spain are set by road type, vehicle type, and conditions. This is one of the most **number-heavy** DGT topics — you need to memorise (memorize) specific figures. The good news: the system is logical once you see the pattern. Urban limits changed significantly in 2021, and new targeted reductions on motorway sections are being introduced in 2026.
 
 ---
 

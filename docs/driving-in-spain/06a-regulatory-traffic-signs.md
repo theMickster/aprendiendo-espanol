@@ -16,7 +16,7 @@ Regulatory signs tell you what you **MUST** or **MUST NOT** do. They are the rul
 
 ## 🔑 The Shape-Colour Code — Your First Shortcut
 
-Before memorizing individual signs, learn this universal European system. Once you know the shape and colour, you can guess what ANY sign means — even one you've never seen before.
+Before memorising individual signs, learn this universal European system. Once you know the shape and colour, you can guess what ANY sign means — even one you've never seen before.
 
 | Shape                | Border / Background           | Meaning                                              | Think of It As…                     |
 | -------------------- | ----------------------------- | ---------------------------------------------------- | ----------------------------------- |
@@ -113,14 +113,14 @@ This is the #1 most confused pair on the DGT exam:
 
 ### Manoeuvre Prohibitions
 
-| Code      | Symbol | Spanish Name                                | English                       | DGT Notes                                                                             |
-| --------- | ------ | ------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------- |
-| **R-200** | ⬅️❌   | Prohibición de adelantamiento               | No overtaking                 | Cannot pass the vehicle ahead. Ends at next "fin de prohibición" sign or intersection |
-| **R-202** | ⬅️❌🚛 | Prohibición de adelantamiento para camiones | No overtaking for trucks      | Only applies to vehicles >3,500 kg                                                    |
-| **R-302** | ➡️❌   | Giro a la derecha prohibido                 | No right turn                 |                                                                                       |
-| **R-303** | ⬅️❌   | Giro a la izquierda prohibido               | No left turn                  | Also prohibits U-turns!                                                               |
-| **R-304** | 🔄❌   | Media vuelta prohibida                      | No U-turn                     |                                                                                       |
-| **R-305** | 🔊❌   | Advertencias acústicas prohibidas           | No horn / No audible warnings | Reminder of general rule — horn only to avoid accidents                               |
+| Code      | Symbol | Spanish Name                                | English                            | DGT Notes                                                                             |
+| --------- | ------ | ------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------- |
+| **R-200** | ⬅️❌   | Prohibición de adelantamiento               | No overtaking                      | Cannot pass the vehicle ahead. Ends at next "fin de prohibición" sign or intersection |
+| **R-202** | ⬅️❌🚛 | Prohibición de adelantamiento para camiones | No overtaking for lorries (trucks) | Only applies to vehicles >3,500 kg                                                    |
+| **R-302** | ➡️❌   | Giro a la derecha prohibido                 | No right turn                      |                                                                                       |
+| **R-303** | ⬅️❌   | Giro a la izquierda prohibido               | No left turn                       | Also prohibits U-turns!                                                               |
+| **R-304** | 🔄❌   | Media vuelta prohibida                      | No U-turn                          |                                                                                       |
+| **R-305** | 🔊❌   | Advertencias acústicas prohibidas           | No horn / No audible warnings      | Reminder of general rule — horn only to avoid accidents                               |
 
 ### Speed & Parking Prohibitions
 

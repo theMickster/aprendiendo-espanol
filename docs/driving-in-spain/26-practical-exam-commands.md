@@ -68,18 +68,18 @@ This is the default instruction. If the examiner says nothing, **continue straig
 
 ## ⚙️ VEHICLE CONTROL COMMANDS
 
-| Spanish Command                             | English                             | What to Do             |
-| ------------------------------------------- | ----------------------------------- | ---------------------- |
-| _Pon el intermitente._                      | Put on the indicator.               | Activate turn signal   |
-| _Pon las luces de cruce._                   | Turn on dipped headlights.          | Switch on low beam     |
-| _Pon las luces de emergencia._              | Turn on hazard lights.              | Press hazard button    |
-| _Pon el freno de mano._                     | Apply the handbrake.                | Pull up handbrake      |
-| _Quita el freno de mano._                   | Release the handbrake.              | Release handbrake      |
-| _Mete primera._                             | Go into first gear.                 | Shift to 1st           |
-| _Mete segunda / tercera / cuarta / quinta._ | Go into 2nd / 3rd / 4th / 5th.      | Shift accordingly      |
-| _Mete la palanca en punto muerto._          | Put the gear in neutral.            | Shift to neutral       |
-| _Apaga el motor._                           | Turn off the engine.                | Turn key / press stop  |
-| _Gira el volante a la derecha/izquierda._   | Turn the steering wheel right/left. | Turn wheel as directed |
+| Spanish Command                             | English                             | What to Do              |
+| ------------------------------------------- | ----------------------------------- | ----------------------- |
+| _Pon el intermitente._                      | Put on the indicator.               | Activate the indicator  |
+| _Pon las luces de cruce._                   | Turn on dipped headlights.          | Switch on dipped beam   |
+| _Pon las luces de emergencia._              | Turn on hazard warning lights.      | Press hazard button     |
+| _Pon el freno de mano._                     | Apply the handbrake.                | Pull up handbrake       |
+| _Quita el freno de mano._                   | Release the handbrake.              | Release handbrake       |
+| _Mete primera._                             | Go into first gear.                 | Change to 1st           |
+| _Mete segunda / tercera / cuarta / quinta._ | Go into 2nd / 3rd / 4th / 5th.      | Change gear accordingly |
+| _Mete la palanca en punto muerto._          | Put the gear in neutral.            | Change to neutral       |
+| _Apaga el motor._                           | Turn off the engine.                | Turn key / press stop   |
+| _Gira el volante a la derecha/izquierda._   | Turn the steering wheel right/left. | Turn wheel as directed  |
 
 ---
 

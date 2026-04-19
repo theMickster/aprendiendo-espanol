@@ -290,29 +290,32 @@
 
 ### Scenario 1
 
-_Llevas a un niño de 1,20 m en el asiento del copiloto con el cinturón del adulto._
+**ES:** _Llevas a un niño de 1,20 m en el asiento del copiloto con el cinturón del adulto._
+**EN:** _You're carrying a 1.20 m-tall child in the front passenger seat using the adult seatbelt._
 
-- A) Está bien si el niño tiene más de 10 años
-- B) Incumple la normativa: ≤ 1,35 m debe ir detrás en un SRI adecuado
-- C) Es legal siempre que el cinturón esté abrochado
+- A) Está bien si el niño tiene más de 10 años / Fine as long as the child is over 10
+- B) Incumple la normativa: ≤ 1,35 m debe ir detrás en un SRI adecuado / It breaks the rules: children 1.35 m or shorter must travel in the back in a suitable child restraint (SRI)
+- C) Es legal siempre que el cinturón esté abrochado / Legal as long as the seatbelt is fastened
 
 ### Scenario 2
 
-_Tu coche tiene 5 años. ¿Cada cuánto pasas la ITV?_
+**ES:** _Tu coche tiene 5 años. ¿Cada cuánto pasas la ITV?_
+**EN:** _Your car is 5 years old. How often do you have to take it for ITV (roadworthiness test)?_
 
-- A) Cada año
-- B) Cada 2 años
-- C) Cada 4 años
+- A) Cada año / Every year
+- B) Cada 2 años / Every 2 years
+- C) Cada 4 años / Every 4 years
 
 ### Scenario 3
 
-_Vas a comprar una silla infantil nueva. El modelo que te ofrecen es R44/04 únicamente._
+**ES:** _Vas a comprar una silla infantil nueva. El modelo que te ofrecen es R44/04 únicamente._
+**EN:** _You're buying a new child car seat. The model on offer only meets R44/04._
 
-- A) Perfecto, es la norma más habitual
-- B) Desde septiembre 2024 **está prohibida la venta** de sillas R44 nuevas — exige R129 (i-Size)
-- C) Cualquiera vale, son equivalentes
+- A) Perfecto, es la norma más habitual / Perfect — it's the most common standard
+- B) Desde septiembre 2024 **está prohibida la venta** de sillas R44 nuevas — exige R129 (i-Size) / Since September 2024 the **sale of new R44 seats is prohibited** — demand R129 (i-Size)
+- C) Cualquiera vale, son equivalentes / Either is fine — they're equivalent
 
-**Answers:** 1-B, 2-B, 3-B
+**Answers / Respuestas:** 1-B, 2-B, 3-B
 
 ---
 

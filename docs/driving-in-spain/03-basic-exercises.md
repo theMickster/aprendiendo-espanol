@@ -264,16 +264,16 @@ What would you say in Spanish in these situations? Write out the full sentence.
 
 Mark each statement **V** (verdadero) or **F** (falso). If false, say briefly why.
 
-1. El examen teórico se puede hacer en inglés en todas las provincias de España.
-2. El permiso provisional es válido durante tres meses.
-3. Un conductor novel empieza con 12 puntos.
-4. Desde 2026, la baliza V-16 conectada sustituye a los triángulos.
-5. El examen práctico dura aproximadamente una hora.
-6. La edad mínima para el permiso B es 18 años.
-7. Si suspendes el teórico y ya te has presentado, el psicotécnico vale 2 años desde la primera convocatoria.
-8. Los conductores noveles deben llevar una pegatina verde con la letra "L" el primer año.
-9. Las clases prácticas tienen un mínimo obligatorio de 20 horas por ley.
-10. La DGT está introduciendo vídeos de percepción del riesgo en el examen teórico en 2026.
+1. El examen teórico se puede hacer en inglés en todas las provincias de España. / The theory exam can be taken in English in every province of Spain.
+2. El permiso provisional es válido durante tres meses. / The provisional licence is valid for three months.
+3. Un conductor novel empieza con 12 puntos. / A novel driver starts with 12 points.
+4. Desde 2026, la baliza V-16 conectada sustituye a los triángulos. / From 2026, the connected V-16 beacon replaces the warning triangles.
+5. El examen práctico dura aproximadamente una hora. / The practical exam lasts about an hour.
+6. La edad mínima para el permiso B es 18 años. / The minimum age for a Class B licence is 18.
+7. Si suspendes el teórico y ya te has presentado, el psicotécnico vale 2 años desde la primera convocatoria. / If you fail the theory and have already sat an exam, the psicotécnico stays valid for 2 years from the first sitting.
+8. Los conductores noveles deben llevar una pegatina verde con la letra "L" el primer año. / Novel drivers must display a green "L" sticker during their first year.
+9. Las clases prácticas tienen un mínimo obligatorio de 20 horas por ley. / Practical lessons have a compulsory minimum of 20 hours by law.
+10. La DGT está introduciendo vídeos de percepción del riesgo en el examen teórico en 2026. / The DGT is introducing risk-perception videos in the theory exam in 2026.
 
 ---
 
@@ -283,33 +283,36 @@ Read the short situation and choose the correct response.
 
 ### Scenario 1
 
-_Mick llega a la autoescuela y quiere empezar el curso para el permiso B. El receptor le pregunta si ya tiene el psicotécnico._
+**ES:** _Mick llega a la autoescuela y quiere empezar el curso para el permiso B. El receptor le pregunta si ya tiene el psicotécnico._
+**EN:** _Mick arrives at the driving school wanting to start the Class B course. The receptionist asks whether he already has his psicotécnico._
 
-**Pregunta:** ¿Qué debería hacer Mick **primero** según el orden lógico del proceso?
+**Pregunta / Question:** ¿Qué debería hacer Mick **primero** según el orden lógico del proceso? / What should Mick do **first** in the logical order of the process?
 
-- A) Pagar el curso completo antes de nada
-- B) Ir a un centro médico a hacerse el psicotécnico
-- C) Presentarse directamente al examen teórico en la DGT
+- A) Pagar el curso completo antes de nada / Pay the full course fee before anything else
+- B) Ir a un centro médico a hacerse el psicotécnico / Go to a medical centre to take the psicotécnico
+- C) Presentarse directamente al examen teórico en la DGT / Turn up straight at the DGT for the theory exam
 
 ### Scenario 2
 
-_Ana aprobó el teórico hace 18 meses, pero todavía no ha aprobado el práctico. Su psicotécnico es del mismo día que el teórico._
+**ES:** _Ana aprobó el teórico hace 18 meses, pero todavía no ha aprobado el práctico. Su psicotécnico es del mismo día que el teórico._
+**EN:** _Ana passed the theory 18 months ago but hasn't yet passed the practical. Her psicotécnico is dated the same day as the theory._
 
-**Pregunta:** ¿Qué validez le queda al psicotécnico de Ana?
+**Pregunta / Question:** ¿Qué validez le queda al psicotécnico de Ana? / How much validity does Ana's psicotécnico have left?
 
-- A) Ya ha caducado — son más de 3 meses
-- B) Sigue siendo válido hasta los 2 años desde la primera convocatoria
-- C) Depende de la provincia
+- A) Ya ha caducado — son más de 3 meses / Already expired — more than 3 months
+- B) Sigue siendo válido hasta los 2 años desde la primera convocatoria / Still valid up to 2 years from the first sitting
+- C) Depende de la provincia / Depends on the province
 
 ### Scenario 3
 
-_Un amigo te comenta que le han dicho que "desde 2026 ya es legal ir con 0.2 g/l de alcohol como máximo"._
+**ES:** _Un amigo te comenta que le han dicho que "desde 2026 ya es legal ir con 0.2 g/l de alcohol como máximo"._
+**EN:** _A friend tells you he's heard "from 2026 it's legal to drive at a maximum of 0.2 g/L blood alcohol."_
 
-**Pregunta:** ¿Qué respondes?
+**Pregunta / Question:** ¿Qué respondes? / What do you reply?
 
-- A) Es cierto, la ley ya está en vigor
-- B) Es una propuesta de reforma, pero a día de hoy los límites siguen siendo 0,5 g/l general y 0,3 g/l para noveles
-- C) No es cierto, el límite nunca ha cambiado en Europa
+- A) Es cierto, la ley ya está en vigor / That's right, the law is already in force
+- B) Es una propuesta de reforma, pero a día de hoy los límites siguen siendo 0,5 g/l general y 0,3 g/l para noveles / It's a proposed reform, but as of today the limits remain 0.5 g/L general and 0.3 g/L for novel drivers
+- C) No es cierto, el límite nunca ha cambiado en Europa / Not true, the limit has never changed in Europe
 
 ---
 

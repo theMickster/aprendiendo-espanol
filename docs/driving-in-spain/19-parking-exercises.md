@@ -195,35 +195,39 @@ Complete the table for each verb.
 
 ### Scenario 1
 
-_Llegas a casa en Penya-Roja un viernes a las 20:00. Solo hay un hueco, pero es un vado permanente con marca roja._
+**ES:** _Llegas a casa en Penya-Roja un viernes a las 20:00. Solo hay un hueco, pero es un vado permanente con marca roja._
+**EN:** _You get home to Penya-Roja on a Friday at 8 p.m. Only one space is free — but it's a permanent driveway access (vado) with a red marking._
 
-- A) Aparco "solo diez minutos" — el garaje parece desocupado
-- B) Busco otra plaza aunque tarde más — el vado nunca se debe bloquear
-- C) Aparco, dejo una nota con mi móvil en el parabrisas
+- A) Aparco "solo diez minutos" — el garaje parece desocupado / Park "just for ten minutes" — the garage looks empty
+- B) Busco otra plaza aunque tarde más — el vado nunca se debe bloquear / Find another space even if it takes longer — a vado must never be blocked
+- C) Aparco, dejo una nota con mi móvil en el parabrisas / Park and leave a note with my mobile number on the windscreen
 
 ### Scenario 2
 
-_Vas a recoger a tu hija del colegio. Encuentras una plaza reservada para personas con movilidad reducida. Tu hija y tú no tenéis la tarjeta._
+**ES:** _Vas a recoger a tu hija del colegio. Encuentras una plaza reservada para personas con movilidad reducida. Tu hija y tú no tenéis la tarjeta._
+**EN:** _You're picking your daughter up from school. You find a space reserved for people with reduced mobility. Neither of you has the disabled parking badge._
 
-- A) Aparco — solo bajo a por la niña, un minuto
-- B) Espero o aparco más lejos y vamos caminando
-- C) Llamo al 092 para que me autoricen una excepción
+- A) Aparco — solo bajo a por la niña, un minuto / Park — I'm only nipping in to fetch her, one minute
+- B) Espero o aparco más lejos y vamos caminando / Wait, or park further away and walk
+- C) Llamo al 092 para que me autoricen una excepción / Call 092 to ask for an exception
 
 ### Scenario 3
 
-_En el centro de Valencia, vas a parar en doble fila dos minutos para dejar a un pasajero bajarse. El conductor no baja del vehículo._
+**ES:** _En el centro de Valencia, vas a parar en doble fila dos minutos para dejar a un pasajero bajarse. El conductor no baja del vehículo._
+**EN:** _In central Valencia, you're about to double-park for two minutes to let a passenger get out. The driver stays in the vehicle._
 
-- A) Es una parada — es legal siempre
-- B) Aunque dure menos de 2 minutos y el conductor no baje, la parada en doble fila está prohibida porque obstaculiza la circulación
-- C) Solo es parada si paro el motor
+- A) Es una parada — es legal siempre / It's a brief stop — always legal
+- B) Aunque dure menos de 2 minutos y el conductor no baje, la parada en doble fila está prohibida porque obstaculiza la circulación / Even if it lasts under 2 minutes and the driver stays, double-parking is prohibited because it obstructs traffic
+- C) Solo es parada si paro el motor / It only counts as a parada if I switch off the engine
 
 ### Scenario 4
 
-_Aparcas cuesta arriba junto al bordillo._
+**ES:** _Aparcas cuesta arriba junto al bordillo._
+**EN:** _You're parking uphill next to the kerb._
 
-- A) Giro las ruedas **hacia** el bordillo
-- B) Giro las ruedas **alejadas del** bordillo (hacia la calzada)
-- C) Dejo las ruedas rectas — el freno de mano es suficiente
+- A) Giro las ruedas **hacia** el bordillo / Turn the wheels **towards** the kerb
+- B) Giro las ruedas **alejadas del** bordillo (hacia la calzada) / Turn the wheels **away from** the kerb (towards the carriageway)
+- C) Dejo las ruedas rectas — el freno de mano es suficiente / Leave the wheels straight — the handbrake is enough
 
 ---
 

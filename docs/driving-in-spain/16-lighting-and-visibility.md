@@ -14,32 +14,32 @@ Knowing **which lights to use and when** is a frequent DGT exam topic. Spain has
 
 ## 📖 Key Vocabulary
 
-| Español                                | English                          | Pronunciation                         | Example Sentence                                                                                                        |
-| -------------------------------------- | -------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| el alumbrado                           | the lighting                     | ah-loom-BRAH-doh                      | _Debe llevar el alumbrado encendido en túneles._ — You must have lights on in tunnels.                                  |
-| las luces de posición                  | the sidelights / parking lights  | poh-see-THYOHN                        | _Las luces de posición son obligatorias de noche cuando está parado._ — Sidelights are compulsory at night when parked. |
-| las luces de cruce (corto alcance)     | the dipped headlights / low beam | KROO-theh / KOR-toh al-KAN-theh       | _Use las luces de cruce en túneles._ — Use dipped headlights in tunnels.                                                |
-| las luces de carretera (largo alcance) | the full beam / high beam        | kah-reh-TEH-rah / LAR-goh             | _Las luces de carretera deslumbran al tráfico contrario._ — Full beam dazzles oncoming traffic.                         |
-| las luces antiniebla delanteras        | the front fog lights             | an-tee-nee-EH-blah deh-lan-TEH-rahs   | _Use las luces antiniebla con niebla densa._ — Use fog lights in dense fog.                                             |
-| la luz antiniebla trasera              | the rear fog light               | trah-SEH-rah                          | _La luz antiniebla trasera es obligatoria._ — The rear fog light is compulsory.                                         |
-| las luces de emergencia (warning)      | the hazard lights                | eh-mer-HEN-thyah                      | _Ponga las luces de emergencia si se detiene en la vía._ — Turn on hazard lights if you stop on the road.               |
-| las luces diurnas                      | the daytime running lights (DRL) | dee-OOR-nahs                          | _Las luces diurnas se encienden automáticamente._ — DRLs turn on automatically.                                         |
-| deslumbrar                             | to dazzle / to blind             | des-loom-BRAR                         | _No deslumbre al tráfico que viene de frente._ — Don't dazzle oncoming traffic.                                         |
-| el túnel                               | the tunnel                       | TOO-nel                               | _Es obligatorio encender las luces en el túnel._ — It is compulsory to turn on lights in the tunnel.                    |
-| la visibilidad reducida                | the reduced visibility           | bees-ee-bee-lee-DAHD reh-doo-THEE-dah | _Con visibilidad reducida, use luces de cruce._ — In reduced visibility, use dipped headlights.                         |
+| Español                                | English                                   | Pronunciation                         | Example Sentence                                                                                                        |
+| -------------------------------------- | ----------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| el alumbrado                           | the lighting                              | ah-loom-BRAH-doh                      | _Debe llevar el alumbrado encendido en túneles._ — You must have lights on in tunnels.                                  |
+| las luces de posición                  | the sidelights / parking lights           | poh-see-THYOHN                        | _Las luces de posición son obligatorias de noche cuando está parado._ — Sidelights are compulsory at night when parked. |
+| las luces de cruce (corto alcance)     | the dipped headlights (US: low beam)      | KROO-theh / KOR-toh al-KAN-theh       | _Use las luces de cruce en túneles._ — Use dipped headlights in tunnels.                                                |
+| las luces de carretera (largo alcance) | the main beam / full beam (US: high beam) | kah-reh-TEH-rah / LAR-goh             | _Las luces de carretera deslumbran al tráfico contrario._ — Full beam dazzles oncoming traffic.                         |
+| las luces antiniebla delanteras        | the front fog lights                      | an-tee-nee-EH-blah deh-lan-TEH-rahs   | _Use las luces antiniebla con niebla densa._ — Use fog lights in dense fog.                                             |
+| la luz antiniebla trasera              | the rear fog light                        | trah-SEH-rah                          | _La luz antiniebla trasera es obligatoria._ — The rear fog light is compulsory.                                         |
+| las luces de emergencia (warning)      | the hazard lights                         | eh-mer-HEN-thyah                      | _Ponga las luces de emergencia si se detiene en la vía._ — Turn on hazard lights if you stop on the road.               |
+| las luces diurnas                      | the daytime running lights (DRL)          | dee-OOR-nahs                          | _Las luces diurnas se encienden automáticamente._ — DRLs turn on automatically.                                         |
+| deslumbrar                             | to dazzle / to blind                      | des-loom-BRAR                         | _No deslumbre al tráfico que viene de frente._ — Don't dazzle oncoming traffic.                                         |
+| el túnel                               | the tunnel                                | TOO-nel                               | _Es obligatorio encender las luces en el túnel._ — It is compulsory to turn on lights in the tunnel.                    |
+| la visibilidad reducida                | the reduced visibility                    | bees-ee-bee-lee-DAHD reh-doo-THEE-dah | _Con visibilidad reducida, use luces de cruce._ — In reduced visibility, use dipped headlights.                         |
 
 ---
 
 ## 💡 THE 6 TYPES OF VEHICLE LIGHTS
 
-| Light Type                 | Spanish                            | Colour                | When Used                                                                                 |
-| -------------------------- | ---------------------------------- | --------------------- | ----------------------------------------------------------------------------------------- |
-| **Sidelights / Position**  | Luces de posición                  | White front, red rear | Always on with any other light. Also when parked at night on poorly lit roads             |
-| **Dipped beam / Low beam** | Luces de cruce (corto alcance)     | White                 | THE most important light — night, tunnels, fog, rain, reduced visibility                  |
-| **Full beam / High beam**  | Luces de carretera (largo alcance) | White                 | Night on interurban roads when NO oncoming traffic. Switch to dipped when traffic appears |
-| **Front fog lights**       | Luces antiniebla delanteras        | White or yellow       | Fog, heavy rain, snow, dust clouds — can be used with or instead of dipped beam           |
-| **Rear fog light**         | Luz antiniebla trasera             | Red                   | ONLY in very poor visibility (dense fog, heavy rain). Turn OFF when conditions improve    |
-| **Hazard lights**          | Luces de emergencia                | Amber flashing        | Breakdown, accident, sudden obstacle, or significantly below normal speed                 |
+| Light Type                                | Spanish                            | Colour                | When Used                                                                                 |
+| ----------------------------------------- | ---------------------------------- | --------------------- | ----------------------------------------------------------------------------------------- |
+| **Sidelights / Position**                 | Luces de posición                  | White front, red rear | Always on with any other light. Also when parked at night on poorly lit roads             |
+| **Dipped beam** (US: low beam)            | Luces de cruce (corto alcance)     | White                 | THE most important light — night, tunnels, fog, rain, reduced visibility                  |
+| **Main beam / Full beam** (US: high beam) | Luces de carretera (largo alcance) | White                 | Night on interurban roads when NO oncoming traffic. Switch to dipped when traffic appears |
+| **Front fog lights**                      | Luces antiniebla delanteras        | White or yellow       | Fog, heavy rain, snow, dust clouds — can be used with or instead of dipped beam           |
+| **Rear fog light**                        | Luz antiniebla trasera             | Red                   | ONLY in very poor visibility (dense fog, heavy rain). Turn OFF when conditions improve    |
+| **Hazard lights**                         | Luces de emergencia                | Amber flashing        | Breakdown, accident, sudden obstacle, or significantly below normal speed                 |
 
 ---
 
@@ -174,7 +174,7 @@ A stem-changing verb: **e → ie** in the present.
 | DRLs vary by state/vehicle    | DRLs not mandatory for cars but recommended. Mandatory for motorcycles        | Spain is less strict on car DRLs          |
 | Fog lights: driver's choice   | Front fog: optional in bad conditions. **Rear fog: MUST turn off** when clear | Leaving rear fog on = fine                |
 | Flash to warn: informal       | Flash to warn of hazard: OK. Flash to warn of police: **ILLEGAL**             | €200 fine for warning of police           |
-| High beam etiquette: courtesy | High beam rules: **legal obligation** to switch to dipped                     | Spain is stricter                         |
+| Main-beam etiquette: courtesy | Main-beam rules: **legal obligation** to switch to dipped                     | Spain is stricter                         |
 | Tunnels: varies               | Tunnels: dipped beam **ALWAYS compulsory**                                    | Even short, well-lit tunnels              |
 
 ---

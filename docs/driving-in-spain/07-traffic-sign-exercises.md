@@ -478,29 +478,32 @@ Put these signal types in the correct priority order from **highest (1)** to **l
 
 ### Scenario 1
 
-_Te acercas a una intersección con una señal octogonal roja (STOP)._
+**ES:** _Te acercas a una intersección con una señal octogonal roja (STOP)._
+**EN:** _You approach a junction with a red octagonal sign (STOP)._
 
-- A) Disminuyo y cedo si hay alguien
-- B) Paro por completo detrás de la línea, aunque no venga nadie
-- C) Paro solo si viene otro vehículo
+- A) Disminuyo y cedo si hay alguien / I slow down and give way if someone is there
+- B) Paro por completo detrás de la línea, aunque no venga nadie / I stop completely behind the line, even if nobody is coming
+- C) Paro solo si viene otro vehículo / I stop only if another vehicle is coming
 
 ### Scenario 2
 
-_Ves un panel informativo **variable** que marca 80 km/h en una autopista cuyo límite fijo es 120._
+**ES:** _Ves un panel informativo **variable** que marca 80 km/h en una autopista cuyo límite fijo es 120._
+**EN:** _You see a **variable** (electronic) message sign showing 80 km/h on a motorway whose fixed limit is 120._
 
-- A) Sigo a 120 porque es el límite "real"
-- B) Circulo a 80: las señales variables prevalecen sobre las fijas
-- C) Ignoro ambas y adopto una velocidad adecuada
+- A) Sigo a 120 porque es el límite "real" / I keep going at 120 because that's the "real" limit
+- B) Circulo a 80: las señales variables prevalecen sobre las fijas / I drive at 80 — variable signs override fixed ones
+- C) Ignoro ambas y adopto una velocidad adecuada / I ignore both and drive at a speed that feels right
 
 ### Scenario 3
 
-_Señal R-116 (círculo rojo con patinete tachado)._
+**ES:** _Señal R-116 (círculo rojo con patinete tachado)._
+**EN:** _Sign R-116 (red circle with a crossed-out e-scooter)._
 
-- A) Prohibido a ciclistas
-- B) Prohibido a VMP (patinetes)
-- C) Vía exclusiva para VMP
+- A) Prohibido a ciclistas / Prohibited to cyclists
+- B) Prohibido a VMP (patinetes) / Prohibited to personal mobility vehicles (e-scooters)
+- C) Vía exclusiva para VMP / Road exclusively for PMVs
 
-**Answers:** 1-B, 2-B, 3-B
+**Answers / Respuestas:** 1-B, 2-B, 3-B
 
 ---
 

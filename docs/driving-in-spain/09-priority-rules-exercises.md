@@ -357,29 +357,32 @@ Put these roundabout steps in the correct order (1–6):
 
 ### Scenario 1
 
-_Llegas a una glorieta. Dentro circula un coche por el carril interior, indicando que va a salir por tu derecha._
+**ES:** _Llegas a una glorieta. Dentro circula un coche por el carril interior, indicando que va a salir por tu derecha._
+**EN:** _You arrive at a roundabout. A car is already inside, in the inner lane, indicating that it intends to exit on your right._
 
-- A) Tengo prioridad porque estoy entrando
-- B) Cedo el paso al que ya está dentro y espero
-- C) Acelero para cruzar antes
+- A) Tengo prioridad porque estoy entrando / I have priority because I'm entering
+- B) Cedo el paso al que ya está dentro y espero / I give way to the vehicle already inside and wait
+- C) Acelero para cruzar antes / I speed up to get across first
 
 ### Scenario 2
 
-_Cruce sin señales; un coche viene por tu derecha._
+**ES:** _Cruce sin señales; un coche viene por tu derecha._
+**EN:** _Junction with no signs; a car is approaching from your right._
 
-- A) Tengo preferencia
-- B) Cede el paso al de la derecha
-- C) Depende del tamaño del vehículo
+- A) Tengo preferencia / I have right of way
+- B) Cede el paso al de la derecha / Give way to the vehicle on the right
+- C) Depende del tamaño del vehículo / It depends on the size of the vehicle
 
 ### Scenario 3
 
-_Una ambulancia con sirena y rotativos se acerca por detrás en zona urbana._
+**ES:** _Una ambulancia con sirena y rotativos se acerca por detrás en zona urbana._
+**EN:** _An ambulance with siren and flashing lights is approaching from behind in an urban area._
 
-- A) Acelero para quitarme de su camino
-- B) Me arrimo a la derecha y me detengo si hace falta, dejándole paso
-- C) Freno bruscamente en seco
+- A) Acelero para quitarme de su camino / I speed up to get out of its way
+- B) Me arrimo a la derecha y me detengo si hace falta, dejándole paso / I pull over to the right and stop if needed, letting it past
+- C) Freno bruscamente en seco / I brake hard and come to a dead stop
 
-**Answers:** 1-B, 2-B, 3-B
+**Answers / Respuestas:** 1-B, 2-B, 3-B
 
 ---
 

@@ -51,12 +51,12 @@ The DGT definitions are very **specific and legal**. A few traps to watch for:
 
 | Español                  | English                                        | Example Sentence                                                                                                                  |
 | ------------------------ | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| la vía                   | the road / the way                             | _La vía es toda carretera abierta al uso público._ — The road is any highway open to public use.                                  |
+| la vía                   | the road / the way                             | _La vía es toda carretera abierta al uso público._ — The road is any road (highway) open to public use.                           |
 | la calzada               | the carriageway                                | _La calzada está dedicada a la circulación de vehículos._ — The carriageway is dedicated to the movement of vehicles.             |
 | el carril                | the lane                                       | _No se puede circular ocupando dos carriles._ — You cannot drive occupying two lanes.                                             |
 | el arcén                 | the hard shoulder                              | _El arcén no está destinado a la circulación normal._ — The hard shoulder is not intended for normal traffic.                     |
-| la acera                 | the pavement / sidewalk                        | _La acera está destinada al tránsito de peatones._ — The pavement is for pedestrian traffic.                                      |
-| la mediana               | the central reservation / median               | _La mediana separa las dos calzadas._ — The central reservation separates the two carriageways.                                   |
+| la acera                 | the pavement (sidewalk)                        | _La acera está destinada al tránsito de peatones._ — The pavement is for pedestrian traffic.                                      |
+| la mediana               | the central reservation (median)               | _La mediana separa las dos calzadas._ — The central reservation separates the two carriageways.                                   |
 | la glorieta / la rotonda | the roundabout                                 | _En la glorieta, la circulación es giratoria._ — In the roundabout, traffic is rotary.                                            |
 | la intersección          | the intersection / junction                    | _Una intersección es donde los cruces se realizan al mismo nivel._ — An intersection is where crossings occur at the same level.  |
 | el paso a nivel          | the level crossing                             | _El paso a nivel es un cruce con una vía de ferrocarril._ — A level crossing is a crossing with a railway line.                   |
@@ -107,8 +107,8 @@ These are the **official DGT definitions** from the Ley de Tráfico (Anexo I). T
 | **Calzada**       | Carriageway                        | The part of the road intended for vehicle traffic. It is made up of a number of lanes (_carriles_)                                                                                     |
 | **Carril**        | Lane                               | A longitudinal strip into which the carriageway may be divided, marked or unmarked, wide enough for a single file of cars (not motorbikes)                                             |
 | **Arcén**         | Hard shoulder                      | A paved longitudinal strip alongside the carriageway, NOT intended for motor vehicles except in exceptional circumstances                                                              |
-| **Mediana**       | Central reservation / Median       | A longitudinal strip between two separated platforms, not intended for traffic                                                                                                         |
-| **Acera**         | Pavement / Sidewalk                | A longitudinal zone of the road, raised or not, intended for pedestrian traffic                                                                                                        |
+| **Mediana**       | Central reservation (median)       | A longitudinal strip between two separated platforms, not intended for traffic                                                                                                         |
+| **Acera**         | Pavement (sidewalk)                | A longitudinal zone of the road, raised or not, intended for pedestrian traffic                                                                                                        |
 | **Zona peatonal** | Pedestrian zone                    | Part of the road, raised or otherwise delimited, reserved for pedestrians. Includes the pavement (_acera_), promenade (_paseo_), and footpath (_andén_)                                |
 | **Refugio**       | Pedestrian refuge / Traffic island | A pedestrian zone situated on the carriageway, protected from vehicle traffic                                                                                                          |
 | **Isleta**        | Traffic island                     | A raised or delimited zone on the carriageway, usually at junctions, designed to channel traffic                                                                                       |
@@ -262,7 +262,7 @@ Valencia gives you excellent real-world examples of these definitions:
 | Motorway (M roads)        | Autopista / Autovía               | Spain has two types: autopista (may be tolled) and autovía (always free). UK motorways are always free       |
 | A-road / dual carriageway | Autovía or carretera convencional | Spain's autovía is more like a motorway than a UK A-road                                                     |
 | Hard shoulder             | Arcén                             | Same concept, but in Spain the arcén is also where cyclists and slow vehicles may travel on interurban roads |
-| Pavement / sidewalk       | Acera                             | Same concept                                                                                                 |
+| Pavement (US: sidewalk)   | Acera                             | Same concept                                                                                                 |
 | Lay-by                    | Apartadero                        | Same concept                                                                                                 |
 | Roundabout                | Glorieta / Rotonda                | Traffic flows **anticlockwise** in Spain (opposite to UK). Give way to traffic already on the roundabout     |
 | Level crossing            | Paso a nivel                      | Same concept, but Spain uses different warning signs                                                         |
@@ -275,7 +275,7 @@ Valencia gives you excellent real-world examples of these definitions:
 
 1. **Vía urbana** = inside a town. **Vía interurbana** = outside a town. **Travesía** = interurban road passing through a town.
 2. **Autopista** may be tolled; **autovía** is always free. Both have separated carriageways.
-3. **Calzada** = the part vehicles drive on. **Plataforma** = calzada + hard shoulders + median + verges.
+3. **Calzada** = the part vehicles drive on. **Plataforma** = calzada + hard shoulders + central reservation (median) + verges.
 4. **Arcén** = hard shoulder, NOT for normal traffic (except emergencies and certain slow vehicles on interurban roads).
 5. **Peatón** includes anyone walking a bike, pushing a pram, or using a wheelchair at walking pace.
 6. A **turismo** = max 9 seats including the driver. More than 9 = bus/coach.

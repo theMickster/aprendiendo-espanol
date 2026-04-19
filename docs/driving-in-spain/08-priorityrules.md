@@ -262,17 +262,17 @@ A regular -er verb — but essential for priority topics.
 
 ## ⚠️ US → Spain Differences for Priority Rules
 
-| US                                          | Spain                                                                            | Key Difference                                                          |
-| ------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 4-way stop is common                        | 4-way stop almost NEVER exists                                                   | In Spain, one road always has priority or the right-hand rule applies   |
-| "First to arrive" at a stop sign goes first | "First to arrive" only applies at narrow passages, NOT at intersections          | At intersections: signs or right-hand rule decide                       |
-| Right on red allowed (usually)              | Right on red **NEVER** allowed                                                   | Even if no traffic — never                                              |
-| Pedestrians have crosswalk priority         | Pedestrians have priority at crossings AND when you're turning into their street | Spain's rule is BROADER                                                 |
-| Roundabouts: yield to traffic inside        | Roundabouts: yield to traffic inside                                             | Same rule!                                                              |
-| Emergency vehicles: pull to the right       | Emergency vehicles: pull to the right                                            | Same rule!                                                              |
-| Merging: "zipper merge" common              | Merging: you must yield — no obligation for road traffic to let you in           | Less courtesy, more rule-based                                          |
-| School buses: all traffic MUST stop         | No school bus stop rule                                                          | Spain does NOT have this — use the P-21 (children) warning sign instead |
-| Funeral processions have informal priority  | No funeral procession rules                                                      | Not a concept in Spain                                                  |
+| US                                                | Spain                                                                            | Key Difference                                                          |
+| ------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 4-way stop is common                              | 4-way stop almost NEVER exists                                                   | In Spain, one road always has priority or the right-hand rule applies   |
+| "First to arrive" at a stop sign goes first       | "First to arrive" only applies at narrow passages, NOT at intersections          | At intersections: signs or right-hand rule decide                       |
+| Right on red allowed (usually)                    | Right on red **NEVER** allowed                                                   | Even if no traffic — never                                              |
+| Pedestrians have priority at pedestrian crossings | Pedestrians have priority at crossings AND when you're turning into their street | Spain's rule is BROADER                                                 |
+| Roundabouts: yield to traffic inside              | Roundabouts: yield to traffic inside                                             | Same rule!                                                              |
+| Emergency vehicles: pull to the right             | Emergency vehicles: pull to the right                                            | Same rule!                                                              |
+| Merging: "zipper merge" common                    | Merging: you must yield — no obligation for road traffic to let you in           | Less courtesy, more rule-based                                          |
+| School buses: all traffic MUST stop               | No school bus stop rule                                                          | Spain does NOT have this — use the P-21 (children) warning sign instead |
+| Funeral processions have informal priority        | No funeral procession rules                                                      | Not a concept in Spain                                                  |
 
 ---
 

@@ -219,29 +219,32 @@
 
 ### Scenario 1
 
-_Patinete eléctrico (VMP) sin seguro ni matrícula en febrero de 2026._
+**ES:** _Patinete eléctrico (VMP) sin seguro ni matrícula en febrero de 2026._
+**EN:** _An e-scooter (personal mobility vehicle, PMV) with no insurance and no registration, in February 2026._
 
-- A) No pasa nada hasta 2027
-- B) Infracción: desde el 2 enero 2026 el seguro es obligatorio; el registro desde el 30 enero 2026
-- C) Solo necesita seguro si supera 25 km/h
+- A) No pasa nada hasta 2027 / No problem until 2027
+- B) Infracción: desde el 2 enero 2026 el seguro es obligatorio; el registro desde el 30 enero 2026 / An infringement: insurance has been compulsory since 2 January 2026 and registration since 30 January 2026
+- C) Solo necesita seguro si supera 25 km/h / It only needs insurance if it exceeds 25 km/h
 
 ### Scenario 2
 
-_Llegas a Madrid con un vehículo sin distintivo ambiental (etiqueta A)._
+**ES:** _Llegas a Madrid con un vehículo sin distintivo ambiental (etiqueta A)._
+**EN:** _You arrive in Madrid with a vehicle that has no environmental label (label A)._
 
-- A) Puedo circular libremente en Madrid Centro
-- B) Tengo restricciones importantes en la ZBE: no puedo entrar en Madrid Centro ni en Plaza Elíptica en horario regulado
-- C) Pago un canon y puedo entrar sin problemas
+- A) Puedo circular libremente en Madrid Centro / I can drive freely in Madrid Centro
+- B) Tengo restricciones importantes en la ZBE: no puedo entrar en Madrid Centro ni en Plaza Elíptica en horario regulado / I face serious restrictions in the Low Emission Zone: I can't enter Madrid Centro or Plaza Elíptica during regulated hours
+- C) Pago un canon y puedo entrar sin problemas / I pay a fee and can enter without issues
 
 ### Scenario 3
 
-_Conduces con asistencia nivel 2 (BlueCruise/Autopilot) en una autopista española._
+**ES:** _Conduces con asistencia nivel 2 (BlueCruise/Autopilot) en una autopista española._
+**EN:** _You're driving with Level 2 assistance (BlueCruise / Autopilot) on a Spanish motorway._
 
-- A) Puedo soltar las manos en cualquier autopista
-- B) Debo mantener la atención y, salvo excepciones como las _Blue Zones_ autorizadas, las manos en el volante
-- C) Es ilegal usar estos sistemas en España
+- A) Puedo soltar las manos en cualquier autopista / I can take my hands off on any motorway
+- B) Debo mantener la atención y, salvo excepciones como las _Blue Zones_ autorizadas, las manos en el volante / I must stay attentive and — except in authorised _Blue Zones_ — keep my hands on the wheel
+- C) Es ilegal usar estos sistemas en España / These systems are illegal in Spain
 
-**Answers:** 1-B, 2-B, 3-B
+**Answers / Respuestas:** 1-B, 2-B, 3-B
 
 ---
 

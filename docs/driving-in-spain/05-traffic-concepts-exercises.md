@@ -307,13 +307,13 @@ Fill in the 7 labels:
 
 ## G. Road Parts Diagram
 
-1. **Acera** (pavement / sidewalk)
+1. **Acera** (pavement — US: sidewalk)
 2. **Arcén** (hard shoulder)
 3. **Calzada** (carriageway)
-4. **Mediana** (central reservation)
+4. **Mediana** (central reservation — US: median)
 5. **Calzada** (carriageway)
 6. **Arcén** (hard shoulder)
-7. **Acera** (pavement / sidewalk)
+7. **Acera** (pavement)
 
 ---
 
@@ -321,29 +321,32 @@ Fill in the 7 labels:
 
 ### Scenario 1
 
-_Circulas por una carretera que atraviesa un pueblo pequeño. La señal indica "travesía"._
+**ES:** _Circulas por una carretera que atraviesa un pueblo pequeño. La señal indica "travesía"._
+**EN:** _You're driving along a road that runs through a small town. The sign says "travesía" (through-road)._
 
-- A) Aplico los límites interurbanos
-- B) Aplico los límites urbanos (50 / 30 según carriles)
-- C) Aplico el límite de la autovía
+- A) Aplico los límites interurbanos / I apply the interurban speed limits
+- B) Aplico los límites urbanos (50 / 30 según carriles) / I apply the urban limits (50 / 30 depending on the number of lanes)
+- C) Aplico el límite de la autovía / I apply the dual carriageway limit
 
 ### Scenario 2
 
-_Una autovía tiene dos carriles por sentido, mediana, y accesos con incorporación controlada pero NO es de peaje._
+**ES:** _Una autovía tiene dos carriles por sentido, mediana, y accesos con incorporación controlada pero NO es de peaje._
+**EN:** _A road has two lanes in each direction, a central reservation, and controlled access ramps — but it is NOT a toll road._
 
-- A) Es una autopista
-- B) Es una autovía
-- C) Es una carretera convencional
+- A) Es una autopista / It's a motorway (tolled)
+- B) Es una autovía / It's a dual carriageway (free motorway)
+- C) Es una carretera convencional / It's a conventional road
 
 ### Scenario 3
 
-_Un vehículo Clase B arrastra un remolque ligero (<750 kg MMA)._
+**ES:** _Un vehículo Clase B arrastra un remolque ligero (<750 kg MMA)._
+**EN:** _A Class B car is towing a light trailer (under 750 kg MAM — Maximum Authorised Mass)._
 
-- A) Necesita el permiso B+E
-- B) El permiso B basta si la suma MMA ≤ 4.250 kg
-- C) Solo se admite con permiso C
+- A) Necesita el permiso B+E / They need the B+E licence
+- B) El permiso B basta si la suma MMA ≤ 4.250 kg / The B licence is enough if the combined MAM is 4,250 kg or less
+- C) Solo se admite con permiso C / Only allowed with the C licence
 
-**Answers:** 1-B, 2-B, 3-B
+**Answers / Respuestas:** 1-B, 2-B, 3-B
 
 ---
 

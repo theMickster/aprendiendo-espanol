@@ -197,7 +197,7 @@ Put the PAS steps in the correct order (1–6):
 
 2. You arrive at an accident scene and a bystander is about to move an injured person. Tell them to stop.
 
-3. You need to fill out the parte amistoso with the other driver after a minor fender bender.
+3. You need to fill out the parte amistoso with the other driver after a minor collision (fender bender).
 
 4. Your daughter asks what PAS means. Explain it simply in Spanish.
 
@@ -205,14 +205,14 @@ Put the PAS steps in the correct order (1–6):
 
 ## F. Verdadero o Falso
 
-1. Si te encuentras un accidente y sigues tu camino, has cometido omisión del deber de socorro.
-2. Siempre se debe quitar el casco a un motorista inconsciente.
-3. La baliza V-16 se debe colocar **fuera** del coche, en el parachoques.
-4. El eCall solo se activa manualmente, nunca automáticamente.
-5. En un túnel, si tu coche se avería debes apagar el motor y activar las luces de emergencia.
-6. Posición lateral de seguridad solo si la persona está inconsciente **y** respira.
-7. Ante una hemorragia, eleva la zona herida y presiona con un paño limpio.
-8. Si hay fuego en el motor, abre rápido el capó para ver qué pasa.
+1. Si te encuentras un accidente y sigues tu camino, has cometido omisión del deber de socorro. / If you come across an accident and just carry on, you've committed the offence of failing to render assistance.
+2. Siempre se debe quitar el casco a un motorista inconsciente. / You should always remove the helmet from an unconscious motorcyclist.
+3. La baliza V-16 se debe colocar **fuera** del coche, en el parachoques. / The V-16 beacon must be placed **outside** the car, on the bumper.
+4. El eCall solo se activa manualmente, nunca automáticamente. / eCall only activates manually, never automatically.
+5. En un túnel, si tu coche se avería debes apagar el motor y activar las luces de emergencia. / In a tunnel, if your car breaks down you must switch off the engine and turn on the hazard warning lights.
+6. Posición lateral de seguridad solo si la persona está inconsciente **y** respira. / Recovery position only if the person is unconscious **and** breathing.
+7. Ante una hemorragia, eleva la zona herida y presiona con un paño limpio. / In case of a bleed, raise the injured area and press with a clean cloth.
+8. Si hay fuego en el motor, abre rápido el capó para ver qué pasa. / If there's a fire in the engine, open the bonnet quickly to see what's happening.
 
 ---
 
@@ -256,35 +256,39 @@ Complete the present and preterite for each verb.
 
 ### Scenario 1
 
-_Conduces por la V-30 y ves un turismo parado en el arcén con las luces de emergencia. Hay humo en el capó y el conductor parece aturdido en el asiento._
+**ES:** _Conduces por la V-30 y ves un turismo parado en el arcén con las luces de emergencia. Hay humo en el capó y el conductor parece aturdido en el asiento._
+**EN:** _You're driving on the V-30 and see a car stopped on the hard shoulder with hazard lights on. There's smoke coming from the bonnet and the driver looks dazed in their seat._
 
-- A) Sigo de largo — no es mi problema
-- B) Me detengo con seguridad, pongo mis cuatro intermitentes, chaleco reflectante, activo mi baliza V-16 en el techo y llamo al 112
-- C) Aparco justo detrás para protegerlo y sigo grabando con el móvil
+- A) Sigo de largo — no es mi problema / Carry on — not my problem
+- B) Me detengo con seguridad, pongo mis cuatro intermitentes, chaleco reflectante, activo mi baliza V-16 en el techo y llamo al 112 / Stop safely, put on my hazards, reflective vest, activate my V-16 beacon on the roof, and call 112
+- C) Aparco justo detrás para protegerlo y sigo grabando con el móvil / Park right behind to shield them and keep filming with my phone
 
 ### Scenario 2
 
-_Acabas de chocar con otro coche a 30 km/h. Ambos vehículos pueden moverse, nadie está herido, los dos conductores tienen seguro._
+**ES:** _Acabas de chocar con otro coche a 30 km/h. Ambos vehículos pueden moverse, nadie está herido, los dos conductores tienen seguro._
+**EN:** _You've just had a collision with another car at 30 km/h. Both vehicles can move, nobody's injured, both drivers have insurance._
 
-- A) Esperamos a la policía aunque estén los dos vehículos en mitad del carril
-- B) Despejamos la calzada, rellenamos el parte amistoso y lo enviamos a las aseguradoras en los 7 días siguientes
-- C) Nos vamos sin hacer nada si el otro acepta la responsabilidad de palabra
+- A) Esperamos a la policía aunque estén los dos vehículos en mitad del carril / Wait for the police even though both vehicles are in the middle of the lane
+- B) Despejamos la calzada, rellenamos el parte amistoso y lo enviamos a las aseguradoras en los 7 días siguientes / Clear the carriageway, fill in the joint accident report (parte amistoso) and send it to the insurers within the next 7 days
+- C) Nos vamos sin hacer nada si el otro acepta la responsabilidad de palabra / Leave without doing anything if the other party accepts responsibility verbally
 
 ### Scenario 3
 
-_Encuentras a un motorista tendido tras una caída. Respira, pero no responde y lleva el casco puesto._
+**ES:** _Encuentras a un motorista tendido tras una caída. Respira, pero no responde y lleva el casco puesto._
+**EN:** _You find a motorcyclist lying on the ground after a fall. They're breathing, but unresponsive, and still wearing the helmet._
 
-- A) Le quito el casco inmediatamente para despejar la vía aérea
-- B) Dejo el casco puesto, protejo la zona, llamo al 112 y solo movilizo si hay riesgo vital (fuego, tráfico)
-- C) Lo siento contra una valla para que respire mejor
+- A) Le quito el casco inmediatamente para despejar la vía aérea / Remove the helmet immediately to open the airway
+- B) Dejo el casco puesto, protejo la zona, llamo al 112 y solo movilizo si hay riesgo vital (fuego, tráfico) / Leave the helmet on, protect the area, call 112, and only move them if there's a vital risk (fire, traffic)
+- C) Lo siento contra una valla para que respire mejor / Prop them up against a fence so they breathe better
 
 ### Scenario 4
 
-_Tu vehículo se avería dentro de un túnel._
+**ES:** _Tu vehículo se avería dentro de un túnel._
+**EN:** _Your vehicle breaks down inside a tunnel._
 
-- A) Abandono el coche rápidamente sin apagar el motor
-- B) Enciendo intermitentes de emergencia, apago el motor, dejo las luces posicion, salgo por la puerta del lado contrario al tráfico y uso el apartadero o la salida de emergencia más próxima
-- C) Empujo el coche hacia atrás hasta salir del túnel
+- A) Abandono el coche rápidamente sin apagar el motor / Leave the car quickly without switching off the engine
+- B) Enciendo las luces de emergencia, apago el motor, dejo las luces de posición encendidas, salgo por la puerta del lado contrario al tráfico y uso el apartadero o la salida de emergencia más próxima / Switch on the hazard warning lights, turn off the engine, leave the sidelights on, get out through the door on the side away from traffic, and use the lay-by or the nearest emergency exit
+- C) Empujo el coche hacia atrás hasta salir del túnel / Push the car backwards until I'm out of the tunnel
 
 ---
 

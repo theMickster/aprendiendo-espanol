@@ -17,7 +17,7 @@
 | 3   | el cambio de sentido |     | c) the overtaking              |
 | 4   | marcha atrás         |     | d) the lane change             |
 | 5   | señalizar            |     | e) the U-turn                  |
-| 6   | el ángulo muerto     |     | f) the indicator / turn signal |
+| 6   | el ángulo muerto     |     | f) the indicator (turn signal) |
 | 7   | el cambio de carril  |     | g) reversing / reverse         |
 | 8   | el intermitente      |     | h) to turn                     |
 | 9   | la distancia lateral |     | i) to pass (a stopped vehicle) |
@@ -247,35 +247,39 @@ Put the 5 steps of a safe overtake in the correct order:
 
 ### Scenario 1
 
-_Circulas a 90 km/h por una carretera convencional. Delante de ti, un tractor avanza a 40 km/h. La línea es discontinua y la visibilidad es buena, pero a 400 m hay una curva._
+**ES:** _Circulas a 90 km/h por una carretera convencional. Delante de ti, un tractor avanza a 40 km/h. La línea es discontinua y la visibilidad es buena, pero a 400 m hay una curva._
+**EN:** _You're driving at 90 km/h on a conventional road. Ahead of you, a tractor is moving at 40 km/h. The line is broken and visibility is good, but there's a bend 400 m ahead._
 
-- A) Adelanto rápidamente superando el límite si hace falta
-- B) Valoro la distancia hasta la curva; si no puedo completar el adelantamiento antes, espero
-- C) Toco el claxon para que el tractor se aparte
+- A) Adelanto rápidamente superando el límite si hace falta / I overtake quickly, going over the limit if needed
+- B) Valoro la distancia hasta la curva; si no puedo completar el adelantamiento antes, espero / I judge the distance to the bend; if I can't complete the overtake first, I wait
+- C) Toco el claxon para que el tractor se aparte / I sound the horn to make the tractor move over
 
 ### Scenario 2
 
-_Llevas el intermitente izquierdo puesto porque vas a girar a la izquierda en una bocacalle. Un coche detrás de ti acelera para adelantarte por tu derecha._
+**ES:** _Llevas el intermitente izquierdo puesto porque vas a girar a la izquierda en una bocacalle. Un coche detrás de ti acelera para adelantarte por tu derecha._
+**EN:** _Your left indicator is on because you're turning left into a side street. A car behind you accelerates to overtake you on the right._
 
-- A) Continúo la maniobra; la prioridad es mía
-- B) Abandono el giro momentáneamente, vuelvo al carril y espero a que pase
-- C) Me desvío hacia la derecha para bloquearlo
+- A) Continúo la maniobra; la prioridad es mía / I carry on with the turn — priority is mine
+- B) Abandono el giro momentáneamente, vuelvo al carril y espero a que pase / I abandon the turn for a moment, return to the lane and wait for them to pass
+- C) Me desvío hacia la derecha para bloquearlo / I swerve right to block them
 
 ### Scenario 3
 
-_Te acercas a un paso a nivel sin barreras. La señal te indica precaución y ves un semáforo apagado._
+**ES:** _Te acercas a un paso a nivel sin barreras. La señal te indica precaución y ves un semáforo apagado._
+**EN:** _You approach an unbarriered level crossing. The sign warns caution and you see a traffic light that's switched off._
 
-- A) Paso despacio — el semáforo apagado significa vía libre
-- B) Me detengo, miro a ambos lados y cruzo solo si no viene ningún tren
-- C) Acelero para pasar rápido
+- A) Paso despacio — el semáforo apagado significa vía libre / Cross slowly — the light being off means the way is clear
+- B) Me detengo, miro a ambos lados y cruzo solo si no viene ningún tren / I stop, look both ways and cross only if no train is coming
+- C) Acelero para pasar rápido / I speed up to get across quickly
 
 ### Scenario 4
 
-_Vas en autopista y se te pasa la salida. El siguiente enlace está a 4 km._
+**ES:** _Vas en autopista y se te pasa la salida. El siguiente enlace está a 4 km._
+**EN:** _You're on a motorway and miss your exit. The next junction is 4 km away._
 
-- A) Da marcha atrás por el arcén con precaución
-- B) Haz un cambio de sentido en el primer hueco de la mediana
-- C) Continúa hasta la siguiente salida y sale allí
+- A) Da marcha atrás por el arcén con precaución / Reverse carefully along the hard shoulder
+- B) Haz un cambio de sentido en el primer hueco de la mediana / Make a U-turn at the first gap in the central reservation
+- C) Continúa hasta la siguiente salida y sale allí / Carry on to the next exit and leave there
 
 ---
 

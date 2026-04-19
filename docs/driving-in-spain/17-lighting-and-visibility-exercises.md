@@ -291,29 +291,32 @@ For each driving situation, write which lights you should use.
 
 ### Scenario 1
 
-_De noche en autopista, sin tráfico contrario ni precedente._
+**ES:** _De noche en autopista, sin tráfico contrario ni precedente._
+**EN:** _At night on a motorway, no oncoming or preceding traffic._
 
-- A) Luces de cruce (cortas)
-- B) Luces de carretera (largas)
-- C) Luces de posición
+- A) Luces de cruce (cortas) / Dipped headlights
+- B) Luces de carretera (largas) / Main-beam (full-beam) headlights
+- C) Luces de posición / Sidelights (position lights)
 
 ### Scenario 2
 
-_Te cruzas con un vehículo contrario con las luces largas; te deslumbra._
+**ES:** _Te cruzas con un vehículo contrario con las luces largas; te deslumbra._
+**EN:** _An oncoming vehicle with main-beam headlights is dazzling you._
 
-- A) Le deslumbro yo también para que aprenda
-- B) Miro el borde derecho de la calzada como referencia y reduzco la velocidad
-- C) Cierro los ojos unos segundos
+- A) Le deslumbro yo también para que aprenda / I dazzle them back to teach them a lesson
+- B) Miro el borde derecho de la calzada como referencia y reduzco la velocidad / I focus on the right edge of the carriageway as a reference and slow down
+- C) Cierro los ojos unos segundos / I close my eyes for a few seconds
 
 ### Scenario 3
 
-_Entras en un túnel de día bien iluminado._
+**ES:** _Entras en un túnel de día bien iluminado._
+**EN:** _You enter a well-lit tunnel during the day._
 
-- A) Solo luces de posición
-- B) Luces de cruce obligatorias
-- C) No hace falta ninguna luz
+- A) Solo luces de posición / Sidelights only
+- B) Luces de cruce obligatorias / Dipped headlights compulsory
+- C) No hace falta ninguna luz / No lights needed
 
-**Answers:** 1-B, 2-B, 3-B
+**Answers / Respuestas:** 1-B, 2-B, 3-B
 
 ---
 

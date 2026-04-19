@@ -25,7 +25,7 @@ Manoeuvres are the **actions** you perform while driving — overtaking, lane ch
 | la distancia lateral | the lateral distance           | lah-teh-RAHL               | _Mantenga 1,5 metros de distancia lateral._ — Maintain 1.5 metres lateral distance.                    |
 | la visibilidad       | the visibility                 | bee-see-bee-lee-DAHD       | _No adelante sin visibilidad suficiente._ — Don't overtake without sufficient visibility.              |
 | señalizar            | to signal / to indicate        | seh-nyah-lee-THAR          | _Señalice con suficiente antelación._ — Signal with sufficient advance notice.                         |
-| el intermitente      | the indicator / turn signal    | een-ter-mee-TEN-teh        | _Ponga el intermitente antes de girar._ — Put the indicator on before turning.                         |
+| el intermitente      | the indicator (turn signal)    | een-ter-mee-TEN-teh        | _Ponga el intermitente antes de girar._ — Put the indicator on before turning.                         |
 | el ángulo muerto     | the blind spot                 | AHN-goo-loh MWER-toh       | _Compruebe el ángulo muerto antes de cambiar de carril._ — Check the blind spot before changing lanes. |
 | rebasar              | to pass (a stationary vehicle) | reh-bah-SAR                | _Rebaso al vehículo detenido con precaución._ — I pass the stopped vehicle carefully.                  |
 
@@ -206,7 +206,7 @@ The DGT tests **conducción eficiente / económica** because it reduces fuel use
 
 ### 🚨 DGT exam trap — engine braking vs neutral
 
-The classic question: "To save fuel when approaching a red light, should you (a) shift to neutral, (b) keep the current gear engaged and lift off, (c) press the clutch?" — Answer: **(b), engine braking**. Injection cuts, clutch stays out, foot off the accelerator.
+The classic question: "To save fuel when approaching a red light, should you (a) change into neutral, (b) keep the current gear engaged and lift off, (c) press the clutch?" — Answer: **(b), engine braking**. Injection cuts, clutch stays out, foot off the accelerator.
 
 ---
 
@@ -264,17 +264,17 @@ A regular -ar verb, but arguably the most important verb in this topic.
 
 ## ⚠️ US → Spain Differences for Manoeuvres
 
-| US                                           | Spain                                                                     | Key Difference                                    |
-| -------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------- |
-| Pass on left OR right on multi-lane highways | Overtake on the **LEFT only** (right only in specific exceptions)         | Spain is much stricter about left-only overtaking |
-| No specific cyclist overtaking speed rule    | Must reduce by **20 km/h** and give **1.5m** (2026)                       | Brand new rule with teeth                         |
-| May cross solid yellow to turn left          | May cross solid white line ONLY for cyclist/stopped vehicle safety (2026) | Normally solid = never cross                      |
-| U-turn usually allowed unless signed         | U-turn only where specifically safe and allowed                           | Spain is more restrictive                         |
-| Reversing on highway shoulder sometimes seen | Reversing on motorway **ALWAYS prohibited**                               | Absolutely never in Spain                         |
-| Right on red allowed                         | Right on red **NEVER** allowed                                            | As always!                                        |
-| No left turn sign = no left turn only        | No left turn sign (R-303) = no left turn AND no U-turn                    | Broader prohibition in Spain                      |
-| Blind spot check: recommended                | Blind spot check: **mandatory** for exam                                  | DGT practical exam fails for not checking         |
-| Speed can increase to overtake (some states) | Speed limit is ABSOLUTE — you CANNOT exceed it to overtake (2022+ rule)   | Major change — no more +20 km/h overtaking margin |
+| US                                                 | Spain                                                                     | Key Difference                                    |
+| -------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------- |
+| Pass on left OR right on multi-lane motorways      | Overtake on the **LEFT only** (right only in specific exceptions)         | Spain is much stricter about left-only overtaking |
+| No specific cyclist overtaking speed rule          | Must reduce by **20 km/h** and give **1.5m** (2026)                       | Brand new rule with teeth                         |
+| May cross solid yellow to turn left                | May cross solid white line ONLY for cyclist/stopped vehicle safety (2026) | Normally solid = never cross                      |
+| U-turn usually allowed unless signed               | U-turn only where specifically safe and allowed                           | Spain is more restrictive                         |
+| Reversing on motorway hard shoulder sometimes seen | Reversing on motorway **ALWAYS prohibited**                               | Absolutely never in Spain                         |
+| Right on red allowed                               | Right on red **NEVER** allowed                                            | As always!                                        |
+| No left turn sign = no left turn only              | No left turn sign (R-303) = no left turn AND no U-turn                    | Broader prohibition in Spain                      |
+| Blind spot check: recommended                      | Blind spot check: **mandatory** for exam                                  | DGT practical exam fails for not checking         |
+| Speed can increase to overtake (some states)       | Speed limit is ABSOLUTE — you CANNOT exceed it to overtake (2022+ rule)   | Major change — no more +20 km/h overtaking margin |
 
 ---
 
