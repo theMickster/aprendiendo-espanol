@@ -108,7 +108,11 @@ Spanish has TWO main past tenses. Don't worry - you'll get the hang of it!
 4. La película **\_\_\_** aburrida anoche (was - specific)
 5. Antes **\_\_\_** compañeros de clase (we were - used to be)
 
-**Answers:** 1. era, era 2. fue 3. era 4. fue 5. éramos
+<details><summary>Click to reveal answers</summary>
+
+1. era, era 2. fue 3. era 4. fue 5. éramos
+
+</details>
 
 ---
 
@@ -184,7 +188,11 @@ Spanish has TWO main past tenses. Don't worry - you'll get the hang of it!
 4. Cuando era niño, **\_\_\_** feliz (I was)
 5. El año pasado **\_\_\_** en Barcelona (I was)
 
-**Answers:** 1. estuve 2. estaba 3. estuve 4. estaba 5. estuve
+<details><summary>Click to reveal answers</summary>
+
+1. estuve 2. estaba 3. estuve 4. estaba 5. estuve
+
+</details>
 
 ---
 
@@ -262,7 +270,11 @@ Spanish has TWO main past tenses. Don't worry - you'll get the hang of it!
 4. El martes **\_\_\_** a Barcelona (I went)
 5. Siempre **\_\_\_** en bici (I went)
 
-**Answers:** 1. iba 2. fui 3. iba 4. fui 5. iba
+<details><summary>Click to reveal answers</summary>
+
+1. iba 2. fui 3. iba 4. fui 5. iba
+
+</details>
 
 ---
 
@@ -338,7 +350,11 @@ Spanish has TWO main past tenses. Don't worry - you'll get the hang of it!
 4. La semana pasada **\_\_\_** mucho trabajo (I had)
 5. **\_\_\_** quince años cuando aprendí a conducir (I was)
 
-**Answers:** 1. tenía 2. tuve 3. tenía 4. tuve 5. Tenía
+<details><summary>Click to reveal answers</summary>
+
+1. tenía 2. tuve 3. tenía 4. tuve 5. Tenía
+
+</details>
 
 ---
 
@@ -414,7 +430,11 @@ Spanish has TWO main past tenses. Don't worry - you'll get the hang of it!
 4. Ayer **\_\_\_** mucho calor (it was)
 5. El sábado **\_\_\_** una excursión (I did)
 
-**Answers:** 1. hacía 2. hice 3. hacía 4. hizo 5. hice
+<details><summary>Click to reveal answers</summary>
+
+1. hacía 2. hice 3. hacía 4. hizo 5. hice
+
+</details>
 
 ---
 
@@ -487,7 +507,11 @@ Spanish has TWO main past tenses. Don't worry - you'll get the hang of it!
 4. El lunes **\_\_\_** una reunión (there was)
 5. Siempre **\_\_\_** comida en la nevera (there was)
 
-**Answers:** 1. había 2. hubo 3. había 4. hubo 5. había
+<details><summary>Click to reveal answers</summary>
+
+1. había 2. hubo 3. había 4. hubo 5. había
+
+</details>
 
 ---
 
@@ -558,7 +582,11 @@ _Translation: Before I lived in another city. It was smaller and there were fewe
 
 "Ayer **\_\_\_** (fue/era) un día ocupado. Por la mañana **\_\_\_** (fui/iba) al gimnasio. Después **\_\_\_** (tuve/tenía) que ir al trabajo. **\_\_\_** (Hizo/Hacía) mucho calor. Por la tarde **\_\_\_** (estuve/estaba) muy cansado. Por la noche **\_\_\_** (hubo/había) una reunión."
 
-**Answers:** fue, fui, tuve, Hizo, estuve, hubo
+<details><summary>Click to reveal answers</summary>
+
+fue, fui, tuve, Hizo, estuve, hubo
+
+</details>
 
 ---
 
@@ -566,7 +594,11 @@ _Translation: Before I lived in another city. It was smaller and there were fewe
 
 "Cuando **\_\_\_** (fui/era) niño, **\_\_\_** (iba/fui) a una escuela pequeña. **\_\_\_** (Tenía/Tuve) muchos amigos. Cada día **\_\_\_** (hacíamos/hicimos) deporte después de clase. Siempre **\_\_\_** (había/hubo) algo divertido que hacer. **\_\_\_** (Estaba/Estuve) feliz en aquellos días."
 
-**Answers:** era, iba, Tenía, hacíamos, había, Estaba
+<details><summary>Click to reveal answers</summary>
+
+era, iba, Tenía, hacíamos, había, Estaba
+
+</details>
 
 ---
 
@@ -574,7 +606,11 @@ _Translation: Before I lived in another city. It was smaller and there were fewe
 
 "El verano pasado **\_\_\_** (fui/iba) de vacaciones. **\_\_\_** (Fue/Era) increíble. **\_\_\_** (Estuve/Estaba) en la playa cinco días. Cada mañana **\_\_\_** (hice/hacía) ejercicio. **\_\_\_** (Hacía/Hizo) buen tiempo todos los días. **\_\_\_** (Hubo/Había) muchas cosas que ver."
 
-**Answers:** fui, Fue, Estuve, hacía, Hacía, Había
+<details><summary>Click to reveal answers</summary>
+
+fui, Fue, Estuve, hacía, Hacía, Había
+
+</details>
 
 ---
 

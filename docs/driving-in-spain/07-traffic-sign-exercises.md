@@ -25,6 +25,12 @@ Match the Spanish term on the left with the correct English meaning on the right
 | 9   | ceder el paso                      |     | i) the broken/dashed line    |
 | 10  | la línea discontinua               |     | j) to give way / to yield    |
 
+<details><summary>Click to reveal answers</summary>
+
+1-d, 2-g, 3-a, 4-b, 5-h, 6-c, 7-e, 8-f, 9-j, 10-i
+
+</details>
+
 ---
 
 ## B. Shape & Colour Identification — Identifica la forma y el color
@@ -46,6 +52,19 @@ What does each shape-colour combination mean? Write the answer.
 7. 🟫 Brown rectangle → \_\_\_\_\_\_\_\_\_\_
 
 8. 🟧 Orange/yellow triangle → \_\_\_\_\_\_\_\_\_\_
+
+<details><summary>Click to reveal answers</summary>
+
+1. Prohibition sign (señal de prohibición) — something is forbidden
+2. Obligation sign (señal de obligación) — something is compulsory
+3. Warning/danger sign (señal de advertencia de peligro)
+4. STOP — compulsory stop (detención obligatoria)
+5. Priority road (calzada con prioridad)
+6. Informational sign (señal de indicación) — motorway/autovía directions
+7. Tourist or cultural point of interest (punto de interés turístico/cultural)
+8. Temporary/roadworks warning sign (señal circunstancial de peligro)
+
+</details>
 
 ---
 
@@ -84,6 +103,19 @@ Read the description and write the sign name in Spanish AND its code.
 8. A yellow diamond-shaped sign with a white border. It tells you that you have priority over other traffic.
 
    **Señal:** \_\_\_\_\_\_\_\_\_\_ **Código:** \_\_\_\_\_\_
+
+<details><summary>Click to reveal answers</summary>
+
+1. **Entrada prohibida** — R-101
+2. **Camino reservado para ciclos** — R-407
+3. **Niños (peligro por la proximidad de niños)** — P-21
+4. **Velocidad máxima** — R-301
+5. **Ceda el paso** — R-1
+6. **Circulación prohibida** — R-100
+7. **Sentido obligatorio** — R-400
+8. **Calzada con prioridad** — R-3
+
+</details>
 
 ---
 
@@ -199,6 +231,23 @@ Choose the correct answer. These mirror the real DGT exam format.
 - B) Detenerse / Stop
 - C) Girar a la derecha / Turn right
 
+<details><summary>Click to reveal answers</summary>
+
+1. **B)** Avanzar, porque las señales de los agentes tienen prioridad sobre los semáforos
+2. **A)** R-100 prohíbe la circulación en ambos sentidos; R-101 prohíbe la entrada por un lado
+3. **B)** Sí, puede cruzar porque la línea de su lado es discontinua
+4. **B)** Que debe extremar la precaución y ceder el paso a quien tenga prioridad
+5. **B)** Velocidad mínima de 60 km/h
+6. **B)** Agentes, señalización circunstancial, semáforos, señales verticales, marcas viales
+7. **B)** La baliza V-16 conectada
+8. **C)** Puntos de interés turístico o cultural
+9. **B)** Calzada con prioridad
+10. **C)** No, nunca
+11. **B)** Parada y estacionamiento prohibidos
+12. **B)** Detenerse
+
+</details>
+
 ---
 
 ## E. Fill in the Blank — Completa las frases
@@ -227,6 +276,21 @@ Use the correct word from the box.
 
 10. Desde 2026, la baliza \_\_\_\_\_\_\_\_ sustituye a los triángulos de emergencia.
 
+<details><summary>Click to reveal answers</summary>
+
+1. prohibición
+2. obligación
+3. peligro
+4. continua
+5. discontinua
+6. semáforo
+7. agente
+8. prioridad
+9. intermitente
+10. V-16
+
+</details>
+
 ---
 
 ## F. Translate the Phrase — Traduce la frase
@@ -252,6 +316,21 @@ Translate from English into Spanish. Write the full sentence.
 9. Brown signs indicate tourist or cultural points of interest.
 
 10. The officer is facing me — I must stop.
+
+<details><summary>Click to reveal answers</summary>
+
+1. _Esta señal prohíbe el adelantamiento._
+2. _El semáforo está en rojo — debo detenerme._ (or: _tengo que parar._)
+3. _Siempre debes obedecer al agente de tráfico._
+4. _La línea discontinua permite adelantar._
+5. _El estacionamiento está prohibido en este lado de la calle._
+6. _Advertencia: curva peligrosa a la derecha._
+7. _En España, nunca se puede girar a la derecha con el semáforo en rojo._
+8. _La baliza V-16 se coloca en el techo del vehículo._
+9. _Las señales marrones indican puntos de interés turístico o cultural._
+10. _El agente está de frente a mí — debo detenerme._
+
+</details>
 
 ---
 
@@ -281,6 +360,32 @@ Complete the table for **PROHIBIR** (to prohibit) and **OBEDECER** (to obey).
 | vosotros    | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 | ellos/ellas | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 
+<details><summary>Click to reveal answers</summary>
+
+### PROHIBIR
+
+|             | Presente   | Pretérito    |
+| ----------- | ---------- | ------------ |
+| yo          | prohíbo    | prohibí      |
+| tú          | prohíbes   | prohibiste   |
+| él/ella     | prohíbe    | prohibió     |
+| nosotros    | prohibimos | prohibimos   |
+| vosotros    | prohibís   | prohibisteis |
+| ellos/ellas | prohíben   | prohibieron  |
+
+### OBEDECER
+
+|             | Presente   | Pretérito    |
+| ----------- | ---------- | ------------ |
+| yo          | obedezco   | obedecí      |
+| tú          | obedeces   | obedeciste   |
+| él/ella     | obedece    | obedeció     |
+| nosotros    | obedecemos | obedecimos   |
+| vosotros    | obedecéis  | obedecisteis |
+| ellos/ellas | obedecen   | obedecieron  |
+
+</details>
+
 ---
 
 ## H. US vs Spain — True or False / Verdadero o Falso
@@ -307,6 +412,21 @@ Write V (verdadero/true) or F (falso/false).
 
 10. \_\_\_ Blue circular signs indicate something you MUST do (obligation).
 
+<details><summary>Click to reveal answers</summary>
+
+1. **F** — You can NEVER turn right on red in Spain.
+2. **V** — The yellow diamond (R-3) means priority road in Spain.
+3. **V** — Speed limits are round, red-bordered circles.
+4. **F** — Hatched areas (cebreado) cannot be driven over, even in emergencies.
+5. **V** — Temporary orange signs override permanent vertical signs.
+6. **V** — Police officers outrank everything, including traffic lights.
+7. **V** — White = permanent, yellow = restrictions (parking, bus lanes).
+8. **F** — Flashing RED = stop completely (like a stop sign). Flashing AMBER = caution.
+9. **F** — Yield (R-1) only requires stopping if there is traffic. STOP (R-2) requires stopping always.
+10. **V** — Blue circles are obligation signs.
+
+</details>
+
 ---
 
 ## I. Situational Spanish — ¿Qué dices?
@@ -322,6 +442,16 @@ What would you say in Spanish in these situations? Write the full sentence.
 4. You want to ask at the autoescuela if the 2026 exam includes questions about the new V-16 beacon.
 
 5. You're telling a friend that you got a fine because you didn't notice the no-parking sign.
+
+<details><summary>Click to reveal answers</summary>
+
+1. _Perdona, ¿qué significa esta señal?_ (or: _¿Qué quiere decir esta señal de tráfico?_)
+2. _En España, las señales de límite de velocidad son redondas con borde rojo, no rectangulares como en Estados Unidos._
+3. _En España, el diamante amarillo significa "calzada con prioridad" — no es una señal de peligro como en América._
+4. _¿El examen de 2026 incluye preguntas sobre la nueva baliza V-16?_
+5. _Me pusieron una multa porque no vi la señal de estacionamiento prohibido._ (or: _Me multaron porque no me fijé en la señal._)
+
+</details>
 
 ---
 
@@ -339,125 +469,7 @@ Put these signal types in the correct priority order from **highest (1)** to **l
 
 \_\_\_ Señalización circunstancial (temporary signs)
 
----
-
----
-
-# ✅ Answer Key — Clave de respuestas
-
-## A. Vocabulary Matching
-
-1-d, 2-g, 3-a, 4-b, 5-h, 6-c, 7-e, 8-f, 9-j, 10-i
-
-## B. Shape & Colour Identification
-
-1. Prohibition sign (señal de prohibición) — something is forbidden
-2. Obligation sign (señal de obligación) — something is compulsory
-3. Warning/danger sign (señal de advertencia de peligro)
-4. STOP — compulsory stop (detención obligatoria)
-5. Priority road (calzada con prioridad)
-6. Informational sign (señal de indicación) — motorway/autovía directions
-7. Tourist or cultural point of interest (punto de interés turístico/cultural)
-8. Temporary/roadworks warning sign (señal circunstancial de peligro)
-
-## C. Sign Identification
-
-1. **Entrada prohibida** — R-101
-2. **Camino reservado para ciclos** — R-407
-3. **Niños (peligro por la proximidad de niños)** — P-21
-4. **Velocidad máxima** — R-301
-5. **Ceda el paso** — R-1
-6. **Circulación prohibida** — R-100
-7. **Sentido obligatorio** — R-400
-8. **Calzada con prioridad** — R-3
-
-## D. DGT-Format Questions
-
-1. **B)** Avanzar, porque las señales de los agentes tienen prioridad sobre los semáforos
-2. **A)** R-100 prohíbe la circulación en ambos sentidos; R-101 prohíbe la entrada por un lado
-3. **B)** Sí, puede cruzar porque la línea de su lado es discontinua
-4. **B)** Que debe extremar la precaución y ceder el paso a quien tenga prioridad
-5. **B)** Velocidad mínima de 60 km/h
-6. **B)** Agentes, señalización circunstancial, semáforos, señales verticales, marcas viales
-7. **B)** La baliza V-16 conectada
-8. **C)** Puntos de interés turístico o cultural
-9. **B)** Calzada con prioridad
-10. **C)** No, nunca
-11. **B)** Parada y estacionamiento prohibidos
-12. **B)** Detenerse
-
-## E. Fill in the Blank
-
-1. prohibición
-2. obligación
-3. peligro
-4. continua
-5. discontinua
-6. semáforo
-7. agente
-8. prioridad
-9. intermitente
-10. V-16
-
-## F. Translate the Phrase
-
-1. _Esta señal prohíbe el adelantamiento._
-2. _El semáforo está en rojo — debo detenerme._ (or: _tengo que parar._)
-3. _Siempre debes obedecer al agente de tráfico._
-4. _La línea discontinua permite adelantar._
-5. _El estacionamiento está prohibido en este lado de la calle._
-6. _Advertencia: curva peligrosa a la derecha._
-7. _En España, nunca se puede girar a la derecha con el semáforo en rojo._
-8. _La baliza V-16 se coloca en el techo del vehículo._
-9. _Las señales marrones indican puntos de interés turístico o cultural._
-10. _El agente está de frente a mí — debo detenerme._
-
-## G. Conjugation Drill
-
-### PROHIBIR
-
-|             | Presente   | Pretérito    |
-| ----------- | ---------- | ------------ |
-| yo          | prohíbo    | prohibí      |
-| tú          | prohíbes   | prohibiste   |
-| él/ella     | prohíbe    | prohibió     |
-| nosotros    | prohibimos | prohibimos   |
-| vosotros    | prohibís   | prohibisteis |
-| ellos/ellas | prohíben   | prohibieron  |
-
-### OBEDECER
-
-|             | Presente   | Pretérito    |
-| ----------- | ---------- | ------------ |
-| yo          | obedezco   | obedecí      |
-| tú          | obedeces   | obedeciste   |
-| él/ella     | obedece    | obedeció     |
-| nosotros    | obedecemos | obedecimos   |
-| vosotros    | obedecéis  | obedecisteis |
-| ellos/ellas | obedecen   | obedecieron  |
-
-## H. US vs Spain — True or False
-
-1. **F** — You can NEVER turn right on red in Spain.
-2. **V** — The yellow diamond (R-3) means priority road in Spain.
-3. **V** — Speed limits are round, red-bordered circles.
-4. **F** — Hatched areas (cebreado) cannot be driven over, even in emergencies.
-5. **V** — Temporary orange signs override permanent vertical signs.
-6. **V** — Police officers outrank everything, including traffic lights.
-7. **V** — White = permanent, yellow = restrictions (parking, bus lanes).
-8. **F** — Flashing RED = stop completely (like a stop sign). Flashing AMBER = caution.
-9. **F** — Yield (R-1) only requires stopping if there is traffic. STOP (R-2) requires stopping always.
-10. **V** — Blue circles are obligation signs.
-
-## I. Situational Spanish (suggested answers)
-
-1. _Perdona, ¿qué significa esta señal?_ (or: _¿Qué quiere decir esta señal de tráfico?_)
-2. _En España, las señales de límite de velocidad son redondas con borde rojo, no rectangulares como en Estados Unidos._
-3. _En España, el diamante amarillo significa "calzada con prioridad" — no es una señal de peligro como en América._
-4. _¿El examen de 2026 incluye preguntas sobre la nueva baliza V-16?_
-5. _Me pusieron una multa porque no vi la señal de estacionamiento prohibido._ (or: _Me multaron porque no me fijé en la señal._)
-
-## J. Sign Hierarchy Challenge
+<details><summary>Click to reveal answers</summary>
 
 **Answers (1 = highest priority, 5 = lowest):**
 
@@ -471,6 +483,8 @@ Put these signal types in the correct priority order from **highest (1)** to **l
 
 **Memory trick: "Please Trust The Visible Marks"**
 **P**olice → **T**emporary → **T**raffic lights → **V**ertical → **M**arkings
+
+</details>
 
 ---
 
@@ -503,7 +517,11 @@ Put these signal types in the correct priority order from **highest (1)** to **l
 - B) Prohibido a VMP (patinetes) / Prohibited to personal mobility vehicles (e-scooters)
 - C) Vía exclusiva para VMP / Road exclusively for PMVs
 
-**Answers / Respuestas:** 1-B, 2-B, 3-B
+<details><summary>Click to reveal answers</summary>
+
+1-B, 2-B, 3-B
+
+</details>
 
 ---
 

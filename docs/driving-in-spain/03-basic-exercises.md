@@ -25,6 +25,12 @@ Match the Spanish term on the left with the correct English meaning on the right
 | 9   | matricularse           |     | i) the provisional licence |
 | 10  | el permiso provisional |     | j) to enrol                |
 
+<details><summary>Click to reveal answers</summary>
+
+1-c, 2-f, 3-e, 4-g, 5-a, 6-b, 7-h, 8-d, 9-j, 10-i
+
+</details>
+
 ---
 
 ## B. Fill in the Blank — Completa las frases
@@ -52,6 +58,21 @@ Use the correct word from the box to complete each sentence.
 9. Quiero **\*\***\_**\*\*** en la autoescuela esta semana.
 
 10. El examen tiene **\*\***\_**\*\*** preguntas en total.
+
+<details><summary>Click to reveal answers</summary>
+
+1. autoescuela
+2. psicotécnico
+3. teórico
+4. tres
+5. inglés
+6. práctico
+7. aprobar
+8. teórico
+9. matricularme
+10. treinta
+
+</details>
 
 ---
 
@@ -194,6 +215,26 @@ Choose the correct answer for each question. These mirror the format of the real
 - B) Hasta 2 años desde la primera convocatoria
 - C) Caduca inmediatamente
 
+<details><summary>Click to reveal answers</summary>
+
+1. **C)** Treinta (30)
+2. **B)** Tres (3)
+3. **B)** Una evaluación médica y psicológica obligatoria
+4. **B)** Tres meses / 3 months
+5. **B)** Ocho (8)
+6. **A)** 3 meses — if you never sit an exam the psicotécnico lapses at 3 months
+7. **B)** 25 minutos
+8. **B)** 3 meses
+9. **A)** L verde (first year only)
+10. **B)** 18 años
+11. **B)** Vídeos de percepción del riesgo
+12. **B)** La baliza V-16 conectada
+13. **B)** Solo algunas provincias — confirm with Jefatura
+14. **B)** 15 puntos (after 6 years clean)
+15. **B)** Hasta 2 años desde la primera convocatoria
+
+</details>
+
 ---
 
 ## D. Translate the Phrase — Traduce la frase
@@ -215,6 +256,19 @@ Translate these practical phrases from English into Spanish. Write the full sent
 7. If you fail, you can retake it.
 
 8. I want to book a practical lesson.
+
+<details><summary>Click to reveal answers</summary>
+
+1. _Necesito matricularme en una autoescuela._
+2. _¿Puedo hacer el examen teórico en inglés?_
+3. _¿Cuánto cuesta el curso completo?_
+4. _Aprobé el psicotécnico ayer._ (or: _Ayer aprobé el examen médico._)
+5. _¿Cuándo es el próximo examen práctico?_
+6. _El examen teórico tiene treinta preguntas._
+7. _Si suspendes, puedes repetirlo._ (or: _Si suspendes, puedes repetir._)
+8. _Quiero reservar una clase práctica._
+
+</details>
 
 ---
 
@@ -242,6 +296,30 @@ Complete the table for **APROBAR** (to pass) and **SUSPENDER** (to fail).
 | nosotros    | **\*\***\_**\*\*** | **\*\***\_**\*\*** |
 | ellos/ellas | **\*\***\_**\*\*** | **\*\***\_**\*\*** |
 
+<details><summary>Click to reveal answers</summary>
+
+### APROBAR
+
+|             | Presente  | Pretérito |
+| ----------- | --------- | --------- |
+| yo          | apruebo   | aprobé    |
+| tú          | apruebas  | aprobaste |
+| él/ella     | aprueba   | aprobó    |
+| nosotros    | aprobamos | aprobamos |
+| ellos/ellas | aprueban  | aprobaron |
+
+### SUSPENDER
+
+|             | Presente    | Pretérito    |
+| ----------- | ----------- | ------------ |
+| yo          | suspendo    | suspendí     |
+| tú          | suspendes   | suspendiste  |
+| él/ella     | suspende    | suspendió    |
+| nosotros    | suspendemos | suspendimos  |
+| ellos/ellas | suspenden   | suspendieron |
+
+</details>
+
 ---
 
 ## F. Situational Spanish — ¿Qué dices?
@@ -257,6 +335,16 @@ What would you say in Spanish in these situations? Write out the full sentence.
 4. You need to ask the autoescuela receptionist when the next theory exam is.
 
 5. You want to tell someone you're nervous about the practical exam.
+
+<details><summary>Click to reveal answers</summary>
+
+1. _Vengo para hacerme el psicotécnico para el permiso de conducir clase B._
+2. _Hola, quiero información sobre el curso completo para el permiso B. ¿Cuánto cuesta?_
+3. _Ayer me matriculé en una autoescuela._
+4. _Perdona, ¿cuándo es el próximo examen teórico?_
+5. _Estoy nervioso por el examen práctico._ (or: _Tengo nervios por el examen práctico._)
+
+</details>
 
 ---
 
@@ -274,6 +362,21 @@ Mark each statement **V** (verdadero) or **F** (falso). If false, say briefly wh
 8. Los conductores noveles deben llevar una pegatina verde con la letra "L" el primer año. / Novel drivers must display a green "L" sticker during their first year.
 9. Las clases prácticas tienen un mínimo obligatorio de 20 horas por ley. / Practical lessons have a compulsory minimum of 20 hours by law.
 10. La DGT está introduciendo vídeos de percepción del riesgo en el examen teórico en 2026. / The DGT is introducing risk-perception videos in the theory exam in 2026.
+
+<details><summary>Click to reveal answers</summary>
+
+1. **F** — available only in _some_ provinces; check Jefatura
+2. **V** — provisional is valid 3 months
+3. **F** — novel drivers start with **8** points
+4. **V** — V-16 conectada mandatory since 1 Jan 2026
+5. **F** — it's about 25 minutes
+6. **V**
+7. **V**
+8. **V**
+9. **F** — no fixed minimum hours by law
+10. **V**
+
+</details>
 
 ---
 
@@ -314,106 +417,13 @@ Read the short situation and choose the correct response.
 - B) Es una propuesta de reforma, pero a día de hoy los límites siguen siendo 0,5 g/l general y 0,3 g/l para noveles / It's a proposed reform, but as of today the limits remain 0.5 g/L general and 0.3 g/L for novel drivers
 - C) No es cierto, el límite nunca ha cambiado en Europa / Not true, the limit has never changed in Europe
 
----
-
----
-
-# ✅ Answer Key — Clave de respuestas
-
-## A. Vocabulary Matching
-
-1-c, 2-f, 3-e, 4-g, 5-a, 6-b, 7-h, 8-d, 9-j, 10-i
-
-## B. Fill in the Blank
-
-1. autoescuela
-2. psicotécnico
-3. teórico
-4. tres
-5. inglés
-6. práctico
-7. aprobar
-8. teórico
-9. matricularme
-10. treinta
-
-## C. DGT-Format Questions
-
-1. **C)** Treinta (30)
-2. **B)** Tres (3)
-3. **B)** Una evaluación médica y psicológica obligatoria
-4. **B)** Tres meses / 3 months
-5. **B)** Ocho (8)
-6. **A)** 3 meses — if you never sit an exam the psicotécnico lapses at 3 months
-7. **B)** 25 minutos
-8. **B)** 3 meses
-9. **A)** L verde (first year only)
-10. **B)** 18 años
-11. **B)** Vídeos de percepción del riesgo
-12. **B)** La baliza V-16 conectada
-13. **B)** Solo algunas provincias — confirm with Jefatura
-14. **B)** 15 puntos (after 6 years clean)
-15. **B)** Hasta 2 años desde la primera convocatoria
-
-## D. Translate the Phrase
-
-1. _Necesito matricularme en una autoescuela._
-2. _¿Puedo hacer el examen teórico en inglés?_
-3. _¿Cuánto cuesta el curso completo?_
-4. _Aprobé el psicotécnico ayer._ (or: _Ayer aprobé el examen médico._)
-5. _¿Cuándo es el próximo examen práctico?_
-6. _El examen teórico tiene treinta preguntas._
-7. _Si suspendes, puedes repetirlo._ (or: _Si suspendes, puedes repetir._)
-8. _Quiero reservar una clase práctica._
-
-## E. Conjugation Drill
-
-### APROBAR
-
-|             | Presente  | Pretérito |
-| ----------- | --------- | --------- |
-| yo          | apruebo   | aprobé    |
-| tú          | apruebas  | aprobaste |
-| él/ella     | aprueba   | aprobó    |
-| nosotros    | aprobamos | aprobamos |
-| ellos/ellas | aprueban  | aprobaron |
-
-### SUSPENDER
-
-|             | Presente    | Pretérito    |
-| ----------- | ----------- | ------------ |
-| yo          | suspendo    | suspendí     |
-| tú          | suspendes   | suspendiste  |
-| él/ella     | suspende    | suspendió    |
-| nosotros    | suspendemos | suspendimos  |
-| ellos/ellas | suspenden   | suspendieron |
-
-## F. Situational Spanish (suggested answers)
-
-1. _Vengo para hacerme el psicotécnico para el permiso de conducir clase B._
-2. _Hola, quiero información sobre el curso completo para el permiso B. ¿Cuánto cuesta?_
-3. _Ayer me matriculé en una autoescuela._
-4. _Perdona, ¿cuándo es el próximo examen teórico?_
-5. _Estoy nervioso por el examen práctico._ (or: _Tengo nervios por el examen práctico._)
-
-## G. Verdadero o Falso
-
-1. **F** — available only in _some_ provinces; check Jefatura
-2. **V** — provisional is valid 3 months
-3. **F** — novel drivers start with **8** points
-4. **V** — V-16 conectada mandatory since 1 Jan 2026
-5. **F** — it's about 25 minutes
-6. **V**
-7. **V**
-8. **V**
-9. **F** — no fixed minimum hours by law
-10. **V**
-
-## H. Case Scenarios
+<details><summary>Click to reveal answers</summary>
 
 1. **B)** Psicotécnico first — its certificate is the entry ticket for everything else
 2. **B)** Valid until 2 years from first exam convocatoria
 3. **B)** 0.2 g/l is a proposed reform; current law is 0.5 / 0.3
+
+</details>
 
 ---
 

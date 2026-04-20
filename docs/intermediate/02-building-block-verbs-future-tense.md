@@ -464,7 +464,7 @@ _Translation: Next year I will go to university. I will study medicine. It will 
 5. Nosotros **\_\_\_** (tener) un examen
 6. ¿Qué **\_\_\_** (hacer) tú mañana?
 
-**Answers:**
+<details><summary>Click to reveal answers</summary>
 
 1. voy a ir
 2. voy a hacer
@@ -472,6 +472,8 @@ _Translation: Next year I will go to university. I will study medicine. It will 
 4. Va a haber
 5. vamos a tener
 6. vas a hacer
+
+</details>
 
 ---
 
@@ -486,7 +488,7 @@ _Translation: Next year I will go to university. I will study medicine. It will 
 5. **\_\_\_** (hacer) buen tiempo mañana
 6. **\_\_\_** (haber) muchas oportunidades
 
-**Answers:**
+<details><summary>Click to reveal answers</summary>
 
 1. seré
 2. estaré
@@ -494,6 +496,8 @@ _Translation: Next year I will go to university. I will study medicine. It will 
 4. tendrás
 5. hará
 6. habrá
+
+</details>
 
 ---
 
@@ -508,7 +512,7 @@ _Translation: Next year I will go to university. I will study medicine. It will 
 5. El sábado **\_\_\_** (va a haber / habrá) una fiesta - this Saturday
 6. En el futuro **\_\_\_** (vamos a tener / tendremos) hijos - distant future
 
-**Answers:**
+<details><summary>Click to reveal answers</summary>
 
 1. voy a ir (immediate/planned)
 2. seré (distant future)
@@ -516,6 +520,8 @@ _Translation: Next year I will go to university. I will study medicine. It will 
 4. llamaré (promise)
 5. va a haber (near future/planned)
 6. tendremos (distant future)
+
+</details>
 
 ---
 
@@ -527,8 +533,11 @@ _Translation: Next year I will go to university. I will study medicine. It will 
 
 Algún día, cuando **\_\_\_** (voy a ser/seré) mayor, **\_\_\_** (voy a tener/tendré) mi propia casa. **\_\_\_** (Voy a vivir/Viviré) cerca del mar. **\_\_\_** (Va a ser/Será) una buena vida."
 
-**Answers:**
+<details><summary>Click to reveal answers</summary>
+
 voy a tener, voy a ir, voy a hacer, Va a hacer, va a haber, Voy a estar, seré, tendré, Viviré, Será
+
+</details>
 
 ---
 

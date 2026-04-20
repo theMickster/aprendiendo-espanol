@@ -82,6 +82,19 @@
 - B) Por la calzada o el carril bici / On the road or the cycle lane
 - C) Solo por zonas peatonales / Only in pedestrian zones
 
+<details><summary>Click to reveal answers</summary>
+
+1. **B)** Quitárselas antes de entrar
+2. **B)** Dejarlas puestas en el contacto
+3. **B)** Detenerse y esperar
+4. **C)** Arcén, luces de emergencia, V-16, chaleco, salir por el lado del pasajero, detrás de la barrera, llamar al 112
+5. **B)** Carril izquierdo se abre a la izquierda, carril derecho a la derecha
+6. **B)** Depende de la normativa municipal, pero generalmente C o superior
+7. **B)** Evacuar a todos, y correr por la vía en la dirección de donde viene el tren
+8. **B)** Por la calzada o el carril bici
+
+</details>
+
 ---
 
 ## B. True or False — Verdadero o Falso
@@ -101,6 +114,19 @@
 7. \_\_\_ If your car stalls on train tracks, run perpendicular (away from the tracks at a right angle).
 
 8. \_\_\_ Overtaking inside a single-lane tunnel is prohibited.
+
+<details><summary>Click to reveal answers</summary>
+
+1. **V** — Dipped headlights always in tunnels.
+2. **F** — Leave keys IN the ignition so firefighters can move cars.
+3. **F** — STOP and wait even if no train is visible.
+4. **V** — Left lane left, right lane right.
+5. **F** — VMP are prohibited on pavements.
+6. **V** — Cities 50K+ must have a ZBE.
+7. **F** — Run ALONG the track toward the train's direction, not perpendicular.
+8. **V** — Overtaking in single-lane tunnels is prohibited.
+
+</details>
 
 ---
 
@@ -124,6 +150,19 @@
 
 8. Al adelantar a un \_\_\_\_\_\_\_\_, mantenga \_\_\_\_\_\_\_\_ metros de distancia lateral.
 
+<details><summary>Click to reveal answers</summary>
+
+1. túnel / cruce
+2. gafas
+3. llaves
+4. arcén
+5. V-16
+6. corredor
+7. ZBE
+8. ciclista / 1.5
+
+</details>
+
 ---
 
 ## D. Translate the Phrase — Traduce la frase
@@ -144,6 +183,19 @@
 
 8. When overtaking a cyclist, reduce your speed by 20 km/h and give 1.5 metres.
 
+<details><summary>Click to reveal answers</summary>
+
+1. _Encienda las luces de cruce antes de entrar en el túnel._
+2. _Si hay un incendio en el túnel, deje las llaves en el contacto y camine hasta la salida más cercana._
+3. _Deténgase en el paso a nivel — las luces rojas están parpadeando._
+4. _Mi coche se ha averiado en la autopista — estoy en el arcén._
+5. _Creen un corredor de emergencia: el carril izquierdo se abre a la izquierda y el derecho a la derecha._
+6. _Los patinetes eléctricos deben circular por la calzada o el carril bici — no por la acera._
+7. _Compruebe su distintivo ambiental antes de entrar en la zona de bajas emisiones._
+8. _Al adelantar a un ciclista, reduzca la velocidad 20 km/h y deje 1,5 metros._
+
+</details>
+
 ---
 
 ## E. Situational Spanish — ¿Qué dices?
@@ -156,62 +208,14 @@
 
 4. You're stuck in a traffic jam on the autopista and want to explain to your passenger why you're moving to the side of the lane.
 
----
-
----
-
-# ✅ Answer Key — Clave de respuestas
-
-## A. DGT-Format Questions
-
-1. **B)** Quitárselas antes de entrar
-2. **B)** Dejarlas puestas en el contacto
-3. **B)** Detenerse y esperar
-4. **C)** Arcén, luces de emergencia, V-16, chaleco, salir por el lado del pasajero, detrás de la barrera, llamar al 112
-5. **B)** Carril izquierdo se abre a la izquierda, carril derecho a la derecha
-6. **B)** Depende de la normativa municipal, pero generalmente C o superior
-7. **B)** Evacuar a todos, y correr por la vía en la dirección de donde viene el tren
-8. **B)** Por la calzada o el carril bici
-
-## B. True or False
-
-1. **V** — Dipped headlights always in tunnels.
-2. **F** — Leave keys IN the ignition so firefighters can move cars.
-3. **F** — STOP and wait even if no train is visible.
-4. **V** — Left lane left, right lane right.
-5. **F** — VMP are prohibited on pavements.
-6. **V** — Cities 50K+ must have a ZBE.
-7. **F** — Run ALONG the track toward the train's direction, not perpendicular.
-8. **V** — Overtaking in single-lane tunnels is prohibited.
-
-## C. Fill in the Blank
-
-1. túnel / cruce
-2. gafas
-3. llaves
-4. arcén
-5. V-16
-6. corredor
-7. ZBE
-8. ciclista / 1.5
-
-## D. Translate the Phrase
-
-1. _Encienda las luces de cruce antes de entrar en el túnel._
-2. _Si hay un incendio en el túnel, deje las llaves en el contacto y camine hasta la salida más cercana._
-3. _Deténgase en el paso a nivel — las luces rojas están parpadeando._
-4. _Mi coche se ha averiado en la autopista — estoy en el arcén._
-5. _Creen un corredor de emergencia: el carril izquierdo se abre a la izquierda y el derecho a la derecha._
-6. _Los patinetes eléctricos deben circular por la calzada o el carril bici — no por la acera._
-7. _Compruebe su distintivo ambiental antes de entrar en la zona de bajas emisiones._
-8. _Al adelantar a un ciclista, reduzca la velocidad 20 km/h y deje 1,5 metros._
-
-## E. Situational Spanish (suggested answers)
+<details><summary>Click to reveal answers</summary>
 
 1. _¡Hola! Mi coche se ha averiado en la V-30, creo que estoy en el kilómetro 10, dirección Valencia. Estoy en el arcén. Tengo la baliza V-16 activada. No hay heridos pero necesito asistencia._
 2. _Mira, vamos a entrar en un túnel. Voy a encender las luces de cruce y me quito las gafas de sol para ver bien dentro._
 3. _Pepe, ¿tienes el distintivo ambiental en tu coche? Si no, te pueden multar en la ZBE del centro de Valencia._
 4. _Me estoy moviendo al lado del carril porque tenemos que crear un corredor de emergencia. Es para que puedan pasar las ambulancias y los bomberos._
+
+</details>
 
 ---
 
@@ -244,7 +248,11 @@
 - B) Debo mantener la atención y, salvo excepciones como las _Blue Zones_ autorizadas, las manos en el volante / I must stay attentive and — except in authorised _Blue Zones_ — keep my hands on the wheel
 - C) Es ilegal usar estos sistemas en España / These systems are illegal in Spain
 
-**Answers / Respuestas:** 1-B, 2-B, 3-B
+<details><summary>Click to reveal answers</summary>
+
+1-B, 2-B, 3-B
+
+</details>
 
 ---
 

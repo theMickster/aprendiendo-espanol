@@ -23,6 +23,12 @@
 | 9   | la rueda de repuesto     |     | i) the child seat          |
 | 10  | la matrícula             |     | j) the number plate        |
 
+<details><summary>Click to reveal answers</summary>
+
+1-d, 2-g, 3-a, 4-e, 5-c, 6-f, 7-i, 8-b, 9-h, 10-j
+
+</details>
+
 ---
 
 ## B. Number Recall — ¿Cuál es el número?
@@ -39,6 +45,23 @@
 | 8   | Fine for expired ITV (< 12 months)       | €\_\_\_\_\_\_              |
 | 9   | Fine for expired ITV (> 12 months)       | €\_\_\_\_\_\_              |
 | 10  | Fine for no V-16 beacon in 2026          | Up to €\_\_\_\_\_\_        |
+
+<details><summary>Click to reveal answers</summary>
+
+| #   | Fact                   | Answer            |
+| --- | ---------------------- | ----------------- |
+| 1   | First ITV              | **4 years**       |
+| 2   | 4–10 years             | Every **2 years** |
+| 3   | 10+ years              | Every **1 year**  |
+| 4   | Min tyre tread         | **1.6 mm**        |
+| 5   | Child seat until       | **1.35 m**        |
+| 6   | No seatbelt fine       | **€200**          |
+| 7   | No seatbelt points     | **4 points**      |
+| 8   | Expired ITV fine       | **€200**          |
+| 9   | ITV expired 12+ months | **€500**          |
+| 10  | No V-16 fine           | Up to **€200**    |
+
+</details>
 
 ---
 
@@ -116,6 +139,19 @@
 - B) Depende de la normativa municipal / It depends on the municipal regulations
 - C) Solo el distintivo CERO / Only the CERO badge
 
+<details><summary>Click to reveal answers</summary>
+
+1. **B)** A los 4 años
+2. **B)** En el habitáculo del vehículo
+3. **B)** La baliza V-16 conectada
+4. **B)** 1,6 mm
+5. **B)** 1,35 metros
+6. **B)** Permiso de conducir, permiso de circulación, ficha técnica y seguro
+7. **B)** Multa de 200€ (500€ si la ITV es desfavorable) + inmovilización posible. Sin pérdida de puntos — ITV no es infracción con puntos
+8. **B)** Depende de la normativa municipal
+
+</details>
+
 ---
 
 ## D. Fill in the Blank — Completa las frases
@@ -138,6 +174,19 @@
 
 8. Para entrar en la ZBE de Valencia, necesitas el \_\_\_\_\_\_\_\_ ambiental.
 
+<details><summary>Click to reveal answers</summary>
+
+1. ITV / cuatro
+2. V-16
+3. chaleco
+4. 1.6
+5. cinturón
+6. 1.35
+7. seguro
+8. distintivo
+
+</details>
+
 ---
 
 ## E. Translate the Phrase — Traduce la frase
@@ -157,6 +206,19 @@
 7. Always carry your driving licence, registration, and insurance.
 
 8. What environmental badge does my car need for the Valencia LEZ?
+
+<details><summary>Click to reveal answers</summary>
+
+1. _Mi coche tiene que pasar la ITV este mes._
+2. _El chaleco reflectante debe guardarse en el habitáculo, no en el maletero._
+3. _Desde 2026, todos los coches deben llevar una baliza V-16 conectada._
+4. _Los niños deben usar silla infantil hasta que midan 1,35 metros._
+5. _Conducir sin la ITV en vigor puede suponer una multa y la inmovilización del vehículo._
+6. _Compruebe la profundidad del dibujo de los neumáticos — el mínimo es 1,6 milímetros._
+7. _Lleve siempre el permiso de conducir, el permiso de circulación y el seguro._
+8. _¿Qué distintivo ambiental necesita mi coche para la ZBE de Valencia?_
+
+</details>
 
 ---
 
@@ -182,79 +244,7 @@
 | nosotros    | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 | ellos/ellas | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 
----
-
-## G. Situational Spanish — ¿Qué dices?
-
-1. You need to book an ITV appointment. Call and explain what you need.
-
-2. A police officer asks to see your vehicle documents at a routine check. Tell them you have everything.
-
-3. You want to tell Pepe that you bought the new V-16 beacon and where you're keeping it.
-
-4. Your daughter asks why she still has to sit in a child seat. Explain the rule in Spanish.
-
-5. You want to ask at a shop if they sell DGT-approved V-16 beacons.
-
----
-
----
-
-# ✅ Answer Key — Clave de respuestas
-
-## A. Vocabulary Matching
-
-1-d, 2-g, 3-a, 4-e, 5-c, 6-f, 7-i, 8-b, 9-h, 10-j
-
-## B. Number Recall
-
-| #   | Fact                   | Answer            |
-| --- | ---------------------- | ----------------- |
-| 1   | First ITV              | **4 years**       |
-| 2   | 4–10 years             | Every **2 years** |
-| 3   | 10+ years              | Every **1 year**  |
-| 4   | Min tyre tread         | **1.6 mm**        |
-| 5   | Child seat until       | **1.35 m**        |
-| 6   | No seatbelt fine       | **€200**          |
-| 7   | No seatbelt points     | **4 points**      |
-| 8   | Expired ITV fine       | **€200**          |
-| 9   | ITV expired 12+ months | **€500**          |
-| 10  | No V-16 fine           | Up to **€200**    |
-
-## C. DGT-Format Questions
-
-1. **B)** A los 4 años
-2. **B)** En el habitáculo del vehículo
-3. **B)** La baliza V-16 conectada
-4. **B)** 1,6 mm
-5. **B)** 1,35 metros
-6. **B)** Permiso de conducir, permiso de circulación, ficha técnica y seguro
-7. **B)** Multa de 200€ (500€ si la ITV es desfavorable) + inmovilización posible. Sin pérdida de puntos — ITV no es infracción con puntos
-8. **B)** Depende de la normativa municipal
-
-## D. Fill in the Blank
-
-1. ITV / cuatro
-2. V-16
-3. chaleco
-4. 1.6
-5. cinturón
-6. 1.35
-7. seguro
-8. distintivo
-
-## E. Translate the Phrase
-
-1. _Mi coche tiene que pasar la ITV este mes._
-2. _El chaleco reflectante debe guardarse en el habitáculo, no en el maletero._
-3. _Desde 2026, todos los coches deben llevar una baliza V-16 conectada._
-4. _Los niños deben usar silla infantil hasta que midan 1,35 metros._
-5. _Conducir sin la ITV en vigor puede suponer una multa y la inmovilización del vehículo._
-6. _Compruebe la profundidad del dibujo de los neumáticos — el mínimo es 1,6 milímetros._
-7. _Lleve siempre el permiso de conducir, el permiso de circulación y el seguro._
-8. _¿Qué distintivo ambiental necesita mi coche para la ZBE de Valencia?_
-
-## F. Conjugation Drill
+<details><summary>Click to reveal answers</summary>
 
 ### LLEVAR
 
@@ -276,13 +266,31 @@
 | nosotros    | revisamos | revisamos |
 | ellos/ellas | revisan   | revisaron |
 
-## G. Situational Spanish (suggested answers)
+</details>
+
+---
+
+## G. Situational Spanish — ¿Qué dices?
+
+1. You need to book an ITV appointment. Call and explain what you need.
+
+2. A police officer asks to see your vehicle documents at a routine check. Tell them you have everything.
+
+3. You want to tell Pepe that you bought the new V-16 beacon and where you're keeping it.
+
+4. Your daughter asks why she still has to sit in a child seat. Explain the rule in Spanish.
+
+5. You want to ask at a shop if they sell DGT-approved V-16 beacons.
+
+<details><summary>Click to reveal answers</summary>
 
 1. _Hola, quiero pedir cita para la ITV de mi coche. Es un turismo._ (or: _Buenos días, necesito hacer la ITV. ¿Cuándo hay disponibilidad?_)
 2. _Aquí tiene: el permiso de conducir, el permiso de circulación, la ficha técnica y el seguro._ (or: _Tengo toda la documentación. Aquí la tiene._)
 3. _Pepe, ya compré la baliza V-16. La tengo en la guantera, como dice la DGT._ (or: _Ya tengo la luz V-16 nueva. La guardo en la guantera._)
 4. _Tienes que ir en la silla especial porque la ley dice que los niños la necesitan hasta medir 1,35 metros. Es por tu seguridad._ (or: _Es obligatorio hasta que midas 1,35 metros._)
 5. _¿Venden balizas V-16 homologadas por la DGT?_ (or: _¿Tienen la luz V-16 aprobada por la DGT?_)
+
+</details>
 
 ---
 
@@ -315,7 +323,11 @@
 - B) Desde septiembre 2024 **está prohibida la venta** de sillas R44 nuevas — exige R129 (i-Size) / Since September 2024 the **sale of new R44 seats is prohibited** — demand R129 (i-Size)
 - C) Cualquiera vale, son equivalentes / Either is fine — they're equivalent
 
-**Answers / Respuestas:** 1-B, 2-B, 3-B
+<details><summary>Click to reveal answers</summary>
+
+1-B, 2-B, 3-B
+
+</details>
 
 ---
 

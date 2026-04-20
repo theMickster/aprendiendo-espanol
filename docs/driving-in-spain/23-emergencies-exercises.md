@@ -24,6 +24,17 @@ Put the PAS steps in the correct order (1–6):
 
 \_\_\_ Assess the scene for fire, fuel, live wires
 
+<details><summary>Click to reveal answers</summary>
+
+**4** — Call 112 with location, injuries, and hazards
+**6** — Help the injured without moving them (LAST — after protecting and alerting)
+**1** — Turn on hazard lights (FIRST thing)
+**3** — Put on reflective vest before exiting vehicle
+**2** — Activate V-16 beacon and place on roof
+**5** — Assess the scene for fire, fuel, live wires
+
+</details>
+
 ---
 
 ## B. DGT-Format Questions — Preguntas tipo DGT
@@ -145,6 +156,24 @@ Put the PAS steps in the correct order (1–6):
 - B) Está obligado por ley a ayudar en la medida de sus posibilidades (omisión del deber de socorro)
 - C) No hay obligación legal — es opcional
 
+<details><summary>Click to reveal answers</summary>
+
+1. **B)** 112
+2. **B)** Solo si hay riesgo inmediato de incendio, explosión o necesidad de RCP
+3. **B)** Proteger, Avisar, Socorrer
+4. **B)** No, nunca quite el casco a un motorista herido
+5. **B)** Una declaración amistosa de accidente entre conductores sin heridos
+6. **B)** Sí, es una obligación legal
+7. **B)** Encender el motor del vehículo (sparks could ignite fuel)
+8. **B)** Colocarle en posición lateral de seguridad
+9. **B)** La baliza V-16 conectada
+10. **B)** 112
+11. **C)** Mover a los heridos es precisamente lo que NO se debe hacer salvo riesgo vital
+12. **B)** Dejarle el casco puesto — quitarlo puede causar lesión medular
+13. **B)** Obligación legal — omisión del deber de socorro es delito
+
+</details>
+
 ---
 
 ## C. Fill in the Blank — Completa las frases
@@ -169,6 +198,20 @@ Put the PAS steps in the correct order (1–6):
 
 9. Si no hay heridos, rellene el \_\_\_\_\_\_\_\_ con el otro conductor.
 
+<details><summary>Click to reveal answers</summary>
+
+1. PAS
+2. 112
+3. proteger
+4. mover / incendio
+5. casco
+6. V-16
+7. chaleco
+8. hemorragia
+9. parte amistoso
+
+</details>
+
 ---
 
 ## D. Translate the Phrase — Traduce la frase
@@ -189,6 +232,19 @@ Put the PAS steps in the correct order (1–6):
 
 8. Activate the V-16 beacon and place it on the roof.
 
+<details><summary>Click to reveal answers</summary>
+
+1. _Ha habido un accidente en la autovía V-30._
+2. _Llame al 112 — hay dos heridos._
+3. _No mueva al herido — espere a la ambulancia._
+4. _Nunca quite el casco a un motorista herido._
+5. _Póngase el chaleco reflectante antes de salir del vehículo._
+6. _Si la persona está inconsciente pero respira, colóquela en posición lateral de seguridad._
+7. _Está obligado por ley a parar y ayudar en un accidente._
+8. _Active la baliza V-16 y colóquela en el techo._
+
+</details>
+
 ---
 
 ## E. Situational Spanish — ¿Qué dices?
@@ -200,6 +256,15 @@ Put the PAS steps in the correct order (1–6):
 3. You need to fill out the parte amistoso with the other driver after a minor collision (fender bender).
 
 4. Your daughter asks what PAS means. Explain it simply in Spanish.
+
+<details><summary>Click to reveal answers</summary>
+
+1. _¡Hola! Ha habido un accidente en la V-30, aproximadamente en el kilómetro 12, dirección Valencia. Hay dos coches implicados. Creo que hay al menos un herido. No veo incendio pero hay cristales en la calzada. Mi número es..._
+2. _¡No le mueva! Puede tener una lesión en la espalda. Espere a la ambulancia._
+3. _Vamos a rellenar el parte amistoso. Necesito su nombre, DNI, número de seguro y matrícula._
+4. _PAS son las siglas de Proteger, Avisar y Socorrer. Primero protegemos la zona, luego llamamos al 112, y después ayudamos a los heridos._
+
+</details>
 
 ---
 
@@ -213,6 +278,19 @@ Put the PAS steps in the correct order (1–6):
 6. Posición lateral de seguridad solo si la persona está inconsciente **y** respira. / Recovery position only if the person is unconscious **and** breathing.
 7. Ante una hemorragia, eleva la zona herida y presiona con un paño limpio. / In case of a bleed, raise the injured area and press with a clean cloth.
 8. Si hay fuego en el motor, abre rápido el capó para ver qué pasa. / If there's a fire in the engine, open the bonnet quickly to see what's happening.
+
+<details><summary>Click to reveal answers</summary>
+
+1. **V** — delito del artículo 195 del Código Penal
+2. **F** — solo si hay peligro vital inmediato (fuego, parada cardiorrespiratoria); por regla general NO
+3. **F** — la baliza V-16 conectada va **encima del vehículo** (techo), no en el suelo. Ya no hace falta salir del coche
+4. **F** — eCall se activa automáticamente si se despliegan los airbags, y también manualmente con el botón SOS
+5. **V**
+6. **V**
+7. **V** — con una venda limpia; no uses torniquete salvo hemorragia masiva no controlable
+8. **F** — abrir el capó aporta oxígeno y puede avivar las llamas; mantenerlo cerrado y usar extintor desde una distancia segura
+
+</details>
 
 ---
 
@@ -249,6 +327,32 @@ Complete the present and preterite for each verb.
 | él/ella     | atiende   | atendió    |
 | nosotros    | atendemos | atendimos  |
 | ellos/ellas | atienden  | atendieron |
+
+<details><summary>Click to reveal answers</summary>
+
+### SOCORRER
+
+|             | Presente   | Pretérito   |
+| ----------- | ---------- | ----------- |
+| yo          | socorro    | socorrí     |
+| tú          | socorres   | socorriste  |
+| él/ella     | socorre    | socorrió    |
+| nosotros    | socorremos | socorrimos  |
+| ellos/ellas | socorren   | socorrieron |
+
+### AVISAR
+
+|             | Presente | Pretérito |
+| ----------- | -------- | --------- |
+| yo          | aviso    | avisé     |
+| tú          | avisas   | avisaste  |
+| él/ella     | avisa    | avisó     |
+| nosotros    | avisamos | avisamos  |
+| ellos/ellas | avisan   | avisaron  |
+
+### ATENDER — already conjugated in the question table above.
+
+</details>
 
 ---
 
@@ -290,111 +394,14 @@ Complete the present and preterite for each verb.
 - B) Enciendo las luces de emergencia, apago el motor, dejo las luces de posición encendidas, salgo por la puerta del lado contrario al tráfico y uso el apartadero o la salida de emergencia más próxima / Switch on the hazard warning lights, turn off the engine, leave the sidelights on, get out through the door on the side away from traffic, and use the lay-by or the nearest emergency exit
 - C) Empujo el coche hacia atrás hasta salir del túnel / Push the car backwards until I'm out of the tunnel
 
----
-
----
-
-# ✅ Answer Key — Clave de respuestas
-
-## A. PAS Protocol Sequencing
-
-**4** — Call 112 with location, injuries, and hazards
-**6** — Help the injured without moving them (LAST — after protecting and alerting)
-**1** — Turn on hazard lights (FIRST thing)
-**3** — Put on reflective vest before exiting vehicle
-**2** — Activate V-16 beacon and place on roof
-**5** — Assess the scene for fire, fuel, live wires
-
-## B. DGT-Format Questions
-
-1. **B)** 112
-2. **B)** Solo si hay riesgo inmediato de incendio, explosión o necesidad de RCP
-3. **B)** Proteger, Avisar, Socorrer
-4. **B)** No, nunca quite el casco a un motorista herido
-5. **B)** Una declaración amistosa de accidente entre conductores sin heridos
-6. **B)** Sí, es una obligación legal
-7. **B)** Encender el motor del vehículo (sparks could ignite fuel)
-8. **B)** Colocarle en posición lateral de seguridad
-
-## C. Fill in the Blank
-
-1. PAS
-2. 112
-3. proteger
-4. mover / incendio
-5. casco
-6. V-16
-7. chaleco
-8. hemorragia
-9. parte amistoso
-
-## D. Translate the Phrase
-
-1. _Ha habido un accidente en la autovía V-30._
-2. _Llame al 112 — hay dos heridos._
-3. _No mueva al herido — espere a la ambulancia._
-4. _Nunca quite el casco a un motorista herido._
-5. _Póngase el chaleco reflectante antes de salir del vehículo._
-6. _Si la persona está inconsciente pero respira, colóquela en posición lateral de seguridad._
-7. _Está obligado por ley a parar y ayudar en un accidente._
-8. _Active la baliza V-16 y colóquela en el techo._
-
-## E. Situational Spanish (suggested answers)
-
-1. _¡Hola! Ha habido un accidente en la V-30, aproximadamente en el kilómetro 12, dirección Valencia. Hay dos coches implicados. Creo que hay al menos un herido. No veo incendio pero hay cristales en la calzada. Mi número es..._
-2. _¡No le mueva! Puede tener una lesión en la espalda. Espere a la ambulancia._
-3. _Vamos a rellenar el parte amistoso. Necesito su nombre, DNI, número de seguro y matrícula._
-4. _PAS son las siglas de Proteger, Avisar y Socorrer. Primero protegemos la zona, luego llamamos al 112, y después ayudamos a los heridos._
-
-## B. DGT-Format Questions (continued)
-
-11. **B)** La baliza V-16 conectada
-12. **B)** 112
-13. **C)** Mover a los heridos es precisamente lo que NO se debe hacer salvo riesgo vital
-14. **B)** Dejarle el casco puesto — quitarlo puede causar lesión medular
-15. **B)** Obligación legal — omisión del deber de socorro es delito
-
-## F. Verdadero o Falso
-
-1. **V** — delito del artículo 195 del Código Penal
-2. **F** — solo si hay peligro vital inmediato (fuego, parada cardiorrespiratoria); por regla general NO
-3. **F** — la baliza V-16 conectada va **encima del vehículo** (techo), no en el suelo. Ya no hace falta salir del coche
-4. **F** — eCall se activa automáticamente si se despliegan los airbags, y también manualmente con el botón SOS
-5. **V**
-6. **V**
-7. **V** — con una venda limpia; no uses torniquete salvo hemorragia masiva no controlable
-8. **F** — abrir el capó aporta oxígeno y puede avivar las llamas; mantenerlo cerrado y usar extintor desde una distancia segura
-
-## G. Conjugation Drill
-
-### SOCORRER
-
-|             | Presente   | Pretérito   |
-| ----------- | ---------- | ----------- |
-| yo          | socorro    | socorrí     |
-| tú          | socorres   | socorriste  |
-| él/ella     | socorre    | socorrió    |
-| nosotros    | socorremos | socorrimos  |
-| ellos/ellas | socorren   | socorrieron |
-
-### AVISAR
-
-|             | Presente | Pretérito |
-| ----------- | -------- | --------- |
-| yo          | aviso    | avisé     |
-| tú          | avisas   | avisaste  |
-| él/ella     | avisa    | avisó     |
-| nosotros    | avisamos | avisamos  |
-| ellos/ellas | avisan   | avisaron  |
-
-### ATENDER — already conjugated in the question table above.
-
-## H. Case Scenarios
+<details><summary>Click to reveal answers</summary>
 
 1. **B)** Safe-stop → hazards + vest + V-16 + 112. Option C parking _behind_ an incident puts you in the impact zone — always stop _ahead_ or well past
 2. **B)** Clear the lane if safe and fill the parte amistoso; you have up to 7 days to send it to the insurers
 3. **B)** Casco stays on; call 112; only move if there's imminent risk
 4. **B)** Proper tunnel breakdown protocol — apartadero or the nearest emergency exit, engine off, exit away from traffic
+
+</details>
 
 ---
 

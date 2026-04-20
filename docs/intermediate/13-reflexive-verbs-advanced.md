@@ -257,7 +257,7 @@ When a reflexive verb also has a direct object pronoun, both pronouns go togethe
 
 5. **Nos damos cuenta de que cada día entendemos más español**
 
-   - (We realize that every day we understand more Spanish)
+   - (We realise that every day we understand more Spanish)
 
 6. **Las hermanas se ayudan la una a la otra con los deberes**
 

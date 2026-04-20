@@ -25,6 +25,23 @@ Write the correct speed limit for each situation. All answers are for a standard
 | 9   | Zone 30 (S-28)                            | \_\_\_\_ km/h |
 | 10  | Moped (ciclomotor) maximum by design      | \_\_\_\_ km/h |
 
+<details><summary>Click to reveal answers</summary>
+
+| #   | Situation                     | Speed Limit  |
+| --- | ----------------------------- | ------------ |
+| 1   | Urban, 1 lane                 | **30 km/h**  |
+| 2   | Urban, 2+ lanes               | **50 km/h**  |
+| 3   | Residential zone (S-220)      | **20 km/h**  |
+| 4   | Autopista / Autovía           | **120 km/h** |
+| 5   | Conventional road             | **90 km/h**  |
+| 6   | Minimum on motorway           | **60 km/h**  |
+| 7   | Car + trailer on motorway     | **80 km/h**  |
+| 8   | Car + trailer on conventional | **70 km/h**  |
+| 9   | Zone 30                       | **30 km/h**  |
+| 10  | Moped max by design           | **45 km/h**  |
+
+</details>
+
 ---
 
 ## B. Vocabulary Matching — Empareja el vocabulario
@@ -41,6 +58,12 @@ Write the correct speed limit for each situation. All answers are for a standard
 | 8   | la velocidad mínima    |     | h) outside a built-up area |
 | 9   | la velocidad adecuada  |     | i) the speed limit         |
 | 10  | el límite de velocidad |     | j) the appropriate speed   |
+
+<details><summary>Click to reveal answers</summary>
+
+1-f, 2-d, 3-a, 4-b, 5-c, 6-h, 7-e, 8-g, 9-j, 10-i
+
+</details>
 
 ---
 
@@ -136,6 +159,21 @@ Write the correct speed limit for each situation. All answers are for a standard
 - B) 40 km/h
 - C) 30 km/h
 
+<details><summary>Click to reveal answers</summary>
+
+1. **B)** 30 km/h
+2. **B)** 120 km/h
+3. **B)** 60 km/h
+4. **B)** 90 km/h
+5. **C)** 80 km/h
+6. **B)** No, debe circular a una velocidad adecuada a las condiciones
+7. **B)** 20 km/h
+8. **B)** 8 puntos; suspensión del permiso
+9. **B)** 90 km/h
+10. **B)** 40 km/h (half of 80)
+
+</details>
+
 ---
 
 ## D. Fill in the Blank — Completa las frases
@@ -162,6 +200,21 @@ Write the correct speed limit for each situation. All answers are for a standard
 
 10. Un conductor novel empieza con 8 \_\_\_\_\_\_\_\_.
 
+<details><summary>Click to reveal answers</summary>
+
+1. 120
+2. 30
+3. 90
+4. 60
+5. 20
+6. reducir
+7. adecuada
+8. multa
+9. radar
+10. puntos
+
+</details>
+
 ---
 
 ## E. Translate the Phrase — Traduce la frase
@@ -181,6 +234,19 @@ Write the correct speed limit for each situation. All answers are for a standard
 7. A car towing a trailer can drive at a maximum of 80 km/h on the motorway.
 
 8. You must always drive at a speed appropriate to conditions.
+
+<details><summary>Click to reveal answers</summary>
+
+1. _El límite de velocidad en la ciudad es de 30 km/h en calles de un solo carril._
+2. _Reduce la velocidad — está lloviendo._ (or: _Reduzca la velocidad — llueve._)
+3. _En la autopista, la velocidad mínima es de 60 km/h._
+4. _Me pusieron una multa porque circulaba a 140 km/h por la autovía._
+5. _En una zona residencial, el límite es 20 km/h y los peatones tienen prioridad absoluta._
+6. _Antes de 2019, el límite en carreteras convencionales era 100 km/h. Ahora es 90 km/h._
+7. _Un turismo con remolque puede circular a un máximo de 80 km/h en la autopista._
+8. _Siempre debes conducir a una velocidad adecuada a las condiciones._
+
+</details>
 
 ---
 
@@ -206,83 +272,7 @@ Write the correct speed limit for each situation. All answers are for a standard
 | nosotros    | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 | ellos/ellas | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 
----
-
-## G. Situational Spanish — ¿Qué dices?
-
-1. You want to tell Pepe you got a speeding fine on the V-30 because you didn't see the reduced speed sign.
-
-2. You need to ask your driving instructor what the minimum speed on the motorway is.
-
-3. You want to explain to your daughter why you're driving slowly through the Penya-Roja neighbourhood (it's a zona 30).
-
-4. You're driving in heavy rain and your passenger asks why you're going so slowly. Explain in Spanish.
-
-5. You want to tell a friend that in Spain, single-lane city streets have a 30 km/h limit — not 50 like before.
-
----
-
----
-
-# ✅ Answer Key — Clave de respuestas
-
-## A. Speed Limit Recall
-
-| #   | Situation                     | Speed Limit  |
-| --- | ----------------------------- | ------------ |
-| 1   | Urban, 1 lane                 | **30 km/h**  |
-| 2   | Urban, 2+ lanes               | **50 km/h**  |
-| 3   | Residential zone (S-220)      | **20 km/h**  |
-| 4   | Autopista / Autovía           | **120 km/h** |
-| 5   | Conventional road             | **90 km/h**  |
-| 6   | Minimum on motorway           | **60 km/h**  |
-| 7   | Car + trailer on motorway     | **80 km/h**  |
-| 8   | Car + trailer on conventional | **70 km/h**  |
-| 9   | Zone 30                       | **30 km/h**  |
-| 10  | Moped max by design           | **45 km/h**  |
-
-## B. Vocabulary Matching
-
-1-f, 2-d, 3-a, 4-b, 5-c, 6-h, 7-e, 8-g, 9-j, 10-i
-
-## C. DGT-Format Questions
-
-1. **B)** 30 km/h
-2. **B)** 120 km/h
-3. **B)** 60 km/h
-4. **B)** 90 km/h
-5. **C)** 80 km/h
-6. **B)** No, debe circular a una velocidad adecuada a las condiciones
-7. **B)** 20 km/h
-8. **B)** 8 puntos; suspensión del permiso
-9. **B)** 90 km/h
-10. **B)** 40 km/h (half of 80)
-
-## D. Fill in the Blank
-
-1. 120
-2. 30
-3. 90
-4. 60
-5. 20
-6. reducir
-7. adecuada
-8. multa
-9. radar
-10. puntos
-
-## E. Translate the Phrase
-
-1. _El límite de velocidad en la ciudad es de 30 km/h en calles de un solo carril._
-2. _Reduce la velocidad — está lloviendo._ (or: _Reduzca la velocidad — llueve._)
-3. _En la autopista, la velocidad mínima es de 60 km/h._
-4. _Me pusieron una multa porque circulaba a 140 km/h por la autovía._
-5. _En una zona residencial, el límite es 20 km/h y los peatones tienen prioridad absoluta._
-6. _Antes de 2019, el límite en carreteras convencionales era 100 km/h. Ahora es 90 km/h._
-7. _Un turismo con remolque puede circular a un máximo de 80 km/h en la autopista._
-8. _Siempre debes conducir a una velocidad adecuada a las condiciones._
-
-## F. Conjugation Drill
+<details><summary>Click to reveal answers</summary>
 
 ### REDUCIR
 
@@ -304,13 +294,31 @@ Write the correct speed limit for each situation. All answers are for a standard
 | nosotros    | conducimos | condujimos |
 | ellos/ellas | conducen   | condujeron |
 
-## G. Situational Spanish (suggested answers)
+</details>
+
+---
+
+## G. Situational Spanish — ¿Qué dices?
+
+1. You want to tell Pepe you got a speeding fine on the V-30 because you didn't see the reduced speed sign.
+
+2. You need to ask your driving instructor what the minimum speed on the motorway is.
+
+3. You want to explain to your daughter why you're driving slowly through the Penya-Roja neighbourhood (it's a zona 30).
+
+4. You're driving in heavy rain and your passenger asks why you're going so slowly. Explain in Spanish.
+
+5. You want to tell a friend that in Spain, single-lane city streets have a 30 km/h limit — not 50 like before.
+
+<details><summary>Click to reveal answers</summary>
 
 1. _¡Pepe, me han puesto una multa en la V-30! No vi la señal de velocidad reducida._ (or: _Me han multado por exceso de velocidad en la V-30._)
 2. _¿Cuál es la velocidad mínima en la autopista?_
 3. _Vamos despacio porque estamos en una zona 30. El límite de velocidad es 30 kilómetros por hora._ (or: _Es una zona 30 — no podemos ir a más de 30._)
 4. _Llueve mucho y tengo que conducir a una velocidad adecuada. El límite es 120 pero con lluvia es peligroso ir tan rápido._
 5. _En España, las calles de un solo carril en la ciudad tienen un límite de 30 km/h. Antes era 50, pero cambió en 2021._
+
+</details>
 
 ---
 
@@ -343,7 +351,11 @@ Write the correct speed limit for each situation. All answers are for a standard
 - B) 80 km/h
 - C) 90 km/h
 
-**Answers / Respuestas:** 1-B, 2-B, 3-B
+<details><summary>Click to reveal answers</summary>
+
+1-B, 2-B, 3-B
+
+</details>
 
 ---
 

@@ -21,6 +21,19 @@ For each situation, write P (parada) or E (estacionamiento).
 7. \_\_\_ You stop for 1 minute, engine running, but step out to open the boot.
 8. \_\_\_ A traffic light turns red and you stop. (Careful — trick question!)
 
+<details><summary>Click to reveal answers</summary>
+
+1. **P** — Less than 2 minutes AND driver stays.
+2. **E** — Driver left the vehicle (time doesn't matter).
+3. **E** — More than 2 minutes (staying in car doesn't matter).
+4. **P** — Very brief, driver stays.
+5. **E** — Driver left for an extended time.
+6. **P** — Less than 2 minutes AND driver stays.
+7. **E** — Driver stepped out (even briefly).
+8. **Neither — this is a DETENCIÓN** (involuntary stop due to traffic regulation). Trick question!
+
+</details>
+
 ---
 
 ## B. DGT-Format Questions — Preguntas tipo DGT
@@ -97,6 +110,19 @@ For each situation, write P (parada) or E (estacionamiento).
 - B) Parada de autobús — no aparcar ni parar / Bus stop — no parking or stopping
 - C) Zona de estacionamiento libre / Free parking zone
 
+<details><summary>Click to reveal answers</summary>
+
+1. **B)** Parada
+2. **A)** R-307 prohíbe la parada y el estacionamiento; R-308 solo prohíbe el estacionamiento
+3. **B)** No, está prohibido
+4. **B)** Las ruedas delanteras alejadas del bordillo (a la izquierda) — so the car rolls into the kerb if brakes fail
+5. **B)** Solo vehículos que exhiban la tarjeta de estacionamiento para discapacitados
+6. **B)** Estacionamiento de duración limitada y de pago (zona azul)
+7. **C)** No, aparcar en doble fila está prohibido
+8. **B)** Parada de autobús — no aparcar ni parar
+
+</details>
+
 ---
 
 ## C. Fill in the Blank — Completa las frases
@@ -121,6 +147,20 @@ For each situation, write P (parada) or E (estacionamiento).
 
 9. Al aparcar cuesta arriba, gire las ruedas alejadas del \_\_\_\_\_\_\_\_.
 
+<details><summary>Click to reveal answers</summary>
+
+1. parada / dos
+2. estacionamiento
+3. aparcar
+4. grúa
+5. vado
+6. azul
+7. verde
+8. discapacidad
+9. bordillo
+
+</details>
+
 ---
 
 ## D. Translate the Phrase — Traduce la frase
@@ -141,6 +181,19 @@ For each situation, write P (parada) or E (estacionamiento).
 
 8. The loading zone is only for commercial vehicles during posted hours.
 
+<details><summary>Click to reveal answers</summary>
+
+1. _Está prohibido aparcar a menos de 5 metros de un paso de peatones._
+2. _Si me detengo un minuto pero salgo del coche, se considera estacionamiento, no parada._
+3. _¿Dónde puedo aparcar cerca del centro comercial Aqua?_
+4. _Me pusieron una multa de aparcamiento porque estaba en la zona azul sin ticket._
+5. _Al aparcar cuesta arriba, gire las ruedas alejadas del bordillo._
+6. _Aparcar en doble fila está prohibido — la grúa se llevará tu coche._
+7. _La tarjeta de estacionamiento para discapacitados pertenece a la persona, no al coche._
+8. _La zona de carga y descarga es solo para vehículos comerciales durante el horario indicado._
+
+</details>
+
 ---
 
 ## E. Situational Spanish — ¿Qué dices?
@@ -152,6 +205,15 @@ For each situation, write P (parada) or E (estacionamiento).
 3. You're looking for parking near the Ciudad de las Artes and want to ask a passerby where the nearest zona azul is.
 
 4. You want to explain to your daughter why you can't park in the disabled space even though it's the only one free.
+
+<details><summary>Click to reveal answers</summary>
+
+1. _Perdona, ¿sabes dónde puedo conseguir el permiso de aparcamiento de residente para Penya-Roja?_ (or: _¿Dónde se tramita la tarjeta de residente para la zona verde?_)
+2. _Pepe, ¡la grúa se llevó mi coche! Aparqué en un vado sin darme cuenta._
+3. _Disculpe, ¿hay zona azul cerca de la Ciudad de las Artes?_ (or: _¿Sabe dónde puedo aparcar por aquí?_)
+4. _No podemos aparcar ahí, cariño. Esa plaza es solo para personas con discapacidad. Necesitan la tarjeta especial._
+
+</details>
 
 ---
 
@@ -188,6 +250,30 @@ Complete the table for each verb.
 | él/ella     | se detiene    | se detuvo     |
 | nosotros    | nos detenemos | nos detuvimos |
 | ellos/ellas | se detienen   | se detuvieron |
+
+<details><summary>Click to reveal answers</summary>
+
+### APARCAR
+
+|             | Presente  | Pretérito                    |
+| ----------- | --------- | ---------------------------- |
+| yo          | aparco    | **aparqué** (c→qu before -e) |
+| tú          | aparcas   | aparcaste                    |
+| él/ella     | aparca    | aparcó                       |
+| nosotros    | aparcamos | aparcamos                    |
+| ellos/ellas | aparcan   | aparcaron                    |
+
+### ESTACIONAR
+
+|             | Presente     | Pretérito    |
+| ----------- | ------------ | ------------ |
+| yo          | estaciono    | estacioné    |
+| tú          | estacionas   | estacionaste |
+| él/ella     | estaciona    | estacionó    |
+| nosotros    | estacionamos | estacionamos |
+| ellos/ellas | estacionan   | estacionaron |
+
+</details>
 
 ---
 
@@ -229,92 +315,14 @@ Complete the table for each verb.
 - B) Giro las ruedas **alejadas del** bordillo (hacia la calzada) / Turn the wheels **away from** the kerb (towards the carriageway)
 - C) Dejo las ruedas rectas — el freno de mano es suficiente / Leave the wheels straight — the handbrake is enough
 
----
-
----
-
-# ✅ Answer Key — Clave de respuestas
-
-## A. Parada vs Estacionamiento
-
-1. **P** — Less than 2 minutes AND driver stays.
-2. **E** — Driver left the vehicle (time doesn't matter).
-3. **E** — More than 2 minutes (staying in car doesn't matter).
-4. **P** — Very brief, driver stays.
-5. **E** — Driver left for an extended time.
-6. **P** — Less than 2 minutes AND driver stays.
-7. **E** — Driver stepped out (even briefly).
-8. **Neither — this is a DETENCIÓN** (involuntary stop due to traffic regulation). Trick question!
-
-## B. DGT-Format Questions
-
-1. **B)** Parada
-2. **A)** R-307 prohíbe la parada y el estacionamiento; R-308 solo prohíbe el estacionamiento
-3. **B)** No, está prohibido
-4. **B)** Las ruedas delanteras alejadas del bordillo (a la izquierda) — so the car rolls into the kerb if brakes fail
-5. **B)** Solo vehículos que exhiban la tarjeta de estacionamiento para discapacitados
-6. **B)** Estacionamiento de duración limitada y de pago (zona azul)
-7. **C)** No, aparcar en doble fila está prohibido
-8. **B)** Parada de autobús — no aparcar ni parar
-
-## C. Fill in the Blank
-
-1. parada / dos
-2. estacionamiento
-3. aparcar
-4. grúa
-5. vado
-6. azul
-7. verde
-8. discapacidad
-9. bordillo
-
-## D. Translate the Phrase
-
-1. _Está prohibido aparcar a menos de 5 metros de un paso de peatones._
-2. _Si me detengo un minuto pero salgo del coche, se considera estacionamiento, no parada._
-3. _¿Dónde puedo aparcar cerca del centro comercial Aqua?_
-4. _Me pusieron una multa de aparcamiento porque estaba en la zona azul sin ticket._
-5. _Al aparcar cuesta arriba, gire las ruedas alejadas del bordillo._
-6. _Aparcar en doble fila está prohibido — la grúa se llevará tu coche._
-7. _La tarjeta de estacionamiento para discapacitados pertenece a la persona, no al coche._
-8. _La zona de carga y descarga es solo para vehículos comerciales durante el horario indicado._
-
-## E. Situational Spanish (suggested answers)
-
-1. _Perdona, ¿sabes dónde puedo conseguir el permiso de aparcamiento de residente para Penya-Roja?_ (or: _¿Dónde se tramita la tarjeta de residente para la zona verde?_)
-2. _Pepe, ¡la grúa se llevó mi coche! Aparqué en un vado sin darme cuenta._
-3. _Disculpe, ¿hay zona azul cerca de la Ciudad de las Artes?_ (or: _¿Sabe dónde puedo aparcar por aquí?_)
-4. _No podemos aparcar ahí, cariño. Esa plaza es solo para personas con discapacidad. Necesitan la tarjeta especial._
-
-## F. Conjugation Drill
-
-### APARCAR
-
-|             | Presente  | Pretérito                    |
-| ----------- | --------- | ---------------------------- |
-| yo          | aparco    | **aparqué** (c→qu before -e) |
-| tú          | aparcas   | aparcaste                    |
-| él/ella     | aparca    | aparcó                       |
-| nosotros    | aparcamos | aparcamos                    |
-| ellos/ellas | aparcan   | aparcaron                    |
-
-### ESTACIONAR
-
-|             | Presente     | Pretérito    |
-| ----------- | ------------ | ------------ |
-| yo          | estaciono    | estacioné    |
-| tú          | estacionas   | estacionaste |
-| él/ella     | estaciona    | estacionó    |
-| nosotros    | estacionamos | estacionamos |
-| ellos/ellas | estacionan   | estacionaron |
-
-## G. Case Scenarios
+<details><summary>Click to reveal answers</summary>
 
 1. **B)** Never park on a vado — even briefly; tow + fine guaranteed
 2. **B)** Park further away; only holders of the _tarjeta de movilidad reducida_ may use those spots (the card belongs to the person, not the vehicle, and can't be "borrowed")
 3. **B)** Double-parking is prohibited regardless of duration; the rule is about obstructing circulation, not about whether it's a parada or an estacionamiento
 4. **B)** Uphill kerb: wheels **away from the kerb** (toward the road). Downhill: wheels **toward the kerb**. Mnemonic: "uphill the wheels run to the road; downhill the wheels run to the kerb."
+
+</details>
 
 ---
 

@@ -25,6 +25,12 @@ Match each Spanish term with its correct DGT definition.
 | 9   | el peatón     |     | i) Motor vehicle for transporting people, max 9 seats including the driver         |
 | 10  | el turismo    |     | j) A person who travels on foot, including those pushing prams or walking bicycles |
 
+<details><summary>Click to reveal answers</summary>
+
+1-c, 2-a, 3-e, 4-b, 5-g, 6-h, 7-d, 8-f, 9-j, 10-i
+
+</details>
+
 ---
 
 ## B. DGT-Format Questions — Preguntas tipo DGT
@@ -101,6 +107,19 @@ Match each Spanish term with its correct DGT definition.
 - B) Estacionamiento, porque el conductor ha abandonado el vehículo / Parking, because the driver has left the vehicle
 - C) Detención / Involuntary stopping
 
+<details><summary>Click to reveal answers</summary>
+
+1. **B)** Una carretera con calzadas separadas, sin peaje, que puede tener acceso limitado
+2. **B)** Peatón
+3. **B)** La parada es menos de 2 minutos sin que el conductor abandone el vehículo
+4. **B)** El profesor que tiene los mandos adicionales
+5. **B)** Una franja longitudinal contigua a la calzada, no destinada al uso de vehículos automóviles salvo en circunstancias excepcionales
+6. **B)** Nueve (9)
+7. **B)** Un tramo de carretera interurbana que pasa por un poblado
+8. **B)** Estacionamiento, porque el conductor ha abandonado el vehículo
+
+</details>
+
 ---
 
 ## C. Fill in the Blank — Completa las frases
@@ -131,6 +150,23 @@ Match each Spanish term with its correct DGT definition.
 
 12. Una **\*\***\_**\*\*** es un punto donde los cruces se realizan al mismo nivel.
 
+<details><summary>Click to reveal answers</summary>
+
+1. calzada
+2. circular
+3. acera
+4. mediana
+5. carril
+6. glorieta
+7. peatón
+8. arcén
+9. turismo
+10. travesía
+11. autovía
+12. intersección
+
+</details>
+
 ---
 
 ## D. Translate the Phrase — Traduce la frase
@@ -150,6 +186,19 @@ Match each Spanish term with its correct DGT definition.
 7. The motorway has separated carriageways.
 
 8. A through-road passes through a built-up area.
+
+<details><summary>Click to reveal answers</summary>
+
+1. _Los vehículos circulan por la calzada._
+2. _El arcén no está destinado a la circulación normal._
+3. _Un peatón también es una persona que conduce a pie una bicicleta._
+4. _La glorieta tiene circulación giratoria._
+5. _Un turismo tiene un máximo de nueve plazas incluida la del conductor._
+6. _La parada significa menos de dos minutos sin abandonar el vehículo._
+7. _La autopista tiene calzadas separadas._
+8. _La travesía pasa por un poblado._
+
+</details>
 
 ---
 
@@ -177,6 +226,21 @@ Write V (verdadero) or F (falso).
 
 10. **\_** La calzada se compone de carriles.
 
+<details><summary>Click to reveal answers</summary>
+
+1. **F** — La autopista puede tener peaje. La autovía es gratuita.
+2. **F** — El arcén no está destinado a la circulación normal, solo circunstancias excepcionales.
+3. **V** — Velocidad máxima por construcción: 45 km/h.
+4. **F** — Si empujas una bicicleta a pie, eres peatón.
+5. **F** — El profesor/formador es legalmente el conductor.
+6. **V** — Definición correcta de glorieta.
+7. **F** — Un turismo tiene un máximo de nueve plazas (8 + conductor).
+8. **V** — El conductor ha abandonado el vehículo, así que es estacionamiento.
+9. **F** — La travesía es un tramo de carretera interurbana que pasa por un poblado, no una vía urbana.
+10. **V** — La calzada se compone de un cierto número de carriles.
+
+</details>
+
 ---
 
 ## F. Conjugation Drill — Practica los verbos
@@ -201,6 +265,30 @@ Write V (verdadero) or F (falso).
 | nosotros    | **\*\***\_**\*\*** | **\*\***\_**\*\*** |
 | ellos/ellas | **\*\***\_**\*\*** | **\*\***\_**\*\*** |
 
+<details><summary>Click to reveal answers</summary>
+
+### CIRCULAR
+
+|             | Presente   | Pretérito  |
+| ----------- | ---------- | ---------- |
+| yo          | circulo    | circulé    |
+| tú          | circulas   | circulaste |
+| él/ella     | circula    | circuló    |
+| nosotros    | circulamos | circulamos |
+| ellos/ellas | circulan   | circularon |
+
+### CRUZAR
+
+|             | Presente | Pretérito |
+| ----------- | -------- | --------- |
+| yo          | cruzo    | crucé     |
+| tú          | cruzas   | cruzaste  |
+| él/ella     | cruza    | cruzó     |
+| nosotros    | cruzamos | cruzamos  |
+| ellos/ellas | cruzan   | cruzaron  |
+
+</details>
+
 ---
 
 ## G. Road Parts Diagram — Label in Spanish
@@ -223,89 +311,7 @@ Fill in the 7 labels:
 6. **\*\***\_**\*\*** (right hard shoulder)
 7. **\*\***\_**\*\*** (right pedestrian zone)
 
----
-
----
-
-# ✅ Answer Key — Clave de respuestas
-
-## A. Definition Matching
-
-1-c, 2-a, 3-e, 4-b, 5-g, 6-h, 7-d, 8-f, 9-j, 10-i
-
-## B. DGT-Format Questions
-
-1. **B)** Una carretera con calzadas separadas, sin peaje, que puede tener acceso limitado
-2. **B)** Peatón
-3. **B)** La parada es menos de 2 minutos sin que el conductor abandone el vehículo
-4. **B)** El profesor que tiene los mandos adicionales
-5. **B)** Una franja longitudinal contigua a la calzada, no destinada al uso de vehículos automóviles salvo en circunstancias excepcionales
-6. **B)** Nueve (9)
-7. **B)** Un tramo de carretera interurbana que pasa por un poblado
-8. **B)** Estacionamiento, porque el conductor ha abandonado el vehículo
-
-## C. Fill in the Blank
-
-1. calzada
-2. circular
-3. acera
-4. mediana
-5. carril
-6. glorieta
-7. peatón
-8. arcén
-9. turismo
-10. travesía
-11. autovía
-12. intersección
-
-## D. Translate the Phrase
-
-1. _Los vehículos circulan por la calzada._
-2. _El arcén no está destinado a la circulación normal._
-3. _Un peatón también es una persona que conduce a pie una bicicleta._
-4. _La glorieta tiene circulación giratoria._
-5. _Un turismo tiene un máximo de nueve plazas incluida la del conductor._
-6. _La parada significa menos de dos minutos sin abandonar el vehículo._
-7. _La autopista tiene calzadas separadas._
-8. _La travesía pasa por un poblado._
-
-## E. True or False
-
-1. **F** — La autopista puede tener peaje. La autovía es gratuita.
-2. **F** — El arcén no está destinado a la circulación normal, solo circunstancias excepcionales.
-3. **V** — Velocidad máxima por construcción: 45 km/h.
-4. **F** — Si empujas una bicicleta a pie, eres peatón.
-5. **F** — El profesor/formador es legalmente el conductor.
-6. **V** — Definición correcta de glorieta.
-7. **F** — Un turismo tiene un máximo de nueve plazas (8 + conductor).
-8. **V** — El conductor ha abandonado el vehículo, así que es estacionamiento.
-9. **F** — La travesía es un tramo de carretera interurbana que pasa por un poblado, no una vía urbana.
-10. **V** — La calzada se compone de un cierto número de carriles.
-
-## F. Conjugation Drill
-
-### CIRCULAR
-
-|             | Presente   | Pretérito  |
-| ----------- | ---------- | ---------- |
-| yo          | circulo    | circulé    |
-| tú          | circulas   | circulaste |
-| él/ella     | circula    | circuló    |
-| nosotros    | circulamos | circulamos |
-| ellos/ellas | circulan   | circularon |
-
-### CRUZAR
-
-|             | Presente | Pretérito |
-| ----------- | -------- | --------- |
-| yo          | cruzo    | crucé     |
-| tú          | cruzas   | cruzaste  |
-| él/ella     | cruza    | cruzó     |
-| nosotros    | cruzamos | cruzamos  |
-| ellos/ellas | cruzan   | cruzaron  |
-
-## G. Road Parts Diagram
+<details><summary>Click to reveal answers</summary>
 
 1. **Acera** (pavement — US: sidewalk)
 2. **Arcén** (hard shoulder)
@@ -314,6 +320,8 @@ Fill in the 7 labels:
 5. **Calzada** (carriageway)
 6. **Arcén** (hard shoulder)
 7. **Acera** (pavement)
+
+</details>
 
 ---
 
@@ -346,7 +354,11 @@ Fill in the 7 labels:
 - B) El permiso B basta si la suma MMA ≤ 4.250 kg / The B licence is enough if the combined MAM is 4,250 kg or less
 - C) Solo se admite con permiso C / Only allowed with the C licence
 
-**Answers / Respuestas:** 1-B, 2-B, 3-B
+<details><summary>Click to reveal answers</summary>
+
+1-B, 2-B, 3-B
+
+</details>
 
 ---
 

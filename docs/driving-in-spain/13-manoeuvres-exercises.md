@@ -23,6 +23,12 @@
 | 9   | la distancia lateral |     | i) to pass (a stopped vehicle) |
 | 10  | rebasar              |     | j) the lateral distance        |
 
+<details><summary>Click to reveal answers</summary>
+
+1-c, 2-h, 3-e, 4-g, 5-b, 6-a, 7-d, 8-f, 9-j, 10-i
+
+</details>
+
 ---
 
 ## B. True or False — Verdadero o Falso
@@ -42,6 +48,19 @@
 7. Reversing on a motorway is permitted if you missed your exit. \_\_\_\_
 
 8. When turning into a new street, pedestrians crossing that street always have priority. \_\_\_\_
+
+<details><summary>Click to reveal answers</summary>
+
+1. **False** — Overtaking on the right is only permitted in specific exceptions (vehicle signalling left turn, multi-lane flowing traffic)
+2. **True** — 2026 rule allows crossing solid line to maintain 1.5m from cyclist/stopped vehicle if safe
+3. **True** — Maximum 15 metres (or the minimum necessary for the manoeuvre)
+4. **True** — R-303 prohibits both left turns AND U-turns
+5. **False** — The +20 km/h overtaking margin was removed in 2022. You can NEVER exceed the speed limit to overtake
+6. **True** — Mandatory, and failing to do so is a common reason for failing the practical exam
+7. **False** — Reversing on a motorway is ALWAYS prohibited. Continue to the next exit
+8. **True** — Pedestrians crossing the street you are turning into always have priority
+
+</details>
 
 ---
 
@@ -182,6 +201,26 @@
 - B) 2.000–2.500 rpm
 - C) 3.500–4.000 rpm
 
+<details><summary>Click to reveal answers</summary>
+
+1. **B)** Por la izquierda / On the left
+2. **B)** 70 km/h (reduce by at least 20 km/h below the road's limit)
+3. **B)** 1,5 metros
+4. **B)** Cuando el vehículo delantero señaliza un giro a la izquierda
+5. **B)** 15 metros
+6. **B)** El cambio de sentido / U-turns
+7. **B)** No, nunca se puede superar el límite
+8. **C)** Continuar hasta la próxima salida
+9. **C)** Nunca — la marcha atrás está totalmente prohibida en autopista y autovía
+10. **B)** 1,5 metros
+11. **B)** Mantener la marcha engranada y soltar el acelerador — freno motor
+12. **A)** Con visibilidad suficiente y línea no continua
+13. **B)** En paso a nivel o sus inmediaciones (también túneles, cambios de rasante, pasos de peatones)
+14. **A)** Mirar retrovisores y señalizar con el intermitente izquierdo
+15. **B)** 2.000–2.500 rpm (subir de marcha pronto)
+
+</details>
+
 ---
 
 ## D. Order the Steps — Ordena los pasos
@@ -193,6 +232,16 @@ Put the 5 steps of a safe overtake in the correct order:
 - \_\_\_ Pass without exceeding the speed limit
 - \_\_\_ Signal left
 - \_\_\_ Move into the left lane when safe
+
+<details><summary>Click to reveal answers</summary>
+
+1. Check mirrors and blind spot
+2. Signal left
+3. Move into the left lane when safe
+4. Pass without exceeding the speed limit
+5. Return to your lane and signal right
+
+</details>
 
 ---
 
@@ -215,6 +264,19 @@ Put the 5 steps of a safe overtake in the correct order:
 7. No se puede superar el límite de \_\_\_\_\_\_\_\_ para adelantar.
 
 8. Pon el \_\_\_\_\_\_\_\_ antes de cambiar de carril.
+
+<details><summary>Click to reveal answers</summary>
+
+1. izquierda
+2. 1.5
+3. 15
+4. ángulo muerto
+5. señalizar
+6. R-303
+7. velocidad
+8. intermitente
+
+</details>
 
 ---
 
@@ -240,6 +302,30 @@ Put the 5 steps of a safe overtake in the correct order:
 | nosotros    | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 | ellos/ellas | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 
+<details><summary>Click to reveal answers</summary>
+
+### ADELANTAR
+
+|             | Presente    | Pretérito   |
+| ----------- | ----------- | ----------- |
+| yo          | adelanto    | adelanté    |
+| tú          | adelantas   | adelantaste |
+| él/ella     | adelanta    | adelantó    |
+| nosotros    | adelantamos | adelantamos |
+| ellos/ellas | adelantan   | adelantaron |
+
+### SEÑALIZAR
+
+|             | Presente    | Pretérito   |
+| ----------- | ----------- | ----------- |
+| yo          | señalizo    | señalicé    |
+| tú          | señalizas   | señalizaste |
+| él/ella     | señaliza    | señalizó    |
+| nosotros    | señalizamos | señalizamos |
+| ellos/ellas | señalizan   | señalizaron |
+
+</details>
+
 ---
 
 ## G. Situational Spanish — ¿Qué dices?
@@ -249,6 +335,14 @@ Put the 5 steps of a safe overtake in the correct order:
 2. You need to explain to a friend that you can't do a U-turn because there's an R-303 sign.
 
 3. You want to describe to Pepe that you overtook a cyclist safely — you slowed down and gave 1.5 metres.
+
+<details><summary>Click to reveal answers</summary>
+
+1. _No adelanté porque la línea continua estaba de mi lado._ (or: _No pude adelantar — tenía la línea continua._)
+2. _No se puede hacer un cambio de sentido aquí porque hay una señal R-303. La señal de prohibido girar a la izquierda también prohíbe el cambio de sentido._
+3. _Adelanté a un ciclista en la carretera. Reduje la velocidad a 70 kilómetros por hora y le di un metro y medio de distancia lateral._
+
+</details>
 
 ---
 
@@ -290,98 +384,14 @@ Put the 5 steps of a safe overtake in the correct order:
 - B) Haz un cambio de sentido en el primer hueco de la mediana / Make a U-turn at the first gap in the central reservation
 - C) Continúa hasta la siguiente salida y sale allí / Carry on to the next exit and leave there
 
----
-
----
-
-# ✅ Answer Key — Clave de respuestas
-
-## A. Vocabulary Matching
-
-1-c, 2-h, 3-e, 4-g, 5-b, 6-a, 7-d, 8-f, 9-j, 10-i
-
-## B. True or False
-
-1. **False** — Overtaking on the right is only permitted in specific exceptions (vehicle signalling left turn, multi-lane flowing traffic)
-2. **True** — 2026 rule allows crossing solid line to maintain 1.5m from cyclist/stopped vehicle if safe
-3. **True** — Maximum 15 metres (or the minimum necessary for the manoeuvre)
-4. **True** — R-303 prohibits both left turns AND U-turns
-5. **False** — The +20 km/h overtaking margin was removed in 2022. You can NEVER exceed the speed limit to overtake
-6. **True** — Mandatory, and failing to do so is a common reason for failing the practical exam
-7. **False** — Reversing on a motorway is ALWAYS prohibited. Continue to the next exit
-8. **True** — Pedestrians crossing the street you are turning into always have priority
-
-## C. DGT-Format Questions
-
-1. **B)** Por la izquierda / On the left
-2. **B)** 70 km/h (reduce by at least 20 km/h below the road's limit)
-3. **B)** 1,5 metros
-4. **B)** Cuando el vehículo delantero señaliza un giro a la izquierda
-5. **B)** 15 metros
-6. **B)** El cambio de sentido / U-turns
-7. **B)** No, nunca se puede superar el límite
-8. **C)** Continuar hasta la próxima salida
-9. **C)** Nunca — la marcha atrás está totalmente prohibida en autopista y autovía
-10. **B)** 1,5 metros
-11. **B)** Mantener la marcha engranada y soltar el acelerador — freno motor
-12. **A)** Con visibilidad suficiente y línea no continua
-13. **B)** En paso a nivel o sus inmediaciones (también túneles, cambios de rasante, pasos de peatones)
-14. **A)** Mirar retrovisores y señalizar con el intermitente izquierdo
-15. **B)** 2.000–2.500 rpm (subir de marcha pronto)
-
-## D. Order the Steps
-
-1. Check mirrors and blind spot
-2. Signal left
-3. Move into the left lane when safe
-4. Pass without exceeding the speed limit
-5. Return to your lane and signal right
-
-## E. Fill in the Blank
-
-1. izquierda
-2. 1.5
-3. 15
-4. ángulo muerto
-5. señalizar
-6. R-303
-7. velocidad
-8. intermitente
-
-## F. Conjugation Drill
-
-### ADELANTAR
-
-|             | Presente    | Pretérito   |
-| ----------- | ----------- | ----------- |
-| yo          | adelanto    | adelanté    |
-| tú          | adelantas   | adelantaste |
-| él/ella     | adelanta    | adelantó    |
-| nosotros    | adelantamos | adelantamos |
-| ellos/ellas | adelantan   | adelantaron |
-
-### SEÑALIZAR
-
-|             | Presente    | Pretérito   |
-| ----------- | ----------- | ----------- |
-| yo          | señalizo    | señalicé    |
-| tú          | señalizas   | señalizaste |
-| él/ella     | señaliza    | señalizó    |
-| nosotros    | señalizamos | señalizamos |
-| ellos/ellas | señalizan   | señalizaron |
-
-## G. Situational Spanish (suggested answers)
-
-1. _No adelanté porque la línea continua estaba de mi lado._ (or: _No pude adelantar — tenía la línea continua._)
-2. _No se puede hacer un cambio de sentido aquí porque hay una señal R-303. La señal de prohibido girar a la izquierda también prohíbe el cambio de sentido._
-3. _Adelanté a un ciclista en la carretera. Reduje la velocidad a 70 kilómetros por hora y le di un metro y medio de distancia lateral._
-
-## H. Case Scenarios
+<details><summary>Click to reveal answers</summary>
 
 1. **B)** Abort or delay — you can never exceed the limit to finish an overtake
 2. **B)** Stop the turn and let the dangerous driver pass; safety first
 3. **B)** Full stop and look; apagado traffic lights at a level crossing do not mean "go"
 4. **C)** Continue to the next exit; motorway U-turns and reversing are always prohibited
+
+</details>
 
 ---
 

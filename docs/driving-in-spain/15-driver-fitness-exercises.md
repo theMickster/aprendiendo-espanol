@@ -23,6 +23,12 @@
 | 9   | el tiempo de reacción    |     | i) the distraction         |
 | 10  | el alcoholímetro         |     | j) the breathalyser        |
 
+<details><summary>Click to reveal answers</summary>
+
+1-c, 2-a, 3-e, 4-b, 5-f, 6-i, 7-d, 8-g, 9-h, 10-j
+
+</details>
+
 ---
 
 ## B. Number Recall — ¿Cuál es el número?
@@ -41,6 +47,23 @@ Fill in the correct number for each fact.
 | 8   | At 0.5 g/l BAC, crash risk multiplied by             | \_\_\_\_\_\_ |
 | 9   | Body eliminates approx. this many g/l per hour       | \_\_\_\_\_\_ |
 | 10  | Prison sentence for REFUSING a breathalyser (months) | \_\_\_\_\_\_ |
+
+<details><summary>Click to reveal answers</summary>
+
+| #   | Fact                     | Answer                                        |
+| --- | ------------------------ | --------------------------------------------- |
+| 1   | General BAC blood        | **0.5 g/l**                                   |
+| 2   | Novice BAC blood         | **0.3 g/l**                                   |
+| 3   | General BAC breath       | **0.25 mg/l**                                 |
+| 4   | Max continuous driving   | **2 hours**                                   |
+| 5   | Minimum rest break       | **15–20 minutes**                             |
+| 6   | Phone fine               | **€200**                                      |
+| 7   | Phone points lost        | **6 points** (post-2022 reform — Ley 18/2021) |
+| 8   | Crash risk at 0.5 g/l    | **2x (doubled)**                              |
+| 9   | Alcohol elimination rate | **0.10–0.15 g/l**                             |
+| 10  | Prison for refusing test | **6–12 months**                               |
+
+</details>
 
 ---
 
@@ -136,6 +159,21 @@ Fill in the correct number for each fact.
 - B) Sí, si es menos de 0,3 g/l / Yes, if it's less than 0.3 g/l
 - C) No, cualquier resultado positivo está prohibido / No, any positive result is prohibited
 
+<details><summary>Click to reveal answers</summary>
+
+1. **B)** 0,5 g/l
+2. **B)** 0,3 g/l
+3. **C)** Es un delito penal castigado con prisión de 6 a 12 meses
+4. **C)** Parar en un lugar seguro y descansar
+5. **B)** Cada 2 horas
+6. **B)** El medicamento puede afectar a la capacidad de conducir
+7. **B)** No, está prohibido en cualquier circunstancia
+8. **C)** Ninguna — solo el tiempo
+9. **B)** El doble que un conductor sobrio
+10. **C)** No, cualquier resultado positivo está prohibido
+
+</details>
+
 ---
 
 ## D. Fill in the Blank — Completa las frases
@@ -160,6 +198,20 @@ Fill in the correct number for each fact.
 
 9. Es obligatorio llevar el \_\_\_\_\_\_\_\_ de seguridad.
 
+<details><summary>Click to reveal answers</summary>
+
+1. 0,5
+2. 0,3
+3. Negarse / delito
+4. descansar
+5. alcoholímetro
+6. somnolencia
+7. medicamento
+8. móvil
+9. cinturón
+
+</details>
+
 ---
 
 ## E. Translate the Phrase — Traduce la frase
@@ -179,6 +231,19 @@ Fill in the correct number for each fact.
 7. Coffee does not eliminate alcohol — only time does.
 
 8. Alcohol doubles the risk of an accident at 0.5 g/l.
+
+<details><summary>Click to reveal answers</summary>
+
+1. _Si bebes, no conduzcas._
+2. _La tasa máxima de alcoholemia para un conductor novel es 0,3 g/l._
+3. _Negarse a la prueba del alcoholímetro es un delito penal._
+4. _Para y descansa cada dos horas._
+5. _Este medicamento puede afectar a la capacidad de conducir._
+6. _No se puede usar el móvil en la mano, ni siquiera en un semáforo en rojo._
+7. _El café no elimina el alcohol — solo el tiempo lo hace._
+8. _El alcohol duplica el riesgo de accidente con 0,5 g/l._
+
+</details>
 
 ---
 
@@ -204,82 +269,7 @@ Fill in the correct number for each fact.
 | nosotros    | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 | ellos/ellas | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 
----
-
-## G. Situational Spanish — ¿Qué dices?
-
-1. A police officer at a checkpoint asks you to blow into the breathalyser. What do you say?
-
-2. You want to tell Pepe that you can't have a second beer because you're driving.
-
-3. You want to explain to your daughter why you're stopping at a rest area on the way to Madrid — you've been driving for 2 hours.
-
-4. You're at the pharmacy and want to ask if a medication affects driving ability.
-
-5. You want to tell a friend that in Spain, refusing a breathalyser test is worse than being slightly over the limit.
-
----
-
----
-
-# ✅ Answer Key — Clave de respuestas
-
-## A. Vocabulary Matching
-
-1-c, 2-a, 3-e, 4-b, 5-f, 6-i, 7-d, 8-g, 9-h, 10-j
-
-## B. Number Recall
-
-| #   | Fact                     | Answer                                        |
-| --- | ------------------------ | --------------------------------------------- |
-| 1   | General BAC blood        | **0.5 g/l**                                   |
-| 2   | Novice BAC blood         | **0.3 g/l**                                   |
-| 3   | General BAC breath       | **0.25 mg/l**                                 |
-| 4   | Max continuous driving   | **2 hours**                                   |
-| 5   | Minimum rest break       | **15–20 minutes**                             |
-| 6   | Phone fine               | **€200**                                      |
-| 7   | Phone points lost        | **6 points** (post-2022 reform — Ley 18/2021) |
-| 8   | Crash risk at 0.5 g/l    | **2x (doubled)**                              |
-| 9   | Alcohol elimination rate | **0.10–0.15 g/l**                             |
-| 10  | Prison for refusing test | **6–12 months**                               |
-
-## C. DGT-Format Questions
-
-1. **B)** 0,5 g/l
-2. **B)** 0,3 g/l
-3. **C)** Es un delito penal castigado con prisión de 6 a 12 meses
-4. **C)** Parar en un lugar seguro y descansar
-5. **B)** Cada 2 horas
-6. **B)** El medicamento puede afectar a la capacidad de conducir
-7. **B)** No, está prohibido en cualquier circunstancia
-8. **C)** Ninguna — solo el tiempo
-9. **B)** El doble que un conductor sobrio
-10. **C)** No, cualquier resultado positivo está prohibido
-
-## D. Fill in the Blank
-
-1. 0,5
-2. 0,3
-3. Negarse / delito
-4. descansar
-5. alcoholímetro
-6. somnolencia
-7. medicamento
-8. móvil
-9. cinturón
-
-## E. Translate the Phrase
-
-1. _Si bebes, no conduzcas._
-2. _La tasa máxima de alcoholemia para un conductor novel es 0,3 g/l._
-3. _Negarse a la prueba del alcoholímetro es un delito penal._
-4. _Para y descansa cada dos horas._
-5. _Este medicamento puede afectar a la capacidad de conducir._
-6. _No se puede usar el móvil en la mano, ni siquiera en un semáforo en rojo._
-7. _El café no elimina el alcohol — solo el tiempo lo hace._
-8. _El alcohol duplica el riesgo de accidente con 0,5 g/l._
-
-## F. Conjugation Drill
+<details><summary>Click to reveal answers</summary>
 
 ### AFECTAR
 
@@ -301,13 +291,31 @@ Fill in the correct number for each fact.
 | nosotros    | nos negamos | nos negamos |
 | ellos/ellas | se niegan   | se negaron  |
 
-## G. Situational Spanish (suggested answers)
+</details>
+
+---
+
+## G. Situational Spanish — ¿Qué dices?
+
+1. A police officer at a checkpoint asks you to blow into the breathalyser. What do you say?
+
+2. You want to tell Pepe that you can't have a second beer because you're driving.
+
+3. You want to explain to your daughter why you're stopping at a rest area on the way to Madrid — you've been driving for 2 hours.
+
+4. You're at the pharmacy and want to ask if a medication affects driving ability.
+
+5. You want to tell a friend that in Spain, refusing a breathalyser test is worse than being slightly over the limit.
+
+<details><summary>Click to reveal answers</summary>
 
 1. _Sí, por supuesto. No hay problema._ (or: _Claro, ahora mismo._) — Always cooperate!
 2. _No puedo tomar otra cerveza, Pepe. Voy conduciendo._ (or: _Una es suficiente — tengo que conducir._)
 3. _Llevamos dos horas conduciendo. La DGT recomienda parar cada dos horas para descansar._ (or: _Vamos a parar un rato — es más seguro._)
 4. _Perdone, ¿este medicamento afecta a la conducción?_ (or: _¿Puedo conducir si tomo este medicamento?_)
 5. _En España, negarse a soplar en el alcoholímetro es peor que dar un poco positivo. Es un delito con pena de cárcel._
+
+</details>
 
 ---
 
@@ -340,7 +348,11 @@ Fill in the correct number for each fact.
 - B) Consulta al médico o farmacéutico antes de conducir — puede afectar a la capacidad de conducción / Consult your doctor or pharmacist before driving — it may affect driving ability
 - C) Solo afecta si se combina con alcohol / Only an issue if combined with alcohol
 
-**Answers / Respuestas:** 1-B, 2-C, 3-B
+<details><summary>Click to reveal answers</summary>
+
+1-B, 2-C, 3-B
+
+</details>
 
 ---
 

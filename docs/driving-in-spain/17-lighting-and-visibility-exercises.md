@@ -23,6 +23,12 @@
 | 9   | encender                        |     | i) the tunnel            |
 | 10  | apagar                          |     | j) to turn off           |
 
+<details><summary>Click to reveal answers</summary>
+
+1-c, 2-d, 3-f, 4-b, 5-a, 6-e, 7-i, 8-g, 9-h, 10-j
+
+</details>
+
 ---
 
 ## B. What Lights? — ¿Qué luces usa?
@@ -44,6 +50,19 @@ For each driving situation, write which lights you should use.
 7. Motorcycle during the day on a sunny road: \_\_\_\_\_\_\_\_\_\_
 
 8. Vehicle broken down on the hard shoulder (2026): \_\_\_\_\_\_\_\_\_\_
+
+<details><summary>Click to reveal answers</summary>
+
+1. **Full beam (luces de carretera)** + position lights
+2. **Dipped beam (luces de cruce)** — switch from full beam
+3. **Dipped beam (luces de cruce)**
+4. **Dipped beam + front fog lights.** Rear fog light in dense fog. NEVER full beam.
+5. **Position lights (luces de posición)** minimum
+6. **Dipped beam (luces de cruce)** only
+7. **Dipped beam (luces de cruce)** — motorcycles must have them on 24/7
+8. **Hazard lights (luces de emergencia) + V-16 beacon** on roof + position lights
+
+</details>
 
 ---
 
@@ -121,6 +140,19 @@ For each driving situation, write which lights you should use.
 - B) Luces de emergencia y la baliza V-16 / Hazard lights and the V-16 beacon
 - C) Solo las luces de posición / Only sidelights
 
+<details><summary>Click to reveal answers</summary>
+
+1. **B)** Luces de cruce y antiniebla delanteras
+2. **B)** Porque se reflejan en la niebla y deslumbran al propio conductor
+3. **B)** Luces de cruce (corto alcance)
+4. **B)** Cuando la visibilidad mejore
+5. **B)** Mirar al borde derecho de la vía, reducir la velocidad y hacer una ráfaga
+6. **B)** Sí, siempre — de día y de noche
+7. **B)** No, está prohibido y se multa con 200 euros
+8. **B)** Luces de emergencia y la baliza V-16
+
+</details>
+
 ---
 
 ## D. Fill in the Blank — Completa las frases
@@ -145,6 +177,20 @@ For each driving situation, write which lights you should use.
 
 9. En 2026, active la baliza \_\_\_\_\_\_\_\_ en caso de avería.
 
+<details><summary>Click to reveal answers</summary>
+
+1. túnel
+2. carretera
+3. cruce
+4. trasera
+5. emergencia
+6. motocicletas
+7. posición
+8. deslumbrar
+9. V-16
+
+</details>
+
 ---
 
 ## E. Translate the Phrase — Traduce la frase
@@ -164,6 +210,19 @@ For each driving situation, write which lights you should use.
 7. In 2026, use the V-16 beacon and hazard lights if your car breaks down.
 
 8. At night on a lit city street, use dipped headlights only — not full beam.
+
+<details><summary>Click to reveal answers</summary>
+
+1. _Encienda las luces de cruce al entrar en el túnel._
+2. _Nunca use las luces de carretera con niebla — le deslumbrarán._
+3. _Apague la luz antiniebla trasera cuando mejore la visibilidad._
+4. _Las motocicletas deben llevar las luces de cruce encendidas siempre, incluso de día._
+5. _Hacer ráfagas de luces para avisar de un control policial es ilegal._
+6. _Si le deslumbran, mire al borde derecho de la vía y reduzca la velocidad._
+7. _En 2026, use la baliza V-16 y las luces de emergencia si su coche se avería._
+8. _De noche en una calle iluminada, use solo luces de cruce — no las de carretera._
+
+</details>
 
 ---
 
@@ -189,74 +248,7 @@ For each driving situation, write which lights you should use.
 | nosotros    | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 | ellos/ellas | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 
----
-
-## G. Situational Spanish — ¿Qué dices?
-
-1. You're driving into a tunnel and need to remind your daughter to notice that you turn on the dipped headlights.
-
-2. You want to tell Pepe that you got a fine because you left the rear fog light on after the fog cleared.
-
-3. Your passenger asks why you're not using full beam in the fog. Explain why in Spanish.
-
-4. You need to tell your driving instructor that an oncoming car dazzled you and you didn't know what to do.
-
----
-
----
-
-# ✅ Answer Key — Clave de respuestas
-
-## A. Vocabulary Matching
-
-1-c, 2-d, 3-f, 4-b, 5-a, 6-e, 7-i, 8-g, 9-h, 10-j
-
-## B. What Lights?
-
-1. **Full beam (luces de carretera)** + position lights
-2. **Dipped beam (luces de cruce)** — switch from full beam
-3. **Dipped beam (luces de cruce)**
-4. **Dipped beam + front fog lights.** Rear fog light in dense fog. NEVER full beam.
-5. **Position lights (luces de posición)** minimum
-6. **Dipped beam (luces de cruce)** only
-7. **Dipped beam (luces de cruce)** — motorcycles must have them on 24/7
-8. **Hazard lights (luces de emergencia) + V-16 beacon** on roof + position lights
-
-## C. DGT-Format Questions
-
-1. **B)** Luces de cruce y antiniebla delanteras
-2. **B)** Porque se reflejan en la niebla y deslumbran al propio conductor
-3. **B)** Luces de cruce (corto alcance)
-4. **B)** Cuando la visibilidad mejore
-5. **B)** Mirar al borde derecho de la vía, reducir la velocidad y hacer una ráfaga
-6. **B)** Sí, siempre — de día y de noche
-7. **B)** No, está prohibido y se multa con 200 euros
-8. **B)** Luces de emergencia y la baliza V-16
-
-## D. Fill in the Blank
-
-1. túnel
-2. carretera
-3. cruce
-4. trasera
-5. emergencia
-6. motocicletas
-7. posición
-8. deslumbrar
-9. V-16
-
-## E. Translate the Phrase
-
-1. _Encienda las luces de cruce al entrar en el túnel._
-2. _Nunca use las luces de carretera con niebla — le deslumbrarán._
-3. _Apague la luz antiniebla trasera cuando mejore la visibilidad._
-4. _Las motocicletas deben llevar las luces de cruce encendidas siempre, incluso de día._
-5. _Hacer ráfagas de luces para avisar de un control policial es ilegal._
-6. _Si le deslumbran, mire al borde derecho de la vía y reduzca la velocidad._
-7. _En 2026, use la baliza V-16 y las luces de emergencia si su coche se avería._
-8. _De noche en una calle iluminada, use solo luces de cruce — no las de carretera._
-
-## F. Conjugation Drill
+<details><summary>Click to reveal answers</summary>
 
 ### ENCENDER
 
@@ -278,12 +270,28 @@ For each driving situation, write which lights you should use.
 | nosotros    | apagamos | apagamos  |
 | ellos/ellas | apagan   | apagaron  |
 
-## G. Situational Spanish (suggested answers)
+</details>
+
+---
+
+## G. Situational Spanish — ¿Qué dices?
+
+1. You're driving into a tunnel and need to remind your daughter to notice that you turn on the dipped headlights.
+
+2. You want to tell Pepe that you got a fine because you left the rear fog light on after the fog cleared.
+
+3. Your passenger asks why you're not using full beam in the fog. Explain why in Spanish.
+
+4. You need to tell your driving instructor that an oncoming car dazzled you and you didn't know what to do.
+
+<details><summary>Click to reveal answers</summary>
 
 1. _Mira, enciendo las luces de cruce porque entramos en un túnel. Siempre hay que hacerlo._
 2. _Pepe, me multaron porque dejé la luz antiniebla trasera encendida después de que se fue la niebla._
 3. _No uso las luces de carretera porque con niebla se reflejan y me deslumbran. Es mejor usar las luces de cruce y las antiniebla._
 4. _Perdona, un coche de frente me deslumbró con las luces de carretera y no supe qué hacer. ¿Debo mirar al borde derecho?_
+
+</details>
 
 ---
 
@@ -316,7 +324,11 @@ For each driving situation, write which lights you should use.
 - B) Luces de cruce obligatorias / Dipped headlights compulsory
 - C) No hace falta ninguna luz / No lights needed
 
-**Answers / Respuestas:** 1-B, 2-B, 3-B
+<details><summary>Click to reveal answers</summary>
+
+1-B, 2-B, 3-B
+
+</details>
 
 ---
 

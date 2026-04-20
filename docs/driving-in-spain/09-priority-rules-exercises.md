@@ -23,6 +23,12 @@
 | 9   | señalizado              |     | i) unmarked / unsignposted |
 | 10  | la prioridad de paso    |     | j) the right of way        |
 
+<details><summary>Click to reveal answers</summary>
+
+1-f, 2-a, 3-b, 4-e, 5-d, 6-c, 7-i, 8-g, 9-h, 10-j
+
+</details>
+
 ---
 
 ## B. Who Has Priority? — ¿Quién tiene prioridad?
@@ -60,6 +66,19 @@ For each scenario, write who has priority and why.
 8. A tram approaches an unsignposted intersection from your left. **Who has priority?**
 
    \_\_\_\_\_\_\_\_\_\_ because \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<details><summary>Click to reveal answers</summary>
+
+1. **The car from the right** — because at unsignposted intersections, the right-hand rule applies.
+2. **You** — because vehicles on a paved road have priority over vehicles on unpaved roads.
+3. **The cars inside the roundabout** — because vehicles already circulating inside a roundabout have priority over those entering.
+4. **The vehicle going up** — because starting from a stop on an incline is more difficult.
+5. **You (already on the autovía)** — because vehicles on the road have priority over merging traffic.
+6. **The ambulance** — because emergency vehicles with sirens and lights activated always have priority.
+7. **The pedestrian** — because when a vehicle turns into another street, pedestrians crossing that street always have priority, even without a marked crossing.
+8. **The tram** — because rail vehicles always have priority at intersections, regardless of direction.
+
+</details>
 
 ---
 
@@ -155,6 +174,21 @@ For each scenario, write who has priority and why.
 - B) Los peatones / Pedestrians
 - C) Las bicicletas / Bicycles
 
+<details><summary>Click to reveal answers</summary>
+
+1. **B)** Al vehículo que viene de la derecha
+2. **B)** Los vehículos que ya circulan dentro
+3. **B)** Usted, porque circula por la vía pavimentada
+4. **B)** El que sube
+5. **B)** Los vehículos que ya circulan por la autovía
+6. **B)** El peatón, siempre que usted gira para entrar en otra vía
+7. **B)** Sí, el grupo se considera un solo vehículo
+8. **B)** Apartarse a la derecha y detenerse si es necesario
+9. **C)** No, nunca se puede con el semáforo en rojo, salvo flecha verde específica
+10. **B)** Los peatones
+
+</details>
+
 ---
 
 ## D. Fill in the Blank — Completa las frases
@@ -179,6 +213,20 @@ For each scenario, write who has priority and why.
 
 9. En una glorieta, se sale por el carril \_\_\_\_\_\_\_\_.
 
+<details><summary>Click to reveal answers</summary>
+
+1. señalizar
+2. glorieta
+3. peatones
+4. prioritario
+5. incorporarse
+6. pendiente / sube
+7. derecha
+8. pavimentada
+9. exterior
+
+</details>
+
 ---
 
 ## E. Translate the Phrase — Traduce la frase
@@ -199,6 +247,19 @@ For each scenario, write who has priority and why.
 
 8. I didn't yield and I got a fine.
 
+<details><summary>Click to reveal answers</summary>
+
+1. _Debes ceder el paso a los vehículos que vienen de la derecha._
+2. _En la glorieta, los vehículos que circulan dentro tienen prioridad._
+3. _En una pendiente, tiene prioridad el vehículo que sube._
+4. _Apártese a la derecha para dejar pasar a la ambulancia._
+5. _Los peatones siempre tienen prioridad en los pasos señalizados._
+6. _Al incorporarse, debe ceder el paso a los vehículos que ya circulan._
+7. _Los tranvías siempre tienen prioridad en las intersecciones._
+8. _No cedí el paso y me pusieron una multa._
+
+</details>
+
 ---
 
 ## F. Roundabout Sequencing — Ordena los pasos
@@ -216,6 +277,17 @@ Put these roundabout steps in the correct order (1–6):
 \_\_\_ Move to the outer lane before your exit
 
 \_\_\_ Circulate anticlockwise, signalling left
+
+<details><summary>Click to reveal answers</summary>
+
+**6** — Signal right and exit from the outer lane
+**2** — Yield to vehicles already inside
+**1** — Approach and reduce speed
+**3** — Signal left and enter from the right lane when safe
+**5** — Move to the outer lane before your exit
+**4** — Circulate anticlockwise, signalling left
+
+</details>
 
 ---
 
@@ -241,87 +313,7 @@ Put these roundabout steps in the correct order (1–6):
 | nosotros    | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 | ellos/ellas | \_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_ |
 
----
-
-## H. Situational Spanish — ¿Qué dices?
-
-1. You're at the bus stop and want to tell Pepe that you almost had an accident because a car didn't yield to you at a roundabout.
-
-2. You want to ask your driving instructor: "Who has priority at an unsignposted intersection?"
-
-3. You need to explain to your daughter why the car going uphill goes first on a narrow mountain road.
-
-4. You want to tell someone that in Spain, you can never turn right on a red light.
-
-5. You're driving and an ambulance is behind you with sirens on. Tell your passenger what you need to do.
-
----
-
----
-
-# ✅ Answer Key — Clave de respuestas
-
-## A. Vocabulary Matching
-
-1-f, 2-a, 3-b, 4-e, 5-d, 6-c, 7-i, 8-g, 9-h, 10-j
-
-## B. Who Has Priority?
-
-1. **The car from the right** — because at unsignposted intersections, the right-hand rule applies.
-2. **You** — because vehicles on a paved road have priority over vehicles on unpaved roads.
-3. **The cars inside the roundabout** — because vehicles already circulating inside a roundabout have priority over those entering.
-4. **The vehicle going up** — because starting from a stop on an incline is more difficult.
-5. **You (already on the autovía)** — because vehicles on the road have priority over merging traffic.
-6. **The ambulance** — because emergency vehicles with sirens and lights activated always have priority.
-7. **The pedestrian** — because when a vehicle turns into another street, pedestrians crossing that street always have priority, even without a marked crossing.
-8. **The tram** — because rail vehicles always have priority at intersections, regardless of direction.
-
-## C. DGT-Format Questions
-
-1. **B)** Al vehículo que viene de la derecha
-2. **B)** Los vehículos que ya circulan dentro
-3. **B)** Usted, porque circula por la vía pavimentada
-4. **B)** El que sube
-5. **B)** Los vehículos que ya circulan por la autovía
-6. **B)** El peatón, siempre que usted gira para entrar en otra vía
-7. **B)** Sí, el grupo se considera un solo vehículo
-8. **B)** Apartarse a la derecha y detenerse si es necesario
-9. **C)** No, nunca se puede con el semáforo en rojo, salvo flecha verde específica
-10. **B)** Los peatones
-
-## D. Fill in the Blank
-
-1. señalizar
-2. glorieta
-3. peatones
-4. prioritario
-5. incorporarse
-6. pendiente / sube
-7. derecha
-8. pavimentada
-9. exterior
-
-## E. Translate the Phrase
-
-1. _Debes ceder el paso a los vehículos que vienen de la derecha._
-2. _En la glorieta, los vehículos que circulan dentro tienen prioridad._
-3. _En una pendiente, tiene prioridad el vehículo que sube._
-4. _Apártese a la derecha para dejar pasar a la ambulancia._
-5. _Los peatones siempre tienen prioridad en los pasos señalizados._
-6. _Al incorporarse, debe ceder el paso a los vehículos que ya circulan._
-7. _Los tranvías siempre tienen prioridad en las intersecciones._
-8. _No cedí el paso y me pusieron una multa._
-
-## F. Roundabout Sequencing
-
-**6** — Signal right and exit from the outer lane
-**2** — Yield to vehicles already inside
-**1** — Approach and reduce speed
-**3** — Signal left and enter from the right lane when safe
-**5** — Move to the outer lane before your exit
-**4** — Circulate anticlockwise, signalling left
-
-## G. Conjugation Drill
+<details><summary>Click to reveal answers</summary>
 
 ### CEDER
 
@@ -343,13 +335,31 @@ Put these roundabout steps in the correct order (1–6):
 | nosotros    | nos incorporamos | nos incorporamos |
 | ellos/ellas | se incorporan    | se incorporaron  |
 
-## H. Situational Spanish (suggested answers)
+</details>
+
+---
+
+## H. Situational Spanish — ¿Qué dices?
+
+1. You're at the bus stop and want to tell Pepe that you almost had an accident because a car didn't yield to you at a roundabout.
+
+2. You want to ask your driving instructor: "Who has priority at an unsignposted intersection?"
+
+3. You need to explain to your daughter why the car going uphill goes first on a narrow mountain road.
+
+4. You want to tell someone that in Spain, you can never turn right on a red light.
+
+5. You're driving and an ambulance is behind you with sirens on. Tell your passenger what you need to do.
+
+<details><summary>Click to reveal answers</summary>
 
 1. _¡Pepe, casi tuve un accidente! Un coche no me cedió el paso en la glorieta._ (or: _Un coche se saltó la prioridad en la rotonda._)
 2. _¿Quién tiene prioridad en una intersección sin señalizar?_
 3. _El coche que sube tiene prioridad porque es más difícil arrancar en una cuesta._ (or: _En una pendiente, el que sube pasa primero._)
 4. _En España, nunca se puede girar a la derecha con el semáforo en rojo._
 5. _Tengo que apartarme a la derecha y parar para dejar pasar a la ambulancia._
+
+</details>
 
 ---
 
@@ -382,7 +392,11 @@ Put these roundabout steps in the correct order (1–6):
 - B) Me arrimo a la derecha y me detengo si hace falta, dejándole paso / I pull over to the right and stop if needed, letting it past
 - C) Freno bruscamente en seco / I brake hard and come to a dead stop
 
-**Answers / Respuestas:** 1-B, 2-B, 3-B
+<details><summary>Click to reveal answers</summary>
+
+1-B, 2-B, 3-B
+
+</details>
 
 ---
 
