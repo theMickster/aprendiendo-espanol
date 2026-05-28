@@ -212,6 +212,62 @@ While not obligation, **poder** often pairs with these expressions:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo tengo que estudiar más hoy_).
+
+### Tener que (obligación personal)
+
+|        1        |          2          |     3      |       4        |
+| :-------------: | :-----------------: | :--------: | :------------: |
+|       Yo        | tengo que estudiar  |    más     |      hoy       |
+|       Tú        |  tienes que comer   |    bien    |     mañana     |
+|       Él        | tiene que descansar |  a tiempo  |   esta noche   |
+|      Ella       | tenemos que hablar  | las reglas |    cada día    |
+|      Usted      |  tienen que volver  | el español | para el examen |
+|    Mi madre     |                     |  en casa   |  por tu salud  |
+| Los estudiantes |                     |  temprano  |  cuanto antes  |
+|    El médico    |                     | la verdad  |                |
+|  La profesora   |                     |            |                |
+|    Nosotros     |                     |            |                |
+|    Vosotros     |                     |            |                |
+|      Ellos      |                     |            |                |
+|     El niño     |                     |            |                |
+|     La niña     |                     |            |                |
+|  Todo el mundo  |                     |            |                |
+| Los ciudadanos  |                     |            |                |
+|     El jefe     |                     |            |                |
+|   El empleado   |                     |            |                |
+|   La empresa    |                     |            |                |
+|   El gobierno   |                     |            |                |
+
+### Hay que (obligación general)
+
+|        1        |         2         |     3      |       4        |
+| :-------------: | :---------------: | :--------: | :------------: |
+|       Yo        | hay que practicar |    más     |      hoy       |
+|       Tú        |   debes llegar    |    bien    |     mañana     |
+|       Él        |   debe respetar   |  a tiempo  |   esta noche   |
+|      Ella       |    hay que ser    | las reglas |    cada día    |
+|      Usted      |  debéis recordar  | el español | para el examen |
+|    Mi madre     |                   |  en casa   |  por tu salud  |
+| Los estudiantes |                   |  temprano  |  cuanto antes  |
+|    El médico    |                   | la verdad  |                |
+|  La profesora   |                   |            |                |
+|    Nosotros     |                   |            |                |
+|    Vosotros     |                   |            |                |
+|      Ellos      |                   |            |                |
+|     El niño     |                   |            |                |
+|     La niña     |                   |            |                |
+|  Todo el mundo  |                   |            |                |
+| Los ciudadanos  |                   |            |                |
+|     El jefe     |                   |            |                |
+|   El empleado   |                   |            |                |
+|   La empresa    |                   |            |                |
+|   El gobierno   |                   |            |                |
+
+---
+
 **Previous Lesson:** [07 - Gustar and Similar Verbs](07-gustar-and-similar-verbs.md)
 **Next Lesson:** [09 - Hace + Time Expressions](09-hace-time-expressions.md)
 

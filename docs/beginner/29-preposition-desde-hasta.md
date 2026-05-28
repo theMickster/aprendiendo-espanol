@@ -344,4 +344,52 @@ All answers are "desde hace"!
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo trabajo desde las nueve hasta las cinco_).
+
+### Singular
+
+|      1       |     2     |   3   |         4          |
+| :----------: | :-------: | :---: | :----------------: |
+|      Yo      |  trabajo  | desde |  hasta las cinco   |
+|      Tú      | estudias  | desde |  hasta el viernes  |
+|     Ella     |  espera   | desde |    hasta mañana    |
+|   Mi madre   | vive aquí | desde |    hasta ahora     |
+|   El perro   |  duerme   | desde |   hasta las ocho   |
+|   El gato    |  camina   | desde |  hasta el parque   |
+| La profesora |   canta   | desde | hasta el atardecer |
+|  El pájaro   |    va     | desde |  hasta la esquina  |
+|   Mi amigo   |           | desde |    hasta junio     |
+|  Mi vecino   |           | desde |   hasta las seis   |
+|   La chica   |           |       |     hasta allí     |
+|   El chico   |           |       |                    |
+|  Mi hermano  |           |       |                    |
+|  La abuela   |           |       |                    |
+|   El señor   |           |       |                    |
+|   La niña    |           |       |                    |
+
+### Plural
+
+|        1        |     2      |   3   |         4          |
+| :-------------: | :--------: | :---: | :----------------: |
+|    Nosotros     | trabajamos | desde |  hasta las cinco   |
+|    Vosotros     | estudiáis  | desde |  hasta el viernes  |
+|      Ellos      |  esperan   | desde |    hasta mañana    |
+|    Los niños    | viven aquí | desde |    hasta ahora     |
+|   Las chicas    |  duermen   | desde |   hasta las ocho   |
+|   Los señores   |  caminan   | desde |  hasta el parque   |
+|   Mis amigos    |   cantan   | desde | hasta el atardecer |
+|   Los pájaros   |    van     | desde |    hasta junio     |
+|  Mis hermanos   |            | desde |   hasta las seis   |
+| Las profesoras  |            | desde |     hasta allí     |
+|   Los abuelos   |            |       |  hasta la esquina  |
+|    Los gatos    |            |       |                    |
+|  Las familias   |            |       |                    |
+|   Los vecinos   |            |       |                    |
+|  Los turistas   |            |       |                    |
+| Los estudiantes |            |       |                    |
+
+---
+
 **Next Lesson:** [30-preposition-sobre.md](30-preposition-sobre.md) | **Previous Lesson:** [28-preposition-sin.md](28-preposition-sin.md)

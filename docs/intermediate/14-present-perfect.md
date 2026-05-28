@@ -249,6 +249,62 @@ In Valencia (and all of Spain), you'll notice people use the present perfect far
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _He hablado con mi madre hoy_).
+
+### Afirmativo
+
+|        1        |   2    |     3     |       4       |
+| :-------------: | :----: | :-------: | :-----------: |
+|       Yo        |   he   |  comido   |      hoy      |
+|       Tú        |  has   |    ido    |  esta semana  |
+|       Él        |   ha   |   hecho   |   este año    |
+|      Ella       | hemos  |  tenido   |      ya       |
+|      Usted      | habéis |   visto   |     nunca     |
+|    Mi madre     |  han   |  podido   |  alguna vez   |
+|    Mi padre     |        |   dicho   | muchas veces  |
+|  La profesora   |        |  escrito  |  esta mañana  |
+| Los estudiantes |        |  llegado  | recientemente |
+|    Nosotros     |        | estudiado |  todavía no   |
+|    Vosotros     |        | trabajado |               |
+|      Ellos      |        |  perdido  |               |
+|   Las chicas    |        |           |               |
+|   Mi hermano    |        |           |               |
+|   Mi hermana    |        |           |               |
+|    El equipo    |        |           |               |
+|   La familia    |        |           |               |
+|   El gobierno   |        |           |               |
+|    El médico    |        |           |               |
+|   La empresa    |        |           |               |
+
+### Negativo
+
+|        1        |     2     |     3     |       4       |
+| :-------------: | :-------: | :-------: | :-----------: |
+|       Yo        |   no he   |  comido   |      hoy      |
+|       Tú        |  no has   |    ido    |  esta semana  |
+|       Él        |   no ha   |   hecho   |   este año    |
+|      Ella       | no hemos  |  tenido   |      ya       |
+|      Usted      | no habéis |   visto   |     nunca     |
+|    Mi madre     |  no han   |  podido   |  alguna vez   |
+|    Mi padre     |           |   dicho   | muchas veces  |
+|  La profesora   |           |  escrito  |  esta mañana  |
+| Los estudiantes |           |  llegado  | recientemente |
+|    Nosotros     |           | estudiado |  todavía no   |
+|    Vosotros     |           | trabajado |               |
+|      Ellos      |           |  perdido  |               |
+|   Las chicas    |           |           |               |
+|   Mi hermano    |           |           |               |
+|   Mi hermana    |           |           |               |
+|    El equipo    |           |           |               |
+|   La familia    |           |           |               |
+|   El gobierno   |           |           |               |
+|    El médico    |           |           |               |
+|   La empresa    |           |           |               |
+
+---
+
 **Previous Lesson:** [13 - Reflexive Verbs Advanced](13-reflexive-verbs-advanced.md)
 **Next Lesson:** [15 - The Conditional Tense](15-conditional-tense.md)
 

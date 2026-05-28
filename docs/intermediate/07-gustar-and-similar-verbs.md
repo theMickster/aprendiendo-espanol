@@ -166,6 +166,62 @@ It's one of those words that instantly makes your Spanish sound more "from Spain
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _A mí me gusta el fútbol mucho_).
+
+### Gusta / Gustan
+
+|        1        |    2     |       3        |          4          |
+| :-------------: | :------: | :------------: | :-----------------: |
+|       Me        |  gusta   |   el fútbol    |        mucho        |
+|       Te        |  gustan  |   los libros   |      muchísimo      |
+|       Le        | encanta  |    Valencia    |      bastante       |
+|       Nos       | encantan |   la música    |       un poco       |
+|       Os        |          |    cocinar     |        nada         |
+|       Les       |          | hablar español | los fines de semana |
+|      A mí       |          |    la playa    |      en verano      |
+|      A ti       |          |   los gatos    |                     |
+|      A él       |          |   el trabajo   |                     |
+|     A ella      |          | las vacaciones |                     |
+|   A nosotros    |          |    el ruido    |                     |
+|   A mi madre    |          |     dinero     |                     |
+|   A los niños   |          |                |                     |
+|   A mi padre    |          |                |                     |
+|  A las chicas   |          |                |                     |
+|     A usted     |          |                |                     |
+|    A ustedes    |          |                |                     |
+| A los españoles |          |                |                     |
+|   A mi amigo    |          |                |                     |
+|   A mi amiga    |          |                |                     |
+
+### Verbos similares (molestar, encantar, interesar, doler)
+
+|        1        |    2     |       3        |          4          |
+| :-------------: | :------: | :------------: | :-----------------: |
+|       Me        | molesta  |   el fútbol    |        mucho        |
+|       Te        | molestan |   los libros   |      muchísimo      |
+|       Le        | interesa |    Valencia    |      bastante       |
+|       Nos       |  duele   |   la música    |       un poco       |
+|       Os        |  duelen  |    cocinar     |        nada         |
+|       Les       |  falta   | hablar español | los fines de semana |
+|      A mí       |  faltan  |    la playa    |      en verano      |
+|      A ti       |          |   los gatos    |                     |
+|      A él       |          |   el trabajo   |                     |
+|     A ella      |          | las vacaciones |                     |
+|   A nosotros    |          |    el ruido    |                     |
+|   A mi madre    |          |     dinero     |                     |
+|   A los niños   |          |                |                     |
+|   A mi padre    |          |                |                     |
+|  A las chicas   |          |                |                     |
+|     A usted     |          |                |                     |
+|    A ustedes    |          |                |                     |
+| A los españoles |          |                |                     |
+|   A mi amigo    |          |                |                     |
+|   A mi amiga    |          |                |                     |
+
+---
+
 **Previous Lesson:** [06 - Direct & Indirect Object Pronouns](06-direct-indirect-object-pronouns.md)
 **Next Lesson:** [08 - Tener que, Hay que, Deber](08-tener-que-hay-que-deber.md)
 

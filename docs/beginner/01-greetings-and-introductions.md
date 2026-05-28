@@ -100,12 +100,10 @@ Use formal greetings with people you don't know well, anyone older, or in profes
 ## Common Mistakes
 
 - ❌ **Wrong:** "Buenos días" at night
-
   - ✅ **Right:** "Buenas noches" after 8pm
   - 💡 **Why:** Time-specific greetings matter in Spanish culture
 
 - ❌ **Wrong:** "¿Cómo estás usted?" (mixing informal with formal)
-
   - ✅ **Right:** "¿Cómo está usted?" (fully formal)
   - 💡 **Why:** Don't mix "tú" forms with "usted"
 
@@ -184,6 +182,54 @@ Try these in front of a mirror:
 3. Have a complete conversation: greet, introduce, ask how they are, say goodbye
 4. Practice all the greetings at different times of day
 5. Record yourself and listen back—how's your pronunciation?
+
+---
+
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _La profesora está muy bien_).
+
+### Singular
+
+|       1        |    2     |     3      |
+| :------------: | :------: | :--------: |
+|       Yo       |  estoy   |    bien    |
+|       Tú       |   está   |  muy bien  |
+| El señor López |   soy    |  regular   |
+|  La profesora  |    es    |    mal     |
+|    Mi amiga    | no estoy | encantado  |
+|    Mi amigo    |          | encantada  |
+|     Usted      |          | de acuerdo |
+|       Él       |          |            |
+|      Ella      |          |            |
+|     María      |          |            |
+|     Carlos     |          |            |
+|     Pedro      |          |            |
+|      Ana       |          |            |
+|   La señora    |          |            |
+|  El profesor   |          |            |
+|   Mi vecino    |          |            |
+|   Mi vecina    |          |            |
+
+### Plural
+
+|       1        |     2      |     3      |
+| :------------: | :--------: | :--------: |
+|    Nosotros    |  estamos   |    bien    |
+|    Nosotras    |   están    |  muy bien  |
+|    Vosotros    |   somos    |  regular   |
+|    Vosotras    |    son     |    mal     |
+|     Ellos      | no estamos | encantados |
+|     Ellas      |            | encantadas |
+|    Ustedes     |            | de acuerdo |
+|  Los señores   |            |            |
+|  Las señoras   |            |            |
+| Los profesores |            |            |
+| Las profesoras |            |            |
+|   Mis amigos   |            |            |
+|   Mis amigas   |            |            |
+|  Los vecinos   |            |            |
+|  Las vecinas   |            |            |
 
 ---
 

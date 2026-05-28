@@ -276,4 +276,52 @@ Complete the conversation at the Mercado Central with the correct possessives an
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Este libro es mío_).
+
+### Singular
+
+|        1        |  2   |    3     |
+| :-------------: | :--: | :------: |
+|   Este libro    |  es  |   mío    |
+|    Esta casa    | está |   mía    |
+|    Ese coche    |      |   tuyo   |
+|   Esa mochila   |      |   tuya   |
+|   Aquel queso   |      |   suyo   |
+| Aquella iglesia |      |   suya   |
+| Este bolígrafo  |      | nuestro  |
+|   Esta calle    |      | nuestra  |
+|  Ese paraguas   |      | de María |
+|   Esa tienda    |      | de ella  |
+|   Aquel melón   |      |   aquí   |
+| Aquella montaña |      |   allí   |
+|  Este sombrero  |      |          |
+|  Esta naranja   |      |          |
+|    Ese piso     |      |          |
+|    Esa idea     |      |          |
+
+### Plural
+
+|         1         |   2   |    3     |
+| :---------------: | :---: | :------: |
+|   Estos libros    |  son  |   míos   |
+|    Estas casas    | están |   mías   |
+|    Esos coches    |       |  tuyos   |
+|   Esas mochilas   |       |  tuyas   |
+|  Aquellos quesos  |       |  suyos   |
+| Aquellas iglesias |       |  suyas   |
+| Estos bolígrafos  |       | nuestros |
+|   Estas calles    |       | nuestras |
+|   Esos zapatos    |       | de María |
+|   Esas tiendas    |       | de ellos |
+| Aquellos melones  |       |   aquí   |
+| Aquellas montañas |       |   allí   |
+|  Estas naranjas   |       |          |
+|  Esos pimientos   |       |          |
+|   Estas llaves    |       |          |
+|   Esas maletas    |       |          |
+
+---
+
 **Next Lesson:** [14-el-cuerpo-y-la-salud.md](14-el-cuerpo-y-la-salud.md) | **Previous Lesson:** [12-adverbs.md](12-adverbs.md)

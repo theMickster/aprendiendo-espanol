@@ -301,6 +301,52 @@ The subjunctive takes time to internalize. Here's a practical approach:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Quiero que hables más_).
+
+### Deseos y esperanzas
+
+|         1         |  2  |      3      |    4     |     5      |
+| :---------------: | :-: | :---------: | :------: | :--------: |
+|    Quiero que     | que |     tú      |  hables  |    más     |
+|    Espero que     |     |     él      | llegues  |  a tiempo  |
+| Es importante que |     |    ella     |  comas   |    bien    |
+|   Me alegra que   |     |  nosotros   | estudies |  español   |
+|   Necesito que    |     |  vosotros   |  vengas  |  conmigo   |
+|   Prefiero que    |     |    ellos    |   seas   |   a casa   |
+| Es necesario que  |     |  mi madre   |  tengas  | contento/a |
+|  Es posible que   |     |  mis hijos  |  puedas  |    eso     |
+|    Me pide que    |     |  el médico  |  hagas   | la verdad  |
+|       Ojalá       |     | el gobierno |  vayas   | al médico  |
+|   Es bueno que    |     |             |          |            |
+|     Dudo que      |     |             |          |            |
+|    No creo que    |     |             |          |            |
+|   Es mejor que    |     |             |          |            |
+|     Deseo que     |     |             |          |            |
+|  Recomiendo que   |     |             |          |            |
+|   Me gusta que    |     |             |          |            |
+|   Es normal que   |     |             |          |            |
+|    Sugiero que    |     |             |          |            |
+|    Es raro que    |     |             |          |            |
+
+### Necesidad y posibilidad
+
+|          1          |  2  |      3      |    4     |     5      |
+| :-----------------: | :-: | :---------: | :------: | :--------: |
+|  Es necesario que   | que |     tú      |  hables  |    más     |
+|   Es posible que    |     |     él      | llegues  |  a tiempo  |
+|  Es importante que  |     |    ella     |  comas   |    bien    |
+|  No es seguro que   |     |  nosotros   | estudies |  español   |
+|    Puede ser que    |     |  vosotros   |  vengas  |  conmigo   |
+|   Es probable que   |     |    ellos    |   seas   |   a casa   |
+|    Es mejor que     |     |  mi madre   |  tengas  | contento/a |
+|  No hay nadie que   |     |  mis hijos  |  puedas  |    eso     |
+| Busco a alguien que |     |  el médico  |  hagas   | la verdad  |
+| No existe nada que  |     | el gobierno |  vayas   | al médico  |
+
+---
+
 **Previous Lesson:** [16 - Negative Constructions](16-negative-constructions.md)
 **Next Lesson:** [18 - Commands (Imperative)](18-commands-imperative.md)
 

@@ -357,4 +357,52 @@ _Translation: In the morning, I have coffee with milk and bread with butter. I g
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo vivo con mi familia_).
+
+### Singular
+
+|      1       |    2    |  3  |      4       |
+| :----------: | :-----: | :-: | :----------: |
+|      Yo      |  vivo   | con |  mi familia  |
+|      Tú      | hablas  | con |   mi amigo   |
+|     Ella     |  juega  | con |   el gato    |
+|   Mi madre   |  come   | con |   tenedor    |
+|   El perro   | escribe | con | un bolígrafo |
+|   El gato    |  corta  | con |   cuidado    |
+| La profesora | camina  | con | mucho gusto  |
+|  El pájaro   |   va    | con |    leche     |
+|   Mi amigo   |         | con |   su grupo   |
+|  Mi vecino   |         | con |   su dueño   |
+|   La chica   |         |     |   tijeras    |
+|   El chico   |         |     |              |
+|  Mi hermano  |         |     |              |
+|  La abuela   |         |     |              |
+|   El señor   |         |     |              |
+|   La niña    |         |     |              |
+
+### Plural
+
+|       1        |    2     |  3  |      4       |
+| :------------: | :------: | :-: | :----------: |
+|    Nosotros    | vivimos  | con |  mi familia  |
+|    Vosotros    | habláis  | con |   mi amigo   |
+|     Ellos      |  juegan  | con |   el gato    |
+|   Los niños    |  comen   | con |   tenedor    |
+|   Las chicas   | escriben | con | un bolígrafo |
+|  Los señores   |  cortan  | con |   cuidado    |
+|   Mis amigos   | caminan  | con | mucho gusto  |
+|   Los lobos    |  cazan   | con |  su manada   |
+|  Mis hermanos  |          | con |   su dueño   |
+| Las profesoras |          | con |   tijeras    |
+|  Los abuelos   |          |     |  frecuencia  |
+|   Los gatos    |          |     |              |
+|  Las familias  |          |     |              |
+|  Los vecinos   |          |     |              |
+|  Los delfines  |          |     |              |
+|  Los pájaros   |          |     |              |
+
+---
+
 **Next Lesson:** [28-preposition-sin.md](28-preposition-sin.md) | **Previous Lesson:** [26-preposition-de.md](26-preposition-de.md)

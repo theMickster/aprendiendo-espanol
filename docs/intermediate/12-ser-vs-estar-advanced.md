@@ -267,6 +267,62 @@ For each sentence, explain the reason:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _La puerta es de madera_ vs. _La puerta está cerrada_).
+
+### SER (identidad, origen, característica permanente)
+
+|        1        |  2  |        3        |
+| :-------------: | :-: | :-------------: |
+|    La puerta    | es  |    española     |
+|     El agua     | es  |    médico/a     |
+|   Mi hermano    | es  |   de Valencia   |
+|  La profesora   | es  | muy inteligente |
+|    Este vino    | es  |   mi amigo/a    |
+|   El mercado    | es  |    de madera    |
+| Los estudiantes | es  |     para ti     |
+|    Valencia     | es  |    lo mejor     |
+|   La reunión    | es  |                 |
+|     El café     | es  |                 |
+|  La situación   | es  |                 |
+|    Mi madre     | es  |                 |
+|   El paciente   | es  |                 |
+|    Los niños    | es  |                 |
+|    La tienda    | es  |                 |
+|   El hospital   | es  |                 |
+|    Mi amigo     | es  |                 |
+|     La casa     | es  |                 |
+|     El jefe     | es  |                 |
+|  El resultado   | es  |                 |
+
+### ESTAR (estado, posición, resultado temporal)
+
+|        1        |  2   |       3       |
+| :-------------: | :--: | :-----------: |
+|    La puerta    | está |    cerrada    |
+|     El agua     | está |     fría      |
+|   Mi hermano    | está |   enfermo/a   |
+|  La profesora   | está | muy cansado/a |
+|    Este vino    | está |   en Madrid   |
+|   El mercado    | está |    abierta    |
+| Los estudiantes | está |  contento/a   |
+|    Valencia     | está |  lista/listo  |
+|   La reunión    | está |               |
+|     El café     | está |               |
+|  La situación   | está |               |
+|    Mi madre     | está |               |
+|   El paciente   | está |               |
+|    Los niños    | está |               |
+|    La tienda    | está |               |
+|   El hospital   | está |               |
+|    Mi amigo     | está |               |
+|     La casa     | está |               |
+|     El jefe     | está |               |
+|  El resultado   | está |               |
+
+---
+
 **Previous Lesson:** [11 - Comparatives and Superlatives](11-comparatives-and-superlatives.md)
 **Next Lesson:** [13 - Reflexive Verbs Advanced](13-reflexive-verbs-advanced.md)
 

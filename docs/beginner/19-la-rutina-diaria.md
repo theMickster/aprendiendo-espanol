@@ -250,4 +250,46 @@ Suggested order:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo me lavo la cara por la mañana_).
+
+### Mañana
+
+|       1       |      2       |        3         |         4          |
+| :-----------: | :----------: | :--------------: | :----------------: |
+|      Yo       | me despierto |     la cara      |     a las seis     |
+|      Tú       |   me lavo    |   los dientes    |    a las siete     |
+|     Ella      |  me cepillo  |     el pelo      |   por la mañana    |
+|   Mi madre    |   me ducho   |      rápido      | antes de desayunar |
+|   Mi padre    |   me visto   | en cinco minutos | después de correr  |
+|   El atleta   |              |    con calma     |      temprano      |
+| La estudiante |              |                  |                    |
+|  Mi hermano   |              |                  |                    |
+|  Mi hermana   |              |                  |                    |
+|     Usted     |              |                  |                    |
+|    El bebé    |              |                  |                    |
+|   Mi vecino   |              |                  |                    |
+|   Mi vecina   |              |                  |                    |
+
+### Noche
+
+|     1      |     2      |      3      |          4          |
+| :--------: | :--------: | :---------: | :-----------------: |
+|     Yo     |  me baño   | los dientes |     a las diez      |
+|     Tú     | me cepillo |   la cara   |    por la noche     |
+|    Ella    |  me quito  |  el pijama  |        tarde        |
+|  Mi madre  | me acuesto |   la ropa   | los fines de semana |
+|  Mi padre  | me duermo  |  con calma  |  después de cenar   |
+| El abuelo  |            |             |                     |
+| La abuela  |            |             |                     |
+| Mi hermano |            |             |                     |
+| Mi hermana |            |             |                     |
+|   Usted    |            |             |                     |
+|  El bebé   |            |             |                     |
+| Mi vecino  |            |             |                     |
+| Mi vecina  |            |             |                     |
+
+---
+
 **Next Lesson:** [20-preposition-puzzle.md](20-preposition-puzzle.md) | **Previous Lesson:** [18-social-spanish.md](18-social-spanish.md)

@@ -335,4 +335,60 @@ All answers are "al lado de" or "al lado del" (when de + el)!
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _El libro está encima de la mesa_).
+
+### Singular
+
+|      1       |  2   |     3      |     4      |
+| :----------: | :--: | :--------: | :--------: |
+|   El libro   | está | encima de  |  la mesa   |
+|   La silla   |      | debajo de  |  la silla  |
+|   El gato    |      | delante de | la puerta  |
+|  Mi mochila  |      | detrás de  | la ventana |
+|   El perro   |      | al lado de |  el sofá   |
+| El bolígrafo |      | dentro de  |  la cama   |
+| El cuaderno  |      |  fuera de  | la cocina  |
+| La chaqueta  |      |  cerca de  | el armario |
+| El teléfono  |      |            |            |
+|  La botella  |      |            |            |
+|   El plato   |      |            |            |
+|   La taza    |      |            |            |
+|   El vaso    |      |            |            |
+| El ordenador |      |            |            |
+|  La maleta   |      |            |            |
+|   La caja    |      |            |            |
+| El paraguas  |      |            |            |
+|  La lámpara  |      |            |            |
+|  El cuadro   |      |            |            |
+|   El reloj   |      |            |            |
+
+### Plural
+
+|       1        |   2   |     3      |     4      |
+| :------------: | :---: | :--------: | :--------: |
+|   Los libros   | están | encima de  |  la mesa   |
+|   Las sillas   |       | debajo de  |  la silla  |
+|   Los gatos    |       | delante de | la puerta  |
+|  Las mochilas  |       | detrás de  | la ventana |
+|   Los perros   |       | al lado de |  el sofá   |
+| Los bolígrafos |       | dentro de  |  la cama   |
+| Los cuadernos  |       |  fuera de  | la cocina  |
+| Las chaquetas  |       |  cerca de  | el armario |
+| Los teléfonos  |       |            |            |
+|  Las botellas  |       |            |            |
+|   Los platos   |       |            |            |
+|   Las tazas    |       |            |            |
+|   Los vasos    |       |            |            |
+|   Las llaves   |       |            |            |
+|  Las maletas   |       |            |            |
+|   Las cajas    |       |            |            |
+|  Los zapatos   |       |            |            |
+|  Las lámparas  |       |            |            |
+|  Los cuadros   |       |            |            |
+|  Los relojes   |       |            |            |
+
+---
+
 **Next Lesson:** [36-preposition-and-verbs.md](36-preposition-and-verbs.md) | **Previous Lesson:** [34-preposition-segun.md](34-preposition-segun.md)

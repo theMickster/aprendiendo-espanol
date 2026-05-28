@@ -280,4 +280,52 @@ Write the correct article (el, la, un, una, los, las) for each item:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _El libro es delicioso_).
+
+### Singular
+
+|      1      |   2    |      3      |
+| :---------: | :----: | :---------: |
+|  El libro   |   es   |  delicioso  |
+|   La mesa   |  está  |   bonita    |
+|  El queso   | cuesta |   fresco    |
+| La naranja  |        | cinco euros |
+| El mercado  |        |    cerca    |
+|  La ciudad  |        |   enorme    |
+|  El parque  |        |   barato    |
+|   La casa   |        |   bonito    |
+|   El día    |        |             |
+|   La mano   |        |             |
+| El problema |        |             |
+|  La fruta   |        |             |
+|  El museo   |        |             |
+| La estación |        |             |
+|  El tomate  |        |             |
+| La manzana  |        |             |
+
+### Plural
+
+|       1        |    2    |       3        |
+| :------------: | :-----: | :------------: |
+|   Los libros   |   son   |   deliciosos   |
+|   Las mesas    |  están  |    bonitas     |
+|   Los quesos   | cuestan |    frescos     |
+|  Las naranjas  |         |    baratas     |
+|  Los mercados  |         |     cerca      |
+|  Las ciudades  |         |    enormes     |
+|  Los parques   |         |    bonitos     |
+|   Las casas    |         | impresionantes |
+|  Los tomates   |         |                |
+|  Las manzanas  |         |                |
+| Los profesores |         |                |
+|   Las playas   |         |                |
+| Los autobuses  |         |                |
+|   Las luces    |         |                |
+|   Los huevos   |         |                |
+|  Las cebollas  |         |                |
+
+---
+
 **Next Lesson:** [05-regular-verb-patterns.md](05-regular-verb-patterns.md) | **Previous Lesson:** [03-building-block-verbs.md](03-building-block-verbs.md)

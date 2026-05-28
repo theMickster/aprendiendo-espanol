@@ -240,4 +240,41 @@ You will hear the present continuous constantly in Valencia. At the mercado: "¿
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo estoy aprendiendo español_).
+
+### Singular
+
+|      1       |         2         |        3        |
+| :----------: | :---------------: | :-------------: |
+|      Yo      |  estoy comiendo   |     en casa     |
+|      Tú      |  estás durmiendo  |  en el trabajo  |
+|      Él      |  está trabajando  |  en el parque   |
+|     Ella     |   está jugando    |   ahora mismo   |
+|    Usted     | estoy aprendiendo | en este momento |
+|   Mi madre   |   está leyendo    |  en la cocina   |
+|   Mi padre   |  está lloviendo   |  en el jardín   |
+| La profesora |   está hablando   |     español     |
+|   El perro   |                   |    un libro     |
+|  Mi hermano  |                   |      mucho      |
+|  Mi hermana  |                   |                 |
+
+### Plural
+
+|        1        |         2          |        3        |
+| :-------------: | :----------------: | :-------------: |
+|    Los niños    | estamos estudiando |     en casa     |
+|    Nosotros     |  estáis hablando   |  en el trabajo  |
+|    Vosotros     |  están corriendo   |  en el parque   |
+|      Ellos      |  estamos comiendo  |   ahora mismo   |
+|   Las chicas    |  están durmiendo   | en este momento |
+|    El equipo    |   están jugando    |  en la cocina   |
+|   La familia    |   están leyendo    |  en el jardín   |
+| Los estudiantes |  están trabajando  |     español     |
+|    La gente     |                    |    un libro     |
+|                 |                    |      mucho      |
+
+---
+
 **Previous Lesson:** [04 - Preterite vs Imperfect: Beyond Basics](04-preterite-vs-imperfect-beyond-basics.md) | **Next Lesson:** [06 - Direct and Indirect Object Pronouns](06-direct-indirect-object-pronouns.md)

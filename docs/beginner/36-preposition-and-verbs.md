@@ -451,4 +451,52 @@ All answers are "por"!
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo pienso en mi familia_).
+
+### Singular
+
+|      1       |        2        |       3        |
+| :----------: | :-------------: | :------------: |
+|      Yo      |    pienso en    |   mi familia   |
+|      Tú      |   sueñas con    |   el trabajo   |
+|     Ella     |  se acuerda de  |     viajar     |
+|   Mi madre   |   depende de    |   mis amigos   |
+|   El niño    |    confía en    |  ese problema  |
+| La profesora |  se alegra de   |   el futuro    |
+|   El perro   |    habla de     |       ti       |
+|   El gato    | se preocupa por | tener un perro |
+|   Mi amigo   |    aprende a    |     nadar      |
+|  Mi vecino   |   cuenta con    |   la reunión   |
+|   La chica   |                 |   el pasado    |
+|   El chico   |                 |                |
+|  Mi hermano  |                 |                |
+|  La abuela   |                 |                |
+|   El señor   |                 |                |
+|   La niña    |                 |                |
+
+### Plural
+
+|        1        |        2         |       3        |
+| :-------------: | :--------------: | :------------: |
+|    Nosotros     |   pensamos en    |   mi familia   |
+|    Vosotros     |    soñáis con    |   el trabajo   |
+|      Ellos      |  se acuerdan de  |     viajar     |
+|    Los niños    |   dependen de    |   mis amigos   |
+|   Las chicas    |    confían en    |  ese problema  |
+|   Los señores   |  se alegran de   |   el futuro    |
+|   Mis amigos    |    hablan de     |       ti       |
+|   Los perros    | se preocupan por | tener un perro |
+|  Mis hermanos   |    aprenden a    |     nadar      |
+| Las profesoras  |   cuentan con    |   la reunión   |
+|   Los abuelos   |                  |   el pasado    |
+|    Los gatos    |                  |                |
+|  Las familias   |                  |                |
+|   Los vecinos   |                  |                |
+| Los estudiantes |                  |                |
+|  Los doctores   |                  |                |
+
+---
+
 **Next Lesson:** [37-preposition-the-finale.md](37-preposition-the-finale.md) | **Previous Lesson:** [35-preposition-locations.md](35-preposition-locations.md)

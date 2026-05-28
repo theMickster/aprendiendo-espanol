@@ -297,4 +297,52 @@ _Translation: In the morning, I walk toward the park. I look toward the sky - th
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo camino hacia el parque_).
+
+### Singular
+
+|      1       |   2    |   3   |     4      |
+| :----------: | :----: | :---: | :--------: |
+|      Yo      | camino | hacia |  el norte  |
+|      Tú      |  vas   | hacia | el parque  |
+|     Ella     |  mira  | hacia |   el sur   |
+|   Mi madre   | corre  | hacia |  el cielo  |
+|   El perro   | vuela  | hacia |     mí     |
+|   El gato    |  nada  | hacia |  la playa  |
+| La profesora | navega | hacia | las flores |
+|  El pájaro   | salta  | hacia |  adelante  |
+|   Mi amigo   |        | hacia |   arriba   |
+|  Mi vecino   |        | hacia |  las tres  |
+|   La chica   |        |       |  el este   |
+|   El chico   |        |       |            |
+|  Mi hermano  |        |       |            |
+|  La abuela   |        |       |            |
+|   El señor   |        |       |            |
+|   La niña    |        |       |            |
+
+### Plural
+
+|       1        |     2     |   3   |     4      |
+| :------------: | :-------: | :---: | :--------: |
+|    Nosotros    | caminamos | hacia |  el norte  |
+|    Vosotros    |   vais    | hacia | el parque  |
+|     Ellos      |   miran   | hacia |   el sur   |
+|   Los niños    |  corren   | hacia |  el cielo  |
+|   Las chicas   |  vuelan   | hacia |  la playa  |
+|  Los señores   |   nadan   | hacia | las flores |
+|   Mis amigos   |  saltan   | hacia |  adelante  |
+|  Los pájaros   |  navegan  | hacia |   arriba   |
+|  Mis hermanos  |           | hacia |  las tres  |
+| Las profesoras |           | hacia |  el este   |
+|  Los abuelos   |           |       |  el oeste  |
+|   Los gatos    |           |       |            |
+| Las mariposas  |           |       |            |
+|  Los vecinos   |           |       |            |
+|   Los gansos   |           |       |            |
+|  Las ballenas  |           |       |            |
+
+---
+
 **Next Lesson:** [34-preposition-segun.md](34-preposition-segun.md) | **Previous Lesson:** [32-preposition-contra.md](32-preposition-contra.md)

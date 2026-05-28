@@ -267,6 +267,52 @@ Spaniards are famous for using discourse markers constantly -- especially "pues,
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Pero yo hablo español bien_).
+
+### Contraste y concesión
+
+|        1        |        2        |     3     |      4      |
+| :-------------: | :-------------: | :-------: | :---------: |
+|      pero       |       yo        |   hablo   |   español   |
+|   sin embargo   |       tú        |   comes   |    tarde    |
+|     aunque      |       él        |  trabaja  |    bien     |
+|    sino que     |      ella       | estudian  | en Valencia |
+|     además      |    nosotros     |  viajan   |  a tiempo   |
+|     también     |      ellos      |  deciden  |  la verdad  |
+|     por eso     |    mi madre     |  pienso   |     eso     |
+|  por lo tanto   |   la empresa    | prefieren |   juntos    |
+|   por ejemplo   |   el gobierno   |  hacemos  |    mucho    |
+|    es decir     | los estudiantes |  llegáis  |   deprisa   |
+|      o sea      |                 |           |             |
+|    en cambio    |                 |           |             |
+| a pesar de que  |                 |           |             |
+|   no obstante   |                 |           |             |
+| de todas formas |                 |           |             |
+| en primer lugar |                 |           |             |
+|   finalmente    |                 |           |             |
+|  por otro lado  |                 |           |             |
+|   en resumen    |                 |           |             |
+|  al contrario   |                 |           |             |
+
+### Adición y consecuencia
+
+|        1        |        2        |     3     |      4      |
+| :-------------: | :-------------: | :-------: | :---------: |
+|     además      |       yo        |   hablo   |   español   |
+|     también     |       tú        |   comes   |    tarde    |
+|     por eso     |       él        |  trabaja  |    bien     |
+|  por lo tanto   |      ella       | estudian  | en Valencia |
+|   por ejemplo   |    nosotros     |  viajan   |  a tiempo   |
+|    es decir     |      ellos      |  deciden  |  la verdad  |
+|      o sea      |    mi madre     |  pienso   |     eso     |
+| en primer lugar |   la empresa    | prefieren |   juntos    |
+|   finalmente    |   el gobierno   |  hacemos  |    mucho    |
+|   en resumen    | los estudiantes |  llegáis  |   deprisa   |
+
+---
+
 **Previous Lesson:** [19 - The Complete Vosotros Guide](19-vosotros-guide.md)
 **Next Lesson:** [21 - Expressing Opinions, Spain Style](21-expressing-opinions-spain-style.md)
 

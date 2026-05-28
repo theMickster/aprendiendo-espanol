@@ -335,6 +335,62 @@ Try these out loud:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo veo el mar con atención_).
+
+### Singular
+
+|       1       |    2     |       3        |       4       |
+| :-----------: | :------: | :------------: | :-----------: |
+|      Yo       |   veo    |  con los ojos  | con atención  |
+|      Tú       | escuchas | con las orejas |   cada día    |
+|     Ella      |  huele   |  con la nariz  |  con cuidado  |
+|   Mi padre    |   toca   | con las manos  |  suavemente   |
+|   El médico   |   mira   | con la lengua  |  con fuerza   |
+|  La doctora   |  prueba  |   la música    | profundamente |
+|    El niño    |   oye    |   las flores   | en el mercado |
+|    La niña    | saborea  |   la comida    |   despacio    |
+|  Mi hermano   |          |   el pescado   |               |
+|   La abuela   |          |    el ruido    |               |
+|   El señor    |          |   la paella    |               |
+|   La señora   |          |   el azafrán   |               |
+|   El joven    |          |    la fruta    |               |
+| La profesora  |          |    el queso    |               |
+| El estudiante |          |     el pan     |               |
+|  El paciente  |          |                |               |
+|   El atleta   |          |                |               |
+|  El cocinero  |          |                |               |
+|  El vendedor  |          |                |               |
+|   Mi madre    |          |                |               |
+
+### Plural
+
+|        1        |     2     |       3        |       4       |
+| :-------------: | :-------: | :------------: | :-----------: |
+|    Nosotros     |   vemos   |  con los ojos  | con atención  |
+|    Vosotros     | escucháis | con las orejas |   cada día    |
+|      Ellos      |  huelen   |  con la nariz  |  con cuidado  |
+|    Los niños    |   tocan   | con las manos  |  suavemente   |
+|    Las niñas    |   miran   | con la lengua  |  con fuerza   |
+|   Los médicos   |  prueban  |   la música    | profundamente |
+|  Las doctoras   |   oyen    |   las flores   | en el mercado |
+|  Mis hermanos   | saborean  |   la comida    |   despacio    |
+|   Los abuelos   |           |   el pescado   |               |
+|   Las señoras   |           |    el ruido    |               |
+|   Los señores   |           |   la paella    |               |
+|   Los jóvenes   |           |   el azafrán   |               |
+| Las profesoras  |           |    la fruta    |               |
+| Los estudiantes |           |    el queso    |               |
+|  Los pacientes  |           |     el pan     |               |
+|   Los atletas   |           |                |               |
+|  Los cocineros  |           |                |               |
+| Los vendedores  |           |                |               |
+|  Las familias   |           |                |               |
+| Los visitantes  |           |                |               |
+
+---
+
 **Next Lesson:** [40-musculos-y-movimiento.md](40-musculos-y-movimiento.md) | **Previous Lesson:** [38-mas-partes-del-cuerpo.md](38-mas-partes-del-cuerpo.md)
 
 _Questions or feedback? [Open an issue](../../../issues)!_

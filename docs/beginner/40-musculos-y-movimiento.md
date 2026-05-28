@@ -323,6 +323,62 @@ Try these out loud:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _El atleta estira las pantorrillas con cuidado_).
+
+### Singular
+
+|         1         |    2     |         3          |         4         |
+| :---------------: | :------: | :----------------: | :---------------: |
+|     El atleta     |  estira  |  las pantorrillas  |    con cuidado    |
+|    El corredor    | entrena  |     los muslos     |     cada día      |
+|    La doctora     | ejercita |    las piernas     |    con fuerza     |
+|        Yo         |  mueve   |    los músculos    |    suavemente     |
+|     Mi padre      |   usa    |     el tobillo     |  en el gimnasio   |
+| El fisioterapeuta | calienta |     la cadera      |     despacio      |
+|  La entrenadora   | descansa |   la pantorrilla   | después de correr |
+|     El médico     |  enfría  | los isquiotibiales |      un poco      |
+|    Mi hermano     |          |      el talón      |                   |
+|    El paciente    |          |    la espinilla    |                   |
+|    El nadador     |          |     el gemelo      |                   |
+|   El deportista   |          |     el tendón      |                   |
+|      La niña      |          |     la rodilla     |                   |
+|      El niño      |          |      los pies      |                   |
+|     La señora     |          |     la espalda     |                   |
+|     El señor      |          |                    |                   |
+|     El joven      |          |                    |                   |
+|     La joven      |          |                    |                   |
+|   La profesora    |          |                    |                   |
+|     Mi madre      |          |                    |                   |
+
+### Plural
+
+|          1          |     2     |         3          |         4         |
+| :-----------------: | :-------: | :----------------: | :---------------: |
+|     Los atletas     |  estiran  |  las pantorrillas  |    con cuidado    |
+|   Los corredores    | entrenan  |     los muslos     |     cada día      |
+|    Las doctoras     | ejercitan |    las piernas     |    con fuerza     |
+|      Nosotros       |  mueven   |    los músculos    |    suavemente     |
+|      Vosotros       |   usan    |     el tobillo     |  en el gimnasio   |
+| Los fisioterapeutas | calientan |     la cadera      |     despacio      |
+|  Las entrenadoras   | descansan |   la pantorrilla   | después de correr |
+|     Los médicos     |  enfrían  | los isquiotibiales |      un poco      |
+|    Mis hermanos     |           |      el talón      |                   |
+|    Los pacientes    |           |    la espinilla    |                   |
+|    Los nadadores    |           |     el gemelo      |                   |
+|   Los deportistas   |           |     el tendón      |                   |
+|      Las niñas      |           |     la rodilla     |                   |
+|      Los niños      |           |      los pies      |                   |
+|     Las señoras     |           |     la espalda     |                   |
+|     Los señores     |           |                    |                   |
+|     Los jóvenes     |           |                    |                   |
+|     Las jóvenes     |           |                    |                   |
+|   Las profesoras    |           |                    |                   |
+|    Las familias     |           |                    |                   |
+
+---
+
 **Next Lesson:** [41-respirar-y-los-pulmones.md](41-respirar-y-los-pulmones.md) | **Previous Lesson:** [39-los-cinco-sentidos.md](39-los-cinco-sentidos.md)
 
 _Questions or feedback? [Open an issue](../../../issues)!_

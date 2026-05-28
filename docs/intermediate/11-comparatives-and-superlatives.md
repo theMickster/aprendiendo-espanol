@@ -249,6 +249,62 @@ Complete with your own ideas:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Valencia es más bonita que Barcelona_).
+
+### Comparativo
+
+|        1         |     2     |      3      |       4        |
+| :--------------: | :-------: | :---------: | :------------: |
+|      Madrid      |  es más   |   grande    | que Barcelona  |
+|     Valencia     | es menos  | interesante | que el inglés  |
+|    Mi hermano    |  es tan   |   caro/a    |   como antes   |
+|    Mi hermana    |  son más  |   difícil   |   de España    |
+|    Este libro    | son menos |    fácil    |    de todos    |
+|    El verano     |           | caluroso/a  |   de Europa    |
+|   El invierno    |           |   frío/a    |    que ayer    |
+|     El café      |           |   popular   | que su hermano |
+|    La paella     |           |  bonito/a   |                |
+|     Mi coche     |           |  rápido/a   |                |
+|     El tren      |           |             |                |
+|     El avión     |           |             |                |
+|  Esta película   |           |             |                |
+|    El trabajo    |           |             |                |
+|     La vida      |           |             |                |
+|     Mi amigo     |           |             |                |
+| Este apartamento |           |             |                |
+|    El español    |           |             |                |
+|    El inglés     |           |             |                |
+|       Ella       |           |             |                |
+
+### Superlativo
+
+|        1         |       2        |      3      |       4        |
+| :--------------: | :------------: | :---------: | :------------: |
+|      Madrid      |  es el/la más  |   grande    | que Barcelona  |
+|     Valencia     | es el/la menos | interesante | que el inglés  |
+|    Mi hermano    |    son más     |   caro/a    |   como antes   |
+|    Mi hermana    |   son menos    |   difícil   |   de España    |
+|    Este libro    |                |    fácil    |    de todos    |
+|    El verano     |                | caluroso/a  |   de Europa    |
+|   El invierno    |                |   frío/a    |    que ayer    |
+|     El café      |                |   popular   | que su hermano |
+|    La paella     |                |  bonito/a   |                |
+|     Mi coche     |                |  rápido/a   |                |
+|     El tren      |                |             |                |
+|     El avión     |                |             |                |
+|  Esta película   |                |             |                |
+|    El trabajo    |                |             |                |
+|     La vida      |                |             |                |
+|     Mi amigo     |                |             |                |
+| Este apartamento |                |             |                |
+|    El español    |                |             |                |
+|    El inglés     |                |             |                |
+|       Ella       |                |             |                |
+
+---
+
 **Previous Lesson:** [10 - Adjective Placement and Forms](10-adjective-placement-and-forms.md)
 **Next Lesson:** [12 - Ser vs Estar Advanced](12-ser-vs-estar-advanced.md)
 

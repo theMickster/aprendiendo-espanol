@@ -312,4 +312,48 @@ You are shopping for clothes. Write the Spanish for each step:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo busco una chaqueta en la tienda_).
+
+### Singular
+
+|       1        |    2     |       3       |
+| :------------: | :------: | :-----------: |
+|       Yo       |  busco   |  el vestido   |
+|       Tú       |  compra  |  los zapatos  |
+| La dependienta |  vende   |  la chaqueta  |
+|   La clienta   |   paga   |   el regalo   |
+|   El cliente   |  prueba  |   la comida   |
+|    Mi madre    | necesita | en la tienda  |
+|    Mi padre    |  quiere  | en el mercado |
+|    El señor    |          |     poco      |
+|   La señora    |          |     mucho     |
+|   Mi hermana   |          |               |
+|   Mi hermano   |          |               |
+|     Usted      |          |               |
+|    Mi amiga    |          |               |
+|    Mi amigo    |          |               |
+|  El vendedor   |          |               |
+|  La vendedora  |          |               |
+
+### Plural
+
+|        1         |    2    |        3        |
+| :--------------: | :-----: | :-------------: |
+|    El vestido    | cuesta  |  quince euros   |
+|   La chaqueta    | cuestan |  treinta euros  |
+|   Los zapatos    |         |  veinte euros   |
+|  Las zapatillas  |         |   doce euros    |
+|   La camiseta    |         |   cinco euros   |
+|   Los vaqueros   |         |  ochenta euros  |
+|     La falda     |         | cincuenta euros |
+|    El abrigo     |         |   cien euros    |
+| Las gafas de sol |         |                 |
+|   El cinturón    |         |                 |
+|     El bolso     |         |                 |
+|   El sombrero    |         |                 |
+
+---
+
 **Next Lesson:** [18-social-spanish.md](18-social-spanish.md) | **Previous Lesson:** [16-la-ropa-y-los-colores.md](16-la-ropa-y-los-colores.md)

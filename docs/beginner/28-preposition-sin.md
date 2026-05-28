@@ -337,4 +337,52 @@ _Translation: I want a coffee without sugar and with milk. Also gluten-free brea
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo salgo sin decir adiós_).
+
+### Singular
+
+|      1       |    2    |  3  |      4      |
+| :----------: | :-----: | :-: | :---------: |
+|      Yo      |  salgo  | sin |   azúcar    |
+|      Tú      |  comes  | sin |    leche    |
+|     Ella     |  bebe   | sin |     sal     |
+|   Mi madre   |  habla  | sin |     ti      |
+|   El perro   | trabaja | sin |     mí      |
+|   El gato    |  entra  | sin |   pensar    |
+| La profesora |  come   | sin |    parar    |
+|  El pájaro   |  vuela  | sin | hacer ruido |
+|   Mi amigo   |         | sin |  masticar   |
+|  Mi vecino   |         | sin |    dueño    |
+|   La chica   |         |     |    prisa    |
+|   El chico   |         |     |             |
+|  Mi hermano  |         |     |             |
+|  La abuela   |         |     |             |
+|   El señor   |         |     |             |
+|   La niña    |         |     |             |
+
+### Plural
+
+|       1        |    2     |  3  |      4      |
+| :------------: | :------: | :-: | :---------: |
+|    Nosotros    | salimos  | sin |   azúcar    |
+|    Vosotros    |  coméis  | sin |    leche    |
+|     Ellos      |  beben   | sin |     sal     |
+|   Los niños    |  hablan  | sin |     ti      |
+|   Las chicas   | trabajan | sin |     mí      |
+|  Los señores   |  entran  | sin |   pensar    |
+|   Mis amigos   |  comen   | sin |    parar    |
+|  Los pájaros   |  vuelan  | sin | hacer ruido |
+|  Mis hermanos  |          | sin |  masticar   |
+| Las profesoras |          | sin |    dueño    |
+|  Los abuelos   |          |     |    prisa    |
+|   Los gatos    |          |     |             |
+|  Las familias  |          |     |             |
+|  Los vecinos   |          |     |             |
+|   Los peces    |          |     |             |
+|  Los gatitos   |          |     |             |
+
+---
+
 **Next Lesson:** [29-preposition-desde-hasta.md](29-preposition-desde-hasta.md) | **Previous Lesson:** [27-preposition-con.md](27-preposition-con.md)

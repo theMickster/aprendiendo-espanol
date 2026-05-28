@@ -269,6 +269,62 @@ Try these out loud:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _El médico mueve los brazos con fuerza_).
+
+### Singular
+
+|         1         |    2    |      3       |       4        |
+| :---------------: | :-----: | :----------: | :------------: |
+|     El médico     |  mueve  |  los brazos  |   con fuerza   |
+|    La doctora     |  gira   |  la cabeza   |    cada día    |
+|     El atleta     |  dobla  | las rodillas |  con cuidado   |
+|        Yo         | estira  | las piernas  |   suavemente   |
+|     Mi padre      | levanta |   la mano    |  rápidamente   |
+|   El enfermero    |  toca   |   la nariz   |  con atención  |
+| La fisioterapeuta |  abre   |   los ojos   | en el gimnasio |
+|    El cirujano    | cierra  |   la boca    | con dificultad |
+|    Mi hermano     |  cruza  |  los dedos   |                |
+|  La entrenadora   | encoge  | los hombros  |                |
+|    El paciente    |         | los tobillos |                |
+|      El niño      |         | los músculos |                |
+|      La niña      |         |  los huesos  |                |
+|     El abuelo     |         |  la muñeca   |                |
+|     La abuela     |         |   el codo    |                |
+|     El señor      |         |              |                |
+|     La señora     |         |              |                |
+|     El joven      |         |              |                |
+|   La profesora    |         |              |                |
+|   El estudiante   |         |              |                |
+
+### Plural
+
+|          1          |    2     |      3       |       4        |
+| :-----------------: | :------: | :----------: | :------------: |
+|     Los médicos     |  mueven  |  los brazos  |   con fuerza   |
+|    Las doctoras     |  giran   |  la cabeza   |    cada día    |
+|     Los atletas     |  doblan  | las rodillas |  con cuidado   |
+|      Nosotros       | estiran  | las piernas  |   suavemente   |
+|      Vosotros       | levantan |   la mano    |  rápidamente   |
+|   Los enfermeros    |  tocan   |   la nariz   |  con atención  |
+| Las fisioterapeutas |  abren   |   los ojos   | en el gimnasio |
+|    Los cirujanos    | cierran  |   la boca    | con dificultad |
+|    Mis hermanos     |  cruzan  |  los dedos   |                |
+|  Las entrenadoras   | encogen  | los hombros  |                |
+|    Los pacientes    |          | los tobillos |                |
+|      Los niños      |          | los músculos |                |
+|      Las niñas      |          |  los huesos  |                |
+|     Los abuelos     |          |  la muñeca   |                |
+|   Los deportistas   |          |   el codo    |                |
+|     Los señores     |          |              |                |
+|     Las señoras     |          |              |                |
+|     Los jóvenes     |          |              |                |
+|   Las profesoras    |          |              |                |
+|   Los estudiantes   |          |              |                |
+
+---
+
 **Next Lesson:** [39-los-cinco-sentidos.md](39-los-cinco-sentidos.md) | **Previous Lesson:** [37-preposition-the-finale.md](37-preposition-the-finale.md)
 
 _Questions or feedback? [Open an issue](../../../issues)!_

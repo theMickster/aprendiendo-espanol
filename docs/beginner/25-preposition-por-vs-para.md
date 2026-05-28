@@ -349,4 +349,52 @@ _Translation: The cat walks through the house to find food. In the morning, he's
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración. Compara las dos tablas: la misma estructura cambia de sentido según uses POR o PARA (p. ej., _Yo trabajo por mi familia_ frente a _Yo trabajo para mi familia_).
+
+### POR
+
+|      1       |    2     |  3  |     4      |
+| :----------: | :------: | :-: | :--------: |
+|      Yo      | trabajo  | por | mi familia |
+|      Tú      | estudias | por |   dinero   |
+|     Ella     |  camina  | por | el parque  |
+|   Mi madre   |  cocina  | por |     ti     |
+|   El perro   |   paga   | por | dos horas  |
+|   Nosotros   |  viaja   | por |  la calle  |
+|    Ellos     |  corre   | por |  el calor  |
+|  Los niños   |   hace   | por | la mañana  |
+|   Mi amigo   |          | por |  la ayuda  |
+| La profesora |          | por | necesidad  |
+|   El gato    |          |     |            |
+|   El chico   |          |     |            |
+|  Mi hermano  |          |     |            |
+|  La abuela   |          |     |            |
+|   El señor   |          |     |            |
+|   La niña    |          |     |            |
+
+### PARA
+
+|      1       |    2     |  3   |      4      |
+| :----------: | :------: | :--: | :---------: |
+|      Yo      | trabajo  | para | mi familia  |
+|      Tú      | estudias | para |  aprender   |
+|     Ella     |  camina  | para |  el parque  |
+|   Mi madre   |  cocina  | para |     ti      |
+|   El perro   |   paga   | para |   mañana    |
+|   Nosotros   |  viaja   | para | el viernes  |
+|    Ellos     |  corre   | para |    vivir    |
+|  Los niños   |   hace   | para | una empresa |
+|   Mi amigo   |          | para |  el examen  |
+| La profesora |          | para |  el futuro  |
+|   El gato    |          |      |             |
+|   El chico   |          |      |             |
+|  Mi hermano  |          |      |             |
+|  La abuela   |          |      |             |
+|   El señor   |          |      |             |
+|   La niña    |          |      |             |
+
+---
+
 **Next Lesson:** [26-preposition-de.md](26-preposition-de.md) | **Previous Lesson:** [24-preposition-para.md](24-preposition-para.md)

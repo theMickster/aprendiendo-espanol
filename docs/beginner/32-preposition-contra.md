@@ -273,4 +273,52 @@ _Translation: I take vitamins against colds. It's important to protect yourself 
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo lucho contra el problema_).
+
+### Singular
+
+|      1       |    2     |   3    |        4         |
+| :----------: | :------: | :----: | :--------------: |
+|      Yo      |  lucho   | contra |     esa idea     |
+|      Tú      |  juegas  | contra |     la pared     |
+|     Ella     | se apoya | contra |     el frío      |
+|   Mi madre   | protesta | contra |     el árbol     |
+|   El perro   | compite  | contra |   otro equipo    |
+|   El gato    | se frota | contra |   la corriente   |
+| La profesora |   nada   | contra |    el viento     |
+|  El equipo   | protege  | contra |    mi pierna     |
+|   Mi amigo   |          | contra | las enfermedades |
+|  Mi vecino   |          | contra |    la puerta     |
+|   La chica   |          |        |  la injusticia   |
+|   El chico   |          |        |                  |
+|  Mi hermano  |          |        |                  |
+|  La abuela   |          |        |                  |
+|   El señor   |          |        |                  |
+|   La niña    |          |        |                  |
+
+### Plural
+
+|       1        |     2     |   3    |        4         |
+| :------------: | :-------: | :----: | :--------------: |
+|    Nosotros    | luchamos  | contra |     esa idea     |
+|    Vosotros    |  jugáis   | contra |     la pared     |
+|     Ellos      | se apoyan | contra |     el frío      |
+|   Los niños    | protestan | contra |     el árbol     |
+|   Las chicas   | compiten  | contra |   otro equipo    |
+|  Los señores   | se frotan | contra |   la corriente   |
+|   Mis amigos   |   nadan   | contra |    el viento     |
+|   Los leones   | protegen  | contra | las enfermedades |
+|  Mis hermanos  |           | contra |    la puerta     |
+| Las profesoras |           | contra |  la injusticia   |
+|  Los abuelos   |           |        |   los intrusos   |
+|   Los gatos    |           |        |                  |
+|   Las ovejas   |           |        |                  |
+|  Los vecinos   |           |        |                  |
+|  Los equipos   |           |        |                  |
+|   Los perros   |           |        |                  |
+
+---
+
 **Next Lesson:** [33-preposition-hacia.md](33-preposition-hacia.md) | **Previous Lesson:** [31-preposition-entre.md](31-preposition-entre.md)

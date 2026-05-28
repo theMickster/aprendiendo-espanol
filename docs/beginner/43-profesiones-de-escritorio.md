@@ -371,6 +371,62 @@ Try these out loud:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Mi padre trabaja como programador en la oficina_).
+
+### Singular
+
+|              1              |      2       |          3          |         4          |
+| :-------------------------: | :----------: | :-----------------: | :----------------: |
+|          Mi padre           |      es      |    programador/a    |   en la oficina    |
+|          Mi madre           | trabaja como |     escritor/a      |    en el bufete    |
+|      La señora García       |  trabaja de  |      abogado/a      |   en la empresa    |
+|       El señor López        |  trabaja en  |      contable       |      en casa       |
+|          Mi vecino          | se dedica a  | gerente de proyecto |  en la editorial   |
+|          Mi vecina          |              | profesional de RRHH |   en el tribunal   |
+|        Un amigo mío         |              |                     | en el departamento |
+|        Una amiga mía        |              |                     |  en un coworking   |
+|    El hombre de enfrente    |              |                     |                    |
+| La mujer del piso de arriba |              |                     |                    |
+|            Ella             |              |                     |                    |
+|             Él              |              |                     |                    |
+|            Usted            |              |                     |                    |
+|           Mi tío            |              |                     |                    |
+|           Mi tía            |              |                     |                    |
+|          El joven           |              |                     |                    |
+|          La joven           |              |                     |                    |
+|          Mi primo           |              |                     |                    |
+|          Mi prima           |              |                     |                    |
+|         El director         |              |                     |                    |
+
+### Plural
+
+|       1        |       2       |           3           |         4          |
+| :------------: | :-----------: | :-------------------: | :----------------: |
+|   Mis padres   |      son      |     programadores     |   en la oficina    |
+|  Mis vecinos   | trabajan como |      escritores       |    en el bufete    |
+|    Mis tíos    |  trabajan de  |       abogados        |   en la empresa    |
+|   Mis primos   |  trabajan en  |       contables       |      en casa       |
+|   Mis amigos   | se dedican a  | gerentes de proyecto  |  en la editorial   |
+|  Las señoras   |               | profesionales de RRHH |   en el tribunal   |
+|  Los señores   |               |                       | en el departamento |
+|     Ellos      |               |                       |  en un coworking   |
+|     Ellas      |               |                       |                    |
+|    Ustedes     |               |                       |                    |
+|  Los jóvenes   |               |                       |                    |
+|  Las jóvenes   |               |                       |                    |
+| Los directores |               |                       |                    |
+|  Las mujeres   |               |                       |                    |
+|  Los hombres   |               |                       |                    |
+|  Mis hermanos  |               |                       |                    |
+|  Mis hermanas  |               |                       |                    |
+| Los compañeros |               |                       |                    |
+| Las profesoras |               |                       |                    |
+|  Los colegas   |               |                       |                    |
+
+---
+
 **Next Lesson:** [44-profesiones-de-servicio.md](44-profesiones-de-servicio.md) | **Previous Lesson:** [42-a-que-te-dedicas.md](42-a-que-te-dedicas.md)
 
 _Questions or feedback? [Open an issue](../../../issues)!_

@@ -270,4 +270,52 @@ Grab 2 dice. Roll both, say the numbers in Spanish, then add them: _"seis más c
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Hay cinco gatos_).
+
+### 1–10
+
+|  1  |   2    |    3     |
+| :-: | :----: | :------: |
+| Hay |  uno   |   gato   |
+| Hay |  dos   |  gatos   |
+| Hay |  tres  |  libro   |
+| Hay | cuatro |  libros  |
+| Hay | cinco  |   niño   |
+| Hay |  seis  |  niños   |
+| Hay | siete  |   casa   |
+| Hay |  ocho  |  casas   |
+| Hay | nueve  |  perro   |
+| Hay |  diez  |  perros  |
+| Hay |        |   mesa   |
+| Hay |        |  mesas   |
+| Hay |        | naranja  |
+| Hay |        | naranjas |
+| Hay |        |   euro   |
+| Hay |        |  euros   |
+
+### 11–20
+
+|  1  |     2      |      3      |
+| :-: | :--------: | :---------: |
+| Hay |    once    |    gatos    |
+| Hay |    doce    |   libros    |
+| Hay |   trece    |    niños    |
+| Hay |  catorce   |    casas    |
+| Hay |   quince   |   perros    |
+| Hay | dieciséis  |    mesas    |
+| Hay | diecisiete |  naranjas   |
+| Hay | dieciocho  |    euros    |
+| Hay | diecinueve |  personas   |
+| Hay |   veinte   |   huevos    |
+| Hay |            |   tomates   |
+| Hay |            |  plátanos   |
+| Hay |            |  manzanas   |
+| Hay |            |   minutos   |
+| Hay |            | kilómetros  |
+| Hay |            | estudiantes |
+
+---
+
 **Next Lesson:** [03-building-block-verbs.md](03-building-block-verbs.md) | **Previous Lesson:** [01-greetings-and-introductions.md](01-greetings-and-introductions.md)

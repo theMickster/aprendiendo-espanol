@@ -287,6 +287,56 @@ Add a written accent to maintain the original stress:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Habla en español despacio_).
+
+### Imperativo afirmativo (tú)
+
+|     1      |  2  |      3       |
+| :--------: | :-: | :----------: |
+|   Habla    | lo  |  en español  |
+|    Come    | la  |   despacio   |
+|  Escucha   | me  | con atención |
+|    Lee     | te  |   el libro   |
+|  Escribe   | le  |    a casa    |
+|    Ven     | nos |  la verdad   |
+|     Ve     |     |   listo/a    |
+|    Haz     |     | con cuidado  |
+|     Di     |     |     más      |
+|    Ten     |     |   temprano   |
+|    Pon     |     |              |
+|    Sal     |     |              |
+|     Sé     |     |              |
+| Date prisa |     |              |
+|   Duerme   |     |              |
+| Levántate  |     |              |
+|  Cállate   |     |              |
+|  Siéntate  |     |              |
+|   Lávate   |     |              |
+|   Ponte    |     |              |
+
+### Imperativo negativo (tú)
+
+|        1        |  2  |      3       |
+| :-------------: | :-: | :----------: |
+|    No hables    | lo  |  en español  |
+|    No comas     | la  |   despacio   |
+|   No llegues    | me  | con atención |
+|    No hagas     | te  |   el libro   |
+|    No vayas     | le  |    a casa    |
+|    No digas     | nos |  la verdad   |
+|    No tengas    |     |   listo/a    |
+|    No pongas    |     | con cuidado  |
+|    No salgas    |     |     más      |
+|     No seas     |     |   temprano   |
+| No te levantes  |     |              |
+| No te preocupes |     |              |
+|  No te olvides  |     |              |
+|   No te rías    |     |              |
+
+---
+
 **Previous Lesson:** [17 - The Present Subjunctive](17-present-subjunctive.md)
 **Next Lesson:** [19 - Vosotros Guide](19-vosotros-guide.md)
 

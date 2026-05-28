@@ -285,6 +285,42 @@ You'll hear "quisiera" constantly in Spanish service situations -- at cafés, re
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Si tuviera dinero, yo iría a Japón_).
+
+### Si + imperfecto de subjuntivo → condicional
+
+|  1  |          2           |  3  |     4     |          5          |
+| :-: | :------------------: | :-: | :-------: | :-----------------: |
+| Si  |      yo tuviera      |  ,  |    yo     |    iría a Japón     |
+| Si  |      tú fueras       |  ,  |    tú     | comprarías una casa |
+| Si  |      él pudiera      |  ,  |    él     |  podría descansar   |
+| Si  |     ella supiera     |  ,  |   ella    |     ganaría más     |
+| Si  |    usted quisiera    |  ,  | nosotros  |  comeríamos mejor   |
+| Si  | nosotros viviéramos  |  ,  | vosotros  |   viajaríais más    |
+| Si  | vosotros estuvierais |  ,  |   ellos   | estarían contentos  |
+| Si  |    ellos hicieran    |  ,  | mi madre  |    dormiría bien    |
+| Si  |   mi madre viniera   |  ,  | los niños |     sería feliz     |
+| Si  | los niños durmieran  |  ,  |           |  hablarían español  |
+
+### Ojalá + imperfecto de subjuntivo
+
+|   1   |           2           |      3       |      4       |        5         |
+| :---: | :-------------------: | :----------: | :----------: | :--------------: |
+| Ojalá |      yo tuviera       |  más dinero  |  con gusto   |   sería feliz    |
+| Ojalá |      tú vinieras      |     aquí     | sin problema |   descansaría    |
+| Ojalá |      él supiera       | la respuesta |   por fin    | estaría contento |
+| Ojalá |     ella pudiera      |   hacerlo    |     hoy      |   viajaríamos    |
+| Ojalá |   nosotros fuéramos   |  a Valencia  |  algún día   | comeríamos bien  |
+| Ojalá | vosotros os quedárais |   en casa    |              |                  |
+| Ojalá |    ellos vinieran     |  la verdad   |              |                  |
+| Ojalá |  mi madre descansara  |     más      |              |                  |
+| Ojalá | los niños escucharan  |    mejor     |              |                  |
+| Ojalá |  el gobierno hiciera  |  algo útil   |              |                  |
+
+---
+
 **Previous Lesson:** [21 - Expressing Opinions, Spain Style](21-expressing-opinions-spain-style.md)
 **Next Lesson:** [23 - Relative Clauses](23-relative-clauses.md)
 

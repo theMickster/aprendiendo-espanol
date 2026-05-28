@@ -297,4 +297,46 @@ Describe what each person is wearing using "llevar." Use clothing + color:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _La camiseta es roja_).
+
+### Singular
+
+|      1      |   2   |      3       |
+| :---------: | :---: | :----------: |
+| La camiseta |  es   |     roja     |
+|  La camisa  | está  |     azul     |
+|  La blusa   | no es |    verde     |
+| El vestido  | tiene |  muy bonito  |
+| La chaqueta |       |  de algodón  |
+|  El abrigo  |       |   muy caro   |
+|  La falda   |       | muy elegante |
+| El sombrero |       |    marrón    |
+|  La gorra   |       |              |
+| El cinturón |       |              |
+|  El bolso   |       |              |
+|  El jersey  |       |              |
+|  El traje   |       |              |
+
+### Vestirse
+
+|     1      |      2       |         3         |
+| :--------: | :----------: | :---------------: |
+|     Yo     |   me pongo   |  el vestido azul  |
+|     Tú     |   te pones   |    la chaqueta    |
+|    Ella    |   se pone    |    los zapatos    |
+|  Mi madre  |    lleva     | una camisa blanca |
+|  Mi padre  | se viste con |   los vaqueros    |
+| La fallera |   se quita   |   las sandalias   |
+|  El niño   |              |   la gorra roja   |
+|  La niña   |              |    el sombrero    |
+|   Usted    |              |                   |
+| Mi hermana |              |                   |
+| Mi hermano |              |                   |
+|  Mi amiga  |              |                   |
+| Mi vecino  |              |                   |
+
+---
+
 **Next Lesson:** [17-de-compras.md](17-de-compras.md) | **Previous Lesson:** [15-reflexive-verbs.md](15-reflexive-verbs.md)

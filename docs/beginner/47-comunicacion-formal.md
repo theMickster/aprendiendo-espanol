@@ -421,6 +421,54 @@ Try these out loud:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo envío un correo al jefe_).
+
+### Singular
+
+|       1        |    2     |       3        |         4          |
+| :------------: | :------: | :------------: | :----------------: |
+|       Yo       |  envío   |   un correo    |      al jefe       |
+|       Tú       | recibes  |   un mensaje   |   a la profesora   |
+|      Ella      | responde | la información |     al cliente     |
+|    Mi madre    | escribe  |    una cita    |     al casero      |
+| El señor López |  llama   |   la llamada   | a la recepcionista |
+| La secretaria  | adjunta  |   el archivo   |    con atención    |
+|   El cliente   | devuelve |   la factura   |    esta semana     |
+|  La profesora  |   pide   |   el asunto    |   por la mañana    |
+|    Mi amigo    |          |  la respuesta  |                    |
+|   Mi vecino    |          |    la firma    |                    |
+|  El director   |          |  la consulta   |                    |
+|  La directora  |          |                |                    |
+|     Usted      |          |                |                    |
+|   El doctor    |          |                |                    |
+|   La doctora   |          |                |                    |
+| El estudiante  |          |                |                    |
+
+### Plural
+
+|        1        |     2     |       3        |         4          |
+| :-------------: | :-------: | :------------: | :----------------: |
+|    Nosotros     | enviamos  |   un correo    |      al jefe       |
+|    Vosotros     |  recibís  |   un mensaje   |   a la profesora   |
+|      Ellos      | responden | la información |     al cliente     |
+|   Los señores   | escriben  |    una cita    |     al casero      |
+|   Las señoras   |  llaman   |   la llamada   | a la recepcionista |
+| Las secretarias | adjuntan  |   el archivo   |    con atención    |
+|  Los clientes   | devuelven |   la factura   |    esta semana     |
+| Las profesoras  |   piden   |   el asunto    |   por la mañana    |
+|   Mis amigos    |           |  la respuesta  |                    |
+|   Los vecinos   |           |    la firma    |                    |
+| Los directores  |           |  la consulta   |                    |
+| Las directoras  |           |                |                    |
+|     Ustedes     |           |                |                    |
+|  Los doctores   |           |                |                    |
+|  Las doctoras   |           |                |                    |
+| Los estudiantes |           |                |                    |
+
+---
+
 **Next Lesson:** [48-falsos-amigos.md](48-falsos-amigos.md) | **Previous Lesson:** [46-el-aula-y-la-educacion.md](46-el-aula-y-la-educacion.md)
 
 _Questions or feedback? [Open an issue](../../../issues)!_

@@ -344,4 +344,56 @@ Think: "**P**urpose, **A**im, **R**ecipient, **A**rrival"
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo voy a la escuela_).
+
+### Con preposición de lugar
+
+|      1       |      2       |     3      |
+| :----------: | :----------: | :--------: |
+|      Yo      |   estoy en   |    casa    |
+|      Tú      |   vivo en    |  Valencia  |
+|     Ella     | trabajo para | el parque  |
+|  Mi familia  |   vivo con   | mi familia |
+|   El perro   |   estoy en   | la escuela |
+|  Los niños   | trabajo para | la tienda  |
+|   Nosotros   |              | el examen  |
+|   Vosotros   |              | mis amigos |
+|    Ellos     |              |  la mesa   |
+|   Mi madre   |              | el trabajo |
+|   Mi padre   |              |            |
+|   El gato    |              |            |
+| La profesora |              |            |
+|   Mi amigo   |              |            |
+|  El doctor   |              |            |
+|  Mi vecino   |              |            |
+|   La chica   |              |            |
+|   El chico   |              |            |
+
+### Con preposición de movimiento
+
+|      1       |     2      |     3      |
+| :----------: | :--------: | :--------: |
+|      Yo      |   voy a    | la tienda  |
+|      Tú      |  vengo de  |  Valencia  |
+|     Ella     | camino por | el parque  |
+|  Mi familia  | salgo sin  |    casa    |
+|   El perro   |   voy a    | el mercado |
+|  Los niños   |  vengo de  |  la playa  |
+|   Nosotros   | camino por |   Madrid   |
+|   Vosotros   |            |  la calle  |
+|    Ellos     |            | mis amigos |
+|   Mi madre   |            | la escuela |
+|   Mi padre   |            |            |
+|   El gato    |            |            |
+| La profesora |            |            |
+|   Mi amigo   |            |            |
+|  El doctor   |            |            |
+|  Mi vecino   |            |            |
+|   La chica   |            |            |
+|   El chico   |            |            |
+
+---
+
 **Next Lesson:** [21-preposition-en.md](21-preposition-en.md) | **Previous Lesson:** [19-la-rutina-diaria.md](19-la-rutina-diaria.md)

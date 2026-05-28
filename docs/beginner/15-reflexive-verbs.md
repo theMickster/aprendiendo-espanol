@@ -287,4 +287,55 @@ Fill in the correct form of the verb in parentheses:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo me despierto a las siete_).
+
+### Singular
+
+|       1        |      2       |       3        |
+| :------------: | :----------: | :------------: |
+|       Yo       | me despierto |  a las siete   |
+|       Tú       |  te duchas   | por la mañana  |
+|       Él       |   se viste   |     rápido     |
+|      Ella      |   se lava    |   las manos    |
+|    Mi madre    |  se cepilla  |  los dientes   |
+|    Mi padre    |   se peina   | antes de salir |
+|    La niña     |  se sienta   |   en el sofá   |
+|    El niño     |  se acuesta  |   a las diez   |
+|   Mi hermano   |              |                |
+|   Mi hermana   |              |                |
+|     Usted      |              |                |
+|    El bebé     |              |                |
+|   Mi vecino    |              |                |
+|  La profesora  |              |                |
+| El estudiante  |              |                |
+|   El atleta    |              |                |
+|   La doctora   |              |                |
+|    Mi amigo    |              |                |
+|    Mi amiga    |              |                |
+| El señor López |              |                |
+
+### Plural
+
+|        1        |       2        |         3         |
+| :-------------: | :------------: | :---------------: |
+|    Nosotros     | nos levantamos | tarde los sábados |
+|    Vosotros     |   os ducháis   |   por la mañana   |
+|      Ellos      |   se visten    |      rápido       |
+|      Ellas      |    se lavan    |     las manos     |
+|     Ustedes     |  se cepillan   |    los dientes    |
+|    Los niños    |   se peinan    |  antes de salir   |
+|    Las niñas    |   se sientan   |    a las diez     |
+|  Mis hermanos   |  se acuestan   |   por la noche    |
+|  Mis hermanas   |                |                   |
+| Los estudiantes |                |                   |
+|   Los atletas   |                |                   |
+|  Las doctoras   |                |                   |
+|   Mis amigos    |                |                   |
+|   Mis vecinos   |                |                   |
+|    Los bebés    |                |                   |
+
+---
+
 **Next Lesson:** [16-la-ropa-y-los-colores.md](16-la-ropa-y-los-colores.md) | **Previous Lesson:** [14-el-cuerpo-y-la-salud.md](14-el-cuerpo-y-la-salud.md)

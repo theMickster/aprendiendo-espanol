@@ -227,4 +227,52 @@ The training scenario mixes SER and ESTAR naturally:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo estoy cansado_).
+
+### Singular
+
+|        1         |   2   |      3      |
+| :--------------: | :---: | :---------: |
+|        Yo        |  soy  |   cansado   |
+|        Tú        | estoy | inteligente |
+|     Mi hija      |  es   |    feliz    |
+|     El café      | está  |    alta     |
+|    La paella     | eres  |  deliciosa  |
+|     Valencia     | estás |   hermosa   |
+|     La playa     |       |   enfermo   |
+| El entrenamiento |       |   difícil   |
+|     El agua      |       |    fría     |
+|    La ciudad     |       |  contento   |
+|    El hombre     |       |    listo    |
+|    La comida     |       | trabajador  |
+|    Mi familia    |       |    rico     |
+|   La película    |       |  aburrida   |
+|      El día      |       |             |
+|     La gente     |       |             |
+
+### Plural
+
+|         1          |    2    |      3       |
+| :----------------: | :-----: | :----------: |
+|      Nosotros      |  somos  |   cansados   |
+|      Nosotras      | estamos | inteligentes |
+|     Mis hijas      |   son   |   felices    |
+|     Los cafés      |  están  |    altas     |
+|    Las paellas     |  sois   |  deliciosas  |
+|     Las playas     | estáis  |   hermosas   |
+| Los entrenamientos |         |   enfermos   |
+|    Las ciudades    |         |  difíciles   |
+|    Los hombres     |         |    frías     |
+|    Las comidas     |         |  contentos   |
+|    Las personas    |         |    listas    |
+|     Las niñas      |         | trabajadores |
+|      Los días      |         |  aburridos   |
+|   Las películas    |         |    ricas     |
+|   Los edificios    |         |              |
+|     Las calles     |         |              |
+
+---
+
 **Next Lesson:** [12-adverbs.md](12-adverbs.md) | **Previous Lesson:** [10-adjectives.md](10-adjectives.md)

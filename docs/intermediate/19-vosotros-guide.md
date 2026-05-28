@@ -236,6 +236,62 @@ In Valencia, vosotros is the default for any group you'd address informally. At 
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Vosotros habláis español muy bien_).
+
+### Vosotros (presente)
+
+|            1             |    2    |      3      |      4      |
+| :----------------------: | :-----: | :---------: | :---------: |
+|         Vosotros         | habláis |   español   |  cada día   |
+|         Vosotras         | coméis  |   paella    | esta tarde  |
+|        Las chicas        |  vivís  | en Valencia | normalmente |
+|        Los chicos        | tenéis  |    razón    |  en verano  |
+| Vosotros los estudiantes |  sois   |  contentos  |   siempre   |
+|       Vosotros dos       | estáis  | al mercado  |   a veces   |
+|      Todos vosotros      |  vais   |    bien     |   mañana    |
+|      Vosotros tres       | hacéis  |    esto     |  muy bien   |
+|       Las hermanas       | podéis  |    venir    |             |
+|       Los hermanos       | queréis |  quedaros   |             |
+|        Los amigos        |         |             |             |
+|        Las amigas        |         |             |             |
+| Vosotros los profesores  |         |             |             |
+|        Las niñas         |         |             |             |
+|        Los niños         |         |             |             |
+|   Vosotros en Valencia   |         |             |             |
+|       Las vecinas        |         |             |             |
+|       Los vecinos        |         |             |             |
+|      Vosotros allí       |         |             |             |
+|       Las turistas       |         |             |             |
+
+### Imperativo vosotros
+
+|     1      |  2  |      3       |
+| :--------: | :-: | :----------: |
+|   Hablad   | lo  |  en español  |
+|   Comed    | la  |   despacio   |
+|   Vivid    | os  | con atención |
+|  Escuchad  | me  |   el libro   |
+|   Venid    | nos |    a casa    |
+|     Id     | le  |  la verdad   |
+|   Haced    |     |  contentos   |
+|   Decid    |     |     bien     |
+|   Tened    |     |     más      |
+|   Poned    |     |   temprano   |
+|   Salid    |     |              |
+|    Sed     |     |              |
+|  Sentaos   |     |              |
+| Levantaos  |     |              |
+|  Callaos   |     |              |
+|   Poneos   |     |              |
+|    Iros    |     |              |
+| Daos prisa |     |              |
+|   Bebeos   |     |              |
+|   Tomaos   |     |              |
+
+---
+
 **Previous Lesson:** [18 - Commands / Imperative](18-commands-imperative.md)
 **Next Lesson:** [20 - Connectors and Discourse Markers](20-connectors-discourse-markers.md)
 

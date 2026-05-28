@@ -329,4 +329,31 @@ You know the answer. Write the question that would produce it.
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una pregunta (p. ej., _¿Dónde está la biblioteca?_).
+
+### Preguntas
+
+|     1      |    2     |       3        |
+| :--------: | :------: | :------------: |
+|   ¿Cómo    |    es    |   tu nombre    |
+|    ¿Qué    |   está   | la biblioteca  |
+|   ¿Dónde   |   son    |   la tienda    |
+|  ¿Cuándo   |   hay    |   el mercado   |
+|  ¿Por qué  |  tienes  |    tu amigo    |
+|  ¿Cuánto   | quieres  |  la profesora  |
+|   ¿Quién   |  vives   |   este libro   |
+|   ¿Cuál    |  comes   |   la fiesta    |
+|  ¿Adónde   | estudias |   tu ciudad    |
+| ¿De dónde  | trabajas |    el baño     |
+|  ¿Cuántos  |          |   el autobús   |
+|  ¿Cuántas  |          |  las entradas  |
+|  ¿Quiénes  |          | el restaurante |
+|  ¿Cuáles   |          |   tus amigos   |
+| ¿Para qué  |          |  la película   |
+| ¿Con quién |          |    la playa    |
+
+---
+
 **Next Lesson:** [07-la-familia.md](07-la-familia.md) | **Previous Lesson:** [05-regular-verb-patterns.md](05-regular-verb-patterns.md)

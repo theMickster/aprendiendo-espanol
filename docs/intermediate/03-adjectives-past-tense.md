@@ -217,4 +217,60 @@ How things were at specific times:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Mi abuela era tranquila en aquella época_).
+
+### Era (descripción habitual / imperfecto)
+
+|       1       |  2  |      3      |        4         |
+| :-----------: | :-: | :---------: | :--------------: |
+|   Mi abuela   | era | tranquilo/a |   en Valencia    |
+|   El pueblo   | era |  bonito/a   |    de niño/a     |
+|   La ciudad   | era |   difícil   |     entonces     |
+|   El verano   | era | interesante | en aquella época |
+|    La casa    | era |  cansado/a  |     ese día      |
+|  Mi profesor  | era | aburrido/a  |  aquella noche   |
+|  La película  | era | emocionante |                  |
+|   El viaje    | era | precioso/a  |                  |
+|   Nosotros    | era |             |                  |
+| La situación  | era |             |                  |
+|   El tiempo   | era |             |                  |
+|    El niño    | era |             |                  |
+|    La niña    | era |             |                  |
+|  El mercado   | era |             |                  |
+|  El ambiente  | era |             |                  |
+|   La fiesta   | era |             |                  |
+|  El trabajo   | era |             |                  |
+|   Mi amigo    | era |             |                  |
+|  La escuela   | era |             |                  |
+| El restaurant | era |             |                  |
+
+### Fue/Estuvo (momento específico / pretérito)
+
+|       1       |  2  |      3      |        4         |
+| :-----------: | :-: | :---------: | :--------------: |
+|   Mi abuela   | fue | tranquilo/a |   en Valencia    |
+|   El pueblo   | fue |  bonito/a   |    de niño/a     |
+|   La ciudad   | fue |   difícil   |     entonces     |
+|   El verano   | fue | interesante | en aquella época |
+|    La casa    | fue |  cansado/a  |     ese día      |
+|  Mi profesor  | fue | aburrido/a  |  aquella noche   |
+|  La película  | fue | emocionante |                  |
+|   El viaje    | fue | precioso/a  |                  |
+|   Nosotros    | fue |             |                  |
+| La situación  | fue |             |                  |
+|   El tiempo   | fue |             |                  |
+|    El niño    | fue |             |                  |
+|    La niña    | fue |             |                  |
+|  El mercado   | fue |             |                  |
+|  El ambiente  | fue |             |                  |
+|   La fiesta   | fue |             |                  |
+|  El trabajo   | fue |             |                  |
+|   Mi amigo    | fue |             |                  |
+|  La escuela   | fue |             |                  |
+| El restaurant | fue |             |                  |
+
+---
+
 **Previous Lesson:** [02-building-block-verbs-future-tense.md](02-building-block-verbs-future-tense.md)

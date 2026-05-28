@@ -382,6 +382,62 @@ Try these out loud:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Mi padre es programador en la oficina_).
+
+### Singular
+
+|              1              |      2       |       3       |         4         |
+| :-------------------------: | :----------: | :-----------: | :---------------: |
+|          Mi padre           |      es      | programador/a |   en la oficina   |
+|          Mi madre           | trabaja como |   abogado/a   |  en el hospital   |
+|      La señora García       |  trabaja de  |   médico/a    |   en el colegio   |
+|       El señor López        |  trabaja en  |  enfermero/a  |   en la empresa   |
+|          Mi vecino          | se dedica a  |  profesor/a   |      en casa      |
+|          Mi vecina          |              |  cocinero/a   |   en un bufete    |
+|        Un amigo mío         |              |   dentista    | en la universidad |
+|        Una amiga mía        |              |  ingeniero/a  |                   |
+|    El hombre de enfrente    |              |  periodista   |                   |
+| La mujer del piso de arriba |              | electricista  |                   |
+|            Ella             |              |    gerente    |                   |
+|             Él              |              |               |                   |
+|            Usted            |              |               |                   |
+|           Mi tío            |              |               |                   |
+|           Mi tía            |              |               |                   |
+|          El joven           |              |               |                   |
+|          La joven           |              |               |                   |
+|          Mi primo           |              |               |                   |
+|          Mi prima           |              |               |                   |
+|         El director         |              |               |                   |
+
+### Plural
+
+|         1          |       2       |       3       |         4         |
+| :----------------: | :-----------: | :-----------: | :---------------: |
+|     Mis padres     |      son      | programadores |   en la oficina   |
+|    Mis vecinos     | trabajan como |   abogados    |  en el hospital   |
+|      Mis tíos      |  trabajan de  |    médicos    |   en el colegio   |
+|     Mis primos     |  trabajan en  |  enfermeros   |   en la empresa   |
+|     Mis amigos     | se dedican a  |  profesores   |      en casa      |
+|    Las señoras     |               |   cocineros   |   en un bufete    |
+|    Los señores     |               |   dentistas   | en la universidad |
+|       Ellos        |               |  ingenieros   |                   |
+|       Ellas        |               |  periodistas  |                   |
+|      Ustedes       |               | electricistas |                   |
+|    Los jóvenes     |               |   gerentes    |                   |
+|    Las jóvenes     |               |               |                   |
+|   Los directores   |               |               |                   |
+|    Las mujeres     |               |               |                   |
+|    Los hombres     |               |               |                   |
+|    Mis hermanos    |               |               |                   |
+|    Mis hermanas    |               |               |                   |
+| Los nuevos vecinos |               |               |                   |
+|   Las profesoras   |               |               |                   |
+|   Los compañeros   |               |               |                   |
+
+---
+
 **Next Lesson:** [43-profesiones-de-escritorio.md](43-profesiones-de-escritorio.md) | **Previous Lesson:** [41-respirar-y-los-pulmones.md](41-respirar-y-los-pulmones.md)
 
 _Questions or feedback? [Open an issue](../../../issues)!_

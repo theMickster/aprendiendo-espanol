@@ -458,4 +458,52 @@ Already there? → Use EN
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Los niños están en la escuela_).
+
+### Singular
+
+|      1       |    2    |  3  |       4        |
+| :----------: | :-----: | :-: | :------------: |
+|      Yo      |  estoy  | en  |      casa      |
+|      Tú      |  vives  | en  |    Valencia    |
+|     Ella     | trabaja | en  |   la oficina   |
+|   Mi madre   |  está   | en  |   el parque    |
+|   El perro   | duerme  | en  |    la playa    |
+|   El gato    |  viaja  | en  |   la tienda    |
+| La profesora | estudia | en  | el restaurante |
+|  El doctor   |  llega  | en  |    autobús     |
+|   Mi amigo   |         | en  |      tren      |
+|  Mi vecino   |         | en  | la biblioteca  |
+|   La chica   |         |     |   el jardín    |
+|   El chico   |         |     |                |
+|  Mi hermano  |         |     |                |
+|  La abuela   |         |     |                |
+|   El señor   |         |     |                |
+|  La familia  |         |     |                |
+
+### Plural
+
+|       1        |    2     |  3  |       4       |
+| :------------: | :------: | :-: | :-----------: |
+|    Nosotros    | estamos  | en  |     casa      |
+|    Vosotros    |  vivís   | en  |   Valencia    |
+|     Ellos      | trabajan | en  |  la oficina   |
+|   Los niños    | duermen  | en  |   el parque   |
+|   Las chicas   | estudian | en  |   la playa    |
+|  Los señores   |  viajan  | en  |   la tienda   |
+|   Mis amigos   |  llegan  | en  |    autobús    |
+|   Los gatos    |  están   | en  |     tren      |
+|  Mis hermanos  |          | en  | la biblioteca |
+| Las profesoras |          | en  |   el jardín   |
+|  Los abuelos   |          |     |               |
+|  Los doctores  |          |     |               |
+|  Las familias  |          |     |               |
+|  Los vecinos   |          |     |               |
+|   Los perros   |          |     |               |
+|  Los turistas  |          |     |               |
+
+---
+
 **Next Lesson:** [22-preposition-a.md](22-preposition-a.md) | **Previous Lesson:** [20-preposition-puzzle.md](20-preposition-puzzle.md)

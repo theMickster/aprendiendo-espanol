@@ -305,4 +305,52 @@ _Translation: Between classes, we rest. The library is between the gym and the c
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _El perro está entre los árboles_).
+
+### Singular
+
+|      1       |     2      |   3   |           4            |
+| :----------: | :--------: | :---: | :--------------------: |
+|      Yo      |   estoy    | entre |      los árboles       |
+|      Tú      | te sientas | entre |       mis amigos       |
+|     Ella     | se esconde | entre |       las cajas        |
+|   Mi madre   |    vive    | entre | las nueve y las cinco  |
+|   El perro   |    nada    | entre | la escuela y el parque |
+|   El gato    |  trabaja   | entre |       las algas        |
+| La profesora |   duerme   | entre |    los estudiantes     |
+|  El pájaro   |   vuela    | entre |       las ramas        |
+|   Mi amigo   |            | entre |   las dos y las tres   |
+|  Mi vecino   |            | entre |      los arbustos      |
+|   La chica   |            |       |         semana         |
+|   El chico   |            |       |                        |
+|  Mi hermano  |            |       |                        |
+|  La abuela   |            |       |                        |
+|   El señor   |            |       |                        |
+|   La niña    |            |       |                        |
+
+### Plural
+
+|       1        |      2      |   3   |           4            |
+| :------------: | :---------: | :---: | :--------------------: |
+|    Nosotros    |   estamos   | entre |      los árboles       |
+|    Vosotros    | os sentáis  | entre |       mis amigos       |
+|     Ellos      | se esconden | entre |       las cajas        |
+|   Los niños    |    viven    | entre | las nueve y las cinco  |
+|   Las chicas   |    nadan    | entre | la escuela y el parque |
+|  Los señores   |  trabajan   | entre |       las algas        |
+|   Mis amigos   |   duermen   | entre |    los estudiantes     |
+|  Los pájaros   |   vuelan    | entre |       las ramas        |
+|  Mis hermanos  |             | entre |   las dos y las tres   |
+| Las profesoras |             | entre |      los arbustos      |
+|  Los abuelos   |             |       |         semana         |
+|   Los gatos    |             |       |                        |
+|  Los conejos   |             |       |                        |
+|  Los vecinos   |             |       |                        |
+|   Los peces    |             |       |                        |
+|   Los leones   |             |       |                        |
+
+---
+
 **Next Lesson:** [32-preposition-contra.md](32-preposition-contra.md) | **Previous Lesson:** [30-preposition-sobre.md](30-preposition-sobre.md)

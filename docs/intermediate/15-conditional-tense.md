@@ -240,6 +240,39 @@ The conditional makes requests sound much more courteous than the present tense.
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo iría con gusto_).
+
+### Condicional simple
+
+|    1     |     2     |       3        |       4       |
+| :------: | :-------: | :------------: | :-----------: |
+|    Yo    |  comería  |   una paella   |   con gusto   |
+|    Tú    |   irías   |    a Japón     | sin problema  |
+|    Él    |   haría   |  los deberes   |  si pudiera   |
+|   Ella   | podríamos | una casa nueva |    mañana     |
+|  Usted   | vendríais |    un café     | en otro mundo |
+| Nosotros |  podrían  |    esa cosa    |               |
+| Vosotros |   sería   |  más español   |               |
+|  Ellos   |  tendría  |     ayuda      |               |
+| Mi madre |  querría  |   un cortado   |               |
+| Mi padre |  viviría  |  en El Carmen  |               |
+
+### Si + imperfecto → condicional
+
+|  1  |            2             |  3  |    4     |              5               |
+| :-: | :----------------------: | :-: | :------: | :--------------------------: |
+| Si  |    yo tuviera dinero     |  ,  |    yo    |         iría a Japón         |
+| Si  |      tú fueras rico      |     |    tú    |     comprarías una casa      |
+| Si  |        él pudiera        |     |    él    |       podría descansar       |
+| Si  | nosotros viviéramos allí |     |   ella   | comeríamos en un restaurante |
+| Si  |  vosotros supierais más  |     | nosotros |          viajaríais          |
+| Si  |    ellos quisieran ir    |     | vosotros |                              |
+|     |                          |     |  ellos   |                              |
+
+---
+
 **Previous Lesson:** [14 - The Present Perfect](14-present-perfect.md)
 **Next Lesson:** [16 - Negative Constructions](16-negative-constructions.md)
 

@@ -455,4 +455,52 @@ _Master prepositions = Master Spanish!_
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración. ¡Elige la preposición correcta de la columna 3! (p. ej., _Yo voy a casa_).
+
+### Movimiento y destino
+
+|      1       |   2    |   3   |     4      |
+| :----------: | :----: | :---: | :--------: |
+|      Yo      |  voy   |   a   |    casa    |
+|      Tú      | camino | hacia | el parque  |
+|     Ella     | viajo  | para  |   Madrid   |
+|   Mi madre   | vengo  |  de   |  el norte  |
+|   El perro   | corro  |  por  |  la calle  |
+|   El gato    | llego  | hasta | el trabajo |
+| La profesora | salgo  | desde |   el sur   |
+|  El pájaro   |  paso  |  con  |  la playa  |
+|   Mi amigo   |        |  sin  |   España   |
+|  Mi vecino   |        |       | mis amigos |
+|   La chica   |        |       | la esquina |
+|   El chico   |        |       |            |
+|  Mi hermano  |        |       |            |
+|  La abuela   |        |       |            |
+|   El señor   |        |       |            |
+|   La niña    |        |       |            |
+
+### Lugar y tiempo
+
+|      1       |    2     |    3     |     4      |
+| :----------: | :------: | :------: | :--------: |
+|      Yo      |  estoy   |    en    |    casa    |
+|      Tú      | trabajo  |  sobre   |  la mesa   |
+|     Ella     |   vivo   |  entre   |  las tres  |
+|   Mi madre   |  hablo   | cerca de | el parque  |
+|   El perro   |  duermo  | lejos de | la escuela |
+|   El gato    |  espero  |  desde   | el centro  |
+| La profesora |   leo    |  hasta   | las cinco  |
+|  El pájaro   | descanso |  según   |  el árbol  |
+|   Mi amigo   |          |  contra  | el doctor  |
+|  Mi vecino   |          |          |  animales  |
+|   La chica   |          |          |  la pared  |
+|   El chico   |          |          |            |
+|  Mi hermano  |          |          |            |
+|  La abuela   |          |          |            |
+|   El señor   |          |          |            |
+|   La niña    |          |          |            |
+
+---
+
 **Next Lesson:** [38-mas-partes-del-cuerpo.md](38-mas-partes-del-cuerpo.md) | **Previous Lesson:** [36-preposition-and-verbs.md](36-preposition-and-verbs.md)

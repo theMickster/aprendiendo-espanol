@@ -225,4 +225,52 @@ Your version will be different -- the key is using family vocabulary correctly a
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _El padre es alto_).
+
+### Singular
+
+|     1      |   2   |      3       |
+| :--------: | :---: | :----------: |
+|  El padre  |  es   |     alto     |
+|  La madre  | está  |  simpática   |
+|  El hijo   | tiene |   en casa    |
+|  La hija   | está  |   contento   |
+| El hermano |       |  profesora   |
+| La hermana |       | treinta años |
+| El abuelo  |       | inteligente  |
+| La abuela  |       |  dos hijos   |
+|   El tío   |       |              |
+|   La tía   |       |              |
+|  El primo  |       |              |
+|  La prima  |       |              |
+| El esposo  |       |              |
+| La esposa  |       |              |
+|  El bebé   |       |              |
+|  La niña   |       |              |
+
+### Plural
+
+|      1       |   2    |      3       |
+| :----------: | :----: | :----------: |
+|  Los padres  |  son   |    altos     |
+|  Las madres  | están  |  simpáticas  |
+|  Los hijos   | tienen |   en casa    |
+|  Las hijas   | están  |  contentos   |
+| Los hermanos |        | inteligentes |
+| Las hermanas |        |  profesoras  |
+| Los abuelos  |        |  dos hijos   |
+| Las abuelas  |        | en el parque |
+|   Los tíos   |        |              |
+|   Las tías   |        |              |
+|  Los primos  |        |              |
+|  Las primas  |        |              |
+| Los sobrinos |        |              |
+| Las sobrinas |        |              |
+|  Los niños   |        |              |
+|  Las niñas   |        |              |
+
+---
+
 **Next Lesson:** [08-la-comida-y-bebida.md](08-la-comida-y-bebida.md) | **Previous Lesson:** [06-question-words.md](06-question-words.md)

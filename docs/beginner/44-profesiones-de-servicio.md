@@ -414,6 +414,62 @@ Try these out loud:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Mi madre es enfermera en el hospital_).
+
+### Singular
+
+|              1              |      2       |       3        |            4             |
+| :-------------------------: | :----------: | :------------: | :----------------------: |
+|          Mi padre           |      es      |    médico/a    |      en el hospital      |
+|          Mi madre           | trabaja como |  enfermero/a   |      en la consulta      |
+|      La señora García       |  trabaja de  | farmacéutico/a |      en la farmacia      |
+|       El señor López        |  trabaja en  |   profesor/a   |      en el colegio       |
+|          Mi vecino          | se dedica a  |   maestro/a    | en el parque de bomberos |
+|          Mi vecina          |              |   bombero/a    |     en la comisaría      |
+|        Un amigo mío         |              |    policía     |      en la escuela       |
+|        Una amiga mía        |              |                |  en el centro de salud   |
+|    El hombre de enfrente    |              |                |                          |
+| La mujer del piso de arriba |              |                |                          |
+|            Ella             |              |                |                          |
+|             Él              |              |                |                          |
+|            Usted            |              |                |                          |
+|           Mi tío            |              |                |                          |
+|           Mi tía            |              |                |                          |
+|          El joven           |              |                |                          |
+|          La joven           |              |                |                          |
+|          Mi primo           |              |                |                          |
+|          Mi prima           |              |                |                          |
+|         El director         |              |                |                          |
+
+### Plural
+
+|       1        |       2       |       3       |            4             |
+| :------------: | :-----------: | :-----------: | :----------------------: |
+|   Mis padres   |      son      |    médicos    |      en el hospital      |
+|  Mis vecinos   | trabajan como |  enfermeros   |      en la consulta      |
+|    Mis tíos    |  trabajan de  | farmacéuticos |      en la farmacia      |
+|   Mis primos   |  trabajan en  |  profesores   |      en el colegio       |
+|   Mis amigos   | se dedican a  |   maestros    | en el parque de bomberos |
+|  Las señoras   |               |   bomberos    |     en la comisaría      |
+|  Los señores   |               |   policías    |      en la escuela       |
+|     Ellos      |               |               |  en el centro de salud   |
+|     Ellas      |               |               |                          |
+|    Ustedes     |               |               |                          |
+|  Los jóvenes   |               |               |                          |
+|  Las jóvenes   |               |               |                          |
+| Los directores |               |               |                          |
+|  Las mujeres   |               |               |                          |
+|  Los hombres   |               |               |                          |
+|  Mis hermanos  |               |               |                          |
+|  Mis hermanas  |               |               |                          |
+| Los compañeros |               |               |                          |
+| Las profesoras |               |               |                          |
+|  Los vecinos   |               |               |                          |
+
+---
+
 **Next Lesson:** [45-profesiones-con-las-manos.md](45-profesiones-con-las-manos.md) | **Previous Lesson:** [43-profesiones-de-escritorio.md](43-profesiones-de-escritorio.md)
 
 _Questions or feedback? [Open an issue](../../../issues)!_

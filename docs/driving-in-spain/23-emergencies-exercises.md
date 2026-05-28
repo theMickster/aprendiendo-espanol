@@ -122,7 +122,7 @@ Put the PAS steps in the correct order (1–6):
 
 ### Question 12 / Pregunta 12
 
-**ES:** \_El sistema eCall llama automáticamente al **_ tras un accidente grave._
+**ES:** \_El sistema eCall llama automáticamente al *** tras un accidente grave.*
 **EN:** eCall automatically calls \_** after a serious accident.
 
 - A) 091

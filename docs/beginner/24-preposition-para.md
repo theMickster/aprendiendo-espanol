@@ -388,4 +388,52 @@ _Translation: I go to the store to buy a gift for my friend. It's his birthday t
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo estudio para aprender_).
+
+### Singular
+
+|      1       |    2     |  3   |      4       |
+| :----------: | :------: | :--: | :----------: |
+|      Yo      | estudio  | para |   aprender   |
+|      Tú      | trabajas | para | ganar dinero |
+|     Ella     |   come   | para |    vivir     |
+|   Mi madre   |  corre   | para |  estar sano  |
+|   El perro   |  compra  | para |  mi familia  |
+|   El gato    |   sale   | para |    Madrid    |
+| La profesora |    va    | para |   mi amigo   |
+|  El pájaro   |  vuela   | para |    mañana    |
+|   Mi amigo   |          | para |  el viernes  |
+|  Mi vecino   |          | para |    el sur    |
+|   La chica   |          |      |      ti      |
+|   El chico   |          |      |              |
+|  Mi hermano  |          |      |              |
+|  La abuela   |          |      |              |
+|   El señor   |          |      |              |
+|   La niña    |          |      |              |
+
+### Plural
+
+|       1        |     2      |  3   |      4       |
+| :------------: | :--------: | :--: | :----------: |
+|    Nosotros    | estudiamos | para |   aprender   |
+|    Vosotros    | trabajáis  | para | ganar dinero |
+|     Ellos      |   comen    | para |    vivir     |
+|   Los niños    |   corren   | para | estar sanos  |
+|   Las chicas   |  compran   | para |  mi familia  |
+|  Los señores   |   salen    | para |    Madrid    |
+|   Mis amigos   |    van     | para |    mañana    |
+|  Los pájaros   |   vuelan   | para |  el viernes  |
+|  Mis hermanos  |            | para |    el sur    |
+| Las profesoras |            | para |      ti      |
+|  Los abuelos   |            |      |  la fiesta   |
+|   Los gatos    |            |      |              |
+|  Las familias  |            |      |              |
+|  Los vecinos   |            |      |              |
+|   Las abejas   |            |      |              |
+|   Los gansos   |            |      |              |
+
+---
+
 **Next Lesson:** [25-preposition-por-vs-para.md](25-preposition-por-vs-para.md) | **Previous Lesson:** [23-preposition-por.md](23-preposition-por.md)

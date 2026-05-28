@@ -672,6 +672,62 @@ You've mastered past tense when you can:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Ayer fui al mercado_).
+
+### Pretérito (acción completada)
+
+|       1        |    2    |      3      |        4         |
+| :------------: | :-----: | :---------: | :--------------: |
+|       Yo       |   fui   | al mercado  |       ayer       |
+|       Tú       | fuiste  |   a casa    |      anoche      |
+|       Él       |   fue   | a Valencia  |     el lunes     |
+|      Ella      |  hice   | al trabajo  | la semana pasada |
+|     Usted      | hiciste |  al parque  |   hace un año    |
+|    Mi madre    |  hizo   | una paella  | el verano pasado |
+|    Mi padre    |  tuve   |  la tarea   |                  |
+|  La profesora  | tuviste | mucho ruido |                  |
+| El señor López |  tuvo   |             |                  |
+|    El perro    |         |             |                  |
+|    Nosotros    |         |             |                  |
+|    Vosotros    |         |             |                  |
+|     Ellos      |         |             |                  |
+|   Las niñas    |         |             |                  |
+|   Los niños    |         |             |                  |
+|   Mis amigos   |         |             |                  |
+|   La familia   |         |             |                  |
+|   El equipo    |         |             |                  |
+|    La gente    |         |             |                  |
+|   El hombre    |         |             |                  |
+
+### Imperfecto (acción habitual)
+
+|       1        |     2     |      3      |        4         |
+| :------------: | :-------: | :---------: | :--------------: |
+|       Yo       |    iba    | al mercado  |     cada día     |
+|       Tú       |   hacía   |   a casa    |     siempre      |
+|       Él       |   tenía   | a Valencia  |  todos los días  |
+|      Ella      |   comía   | al trabajo  | cuando era niño  |
+|     Usted      |   vivía   |  al parque  | en aquella época |
+|    Mi madre    | estudiaba |  la tarea   |     entonces     |
+|    Mi padre    | trabajaba | mucho ruido |                  |
+|  La profesora  |           |             |                  |
+| El señor López |           |             |                  |
+|    El perro    |           |             |                  |
+|    Nosotros    |           |             |                  |
+|    Vosotros    |           |             |                  |
+|     Ellos      |           |             |                  |
+|   Las niñas    |           |             |                  |
+|   Los niños    |           |             |                  |
+|   Mis amigos   |           |             |                  |
+|   La familia   |           |             |                  |
+|   El equipo    |           |             |                  |
+|    La gente    |           |             |                  |
+|   El hombre    |           |             |                  |
+
+---
+
 **🎉 ¡Felicidades! You can now talk about the past in Spanish!**
 
 **Next Step:** Practice Document 3 - Future Tense! 🚀

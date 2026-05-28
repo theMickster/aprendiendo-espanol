@@ -356,4 +356,52 @@ _Translation: I go to the pet store for dog food. I pay fifteen euros for the pa
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo camino por el parque_).
+
+### Singular
+
+|      1       |    2    |  3  |     4      |
+| :----------: | :-----: | :-: | :--------: |
+|      Yo      | camino  | por | el parque  |
+|      Tú      | viajas  | por |  la calle  |
+|     Ella     | estudia | por |   España   |
+|   Mi madre   | trabaja | por | mi familia |
+|   El perro   |  corre  | por | la ciudad  |
+|   El gato    |  habla  | por |  teléfono  |
+| La profesora |  paga   | por | dos horas  |
+|    El río    |  pasa   | por | el jardín  |
+|   Mi amigo   |         | por | la mañana  |
+|  Mi vecino   |         | por |  el libro  |
+|   La chica   |         |     | el regalo  |
+|   El chico   |         |     |            |
+|  Mi hermano  |         |     |            |
+|  La abuela   |         |     |            |
+|   El señor   |         |     |            |
+|   La niña    |         |     |            |
+
+### Plural
+
+|       1        |     2     |  3  |     4      |
+| :------------: | :-------: | :-: | :--------: |
+|    Nosotros    | caminamos | por | el parque  |
+|    Vosotros    |  viajáis  | por |  la calle  |
+|     Ellos      | estudian  | por |   España   |
+|   Los niños    |  corren   | por | mi familia |
+|   Las chicas   | trabajan  | por | la ciudad  |
+|  Los señores   |  hablan   | por |  teléfono  |
+|   Mis amigos   |   pagan   | por | dos horas  |
+|   Los gatos    |   pasan   | por | el jardín  |
+|  Mis hermanos  |           | por | la mañana  |
+| Las profesoras |           | por |  el libro  |
+|  Los abuelos   |           |     | el regalo  |
+|  Los pájaros   |           |     |            |
+|  Las familias  |           |     |            |
+|  Los vecinos   |           |     |            |
+|  Los turistas  |           |     |            |
+|    Los osos    |           |     |            |
+
+---
+
 **Next Lesson:** [24-preposition-para.md](24-preposition-para.md) | **Previous Lesson:** [22-preposition-a.md](22-preposition-a.md)

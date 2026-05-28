@@ -293,6 +293,77 @@ Relative clauses are everywhere in Spanish -- news, conversations, books. Master
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _El libro que más me gusta es de todos_).
+
+### Singular (que / quien / donde)
+
+|       1        |    2     |     3     |        4         |        5         |
+| :------------: | :------: | :-------: | :--------------: | :--------------: |
+|   La persona   |    es    |    que    |   más me gusta   |     de todos     |
+|    El lugar    |   está   |   quien   |    vino ayer     | la semana pasada |
+|    La casa     |   fue    |   donde   |     te hablé     |    sobre eso     |
+|    El libro    |  conocí  |  en que   |   me regalaron   |  el año pasado   |
+|   El hombre    |  busco   | con quien |       nací       |   en Valencia    |
+|    La mujer    | vivo en  |  del que  |    conociste     |     entonces     |
+|  El problema   | recuerdo |  a quien  | siempre recuerdo |     siempre      |
+|    La razón    | habla de |  lo que   |     trabajo      |    con cariño    |
+|   El momento   |          |           |                  |                  |
+|   La ciudad    |          |           |                  |                  |
+|   El médico    |          |           |                  |                  |
+|  La profesora  |          |           |                  |                  |
+| El estudiante  |          |           |                  |                  |
+|   La tienda    |          |           |                  |                  |
+| El restaurante |          |           |                  |                  |
+|  La película   |          |           |                  |                  |
+|   El trabajo   |          |           |                  |                  |
+|  La solución   |          |           |                  |                  |
+|     El día     |          |           |                  |                  |
+|   El idioma    |          |           |                  |                  |
+
+### Plural (que / quienes / donde)
+
+|        1         |    2     |      3      |        4         |        5         |
+| :--------------: | :------: | :---------: | :--------------: | :--------------: |
+|   Las personas   |   son    |     que     |  más me gustan   |     de todos     |
+|   Los lugares    |  están   |   quienes   |  vinieron ayer   | la semana pasada |
+|    Las casas     |  fueron  |    donde    |     te hablé     |    sobre eso     |
+|    Los libros    |  conocí  |   en que    |   me regalaron   |  el año pasado   |
+|   Los hombres    |  busco   | con quienes |       nací       |   en Valencia    |
+|   Las mujeres    | vivo en  | de los que  |    conociste     |     entonces     |
+|  Los problemas   | recuerdo |  a quienes  | siempre recuerdo |     siempre      |
+|   Las razones    | hablo de |   los que   |     trabajo      |    con cariño    |
+|   Los momentos   |          |             |                  |                  |
+|   Las ciudades   |          |             |                  |                  |
+|   Los médicos    |          |             |                  |                  |
+|  Las profesoras  |          |             |                  |                  |
+| Los estudiantes  |          |             |                  |                  |
+|   Las tiendas    |          |             |                  |                  |
+| Los restaurantes |          |             |                  |                  |
+|  Las películas   |          |             |                  |                  |
+|   Los trabajos   |          |             |                  |                  |
+|  Las soluciones  |          |             |                  |                  |
+|     Los días     |          |             |                  |                  |
+|   Los idiomas    |          |             |                  |                  |
+
+### Showcase (combinando todo lo aprendido)
+
+|          1          |        2        |    3    |         4         |       5        |
+| :-----------------: | :-------------: | :-----: | :---------------: | :------------: |
+|   La persona que    |  me lo regaló   |   fue   | mi mejor amigo/a  |   de mi vida   |
+|    El libro que     |  me lo enseñó   |   era   |     mi madre      |   algún día    |
+|    El día en que    |    se lo dio    |   es    |   la profesora    |  en Valencia   |
+|   La ciudad donde   | nos lo explicó  | ha sido |  muy interesante  | en ese momento |
+|       Lo que        | me lo recomendó |  será   |     increíble     |  para siempre  |
+|        Quien        |                 |         | lo más importante |    todavía     |
+| El hombre con quien |                 |         |                   |       ya       |
+| La razón por la que |                 |         |                   |                |
+|  El momento en que  |                 |         |                   |                |
+|  Lo que me dijeron  |                 |         |                   |                |
+
+---
+
 **Previous Lesson:** [22 - The Imperfect Subjunctive](22-imperfect-subjunctive.md)
 
 **Builds on:** [17 - Present Subjunctive](17-present-subjunctive.md) (subjunctive in relative clauses), [06 - Object Pronouns](06-direct-indirect-object-pronouns.md)

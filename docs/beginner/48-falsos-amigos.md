@@ -313,6 +313,60 @@ Try these out loud:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para recordar lo que significa cada falso amigo (p. ej., _embarazada ≠ embarrassed = pregnant_).
+
+### Los falsos amigos
+
+|     1      |       2       |       3        |
+| :--------: | :-----------: | :------------: |
+| embarazada | ≠ embarrassed |   = pregnant   |
+|   actual   |   ≠ actual    |   = current    |
+|  sensible  |  ≠ sensible   |  = sensitive   |
+|   éxito    |    ≠ exit     |   = success    |
+|  realizar  | ≠ to realize  | = to carry out |
+|  asistir   |  ≠ to assist  |  = to attend   |
+|  librería  |   ≠ library   |  = bookstore   |
+|  carpeta   |   ≠ carpet    |    = folder    |
+|   largo    |               |                |
+|  recordar  |               |                |
+| constipado |               |                |
+|  fábrica   |               |                |
+|  excitado  |               |                |
+| pretender  |               |                |
+|  soportar  |               |                |
+| introducir |               |                |
+| conductor  |               |                |
+|  pariente  |               |                |
+|   campo    |               |                |
+| contestar  |               |                |
+
+### En una oración
+
+Combina una palabra de cada columna para formar una oración que aclara el significado real (p. ej., _Yo asisto a la reunión_).
+
+|       1       |     2     |        3        |
+| :-----------: | :-------: | :-------------: |
+|      Yo       | asisto a  |   la reunión    |
+|      Tú       | recuerdas |    mi error     |
+|     Ella      |  realiza  | un buen trabajo |
+|   Mi madre    |   está    |  un resfriado   |
+| El conductor  |   tiene   |   el autobús    |
+|  Mi pariente  |  soporta  |    en Denver    |
+|  La librería  |   vende   |    el ruido     |
+|   El campo    | contesta  |  muchos libros  |
+|   Mi amigo    |           |   la pregunta   |
+|   Mi vecino   |           |    muy verde    |
+| El estudiante |           |   el proyecto   |
+| La profesora  |           |                 |
+|   El señor    |           |                 |
+|   La señora   |           |                 |
+|  Mi hermano   |           |                 |
+|  Mi hermana   |           |                 |
+
+---
+
 **Previous Lesson:** [47-comunicacion-formal.md](47-comunicacion-formal.md)
 
 _Questions or feedback? [Open an issue](../../../issues)!_

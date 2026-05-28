@@ -469,6 +469,62 @@ Try these out loud:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Mi padre trabaja como mecánico en el taller_).
+
+### Singular
+
+|              1              |      2       |      3       |         4         |
+| :-------------------------: | :----------: | :----------: | :---------------: |
+|          Mi padre           |      es      |   albañil    |    en la obra     |
+|          Mi madre           | trabaja como |  mecánico/a  |   en el taller    |
+|      La señora García       |  trabaja de  | electricista |   en la cocina    |
+|       El señor López        |  trabaja en  | fontanero/a  | en la peluquería  |
+|          Mi vecino          | se dedica a  |  cocinero/a  | en el restaurante |
+|          Mi vecina          |              | peluquero/a  |      en casa      |
+|        Un amigo mío         |              | carpintero/a |  en la barbería   |
+|        Una amiga mía        |              |              |   en la empresa   |
+|    El hombre de enfrente    |              |              |                   |
+| La mujer del piso de arriba |              |              |                   |
+|            Ella             |              |              |                   |
+|             Él              |              |              |                   |
+|            Usted            |              |              |                   |
+|           Mi tío            |              |              |                   |
+|           Mi tía            |              |              |                   |
+|          El joven           |              |              |                   |
+|          La joven           |              |              |                   |
+|          Mi primo           |              |              |                   |
+|          Mi prima           |              |              |                   |
+|         El director         |              |              |                   |
+
+### Plural
+
+|       1        |       2       |       3       |         4         |
+| :------------: | :-----------: | :-----------: | :---------------: |
+|   Mis padres   |      son      |   albañiles   |    en la obra     |
+|  Mis vecinos   | trabajan como |   mecánicos   |   en el taller    |
+|    Mis tíos    |  trabajan de  | electricistas |   en la cocina    |
+|   Mis primos   |  trabajan en  |  fontaneros   | en la peluquería  |
+|   Mis amigos   | se dedican a  |   cocineros   | en el restaurante |
+|  Las señoras   |               |  peluqueros   |      en casa      |
+|  Los señores   |               |  carpinteros  |  en la barbería   |
+|     Ellos      |               |               |   en la empresa   |
+|     Ellas      |               |               |                   |
+|    Ustedes     |               |               |                   |
+|  Los jóvenes   |               |               |                   |
+|  Las jóvenes   |               |               |                   |
+| Los directores |               |               |                   |
+|  Las mujeres   |               |               |                   |
+|  Los hombres   |               |               |                   |
+|  Mis hermanos  |               |               |                   |
+|  Mis hermanas  |               |               |                   |
+| Los compañeros |               |               |                   |
+| Las profesoras |               |               |                   |
+|  Los vecinos   |               |               |                   |
+
+---
+
 **Next Lesson:** [46-el-aula-y-la-educacion.md](46-el-aula-y-la-educacion.md) | **Previous Lesson:** [44-profesiones-de-servicio.md](44-profesiones-de-servicio.md)
 
 _Questions or feedback? [Open an issue](../../../issues)!_

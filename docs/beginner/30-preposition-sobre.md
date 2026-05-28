@@ -327,4 +327,52 @@ _Translation: I read a book about marine animals. It's on my nightstand. I learn
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo hablo sobre animales_).
+
+### Singular
+
+|      1       |    2    |   3   |       4       |
+| :----------: | :-----: | :---: | :-----------: |
+|      Yo      |  hablo  | sobre |   animales    |
+|      Tú      |  lees   | sobre |  mi familia   |
+|     Ella     | escribe | sobre |    la mesa    |
+|   Mi madre   |  está   | sobre |    el sofá    |
+|   El perro   |  salta  | sobre |    la rama    |
+|   El gato    | aprende | sobre |   las tres    |
+| La profesora |  llega  | sobre | el escritorio |
+|  El pájaro   | se posa | sobre |    España     |
+|   Mi amigo   |         | sobre |   delfines    |
+|  Mi vecino   |         | sobre |    la flor    |
+|   La chica   |         |       |  el mediodía  |
+|   El chico   |         |       |               |
+|  Mi hermano  |         |       |               |
+|  La abuela   |         |       |               |
+|   El señor   |         |       |               |
+|   La niña    |         |       |               |
+
+### Plural
+
+|       1        |    2     |   3   |       4       |
+| :------------: | :------: | :---: | :-----------: |
+|    Nosotros    | hablamos | sobre |   animales    |
+|    Vosotros    |  leéis   | sobre |  mi familia   |
+|     Ellos      | escriben | sobre |    la mesa    |
+|   Los niños    |  están   | sobre |    el sofá    |
+|   Las chicas   |  saltan  | sobre |    la rama    |
+|  Los señores   | aprenden | sobre |   las tres    |
+|   Mis amigos   |  llegan  | sobre | el escritorio |
+|  Los pájaros   | se posan | sobre |    España     |
+|  Mis hermanos  |          | sobre |   delfines    |
+| Las profesoras |          | sobre |    la flor    |
+|  Los abuelos   |          |       |  el mediodía  |
+|   Los gatos    |          |       |               |
+|  Las familias  |          |       |               |
+|  Los vecinos   |          |       |               |
+| Las mariposas  |          |       |               |
+|   Los loros    |          |       |               |
+
+---
+
 **Next Lesson:** [31-preposition-entre.md](31-preposition-entre.md) | **Previous Lesson:** [29-preposition-desde-hasta.md](29-preposition-desde-hasta.md)

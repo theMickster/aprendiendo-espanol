@@ -272,4 +272,52 @@ Complete the paragraph:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo como pan_).
+
+### Singular
+
+|     1      |   2    |      3      |
+| :--------: | :----: | :---------: |
+|     Yo     |  como  |     pan     |
+|     Tú     |  bebo  |    queso    |
+|    Ella    | quiero |    café     |
+|     Él     |  come  |    fruta    |
+|  Mi hija   |  bebe  |    agua     |
+|    Mamá    | quiere |    pollo    |
+|    Papá    | comes  |    arroz    |
+|  El niño   | bebes  |    zumo     |
+|  La niña   |        |   paella    |
+|  El padre  |        |  horchata   |
+|  La madre  |        |  ensalada   |
+| Mi hermano |        |   pescado   |
+| Mi hermana |        |    sopa     |
+|   María    |        |    leche    |
+|   Carlos   |        | una naranja |
+| El abuelo  |        |  un huevo   |
+
+### Plural
+
+|      1       |    2     |    3     |
+| :----------: | :------: | :------: |
+|   Nosotros   | comemos  |   pan    |
+|   Nosotras   | bebemos  |  queso   |
+|   Vosotros   | queremos |   café   |
+|   Vosotras   |  comen   |  fruta   |
+|    Ellos     |  beben   |   agua   |
+|    Ellas     | quieren  |  pollo   |
+|   Ustedes    |  coméis  |  arroz   |
+|  Las niñas   |  bebéis  | verduras |
+|  Los niños   |          | patatas  |
+|  Las hijas   |          | naranjas |
+| Mis hermanos |          |  huevos  |
+| Mis hermanas |          | tomates  |
+| Los abuelos  |          |  paella  |
+| Las abuelas  |          | horchata |
+|  Los padres  |          | ensalada |
+| Las personas |          | pescado  |
+
+---
+
 **Next Lesson:** [09-lugares-y-naturaleza.md](09-lugares-y-naturaleza.md) | **Previous Lesson:** [07-la-familia.md](07-la-familia.md)

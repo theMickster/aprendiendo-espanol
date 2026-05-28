@@ -369,4 +369,52 @@ All answers are "de"!
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo vengo de la escuela_).
+
+### Singular
+
+|      1       |   2    |  3  |       4       |
+| :----------: | :----: | :-: | :-----------: |
+|      Yo      |  soy   | de  |    España     |
+|      Tú      | vienes | de  |  la escuela   |
+|     Ella     | habla  | de  |   Valencia    |
+|   Mi madre   | viene  | de  |     casa      |
+|   El perro   | llega  | de  |    madera     |
+|   El gato    |   es   | de  |    Francia    |
+| La profesora | trata  | de  |  mi familia   |
+|   El libro   | acaba  | de  |   animales    |
+|   Mi amigo   |        | de  | la biblioteca |
+|  Mi vecino   |        | de  |      oro      |
+|   La chica   |        |     |     China     |
+|   El chico   |        |     |               |
+|  Mi hermano  |        |     |               |
+|  La abuela   |        |     |               |
+|   El señor   |        |     |               |
+|   La niña    |        |     |               |
+
+### Plural
+
+|       1        |   2    |  3  |       4       |
+| :------------: | :----: | :-: | :-----------: |
+|    Nosotros    | somos  | de  |    España     |
+|    Vosotros    | venís  | de  |  la escuela   |
+|     Ellos      | hablan | de  |   Valencia    |
+|   Los niños    | vienen | de  |     casa      |
+|   Las chicas   | llegan | de  |    Francia    |
+|  Los señores   |  son   | de  |  mi familia   |
+|   Mis amigos   | tratan | de  |   animales    |
+|   Los pandas   | acaban | de  | la biblioteca |
+|  Mis hermanos  |        | de  |     China     |
+| Las profesoras |        | de  |    África     |
+|  Los abuelos   |        |     |   Colombia    |
+|   Los gatos    |        |     |               |
+|  Las familias  |        |     |               |
+|  Los vecinos   |        |     |               |
+| Los elefantes  |        |     |               |
+|   Los libros   |        |     |               |
+
+---
+
 **Next Lesson:** [27-preposition-con.md](27-preposition-con.md) | **Previous Lesson:** [25-preposition-por-vs-para.md](25-preposition-por-vs-para.md)

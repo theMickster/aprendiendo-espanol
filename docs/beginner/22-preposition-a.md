@@ -349,4 +349,52 @@ Examples:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Los niños van a la escuela_).
+
+### Singular
+
+|      1       |   2    |  3  |        4        |
+| :----------: | :----: | :-: | :-------------: |
+|      Yo      |  voy   |  a  |      casa       |
+|      Tú      |  vas   |  a  |    la playa     |
+|     Ella     | viaja  |  a  |   la escuela    |
+|   Mi madre   | corre  |  a  |    el parque    |
+|   El perro   | vuela  |  a  |     Madrid      |
+|   El gato    | llega  |  a  |     España      |
+| La profesora | camina |  a  |  la biblioteca  |
+|  El pájaro   |   va   |  a  |    el jardín    |
+|   Mi amigo   |        |  a  |     el cine     |
+|  Mi vecino   |        |  a  |    la tienda    |
+|   La chica   |        |     | el supermercado |
+|   El chico   |        |     |                 |
+|  Mi hermano  |        |     |                 |
+|  La abuela   |        |     |                 |
+|   El señor   |        |     |                 |
+|   La niña    |        |     |                 |
+
+### Plural
+
+|       1        |    2    |  3  |        4        |
+| :------------: | :-----: | :-: | :-------------: |
+|    Nosotros    |  vamos  |  a  |      casa       |
+|    Vosotros    |  vais   |  a  |    la playa     |
+|     Ellos      | viajan  |  a  |   la escuela    |
+|   Los niños    | corren  |  a  |    el parque    |
+|   Las chicas   | llegan  |  a  |     Madrid      |
+|  Los señores   | caminan |  a  |     España      |
+|   Mis amigos   |   van   |  a  |  la biblioteca  |
+|  Los pájaros   | vuelan  |  a  |    el jardín    |
+|  Mis hermanos  |         |  a  |     el cine     |
+| Las profesoras |         |  a  |    la tienda    |
+|  Los abuelos   |         |     | el supermercado |
+|   Los gatos    |         |     |                 |
+|  Las familias  |         |     |                 |
+|  Los vecinos   |         |     |                 |
+|  Los turistas  |         |     |                 |
+|   Los perros   |         |     |                 |
+
+---
+
 **Next Lesson:** [23-preposition-por.md](23-preposition-por.md) | **Previous Lesson:** [21-preposition-en.md](21-preposition-en.md)

@@ -389,4 +389,52 @@ Siempre, mucho, temprano, rápidamente, Luego, fuera, casi, nunca, muy, más, tr
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo hablo español muy bien_).
+
+### Afirmativo
+
+|      1       |    2    |       3       |       4        |
+| :----------: | :-----: | :-----------: | :------------: |
+|      Yo      |  hablo  |    español    |      bien      |
+|      Tú      |  come   |     mucho     |     rápido     |
+|     Ella     |  corre  |    en casa    |    despacio    |
+|      Él      | trabaja | en la oficina |    siempre     |
+|   Nosotros   | estudia |     aquí      |    a veces     |
+|     Mamá     |  canta  |     allí      |    muy bien    |
+|     Papá     |         |               | perfectamente  |
+|   La niña    |         |               |    temprano    |
+|   El niño    |         |               | tranquilamente |
+|   Mi hija    |         |               |                |
+|   Mi hijo    |         |               |                |
+|    María     |         |               |                |
+|    Carlos    |         |               |                |
+|   El gato    |         |               |                |
+|   El perro   |         |               |                |
+| La profesora |         |               |                |
+
+### Negativo
+
+|        1        |    2    |       3       |     4      |
+| :-------------: | :-----: | :-----------: | :--------: |
+|      Yo no      |  hablo  |    español    |    bien    |
+|      Tú no      |  come   |     mucho     |   rápido   |
+|     Ella no     |  corre  |    en casa    |   nunca    |
+|      Él no      | trabaja | en la oficina |    mal     |
+|   Nosotros no   | estudia |     aquí      |   tarde    |
+|     Mamá no     |  canta  |     allí      | casi nunca |
+|     Papá no     |         |               |  despacio  |
+|   La niña no    |         |               |  todavía   |
+|   El niño no    |         |               |   apenas   |
+|   Mi hija no    |         |               |            |
+|   Mi hijo no    |         |               |            |
+|    María no     |         |               |            |
+|    Carlos no    |         |               |            |
+|   El gato no    |         |               |            |
+|   El perro no   |         |               |            |
+| La profesora no |         |               |            |
+
+---
+
 **Next Lesson:** [13-possessives-and-demonstratives.md](13-possessives-and-demonstratives.md) | **Previous Lesson:** [11-ser-estar-adjectives.md](11-ser-estar-adjectives.md)

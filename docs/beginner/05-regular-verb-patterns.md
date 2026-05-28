@@ -299,4 +299,52 @@ Use regular verbs only. Drop the subject pronoun where natural.
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo estudio español_).
+
+### Singular
+
+|       1       |    2    |       3       |
+| :-----------: | :-----: | :-----------: |
+|      Yo       | estudio |    español    |
+|      Tú       |  comes  |    paella     |
+|     Ella      |  vive   |  en Valencia  |
+|      Él       |  bebe   |     agua      |
+|     Usted     | escribe |   una carta   |
+|     Mamá      | camina  | en el mercado |
+|     Papá      |  corre  |   al parque   |
+|  Mi hermano   |   lee   |   un libro    |
+|  Mi hermana   |         |               |
+|    La niña    |         |               |
+| El estudiante |         |               |
+| La profesora  |         |               |
+|     María     |         |               |
+|    Carlos     |         |               |
+|   Mi amigo    |         |               |
+|   Mi amiga    |         |               |
+
+### Plural
+
+|        1        |     2      |      3      |
+| :-------------: | :--------: | :---------: |
+|    Nosotros     | estudiamos |   español   |
+|    Nosotras     |  comemos   |   paella    |
+|    Vosotros     |  vivimos   | en Valencia |
+|    Vosotras     |  bebemos   |    agua     |
+|      Ellos      | escribimos |  una carta  |
+|      Ellas      | caminamos  |  al parque  |
+|     Ustedes     |  corremos  |  un libro   |
+|    Las niñas    |   leemos   |             |
+| Los estudiantes |            |             |
+| Las profesoras  |            |             |
+|  Mis hermanos   |            |             |
+|  Mis hermanas   |            |             |
+|   Mis amigos    |            |             |
+|   Mis amigas    |            |             |
+|    Los niños    |            |             |
+|  Las personas   |            |             |
+
+---
+
 **Next Lesson:** [06-question-words.md](06-question-words.md) | **Previous Lesson:** [04-articles-and-gender.md](04-articles-and-gender.md)

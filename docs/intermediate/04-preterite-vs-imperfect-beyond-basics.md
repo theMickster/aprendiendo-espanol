@@ -337,4 +337,60 @@ Spaniards love to tell stories! When chatting with friends or family, you will h
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Las niñas corrieron al agua ayer_).
+
+### Pretérito (acción puntual / interrumpe)
+
+|      1      |    2    |        3         |       4        |
+| :---------: | :-----: | :--------------: | :------------: |
+|     Yo      |  hablé  |     al agua      |      ayer      |
+|     Tú      | comiste |    la paella     |   esa tarde    |
+|     Él      | corrió  |    un mensaje    |   de repente   |
+|    Ella     | caminó  | cinco kilómetros | inmediatamente |
+|    Mamá     | estudió |     la cena      |   esa noche    |
+|    Papá     | compró  |     helados      |   el sábado    |
+|  Las niñas  |  llegó  |     español      |                |
+|  Nosotros   |  dijo   |    a la playa    |                |
+| Mis amigos  | preparó |                  |                |
+| El profesor |  vino   |                  |                |
+|   Mi hija   |         |                  |                |
+| La familia  |         |                  |                |
+|  Los niños  |         |                  |                |
+|  La gente   |         |                  |                |
+|  El equipo  |         |                  |                |
+|  Mi madre   |         |                  |                |
+|  Mi padre   |         |                  |                |
+|  Vosotros   |         |                  |                |
+|    Ellos    |         |                  |                |
+|    Usted    |         |                  |                |
+
+### Imperfecto (fondo / acción continua)
+
+|      1      |     2     |        3         |             4              |
+| :---------: | :-------: | :--------------: | :------------------------: |
+|     Yo      |  hablaba  |     al agua      |   cuando empezó a llover   |
+|     Tú      |   comía   |    la paella     | cuando llegaron los amigos |
+|     Él      |  corría   |    un mensaje    |     mientras hacía sol     |
+|    Ella     | caminaba  | cinco kilómetros |  cuando sonó el teléfono   |
+|    Mamá     | estudiaba |     la cena      |      mientras llovía       |
+|    Papá     | preparaba |     helados      |    cuando se fue la luz    |
+|  Las niñas  |  jugaba   |     español      |                            |
+|  Nosotros   |   leía    |   en el parque   |                            |
+| Mis amigos  |  dormía   |                  |                            |
+| El profesor |           |                  |                            |
+|   Mi hija   |           |                  |                            |
+| La familia  |           |                  |                            |
+|  Los niños  |           |                  |                            |
+|  La gente   |           |                  |                            |
+|  El equipo  |           |                  |                            |
+|  Mi madre   |           |                  |                            |
+|  Mi padre   |           |                  |                            |
+|  Vosotros   |           |                  |                            |
+|    Ellos    |           |                  |                            |
+|    Usted    |           |                  |                            |
+
+---
+
 **Previous Lesson:** [03-adjectives-past-tense.md](03-adjectives-past-tense.md) | **Next Lesson:** [05-present-continuous.md](05-present-continuous.md)

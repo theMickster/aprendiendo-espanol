@@ -339,4 +339,52 @@ Complete the conversation with the correct body part or health expression.
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Me duele la cabeza_).
+
+### Singular
+
+|  1  |   2   |      3      |
+| :-: | :---: | :---------: |
+| Me  | duele |  la cabeza  |
+| Te  |       | la espalda  |
+| Le  |       | el estómago |
+| Nos |       | la garganta |
+| Os  |       |  el cuello  |
+| Les |       |  la nariz   |
+| Me  |       |   la boca   |
+| Te  |       |  el brazo   |
+| Le  |       |  la pierna  |
+| Nos |       | la rodilla  |
+| Os  |       |   el pie    |
+| Les |       |   la cara   |
+| Me  |       | el corazón  |
+| Te  |       |   la mano   |
+| Le  |       |  la frente  |
+| Nos |       |  el pecho   |
+
+### Plural
+
+|  1  |   2    |         3         |
+| :-: | :----: | :---------------: |
+| Me  | duelen |     los ojos      |
+| Te  |        |    las piernas    |
+| Le  |        |     los pies      |
+| Nos |        |   las rodillas    |
+| Os  |        |    los brazos     |
+| Les |        |     las manos     |
+| Me  |        |    los hombros    |
+| Te  |        |    los dientes    |
+| Le  |        |    las orejas     |
+| Nos |        |     los dedos     |
+| Os  |        |    las muelas     |
+| Les |        |     los oídos     |
+| Me  |        | los dedos del pie |
+| Te  |        |    las piernas    |
+| Le  |        |    las orejas     |
+| Nos |        |    los hombros    |
+
+---
+
 **Next Lesson:** [15-reflexive-verbs.md](15-reflexive-verbs.md) | **Previous Lesson:** [13-possessives-and-demonstratives.md](13-possessives-and-demonstratives.md)

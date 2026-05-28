@@ -187,6 +187,42 @@ All of these mean "I moved to Valencia three years ago":
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Hace dos años que vivo aquí_).
+
+### Presente (situación que continúa)
+
+|  1   |       2       |  3  |          4          |
+| :--: | :-----------: | :-: | :-----------------: |
+| Hace |   dos horas   | que |       no como       |
+| Hace |   tres días   | que |      no duermo      |
+| Hace |  una semana   | que |      no te veo      |
+| Hace |   dos meses   | que |      vivo aquí      |
+| Hace |    un año     | que |   estudio español   |
+| Hace | mucho tiempo  | que | trabajo en Valencia |
+| Hace |  poco tiempo  | que |  no hablo con ella  |
+| Hace | cinco minutos | que |                     |
+| Hace |   diez años   | que |                     |
+| Hace |    un rato    | que |                     |
+
+### Pretérito (hace...que + preterite)
+
+|  1   |       2       |  3  |        4        |
+| :--: | :-----------: | :-: | :-------------: |
+| Hace |   dos horas   | que |     llegué      |
+| Hace |   tres días   | que |     empezó      |
+| Hace |  una semana   | que |    no llueve    |
+| Hace |   dos meses   | que |     me mudé     |
+| Hace |    un año     | que |      lo vi      |
+| Hace | mucho tiempo  | que |     comimos     |
+| Hace |  poco tiempo  | que | empezó el curso |
+| Hace | cinco minutos | que |                 |
+| Hace |   diez años   | que |                 |
+| Hace |    un rato    | que |                 |
+
+---
+
 **Previous Lesson:** [08 - Tener que, Hay que, Deber](08-tener-que-hay-que-deber.md)
 **Next Lesson:** [10 - Adjective Placement and Forms](10-adjective-placement-and-forms.md)
 

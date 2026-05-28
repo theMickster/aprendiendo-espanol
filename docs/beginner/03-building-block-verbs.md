@@ -358,4 +358,51 @@ soy, estoy, Tengo, voy, Hago, hace, Hay, Voy a, tengo que
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo tengo hambre_).
+
+### Singular
+
+|       1       |   2    |      3       |
+| :-----------: | :----: | :----------: |
+|      Yo       |  soy   |  estudiante  |
+|      Tú       | estoy  |   en casa    |
+|      Él       | tengo  |    hambre    |
+|     Ella      |  voy   |   cansado    |
+|     Usted     |  hago  | a la escuela |
+|  Mi hermano   | tienes |  ejercicio   |
+|  Mi hermana   | estás  |              |
+| La profesora  |        |              |
+|  El profesor  |        |              |
+|   Mi amigo    |        |              |
+|   Mi amiga    |        |              |
+|   Valencia    |        |              |
+|   La ciudad   |        |              |
+|     María     |        |              |
+|    Carlos     |        |              |
+| El estudiante |        |              |
+
+### Plural
+
+|        1        |    2    |      3       |
+| :-------------: | :-----: | :----------: |
+|    Nosotros     |  somos  | estudiantes  |
+|    Nosotras     | estamos |   en casa    |
+|    Vosotros     | tenemos |   cansados   |
+|    Vosotras     |  vamos  | a la escuela |
+|      Ellos      | hacemos |  ejercicio   |
+|      Ellas      | tenéis  |    amigos    |
+|     Ustedes     | estáis  |              |
+|  Mis hermanos   |         |              |
+|  Mis hermanas   |         |              |
+| Los profesores  |         |              |
+| Las profesoras  |         |              |
+|   Mis amigos    |         |              |
+|   Mis amigas    |         |              |
+| Los estudiantes |         |              |
+| Las estudiantes |         |              |
+
+---
+
 **Next Lesson:** [04-articles-and-gender.md](04-articles-and-gender.md) | **Previous Lesson:** [02-numbers.md](02-numbers.md)

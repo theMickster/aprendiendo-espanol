@@ -289,4 +289,52 @@ Descriptive adjectives (color, size, shape, quality) go AFTER.
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _La playa es bonita_).
+
+### Singular
+
+|      1      |  2   |      3      |
+| :---------: | :--: | :---------: |
+|  La playa   |  es  |   bonita    |
+|  El coche   | está |    rojo     |
+|   La casa   |      |   grande    |
+|   El día    |      |    alto     |
+|  La comida  |      |  deliciosa  |
+|  El parque  |      |    fría     |
+|  La ciudad  |      |   moderno   |
+|  El centro  |      | inteligente |
+|   La hija   |      |   soleado   |
+|  El chico   |      |   pequeña   |
+|  La chica   |      |   amable    |
+|   El agua   |      |             |
+|  La arena   |      |             |
+| El edificio |      |             |
+|  La calle   |      |             |
+|  El clima   |      |             |
+
+### Plural
+
+|       1       |   2   |      3       |
+| :-----------: | :---: | :----------: |
+|  Las playas   |  son  |   bonitas    |
+|  Los coches   | están |    rojos     |
+|   Las casas   |       |   grandes    |
+|   Los días    |       |    altos     |
+|  Las comidas  |       |  deliciosas  |
+|  Los parques  |       |    frías     |
+| Las ciudades  |       |   modernos   |
+|  Los centros  |       | inteligentes |
+|   Las hijas   |       |   soleados   |
+|  Los chicos   |       |   pequeñas   |
+|  Las chicas   |       |   amables    |
+| Los edificios |       |              |
+|  Las calles   |       |              |
+|   Las olas    |       |              |
+|  Los hombres  |       |              |
+| Las personas  |       |              |
+
+---
+
 **Next Lesson:** [11-ser-estar-adjectives.md](11-ser-estar-adjectives.md) | **Previous Lesson:** [09-lugares-y-naturaleza.md](09-lugares-y-naturaleza.md)

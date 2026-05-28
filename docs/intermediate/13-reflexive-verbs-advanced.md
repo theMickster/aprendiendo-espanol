@@ -356,6 +356,42 @@ Spaniards are generally very expressive with emotions. Don't be surprised if you
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo me lavo el pelo por la mañana_).
+
+### Singular
+
+|      1      |  2  |    3     |      4      |         5         |
+| :---------: | :-: | :------: | :---------: | :---------------: |
+|     Yo      | me  |   lavo   |   el pelo   |  antes de salir   |
+|     Tú      | te  |  vistes  |   la cara   |   por la mañana   |
+|     Él      | se  |  corta   |  las manos  |  en el gimnasio   |
+|    Ella     |     |  ducha   | los dientes |    con cuidado    |
+|  Mi madre   |     | maquilla | los zapatos |    rápidamente    |
+|  Mi padre   |     |  afeita  | el uniforme |  todos los días   |
+|  La atleta  |     |          |  la barba   | después de correr |
+| El paciente |     |          |  el brazo   |                   |
+| Mi hermano  |     |          | la chaqueta |                   |
+| Mi hermana  |     |          |             |                   |
+|    Usted    |     |          |             |                   |
+
+### Plural
+
+|        1        |  2  |    3    |      4      |         5         |
+| :-------------: | :-: | :-----: | :---------: | :---------------: |
+|    Nosotros     | nos | ponemos |   el pelo   |  antes de salir   |
+|    Vosotros     | os  | quitáis |   la cara   |   por la mañana   |
+|    Los niños    | se  | rompen  |  las manos  |  en el gimnasio   |
+|   Las chicas    |     | entrena | los dientes |    con cuidado    |
+| Los deportistas |     |  lavo   | los zapatos |    rápidamente    |
+|   La familia    |     |         | el uniforme |  todos los días   |
+|    El equipo    |     |         |  la barba   | después de correr |
+| Los estudiantes |     |         |  el brazo   |                   |
+|    Mi amigo     |     |         | la chaqueta |                   |
+
+---
+
 **Previous Lesson:** [12 - Ser vs Estar Advanced](12-ser-vs-estar-advanced.md)
 **Next Lesson:** [14 - Present Perfect](14-present-perfect.md)
 

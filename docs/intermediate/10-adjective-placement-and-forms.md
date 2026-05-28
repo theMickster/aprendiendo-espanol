@@ -226,6 +226,49 @@ Fill in the correct shortened or full form:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _El coche es demasiado caro_).
+
+### Después del sustantivo (ser/estar + adjetivo)
+
+|       1       |   2   |            3             |
+| :-----------: | :---: | :----------------------: |
+|   El coche    |  es   |      un gran hombre      |
+|    La casa    | está  |      muy cansado/a       |
+|   Mi amigo    |  son  |     bastante difícil     |
+|   El libro    | están |     demasiado caro/a     |
+|  La película  |       |  completamente nuevo/a   |
+|   El perro    |       | absolutamente perfecto/a |
+|   Los niños   |       |       algo raro/a        |
+|  Las flores   |       |     poco interesante     |
+|   Mi madre    |       |     muy bien hecho/a     |
+|  El trabajo   |       |       mal hecho/a        |
+|  El problema  |       |                          |
+| La situación  |       |                          |
+|   El hombre   |       |                          |
+|   La mujer    |       |                          |
+| El estudiante |       |                          |
+| La profesora  |       |                          |
+|   El tiempo   |       |                          |
+|   La comida   |       |                          |
+|   El viaje    |       |                          |
+|   La ciudad   |       |                          |
+
+### Antes del sustantivo (pre-noun adjectives)
+
+|    1     |   2   |      3      |
+| :------: | :---: | :---------: |
+|  Es un   | gran  |   hombre    |
+|  Es una  | buen  |    amigo    |
+| Son unos |  mal  |     día     |
+| Son unas | nuevo |   momento   |
+|          | viejo |   ciudad    |
+|          | mismo | restaurante |
+|          | otro  |  problema   |
+
+---
+
 **Previous Lesson:** [09 - Hace + Time Expressions](09-hace-time-expressions.md)
 **Next Lesson:** [11 - Comparatives and Superlatives](11-comparatives-and-superlatives.md)
 

@@ -230,6 +230,54 @@ Unlike English where "none" can feel plural, ninguno/ninguna is almost always si
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Nadie habla inglés bien_).
+
+### Negación simple (no)
+
+|      1       |  2  |    3     |          4          |
+| :----------: | :-: | :------: | :-----------------: |
+|      Yo      | no  |   como   |        carne        |
+|      Tú      |     |   bebe   |       alcohol       |
+|      Él      |     |  habla   |       inglés        |
+|     Ella     |     | trabaja  | los fines de semana |
+|    Usted     |     | estudia  |        tarde        |
+|   Mi madre   |     |  llega   |      a tiempo       |
+|  Los niños   |     |   sale   |      la tarea       |
+|   Nosotros   |     |  duerme  |        bien         |
+|   Vosotros   |     | entiende |        mucho        |
+|    Ellos     |     |   hace   |                     |
+|   Mi amigo   |     |          |                     |
+| La profesora |     |          |                     |
+|   El perro   |     |          |                     |
+|  Mi hermano  |     |          |                     |
+|  Mi hermana  |     |          |                     |
+|  El equipo   |     |          |                     |
+
+### Negación enfática (nunca / jamás / tampoco / ni...ni)
+
+|         1         |    2    |    3     |          4          |
+| :---------------: | :-----: | :------: | :-----------------: |
+|        Yo         |  nunca  |   como   |        carne        |
+|        Tú         |  jamás  |   bebe   |       alcohol       |
+|        Él         | tampoco |  habla   |       inglés        |
+|       Ella        |   ni    | trabaja  | los fines de semana |
+|       Nadie       |  nada   | estudia  |        tarde        |
+| Ningún estudiante |  nadie  |  llega   |      a tiempo       |
+|    Nadie aquí     | ninguna |   sale   |      la tarea       |
+|  Ninguna persona  |         |  duerme  |        bien         |
+|     Nosotros      |         | entiende |        mucho        |
+|     Vosotros      |         |   hace   |                     |
+|       Ellos       |         |          |                     |
+|     Mi madre      |         |          |                     |
+|     Los niños     |         |          |                     |
+|    Mi hermano     |         |          |                     |
+|    Mi hermana     |         |          |                     |
+|     El equipo     |         |          |                     |
+
+---
+
 **Previous Lesson:** [15 - The Conditional Tense](15-conditional-tense.md)
 **Next Lesson:** [17 - The Present Subjunctive](17-present-subjunctive.md)
 

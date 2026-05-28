@@ -688,6 +688,62 @@ You've mastered future tense when you can:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Mañana iré al cine_).
+
+### Futuro simple
+
+|       1        |    2     |        3         |          4          |
+| :------------: | :------: | :--------------: | :-----------------: |
+|       Yo       |   seré   |     al cine      |       mañana        |
+|       Tú       |  serás   |    a la playa    | la semana que viene |
+|       Él       |  estaré  |     a España     |   el año próximo    |
+|      Ella      |   iré    | a la universidad |      en verano      |
+|     Usted      |   irás   |   a la fiesta    |       pronto        |
+|    Mi madre    |  tendré  |      doctor      |      algún día      |
+|    Mi padre    | tendrás  |      feliz       |     esta tarde      |
+|  La profesora  |   haré   |    ejercicio     |                     |
+| El señor López |  harás   |     la cena      |                     |
+|    El perro    |  sabré   |                  |                     |
+|    Nosotros    | podremos |                  |                     |
+|    Vosotros    | vendréis |                  |                     |
+|     Ellos      |  sabrán  |                  |                     |
+|   Las niñas    |          |                  |                     |
+|   Los niños    |          |                  |                     |
+|   Mis amigos   |          |                  |                     |
+|   La familia   |          |                  |                     |
+|   El equipo    |          |                  |                     |
+|    La gente    |          |                  |                     |
+|   El hombre    |          |                  |                     |
+
+### Ir a + infinitivo
+
+|       1        |       2        |        3         |          4          |
+| :------------: | :------------: | :--------------: | :-----------------: |
+|       Yo       |    voy a ir    |     al cine      |       mañana        |
+|       Tú       |  vas a estar   |    a la playa    | la semana que viene |
+|       Él       |    va a ser    |     a España     |   el año próximo    |
+|      Ella      |   va a tener   | a la universidad |      en verano      |
+|     Usted      | vamos a hacer  |    un examen     |       pronto        |
+|    Mi madre    | van a estudiar |    ejercicio     |      algún día      |
+|    Mi padre    |  vais a comer  |     la cena      |     esta tarde      |
+|  La profesora  |                |                  |                     |
+| El señor López |                |                  |                     |
+|    El perro    |                |                  |                     |
+|    Nosotros    |                |                  |                     |
+|    Vosotros    |                |                  |                     |
+|     Ellos      |                |                  |                     |
+|   Las niñas    |                |                  |                     |
+|   Los niños    |                |                  |                     |
+|   Mis amigos   |                |                  |                     |
+|   La familia   |                |                  |                     |
+|   El equipo    |                |                  |                     |
+|    La gente    |                |                  |                     |
+|   El hombre    |                |                  |                     |
+
+---
+
 **🎉 ¡Felicidades! You can now talk about the future in Spanish!**
 
 **You've now mastered all three time frames:**

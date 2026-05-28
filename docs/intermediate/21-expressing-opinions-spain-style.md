@@ -244,6 +244,49 @@ In Spain:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Creo que el español es muy interesante_).
+
+### Afirmando (indicativo)
+
+|             1             |  2  |         3          |    4     |        5        |
+| :-----------------------: | :-: | :----------------: | :------: | :-------------: |
+|         Creo que          |     |     el español     |    es    | muy interesante |
+|        Pienso que         |     |      Valencia      |   está   | demasiado caro  |
+|       Me parece que       |     |      la gente      |  tiene   | la mejor ciudad |
+|       En mi opinión       | que |    el gobierno     | necesita |   muy difícil   |
+|        A mi juicio        | que |     este libro     |    es    |      razón      |
+|  Desde mi punto de vista  | que |    la situación    |   está   |     tiempo      |
+|       Considero que       |     |    los precios     |  tiene   |   importante    |
+| Estoy convencido/a de que |     |     el tiempo      | necesita |   bien hecho    |
+| Me da la impresión de que |     |     el fútbol      |    es    |       así       |
+|          Para mí          | que | la comida española |   está   |   suficiente    |
+|      Es evidente que      |     |                    |          |                 |
+|       Es obvio que        |     |                    |          |                 |
+|     La verdad es que      |     |                    |          |                 |
+|     Lo cierto es que      |     |                    |          |                 |
+|      A decir verdad       | que |                    |          |                 |
+|       Sinceramente        | que |                    |          |                 |
+|       Personalmente       | que |                    |          |                 |
+
+### Expresando duda (subjuntivo)
+
+|           1           |  2  |         3          |   4   |        5        |
+| :-------------------: | :-: | :----------------: | :---: | :-------------: |
+|      No creo que      |     |     el español     |  sea  | muy interesante |
+|       Dudo que        |     |      Valencia      | esté  | demasiado caro  |
+| Me parece mentira que |     |      la gente      | tenga | la mejor ciudad |
+|   No es seguro que    |     |    el gobierno     | haga  |   muy difícil   |
+|     Puede ser que     |     |     este libro     | pueda |      razón      |
+|   No es cierto que    |     |    la situación    | deba  |     tiempo      |
+|    Es posible que     |     |    los precios     |  sea  |   importante    |
+|     No pienso que     |     |     el tiempo      | esté  |   bien hecho    |
+|   No es verdad que    |     |     el fútbol      | tenga |       así       |
+|   Es improbable que   |     | la comida española | haga  |   suficiente    |
+
+---
+
 **Previous Lesson:** [20 - Connectors and Discourse Markers](20-connectors-discourse-markers.md)
 **Next Lesson:** [22 - The Imperfect Subjunctive](22-imperfect-subjunctive.md)
 

@@ -411,6 +411,62 @@ Try these out loud:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _El médico usa los pulmones con cuidado_).
+
+### Singular
+
+|         1         |    2     |        3        |       4        |
+| :---------------: | :------: | :-------------: | :------------: |
+|     El médico     | respira  |  los pulmones   |     hondo      |
+|    La doctora     |   usa    |    el pecho     |    despacio    |
+|    El paciente    |  tiene   |   la garganta   |  por la nariz  |
+|        Yo         |  inhala  |     el aire     |  por la boca   |
+|     Mi padre      |  exhala  |   el oxígeno    | con dificultad |
+|   El enfermero    |  mueve   |  el inhalador   |    cada día    |
+| La fisioterapeuta | ejercita |  los bronquios  | profundamente  |
+|      La niña      |  siente  |    la nariz     |   suavemente   |
+|    Mi hermano     |          |     la tos      |                |
+|  La entrenadora   |          |  el diafragma   |                |
+|     El atleta     |          | la respiración  |                |
+|    El nadador     |          |  la mascarilla  |                |
+|    El corredor    |          | las sibilancias |                |
+|     El abuelo     |          | el nebulizador  |                |
+|     La abuela     |          |                 |                |
+|     El señor      |          |                 |                |
+|     La señora     |          |                 |                |
+|     El joven      |          |                 |                |
+|   La profesora    |          |                 |                |
+|   El estudiante   |          |                 |                |
+
+### Plural
+
+|          1          |     2     |        3        |       4        |
+| :-----------------: | :-------: | :-------------: | :------------: |
+|     Los médicos     | respiran  |  los pulmones   |     hondo      |
+|    Las doctoras     |   usan    |    el pecho     |    despacio    |
+|    Los pacientes    |  tienen   |   la garganta   |  por la nariz  |
+|      Nosotros       |  inhalan  |     el aire     |  por la boca   |
+|      Vosotros       |  exhalan  |   el oxígeno    | con dificultad |
+|   Los enfermeros    |  mueven   |  el inhalador   |    cada día    |
+| Las fisioterapeutas | ejercitan |  los bronquios  | profundamente  |
+|      Las niñas      |  sienten  |    la nariz     |   suavemente   |
+|    Mis hermanos     |           |     la tos      |                |
+|  Las entrenadoras   |           |  el diafragma   |                |
+|     Los atletas     |           | la respiración  |                |
+|    Los nadadores    |           |  la mascarilla  |                |
+|   Los corredores    |           | las sibilancias |                |
+|     Los abuelos     |           | el nebulizador  |                |
+|     Las señoras     |           |                 |                |
+|     Los señores     |           |                 |                |
+|     Los jóvenes     |           |                 |                |
+|   Las profesoras    |           |                 |                |
+|   Los estudiantes   |           |                 |                |
+|   Los deportistas   |           |                 |                |
+
+---
+
 **Next Lesson:** [42-a-que-te-dedicas.md](42-a-que-te-dedicas.md) | **Previous Lesson:** [40-musculos-y-movimiento.md](40-musculos-y-movimiento.md)
 
 _Questions or feedback? [Open an issue](../../../issues)!_

@@ -276,4 +276,47 @@ For each situation, write a greeting AND a goodbye using the appropriate registe
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo quiero hablar español_).
+
+### Singular
+
+|       1        |     2     |         3          |
+| :------------: | :-------: | :----------------: |
+|       Yo       |  quiero   |   hablar español   |
+|       Tú       | necesito  |     comer algo     |
+|       Él       | prefiero  |     ir al baño     |
+|      Ella      |   puedo   |    un poco más     |
+|    Mi amigo    |   debo    | repetir, por favor |
+|    Mi amiga    | tengo que |    más despacio    |
+|  La profesora  |   voy a   |       ayuda        |
+| El señor López |           |     la cuenta      |
+|   Mi vecino    |           |                    |
+|   Mi vecina    |           |                    |
+|     Usted      |           |                    |
+|  El camarero   |           |                    |
+|  La camarera   |           |                    |
+|    Mi madre    |           |                    |
+|    Mi padre    |           |                    |
+|  El profesor   |           |                    |
+
+### Plural
+
+|       1        |      2      |       3        |
+| :------------: | :---------: | :------------: |
+|    Nosotros    |  queremos   | hablar español |
+|    Vosotros    | necesitáis  |   comer algo   |
+|     Ellos      | preferimos  |   descansar    |
+|     Ellas      |   podemos   |  un poco más   |
+|    Ustedes     | tenemos que |  más despacio  |
+|   Mis amigos   |   vamos a   |     ayuda      |
+|   Mis amigas   |             |   la cuenta    |
+|  Los vecinos   |             |                |
+| Los profesores |             |                |
+|   Mis padres   |             |                |
+| Los camareros  |             |                |
+
+---
+
 **Next Lesson:** [19-la-rutina-diaria.md](19-la-rutina-diaria.md) | **Previous Lesson:** [17-de-compras.md](17-de-compras.md)

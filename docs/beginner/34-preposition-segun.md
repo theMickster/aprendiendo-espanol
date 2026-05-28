@@ -280,4 +280,52 @@ _Translation: According to the news, the weather is nice tomorrow. According to 
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo estudio según mi profesor_).
+
+### Singular
+
+|       1        |    2    |   3   |      4       |
+| :------------: | :-----: | :---: | :----------: |
+|       Yo       | estudio | según | mi profesor  |
+|       Tú       |  como   | según |  el doctor   |
+|      Ella      | trabaja | según | las noticias |
+|    Mi madre    |  corro  | según |  el tiempo   |
+|    El perro    |  actúa  | según |    el día    |
+|    El gato     |  come   | según | los expertos |
+|  La profesora  | decide  | según |   el libro   |
+| El veterinario |  migra  | según |  el precio   |
+|    Mi amigo    |         | según |   el clima   |
+|   Mi vecino    |         | según |      yo      |
+|    La chica    |         |       |   el plan    |
+|    El chico    |         |       |              |
+|   Mi hermano   |         |       |              |
+|   La abuela    |         |       |              |
+|    El señor    |         |       |              |
+|    La niña     |         |       |              |
+
+### Plural
+
+|        1        |     2      |   3   |      4       |
+| :-------------: | :--------: | :---: | :----------: |
+|    Nosotros     | estudiamos | según | mi profesor  |
+|    Vosotros     |   coméis   | según |  el doctor   |
+|      Ellos      |  trabajan  | según | las noticias |
+|    Los niños    |   corren   | según |  el tiempo   |
+|   Las chicas    |   actúan   | según |    el día    |
+|   Los señores   |   comen    | según | los expertos |
+|   Mis amigos    |  deciden   | según |   el libro   |
+|    Los osos     |   migran   | según |  el precio   |
+|  Mis hermanos   |            | según |   el clima   |
+| Las profesoras  |            | según |   el plan    |
+|   Los abuelos   |            |       | la estación  |
+|    Los gatos    |            |       |              |
+|  Las familias   |            |       |              |
+|   Los vecinos   |            |       |              |
+| Los científicos |            |       |              |
+|  Los animales   |            |       |              |
+
+---
+
 **Next Lesson:** [35-preposition-locations.md](35-preposition-locations.md) | **Previous Lesson:** [33-preposition-hacia.md](33-preposition-hacia.md)

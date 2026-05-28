@@ -382,6 +382,54 @@ Try these out loud:
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _El alumno estudia las matemáticas en clase_).
+
+### Singular
+
+|       1       |        2         |          3          |        4         |
+| :-----------: | :--------------: | :-----------------: | :--------------: |
+|   El alumno   |     estudia      |   las matemáticas   |     en clase     |
+|   La alumna   |     aprende      |    las ciencias     |    en el aula    |
+| El estudiante |      repasa      |     la historia     |  para el examen  |
+| La estudiante |     aprueba      |      la lengua      | en la biblioteca |
+| Mi compañero  |     suspende     |      el inglés      |   con atención   |
+| Mi compañera  | hace los deberes |      la música      |     cada día     |
+|    El niño    |     practica     |       el arte       |     en casa      |
+|    La niña    |     entrega      |    la geografía     | antes del recreo |
+|  Mi hermano   |                  |   la informática    |                  |
+|  Mi hermana   |                  | la educación física |                  |
+|   El joven    |                  |     los deberes     |                  |
+|   La joven    |                  |      el examen      |                  |
+|   Mi primo    |                  |    la redacción     |                  |
+|   Mi prima    |                  |                     |                  |
+|  El profesor  |                  |                     |                  |
+| La profesora  |                  |                     |                  |
+
+### Plural
+
+|        1        |         2         |          3          |        4         |
+| :-------------: | :---------------: | :-----------------: | :--------------: |
+|   Los alumnos   |     estudian      |   las matemáticas   |     en clase     |
+|   Las alumnas   |     aprenden      |    las ciencias     |    en el aula    |
+| Los estudiantes |      repasan      |     la historia     |  para el examen  |
+| Las estudiantes |     aprueban      |      la lengua      | en la biblioteca |
+| Mis compañeros  |     suspenden     |      el inglés      |   con atención   |
+| Mis compañeras  | hacen los deberes |      la música      |     cada día     |
+|    Los niños    |     practican     |       el arte       |     en casa      |
+|    Las niñas    |     entregan      |    la geografía     | antes del recreo |
+|  Mis hermanos   |                   |   la informática    |                  |
+|  Mis hermanas   |                   | la educación física |                  |
+|   Los jóvenes   |                   |     los deberes     |                  |
+|   Las jóvenes   |                   |      el examen      |                  |
+|   Mis primos    |                   |    la redacción     |                  |
+|   Mis primas    |                   |                     |                  |
+| Los profesores  |                   |                     |                  |
+| Las profesoras  |                   |                     |                  |
+
+---
+
 **Next Lesson:** [47-comunicacion-formal.md](47-comunicacion-formal.md) | **Previous Lesson:** [45-profesiones-con-las-manos.md](45-profesiones-con-las-manos.md)
 
 _Questions or feedback? [Open an issue](../../../issues)!_

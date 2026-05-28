@@ -258,4 +258,52 @@ Sample answer (yours may vary):
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _La playa está al este_).
+
+### Singular
+
+|        1        |  2   |       3        |
+| :-------------: | :--: | :------------: |
+|    La playa     | está |    al este     |
+|    El parque    | está |    al oeste    |
+|   La escuela    |      |     cerca      |
+| El supermercado |      |     lejos      |
+|  La biblioteca  |      |  a la derecha  |
+|   El hospital   |      | a la izquierda |
+|   La farmacia   |      |    al norte    |
+| El restaurante  |      |     al sur     |
+|   La iglesia    |      |  en el centro  |
+|    El museo     |      |    enfrente    |
+|    La plaza     |      |    al lado     |
+|     El cine     |      |                |
+|    El banco     |      |                |
+|    La tienda    |      |                |
+|   El mercado    |      |                |
+|   La estación   |      |                |
+
+### Plural
+
+|         1         |   2   |       3        |
+| :---------------: | :---: | :------------: |
+|    Las playas     | están |    al este     |
+|    Los parques    | están |    al oeste    |
+|   Las escuelas    |       |     cerca      |
+| Los supermercados |       |     lejos      |
+|  Las bibliotecas  |       |  a la derecha  |
+|  Los hospitales   |       | a la izquierda |
+|   Las farmacias   |       |    al norte    |
+| Los restaurantes  |       |     al sur     |
+|   Las iglesias    |       |  en el centro  |
+|    Los museos     |       |    enfrente    |
+|    Las plazas     |       |    al lado     |
+|     Los cines     |       |                |
+|    Los bancos     |       |                |
+|    Las tiendas    |       |                |
+|   Los mercados    |       |                |
+|   Las montañas    |       |                |
+
+---
+
 **Next Lesson:** [10-adjectives.md](10-adjectives.md) | **Previous Lesson:** [08-la-comida-y-bebida.md](08-la-comida-y-bebida.md)

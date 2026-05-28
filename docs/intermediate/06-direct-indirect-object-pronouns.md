@@ -205,6 +205,62 @@ This feels redundant in English ("I give the book to her to my mother") but in S
 
 ---
 
+## Sentence forming drills
+
+Combina una palabra de cada columna para formar una oración (p. ej., _Yo le doy el regalo a María_).
+
+### Objeto directo (lo/la/los/las)
+
+|       1        |  2  |    3     |      4      |      5       |
+| :------------: | :-: | :------: | :---------: | :----------: |
+|       Yo       | lo  |   doy    |   a María   |    mañana    |
+|       Tú       | la  |  mandas  |     ya      | en la tienda |
+|       Él       | los | explica  | esta tarde  | a los niños  |
+|      Ella      | las | traemos  | con cuidado |              |
+|    Mi madre    |     | compráis |             |              |
+|  La profesora  |     |  dicen   |             |              |
+| El dependiente |     |  envía   |             |              |
+|  El camarero   |     |  presta  |             |              |
+|    Nosotros    |     | devuelve |             |              |
+|    Vosotros    |     | muestra  |             |              |
+|     Ellos      |     |          |             |              |
+|   Los niños    |     |          |             |              |
+|    Mi padre    |     |          |             |              |
+|   La vecina    |     |          |             |              |
+|    El jefe     |     |          |             |              |
+|    Mi amigo    |     |          |             |              |
+|   El médico    |     |          |             |              |
+| La secretaria  |     |          |             |              |
+|  El mensajero  |     |          |             |              |
+|  La directora  |     |          |             |              |
+
+### Objeto indirecto + directo (se lo / se la...)
+
+|       1        |  2  |  3  |    4     |      5       |
+| :------------: | :-: | :-: | :------: | :----------: |
+|       Yo       | me  | lo  |   doy    |   a María    |
+|       Tú       | te  | la  |  mandas  |      ya      |
+|       Él       | le  | los | explica  | en la tienda |
+|      Ella      | nos | las | traemos  | a los niños  |
+|    Mi madre    | os  |     | compráis |  esta tarde  |
+|  La profesora  | les |     |  dicen   | con cuidado  |
+| El dependiente | se  |     |  envía   |              |
+|  El camarero   |     |     |  presta  |              |
+|    Nosotros    |     |     | devuelve |              |
+|    Vosotros    |     |     | muestra  |              |
+|     Ellos      |     |     |          |              |
+|   Los niños    |     |     |          |              |
+|    Mi padre    |     |     |          |              |
+|   La vecina    |     |     |          |              |
+|    El jefe     |     |     |          |              |
+|    Mi amigo    |     |     |          |              |
+|   El médico    |     |     |          |              |
+| La secretaria  |     |     |          |              |
+|  El mensajero  |     |     |          |              |
+|  La directora  |     |     |          |              |
+
+---
+
 **Previous Lesson:** [05 - Present Continuous](05-present-continuous.md)
 **Next Lesson:** [07 - Gustar and Similar Verbs](07-gustar-and-similar-verbs.md)
 
