@@ -91,5 +91,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **¡Vamos a aprender español juntos!** | Let's learn Spanish together!
-
-test
