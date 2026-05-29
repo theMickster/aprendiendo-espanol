@@ -71,45 +71,117 @@ For practice, combine the words below in different ways to form as many sentence
 
 _Para practicar, combina las palabras de cada columna para formar el mayor número posible de oraciones._
 
-### Singular
+### Exercise A — Tomar
 
-|       1       |       2        |         3         |
-| :-----------: | :------------: | :---------------: |
-| ¿Tomó usted?  |      café      |    esta mañana    |
-|  No, no tomé  |     rosbif     |    esta tarde     |
-|     Tomé      |     biftec     |      anoche       |
-| ¿Comió usted? |    la cena     |    en el hotel    |
-|  No, no comí  |      sopa      | en el restaurante |
-|     Comí      |  una ensalada  |    en la clase    |
-| ¿Pidió usted? |  una aspirina  |    en el club     |
-|  No, no pedí  |   chocolate    |  en la estación   |
-|     Pedí      |       té       | en el aeropuerto  |
-|               | una Pepsi Cola |    en el tren     |
-|               |  un sandwich   |    en el avión    |
-|               |      agua      |      en casa      |
-|               |      pan       |   en la oficina   |
-|               |     queso      |                   |
-|               |     leche      |                   |
+#### Singular
 
-### Plural
+|      1       |      2      |         3         |
+| :----------: | :---------: | :---------------: |
+|  ¿Tomaste?   |    café     |    esta mañana    |
+| ¿Tomó usted? |     té      |    esta tarde     |
+| No, no tomé  |    agua     |      anoche       |
+|     Tomé     |  una Pepsi  |    en el hotel    |
+|              |    leche    | en el restaurante |
+|              |  chocolate  |    en el club     |
+|              |   un vino   |  en la estación   |
+|              | una cerveza | en el aeropuerto  |
+|              | un refresco |    en el tren     |
+|              |             |    en el avión    |
+|              |             |      en casa      |
+|              |             |   en la oficina   |
+|              |             |   en la terraza   |
+|              |             |     en el bar     |
 
-|         1          |       2        |         3         |
-| :----------------: | :------------: | :---------------: |
-| ¿Tomaron ustedes?  |      café      |    esta mañana    |
-|   No, no tomamos   |     rosbif     |    esta tarde     |
-|      Tomamos       |     biftec     |      anoche       |
-| ¿Comieron ustedes? |    la cena     |    en el hotel    |
-|   No, no comimos   |      sopa      | en el restaurante |
-|      Comimos       |  una ensalada  |    en la clase    |
-| ¿Pidieron ustedes? |  una aspirina  |    en el club     |
-|   No, no pedimos   |   chocolate    |  en la estación   |
-|      Pedimos       |       té       | en el aeropuerto  |
-|                    | una Pepsi Cola |    en el tren     |
-|                    |  un sandwich   |    en el avión    |
-|                    |      agua      |      en casa      |
-|                    |      pan       |   en la oficina   |
-|                    |     queso      |                   |
-|                    |     leche      |                   |
+#### Plural
+
+|         1         |      2      |         3         |
+| :---------------: | :---------: | :---------------: |
+| ¿Tomaron ustedes? |    café     |    esta mañana    |
+|  No, no tomamos   |     té      |    esta tarde     |
+|      Tomamos      |    agua     |      anoche       |
+|                   |  una Pepsi  |    en el hotel    |
+|                   |    leche    | en el restaurante |
+|                   |  chocolate  |    en el club     |
+|                   |   un vino   |  en la estación   |
+|                   | una cerveza | en el aeropuerto  |
+|                   | un refresco |    en el tren     |
+|                   |             |    en el avión    |
+|                   |             |      en casa      |
+|                   |             |   en la oficina   |
+|                   |             |   en la terraza   |
+|                   |             |     en el bar     |
+
+### Exercise B — Comer
+
+#### Singular
+
+|       1       |      2       |         3         |
+| :-----------: | :----------: | :---------------: |
+|   ¿Comiste?   |    rosbif    |    esta mañana    |
+| ¿Comió usted? |    biftec    |    esta tarde     |
+|  No, no comí  |   la cena    |      anoche       |
+|     Comí      |     sopa     |    en el hotel    |
+|               | una ensalada | en el restaurante |
+|               | un sandwich  |    en el club     |
+|               |     pan      |  en la estación   |
+|               |    queso     | en el aeropuerto  |
+|               |              |    en el tren     |
+|               |              |    en el avión    |
+|               |              |      en casa      |
+|               |              |   en la oficina   |
+|               |              |   en la terraza   |
+
+#### Plural
+
+|         1          |      2       |         3         |
+| :----------------: | :----------: | :---------------: |
+| ¿Comieron ustedes? |    rosbif    |    esta mañana    |
+|   No, no comimos   |    biftec    |    esta tarde     |
+|      Comimos       |   la cena    |      anoche       |
+|                    |     sopa     |    en el hotel    |
+|                    | una ensalada | en el restaurante |
+|                    | un sandwich  |    en el club     |
+|                    |     pan      |  en la estación   |
+|                    |    queso     | en el aeropuerto  |
+|                    |              |    en el tren     |
+|                    |              |    en el avión    |
+|                    |              |      en casa      |
+|                    |              |   en la oficina   |
+|                    |              |   en la terraza   |
+
+### Exercise C — Pedir
+
+#### Singular
+
+|       1       |      2       |         3         |
+| :-----------: | :----------: | :---------------: |
+|   ¿Pediste?   |     café     |    esta mañana    |
+| ¿Pidió usted? | un sandwich  |    esta tarde     |
+|  No, no pedí  | una ensalada |      anoche       |
+|     Pedí      |    rosbif    |    en el hotel    |
+|               |   la cena    | en el restaurante |
+|               |  chocolate   |    en el club     |
+|               | una aspirina |  en la estación   |
+|               |      té      | en el aeropuerto  |
+|               |     agua     |    en el tren     |
+|               |              |    en el avión    |
+|               |              |      en casa      |
+
+#### Plural
+
+|         1          |      2       |         3         |
+| :----------------: | :----------: | :---------------: |
+| ¿Pidieron ustedes? |     café     |    esta mañana    |
+|   No, no pedimos   | un sandwich  |    esta tarde     |
+|      Pedimos       | una ensalada |      anoche       |
+|                    |    rosbif    |    en el hotel    |
+|                    |   la cena    | en el restaurante |
+|                    |  chocolate   |    en el club     |
+|                    | una aspirina |  en la estación   |
+|                    |      té      | en el aeropuerto  |
+|                    |     agua     |    en el tren     |
+|                    |              |    en el avión    |
+|                    |              |      en casa      |
 
 | [← Lección Anterior](leccion-03.md) | [📚 Índice](index.md) | [Lección Siguiente →](leccion-05.md) |
 | :---------------------------------- | :-------------------: | -----------------------------------: |

@@ -144,7 +144,9 @@ Combine one word from each column to form a sentence (e.g. _El dentista es famos
 
 _Combina una palabra de cada columna para formar una oración (p. ej., \_El dentista es famoso_).\_
 
-### Singular
+### Personas
+
+#### Singular
 
 |       1        |    2    |      3       |
 | :------------: | :-----: | :----------: |
@@ -155,25 +157,16 @@ _Combina una palabra de cada columna para formar una oración (p. ej., \_El dent
 | el violinista  |  será   |   pomposo    |
 |  el novelista  | parece  | un optimista |
 | el capitalista |  está   | un pesimista |
-|  el comunista  | no está |  un animal   |
-| el socialista  | estaba  |  importante  |
-|  el optimista  | estuvo  | inteligente  |
-| el presidente  | estará  |  excelente   |
-|   el doctor    |         |   paciente   |
-|  el conductor  |         |  impaciente  |
-|    el cable    |         | excepcional  |
-|    el hotel    |         |   terrible   |
-| el restaurante |         | democrático  |
-|  el hospital   |         | diplomático  |
-|   el rosbif    |         |  delicioso   |
-|   el biftec    |         |   urgente    |
+|  el comunista  | no está |  importante  |
+| el socialista  | estaba  | inteligente  |
+|  el optimista  | estuvo  |  excelente   |
+| el presidente  | estará  |   paciente   |
+|   el doctor    |         |  impaciente  |
+|  el conductor  |         | excepcional  |
 | el estudiante  |         | industrioso  |
-|  el programa   |         | interesante  |
+|                |         | interesante  |
 
-| [← Lección Anterior](leccion-01.md) | [📚 Índice](index.md) | [Lección Siguiente →](leccion-03.md) |
-| :---------------------------------- | :-------------------: | -----------------------------------: |
-
-### Plural
+#### Plural
 
 |        1         |    2     |        3        |
 | :--------------: | :------: | :-------------: |
@@ -184,17 +177,48 @@ _Combina una palabra de cada columna para formar una oración (p. ej., \_El dent
 | los violinistas  |  serán   |    pomposos     |
 |  los novelistas  | parecen  | unos optimistas |
 | los capitalistas |  están   | unos pesimistas |
-|  los comunistas  | no están |  unos animales  |
-| los socialistas  | estaban  |   importantes   |
-|  los optimistas  |  estuvo  |  inteligentes   |
-| los presidentes  |  estará  |   excelentes    |
-|   los doctores   |          |    pacientes    |
-| los conductores  |          |   impacientes   |
-|    los cables    |          |  excepcionales  |
-|   los hoteles    |          |    terribles    |
-| los restaurantes |          |  democráticos   |
-|  los hospitales  |          |  diplomáticos   |
-|   los rosbifs    |          |   deliciosos    |
-|   los biftecs    |          |    urgentes     |
+|  los comunistas  | no están |   importantes   |
+| los socialistas  | estaban  |  inteligentes   |
+|  los optimistas  |  estuvo  |   excelentes    |
+| los presidentes  |  estará  |    pacientes    |
+|   los doctores   |          |   impacientes   |
+| los conductores  |          |  excepcionales  |
 | los estudiantes  |          |  industriosos   |
-|  los programas   |          |  interesantes   |
+|                  |          |  interesantes   |
+
+### Alimentos y cosas
+
+#### Singular
+
+|       1        |    2    |      3      |
+| :------------: | :-----: | :---------: |
+|   el rosbif    |   es    |  delicioso  |
+|   el biftec    |  no es  | interesante |
+|  el programa   |   era   | importante  |
+|    el hotel    |   fue   |  terrible   |
+| el restaurante |  será   | formidable  |
+|  el hospital   | parece  |   urgente   |
+|    el cable    |  está   |   popular   |
+|                | no está |  excelente  |
+|                | estaba  | fantástico  |
+|                | estuvo  |  horrible   |
+|                | estará  |             |
+
+#### Plural
+
+|        1         |     2      |      3       |
+| :--------------: | :--------: | :----------: |
+|   los rosbifs    |    son     |  deliciosos  |
+|   los biftecs    |   no son   | interesantes |
+|  los programas   |    eran    | importantes  |
+|   los hoteles    |   fueron   |  terribles   |
+| los restaurantes |   serán    | formidables  |
+|  los hospitales  |  parecen   |   urgentes   |
+|    los cables    |   están    |  populares   |
+|                  |  no están  |  excelentes  |
+|                  |  estaban   | fantásticos  |
+|                  | estuvieron |  horribles   |
+|                  |  estarán   |              |
+
+| [← Lección Anterior](leccion-01.md) | [📚 Índice](index.md) | [Lección Siguiente →](leccion-03.md) |
+| :---------------------------------- | :-------------------: | -----------------------------------: |

@@ -32,63 +32,129 @@ For practice, combine the words below in different ways to form as many sentence
 
 _Para practicar, combina las palabras de cada columna para formar el mayor número posible de oraciones._
 
-### Singular
+### Exercise A — Preparar / Presentar
 
-|         1         |        2        |         3         |
-| :---------------: | :-------------: | :---------------: |
-|  ¿Preparó usted?  |   la lección    |    esta mañana    |
-|      Preparé      |     la cena     |    esta tarde     |
-|    No preparé     | la presentación |   para la clase   |
-|  ¿Celebró usted?  |  la invitación  |    en el club     |
-|      Celebré      | la conversación |    en el hotel    |
-|    No celebré     |   el programa   |    en mi casa     |
-|  ¿Invitó usted?   | la celebración  |       ayer        |
-|      Invité       |                 |      anoche       |
-|     No invité     |                 | en el restaurante |
-|  ¿Combinó usted?  |                 |  con la familia   |
-|      Combiné      |                 |                   |
-|    No combiné     |                 |                   |
-| ¿Conversó usted?  |                 |                   |
-|     Conversé      |                 |                   |
-|    No conversé    |                 |                   |
-| ¿Presentó usted?  |                 |                   |
-|     Presenté      |                 |                   |
-|    No presenté    |                 |                   |
-|  ¿Decoró usted?   |                 |                   |
-|      Decoré       |                 |                   |
-|     No decoré     |                 |                   |
-| ¿Participó usted? |                 |                   |
-|     Participé     |                 |                   |
-|   No participé    |                 |                   |
+#### Singular
 
-### Plural
+|        1         |        2        |       3       |
+| :--------------: | :-------------: | :-----------: |
+|   ¿Preparaste?   |   la lección    |  esta mañana  |
+| ¿Preparó usted?  |     la cena     |  esta tarde   |
+|     Preparé      | la presentación |     ayer      |
+|    No preparé    |   el programa   |    anoche     |
+|  ¿Presentaste?   |                 | para la clase |
+| ¿Presentó usted? |                 |  en el hotel  |
+|     Presenté     |                 |  en mi casa   |
+|   No presenté    |                 | en la oficina |
 
-|           1            |        2        |         3         |
-| :--------------------: | :-------------: | :---------------: |
-|  ¿Prepararon ustedes?  |   la lección    |    esta mañana    |
-|       Preparamos       |     la cena     |    esta tarde     |
-|     No preparamos      | la presentación |   para la clase   |
-|  ¿Celebraron ustedes?  |  la invitación  |    en el club     |
-|       Celebramos       | la conversación |    en el hotel    |
-|     No celebramos      |   el programa   |    en mi casa     |
-|  ¿Invitaron ustedes?   | la celebración  |       ayer        |
-|       Invitamos        |                 |      anoche       |
-|      No invitamos      |                 | en el restaurante |
-|  ¿Combinaron ustedes?  |                 |  con la familia   |
-|       Combinamos       |                 |                   |
-|     No combinamos      |                 |                   |
-| ¿Conversaron ustedes?  |                 |                   |
-|      Conversamos       |                 |                   |
-|     No conversamos     |                 |                   |
-| ¿Presentaron ustedes?  |                 |                   |
-|      Presentamos       |                 |                   |
-|     No presentamos     |                 |                   |
-|  ¿Decoraron ustedes?   |                 |                   |
-|       Decoramos        |                 |                   |
-|      No decoramos      |                 |                   |
-| ¿Participaron ustedes? |                 |                   |
-|      Participamos      |                 |                   |
-|    No participamos     |                 |                   |
+#### Plural
+
+|           1           |        2        |       3       |
+| :-------------------: | :-------------: | :-----------: |
+| ¿Prepararon ustedes?  |   la lección    |  esta mañana  |
+|      Preparamos       |     la cena     |  esta tarde   |
+|     No preparamos     | la presentación |     ayer      |
+| ¿Presentaron ustedes? |   el programa   |    anoche     |
+|      Presentamos      |                 | para la clase |
+|    No presentamos     |                 |  en el hotel  |
+|                       |                 |  en mi casa   |
+|                       |                 | en la oficina |
+
+### Exercise B — Celebrar
+
+#### Singular
+
+|        1        |       2        |         3         |
+| :-------------: | :------------: | :---------------: |
+|  ¿Celebraste?   |   la fiesta    |    esta tarde     |
+| ¿Celebró usted? | el cumpleaños  |      anoche       |
+|     Celebré     |   la reunión   |    en el club     |
+|   No celebré    | el aniversario |    en el hotel    |
+|                 |  el programa   | en el restaurante |
+|                 |                |  con la familia   |
+|                 |                |    en mi casa     |
+
+#### Plural
+
+|          1           |       2        |         3         |
+| :------------------: | :------------: | :---------------: |
+| ¿Celebraron ustedes? |   la fiesta    |    esta tarde     |
+|      Celebramos      | el cumpleaños  |      anoche       |
+|    No celebramos     |   la reunión   |    en el club     |
+|                      | el aniversario |    en el hotel    |
+|                      |  el programa   | en el restaurante |
+|                      |                |  con la familia   |
+|                      |                |    en mi casa     |
+
+### Exercise C — Decorar
+
+#### Singular
+
+|       1        |    2     |          3          |
+| :------------: | :------: | :-----------------: |
+|  ¿Decoraste?   | la casa  |     esta mañana     |
+| ¿Decoró usted? | el salón |     esta tarde      |
+|     Decoré     | la clase |        ayer         |
+|   No decoré    | la mesa  |   para la fiesta    |
+|                |          | para la celebración |
+
+#### Plural
+
+|          1          |    2     |          3          |
+| :-----------------: | :------: | :-----------------: |
+| ¿Decoraron ustedes? | la casa  |     esta mañana     |
+|      Decoramos      | el salón |     esta tarde      |
+|    No decoramos     | la clase |        ayer         |
+|                     | la mesa  |   para la fiesta    |
+|                     |          | para la celebración |
+
+### Exercise D — Conversar sobre
+
+**Note:** _Conversar_ does not take a direct object — it takes **sobre** to indicate the topic of conversation.
+
+#### Singular
+
+|           1           |        2        |       3       |
+| :-------------------: | :-------------: | :-----------: |
+|  ¿Conversaste sobre   |   la lección    |  en la clase  |
+| ¿Conversó usted sobre |   el programa   |  en el hotel  |
+|    Conversé sobre     | la presentación |  esta mañana  |
+|   No conversé sobre   |  la situación   |  esta tarde   |
+|                       |                 |    anoche     |
+|                       |                 | en la oficina |
+
+#### Plural
+
+|             1              |        2        |       3       |
+| :------------------------: | :-------------: | :-----------: |
+| ¿Conversaron ustedes sobre |   la lección    |  en la clase  |
+|     Conversamos sobre      |   el programa   |  en el hotel  |
+|    No conversamos sobre    | la presentación |  esta mañana  |
+|                            |  la situación   |  esta tarde   |
+|                            |                 |    anoche     |
+|                            |                 | en la oficina |
+
+### Exercise E — Participar en
+
+**Note:** _Participar_ does not take a direct object — it takes **en** to indicate what was participated in.
+
+#### Singular
+
+|          1          |       2        |      3      |
+| :-----------------: | :------------: | :---------: |
+|  ¿Participaste en   |    la clase    | esta mañana |
+| ¿Participó usted en |  el programa   | esta tarde  |
+|    Participé en     | la celebración |    ayer     |
+|   No participé en   |   la reunión   |   anoche    |
+
+#### Plural
+
+|            1             |       2        |      3      |
+| :----------------------: | :------------: | :---------: |
+| ¿Participaron ustedes en |    la clase    | esta mañana |
+|     Participamos en      |  el programa   | esta tarde  |
+|    No participamos en    | la celebración |    ayer     |
+|                          |   la reunión   |   anoche    |
 
 | [← Lección Anterior](leccion-02.md) | [📚 Índice](index.md) | [Lección Siguiente →](leccion-04.md) |
 | :---------------------------------- | :-------------------: | -----------------------------------: |

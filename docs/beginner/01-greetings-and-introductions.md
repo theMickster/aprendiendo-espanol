@@ -100,10 +100,12 @@ Use formal greetings with people you don't know well, anyone older, or in profes
 ## Common Mistakes
 
 - ❌ **Wrong:** "Buenos días" at night
+
   - ✅ **Right:** "Buenas noches" after 8pm
   - 💡 **Why:** Time-specific greetings matter in Spanish culture
 
 - ❌ **Wrong:** "¿Cómo estás usted?" (mixing informal with formal)
+
   - ✅ **Right:** "¿Cómo está usted?" (fully formal)
   - 💡 **Why:** Don't mix "tú" forms with "usted"
 

@@ -196,55 +196,73 @@ Add an **-e** to English words ending in **-ant** (e.g. _the restaurant_ = el re
 
 Combina una palabra de cada columna para formar una oración (p. ej., _El actor es popular_).
 
-### Singular
+### Personas
 
-|       1        |    2    |      3      |
-| :------------: | :-----: | :---------: |
-|    el actor    |   es    |   popular   |
-|   el doctor    |  no es  | importante  |
-|  el conductor  |   era   | inteligente |
-|  el profesor   |   fue   |  excelente  |
-|  el inventor   |  será   | competente  |
-|    el tenor    | parece  |  romántico  |
-| el presidente  |  está   | democrático |
-|   el general   | no está | diplomático |
-|  el accidente  | estaba  | inevitable  |
-|    el cable    | estuvo  |   urgente   |
-|   el agente    | estará  |  paciente   |
-|   el cliente   |         | impaciente  |
-|  el paciente   |         | excepcional |
-| el permanente  |         |  terrible   |
-|   el tractor   |         | formidable  |
-|  el elefante   |         | fantástico  |
-|    el mono     |         |   curioso   |
-|    el hotel    |         |  horrible   |
-| el restaurante |         |             |
-|  el hospital   |         |             |
+#### Singular
 
-### Plural
+|       1       |    2    |      3      |
+| :-----------: | :-----: | :---------: |
+|   el actor    |   es    |   popular   |
+|   el doctor   |  no es  | importante  |
+| el conductor  |   era   | inteligente |
+|  el profesor  |   fue   |  excelente  |
+|  el inventor  |  será   | competente  |
+|   el tenor    | parece  |  romántico  |
+| el presidente |  está   | democrático |
+|  el general   | no está | diplomático |
+|   el agente   | estaba  |  paciente   |
+|  el cliente   | estuvo  | impaciente  |
+|  el paciente  | estará  | excepcional |
 
-|        1         |     2      |       3       |
-| :--------------: | :--------: | :-----------: |
-|   los actores    |    son     |   populares   |
-|   los doctores   |   no son   |  importantes  |
-| los conductores  |    eran    | inteligentes  |
-|  los profesores  |   fueron   |  excelentes   |
-|  los inventores  |   serán    |  competentes  |
-|   los tenores    |  parecen   |  románticos   |
-| los presidentes  |   están    | democráticos  |
-|  los generales   |  no están  | diplomáticos  |
-|  los accidentes  |  estaban   |  inevitables  |
-|    los cables    | estuvieron |   urgentes    |
-|   los agentes    |  estarán   |   pacientes   |
-|   los clientes   |            |  impacientes  |
-|  los pacientes   |            | excepcionales |
-| los permanentes  |            |   terribles   |
-|  los tractores   |            |  formidables  |
-|  los elefantes   |            |  fantásticos  |
-|    los monos     |            |   curiosos    |
-|   los hoteles    |            |   horribles   |
-| los restaurantes |            |               |
-|  los hospitales  |            |               |
+#### Plural
+
+|        1        |     2      |       3       |
+| :-------------: | :--------: | :-----------: |
+|   los actores   |    son     |   populares   |
+|  los doctores   |   no son   |  importantes  |
+| los conductores |    eran    | inteligentes  |
+| los profesores  |   fueron   |  excelentes   |
+| los inventores  |   serán    |  competentes  |
+|   los tenores   |  parecen   |  románticos   |
+| los presidentes |   están    | democráticos  |
+|  los generales  |  no están  | diplomáticos  |
+|   los agentes   |  estaban   |   pacientes   |
+|  los clientes   | estuvieron |  impacientes  |
+|  los pacientes  |  estarán   | excepcionales |
+
+### Cosas y lugares
+
+#### Singular
+
+|       1        |    2    |     3      |
+| :------------: | :-----: | :--------: |
+|  el accidente  |   es    |  terrible  |
+|    el cable    |  no es  | formidable |
+|   el tractor   |   era   | fantástico |
+|  el elefante   |   fue   |  horrible  |
+|    el hotel    |  será   |  urgente   |
+| el restaurante | parece  | inevitable |
+|  el hospital   |  está   |  popular   |
+|    el mono     | no está | importante |
+|                | estaba  | excelente  |
+|                | estuvo  |            |
+|                | estará  |            |
+
+#### Plural
+
+|        1         |     2      |      3      |
+| :--------------: | :--------: | :---------: |
+|  los accidentes  |    son     |  terribles  |
+|    los cables    |   no son   | formidables |
+|  los tractores   |    eran    | fantásticos |
+|  los elefantes   |   fueron   |  horribles  |
+|   los hoteles    |   serán    |  urgentes   |
+| los restaurantes |  parecen   | inevitables |
+|  los hospitales  |   están    |  populares  |
+|    los monos     |  no están  | importantes |
+|                  |  estaban   | excelentes  |
+|                  | estuvieron |             |
+|                  |  estarán   |             |
 
 | Inicio | [📚 Índice](index.md) | [Lección Siguiente →](leccion-02.md) |
 | :----- | :-------------------: | -----------------------------------: |
